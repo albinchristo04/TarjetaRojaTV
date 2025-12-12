@@ -4,7 +4,7 @@ import { getEvents } from '../lib/api';
 import { Loader2, ArrowLeft, Calendar, MonitorPlay } from 'lucide-react';
 import { format } from 'date-fns';
 import { es } from 'date-fns/locale';
-import { Helmet } from 'react-helmet-async';
+import { Title, Meta } from 'react-head';
 import MatchGrid from '../components/home/MatchGrid';
 
 export default function Event() {
@@ -53,10 +53,8 @@ export default function Event() {
 
     return (
         <div className="bg-background min-h-screen pb-20">
-            <Helmet>
-                <title>{`${match.name} En Vivo - Tarjeta Roja TV`}</title>
-                <meta name="description" content={`Ver ${match.name} en vivo gratis online. Transmisión de ${match.category_name}.`} />
-            </Helmet>
+            <Title>{`${match.name} En Vivo - Tarjeta Roja TV`}</Title>
+            <Meta name="description" content={`Ver ${match.name} en vivo gratis online. Transmisión de ${match.category_name}.`} />
 
             {/* Player Section */}
             <div className="w-full bg-black aspect-video md:h-[85vh] relative group border-b border-white/10">

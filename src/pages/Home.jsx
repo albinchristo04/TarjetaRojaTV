@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'react';
 import { getEvents } from '../lib/api';
 import { Loader2 } from 'lucide-react';
-import { Helmet } from 'react-helmet-async';
+import { Title, Meta } from 'react-head';
 import Hero from '../components/home/Hero';
 import LiveCarousel from '../components/home/LiveCarousel';
 import MatchGrid from '../components/home/MatchGrid';
@@ -83,10 +83,8 @@ export default function Home() {
 
     return (
         <div className="bg-background min-h-screen pb-20">
-            <Helmet>
-                <title>Tarjeta Roja TV - Deportes en Vivo Gratis</title>
-                <meta name="description" content="Ver fútbol, NBA, UFC, tenis y más deportes en vivo gratis. Tarjeta Roja TV ofrece streams de alta calidad." />
-            </Helmet>
+            <Title>Tarjeta Roja TV - Deportes en Vivo Gratis</Title>
+            <Meta name="description" content="Ver fútbol, NBA, UFC, tenis y más deportes en vivo gratis. Tarjeta Roja TV ofrece streams de alta calidad." />
 
             {heroMatch && <Hero match={heroMatch} />}
 
@@ -110,8 +108,8 @@ export default function Home() {
                                 key={cat}
                                 onClick={() => setActiveCategory(cat)}
                                 className={`px-4 py-2 rounded-full text-sm font-medium transition-colors whitespace-nowrap ${activeCategory === cat
-                                        ? 'bg-white text-black'
-                                        : 'bg-card text-gray-400 hover:bg-white/10'
+                                    ? 'bg-white text-black'
+                                    : 'bg-card text-gray-400 hover:bg-white/10'
                                     }`}
                             >
                                 {cat === 'All' ? 'Todos' : cat}
