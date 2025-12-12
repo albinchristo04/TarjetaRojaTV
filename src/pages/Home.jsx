@@ -40,7 +40,7 @@ export default function Home() {
     const categories = data.events.streams;
     let allMatches = [];
     categories.forEach(cat => {
-        if (cat.streams) {
+        if (cat.streams && cat.category !== '24/7 Streams') {
             cat.streams.forEach(stream => {
                 allMatches.push({ ...stream, category_name: cat.category });
             });

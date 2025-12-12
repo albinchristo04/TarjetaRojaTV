@@ -73,8 +73,8 @@ function translateCategory(category) {
 
 // Get Spanish month name
 function getSpanishMonth(month) {
-  const months = ['enero', 'febrero', 'marzo', 'abril', 'mayo', 'junio', 
-                  'julio', 'agosto', 'septiembre', 'octubre', 'noviembre', 'diciembre'];
+  const months = ['enero', 'febrero', 'marzo', 'abril', 'mayo', 'junio',
+    'julio', 'agosto', 'septiembre', 'octubre', 'noviembre', 'diciembre'];
   return months[month];
 }
 
@@ -93,7 +93,7 @@ function formatSpanishDate(timestamp) {
   const year = date.getFullYear();
   const hours = date.getHours().toString().padStart(2, '0');
   const minutes = date.getMinutes().toString().padStart(2, '0');
-  
+
   return {
     full: `${day} ${dayNum} de ${month} de ${year}`,
     short: `${dayNum} de ${month} de ${year}`,
@@ -365,8 +365,10 @@ async function generateSEOData() {
 
     // Process each category
     for (const category of data.events.streams) {
+      if (category.category === '24/7 Streams') continue;
+
       const categorySpanish = translateCategory(category.category);
-      
+
       const categoryMeta = {
         id: category.id,
         name: category.category,
