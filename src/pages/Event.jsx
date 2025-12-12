@@ -14,6 +14,23 @@ export default function Event() {
     const [loading, setLoading] = useState(true);
     const [activeStream, setActiveStream] = useState(null);
 
+    const [iframeLoading, setIframeLoading] = useState(true);
+
+    useEffect(() => {
+        if (activeStream) {
+            setIframeLoading(true);
+        }
+    }, [activeStream]);
+
+    useEffect(() => {
+        // Warm up connection to stream provider
+        const link = document.createElement('link');
+        link.rel = 'preconnect';
+        link.href = 'https://playembed.top';
+        document.head.appendChild(link);
+        return () => document.head.removeChild(link);
+    }, []);
+
     useEffect(() => {
         window.scrollTo(0, 0);
         setLoading(true);
@@ -55,24 +72,35 @@ export default function Event() {
         <div className="bg-background min-h-screen pb-20">
             <Title>{`${match.name} En Vivo - Tarjeta Roja TV`}</Title>
             <Meta name="description" content={`Ver ${match.name} en vivo gratis online. Transmisión de ${match.category_name}.`} />
+            <Link to="https://playembed.top" rel="preconnect" />
 
             {/* Player Section */}
             <div className="w-full bg-black aspect-video md:h-[85vh] relative group border-b border-white/10">
                 {activeStream ? (
-                    <iframe
-                        src={activeStream}
-                        className="w-full h-full border-0"
-                        allowFullScreen
-                        allow="autoplay; encrypted-media; picture-in-picture"
-                        title={match.name}
-                    />
+                    <>
+                        {iframeLoading && (
+                            <div className="absolute inset-0 flex items-center justify-center bg-zinc-900 z-10">
+                                <Loader2 className="w-12 h-12 text-primary animate-spin" />
+                                <span className="ml-3 text-white font-medium">Cargando transmisión...</span>
+                            </div>
+                        )}
+                        <iframe
+                            src={activeStream}
+                            className="w-full h-full border-0 relative z-20"
+                            allowFullScreen
+                            allow="autoplay; encrypted-media; picture-in-picture; accelerator; gyroscope"
+                            loading="eager"
+                            title={match.name}
+                            onLoad={() => setIframeLoading(false)}
+                        />
+                    </>
                 ) : (
                     <div className="w-full h-full flex items-center justify-center text-gray-500">
                         Selecciona una opción para ver
                     </div>
                 )}
 
-                <Link to="/" className="absolute top-6 left-6 z-20 bg-black/40 hover:bg-black/70 backdrop-blur-md text-white px-4 py-2 rounded-full flex items-center gap-2 transition-all border border-white/5 hover:border-white/20">
+                <Link to="/" className="absolute top-6 left-6 z-30 bg-black/40 hover:bg-black/70 backdrop-blur-md text-white px-4 py-2 rounded-full flex items-center gap-2 transition-all border border-white/5 hover:border-white/20">
                     <ArrowLeft className="w-4 h-4" /> <span className="text-sm font-medium">Volver al Inicio</span>
                 </Link>
             </div>
