@@ -576,7 +576,12 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           
-          git add seo-metadata.json sitemap-urls.json sitemap.xml sitemap-news.xml robots.txt keywords.json 2>/dev/null || true
+          # Copy files to public directory so they are served by the app
+          cp sitemap.xml public/sitemap.xml
+          cp sitemap-news.xml public/sitemap-news.xml
+          cp robots.txt public/robots.txt
+          
+          git add seo-metadata.json sitemap-urls.json public/sitemap.xml public/sitemap-news.xml public/robots.txt keywords.json 2>/dev/null || true
           
           if git diff --staged --quiet; then
             echo "No changes to commit"
