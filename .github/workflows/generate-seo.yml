@@ -562,6 +562,15 @@ jobs:
           
           echo "✅ Generated robots.txt"
       
+      - name: Submit URLs to Bing
+        run: |
+          if [ -f "submit-bing.cjs" ]; then
+            echo "🚀 Submitting URLs to Bing..."
+            node submit-bing.cjs
+          else
+            echo "⚠️ submit-bing.cjs not found, skipping submission"
+          fi
+      
       - name: Commit and push changes
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
