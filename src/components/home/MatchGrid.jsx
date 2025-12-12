@@ -1,10 +1,11 @@
 import { Link } from 'react-router-dom';
 import { format } from 'date-fns';
-import { Calendar, MonitorPlay } from 'lucide-react';
+import { es } from 'date-fns/locale';
+import { Calendar } from 'lucide-react';
 
 export default function MatchGrid({ matches }) {
     if (!matches || matches.length === 0) {
-        return <div className="text-gray-500 py-10 text-center">No matches found in this category.</div>
+        return <div className="text-gray-500 py-10 text-center">No se encontraron partidos.</div>
     }
 
     return (
@@ -30,7 +31,7 @@ export default function MatchGrid({ matches }) {
 
                             <div className="absolute top-2 right-2">
                                 {isLive ? (
-                                    <span className="bg-live text-white text-[10px] font-bold px-2 py-0.5 rounded shadow">LIVE</span>
+                                    <span className="bg-live text-white text-[10px] font-bold px-2 py-0.5 rounded shadow">EN VIVO</span>
                                 ) : (
                                     <span className="bg-black/60 backdrop-blur text-[10px] text-gray-300 font-bold px-2 py-0.5 rounded border border-white/10">{match.tag || 'HD'}</span>
                                 )}
@@ -49,7 +50,7 @@ export default function MatchGrid({ matches }) {
                             <div className="flex items-center gap-2 text-xs text-gray-400 mt-2">
                                 <Calendar className="w-3.5 h-3.5 text-gray-500" />
                                 <span className={isLive ? 'text-live font-bold' : ''}>
-                                    {isLive ? 'Streaming Now' : format(date, 'MMM d • h:mm a')}
+                                    {isLive ? 'Transmitiendo Ahora' : format(date, 'd MMM • HH:mm', { locale: es })}
                                 </span>
                             </div>
                         </div>

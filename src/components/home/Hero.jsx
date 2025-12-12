@@ -1,14 +1,13 @@
 import { Link } from 'react-router-dom';
 import { Play, Calendar } from 'lucide-react';
 import { format } from 'date-fns';
+import { es } from 'date-fns/locale';
 
 export default function Hero({ match }) {
     if (!match) return null;
 
     const bgImage = match.poster || '';
     const date = new Date(match.starts_at * 1000);
-    // Encode ID safely if uri_name is not robust, but uri_name is better.
-    const linkId = match.uri_name ? encodeURIComponent(match.uri_name) : match.id;
 
     return (
         <div className="relative w-full h-[60vh] md:h-[70vh] overflow-hidden group">
@@ -17,11 +16,9 @@ export default function Hero({ match }) {
                 className="absolute inset-0 bg-cover bg-center transition-transform duration-1000 group-hover:scale-105"
                 style={{ backgroundImage: `url(${bgImage})` }}
             >
-                {/* Blur overlay for better text readability or aesthetic */}
                 <div className="absolute inset-0 backdrop-blur-[2px] bg-black/20" />
             </div>
 
-            {/* Gradients */}
             <div className="absolute inset-0 bg-gradient-to-t from-background via-background/80 to-transparent" />
             <div className="absolute inset-0 bg-gradient-to-r from-black/80 via-transparent to-transparent" />
 
@@ -45,11 +42,11 @@ export default function Hero({ match }) {
                     <div className="flex items-center gap-6 mb-8 text-base md:text-lg font-medium text-gray-300">
                         <div className="flex items-center gap-2">
                             <Calendar className="w-5 h-5 text-primary" />
-                            <span>{format(date, 'EEEE, MMM d')}</span>
+                            <span className="capitalize">{format(date, 'EEEE, d MMM', { locale: es })}</span>
                         </div>
                         <div className="w-1.5 h-1.5 rounded-full bg-white/30" />
                         <div className="text-white font-bold text-shadow-glow">
-                            {format(date, 'h:mm a')}
+                            {format(date, 'HH:mm')}
                         </div>
                     </div>
 
@@ -59,7 +56,7 @@ export default function Hero({ match }) {
                             className="inline-flex items-center gap-3 bg-live hover:bg-red-600 text-white px-8 py-3.5 rounded-lg font-bold text-lg transition-all hover:scale-105 hover:shadow-[0_0_20px_rgba(255,45,45,0.4)] active:scale-95"
                         >
                             <Play className="fill-current w-5 h-5" />
-                            WATCH LIVE
+                            VER EN VIVO
                         </Link>
                     </div>
                 </div>
