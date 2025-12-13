@@ -1,5 +1,11 @@
-import fs from 'fs';
-import https from 'https';
+import fs from "fs";
+import path from "path";
+import { fileURLToPath } from "url";
+
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
+
+// your code continues…
 
 // Configuration
 const SOURCE_URL = 'https://raw.githubusercontent.com/albinchristo04/ptv/refs/heads/main/events.json';
