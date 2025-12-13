@@ -1,5 +1,5 @@
-const fs = require('fs');
-const https = require('https');
+import fs from 'fs';
+import https from 'https';
 
 // Configuration
 const SOURCE_URL = 'https://raw.githubusercontent.com/albinchristo04/ptv/refs/heads/main/events.json';
@@ -469,8 +469,6 @@ async function generateSEOData() {
 }
 
 // Run the generator
-if (require.main === module) {
-  generateSEOData();
-}
+generateSEOData();
 
-module.exports = { generateSEOData, generateMetadata };
+export { generateSEOData, generateMetadata };
