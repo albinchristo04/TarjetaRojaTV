@@ -1,0 +1,58 @@
+name: SEO + IndexNow + Bing Submission
+
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - 'events.json'
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+jobs:
+  seo-index:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 18
+
+      - name: Generate SEO + Sitemap
+        run: node scripts/generate-seo.cjs
+
+      - name: Generate XML Sitemap
+        run: node generate-sitemap.cjs
+
+      # 🔹 INDEXNOW (PRIMARY)
+      - name: Submit URLs via IndexNow
+        env:
+          INDEXNOW_KEY: ${{ secrets.INDEXNOW_KEY }}
+        run: node submit-indexnow.cjs
+
+      # 🔹 BING WEBMASTER (FALLBACK)
+      - name: Submit URLs to Bing Webmaster
+        env:
+          BING_API_KEY: ${{ secrets.BING_API_KEY }}
+        run: node submit-bing.cjs
+
+      - name: Commit generated files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          mkdir -p public
+          cp sitemap.xml sitemap-news.xml robots.txt public/ 2>/dev/null || true
+
+          git add seo-metadata.json sitemap-urls.json keywords.json public/ || true
+
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "🤖 SEO + Sitemap + IndexNow + Bing auto-submit"
+            git push
+          fi
