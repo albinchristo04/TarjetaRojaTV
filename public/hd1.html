@@ -1,0 +1,319 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HLS Video Player</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 20px;
+        }
+
+        .container {
+            width: 100%;
+            max-width: 1200px;
+            background: rgba(255, 255, 255, 0.95);
+            border-radius: 16px;
+            box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
+            overflow: hidden;
+        }
+
+        .header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+
+        .header h1 {
+            font-size: 24px;
+            font-weight: 600;
+        }
+
+        .player-wrapper {
+            position: relative;
+            padding-top: 56.25%;
+            background: #000;
+        }
+
+        #video {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+        }
+
+        .controls {
+            padding: 20px;
+        }
+
+        .status {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            margin-bottom: 15px;
+        }
+
+        .status-indicator {
+            width: 12px;
+            height: 12px;
+            border-radius: 50%;
+            background: #e53e3e;
+            animation: pulse 2s infinite;
+        }
+
+        .status-indicator.live {
+            background: #48bb78;
+        }
+
+        @keyframes pulse {
+            0%, 100% {
+                opacity: 1;
+            }
+            50% {
+                opacity: 0.5;
+            }
+        }
+
+        .status-text {
+            font-size: 14px;
+            color: #4a5568;
+            font-weight: 500;
+        }
+
+        .button-group {
+            display: flex;
+            gap: 10px;
+            flex-wrap: wrap;
+        }
+
+        button {
+            padding: 12px 24px;
+            border: none;
+            border-radius: 8px;
+            font-size: 14px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+        }
+
+        button:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 4px 12px rgba(102, 126, 234, 0.4);
+        }
+
+        button:active {
+            transform: translateY(0);
+        }
+
+        button:disabled {
+            opacity: 0.5;
+            cursor: not-allowed;
+            transform: none;
+        }
+
+        .error-message {
+            background: #fed7d7;
+            color: #c53030;
+            padding: 15px;
+            border-radius: 8px;
+            margin-top: 15px;
+            display: none;
+        }
+
+        .info {
+            background: #e6fffa;
+            color: #234e52;
+            padding: 15px;
+            border-radius: 8px;
+            margin-top: 15px;
+            font-size: 14px;
+            line-height: 1.6;
+        }
+
+        @media (max-width: 768px) {
+            .header h1 {
+                font-size: 20px;
+            }
+
+            button {
+                flex: 1;
+                min-width: calc(50% - 5px);
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>🎬 Live Stream Player</h1>
+        </div>
+
+        <div class="player-wrapper">
+            <video id="video" controls playsinline></video>
+        </div>
+
+        <div class="controls">
+            <div class="status">
+                <div class="status-indicator" id="statusIndicator"></div>
+                <span class="status-text" id="statusText">Initializing...</span>
+            </div>
+
+            <div class="button-group">
+                <button id="playBtn">▶️ Play</button>
+                <button id="pauseBtn">⏸️ Pause</button>
+                <button id="muteBtn">🔊 Mute</button>
+                <button id="fullscreenBtn">⛶ Fullscreen</button>
+            </div>
+
+            <div class="error-message" id="errorMessage"></div>
+
+            <div class="info">
+                <strong>ℹ️ Player Info:</strong> This player uses HLS.js for broad compatibility. It supports adaptive bitrate streaming and works on most modern browsers.
+            </div>
+        </div>
+    </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/hls.js/1.4.12/hls.min.js"></script>
+    <script>
+        const video = document.getElementById('video');
+        const playBtn = document.getElementById('playBtn');
+        const pauseBtn = document.getElementById('pauseBtn');
+        const muteBtn = document.getElementById('muteBtn');
+        const fullscreenBtn = document.getElementById('fullscreenBtn');
+        const statusIndicator = document.getElementById('statusIndicator');
+        const statusText = document.getElementById('statusText');
+        const errorMessage = document.getElementById('errorMessage');
+
+        const streamUrl = 'https://live.vivo200.com/live/hd-en-1-4343412.m3u8?txSecret=13db91e2e9137a3973aaaa519672dc85&txTime=693DD243';
+
+        let hls;
+
+        function updateStatus(text, isLive) {
+            statusText.textContent = text;
+            if (isLive) {
+                statusIndicator.classList.add('live');
+            } else {
+                statusIndicator.classList.remove('live');
+            }
+        }
+
+        function showError(message) {
+            errorMessage.textContent = message;
+            errorMessage.style.display = 'block';
+            updateStatus('Error', false);
+        }
+
+        function hideError() {
+            errorMessage.style.display = 'none';
+        }
+
+        // Initialize HLS player
+        if (Hls.isSupported()) {
+            hls = new Hls({
+                enableWorker: true,
+                lowLatencyMode: true,
+                backBufferLength: 90
+            });
+
+            hls.loadSource(streamUrl);
+            hls.attachMedia(video);
+
+            hls.on(Hls.Events.MANIFEST_PARSED, function() {
+                updateStatus('Ready to play', true);
+                hideError();
+            });
+
+            hls.on(Hls.Events.ERROR, function(event, data) {
+                if (data.fatal) {
+                    switch(data.type) {
+                        case Hls.ErrorTypes.NETWORK_ERROR:
+                            showError('Network error - trying to recover...');
+                            hls.startLoad();
+                            break;
+                        case Hls.ErrorTypes.MEDIA_ERROR:
+                            showError('Media error - trying to recover...');
+                            hls.recoverMediaError();
+                            break;
+                        default:
+                            showError('Fatal error - cannot recover');
+                            hls.destroy();
+                            break;
+                    }
+                }
+            });
+        } else if (video.canPlayType('application/vnd.apple.mpegurl')) {
+            // Native HLS support (Safari)
+            video.src = streamUrl;
+            updateStatus('Ready to play (native)', true);
+        } else {
+            showError('HLS is not supported in this browser');
+        }
+
+        // Play button
+        playBtn.addEventListener('click', function() {
+            video.play().catch(e => {
+                showError('Playback failed: ' + e.message);
+            });
+        });
+
+        // Pause button
+        pauseBtn.addEventListener('click', function() {
+            video.pause();
+        });
+
+        // Mute button
+        let isMuted = false;
+        muteBtn.addEventListener('click', function() {
+            isMuted = !isMuted;
+            video.muted = isMuted;
+            muteBtn.textContent = isMuted ? '🔇 Unmute' : '🔊 Mute';
+        });
+
+        // Fullscreen button
+        fullscreenBtn.addEventListener('click', function() {
+            if (video.requestFullscreen) {
+                video.requestFullscreen();
+            } else if (video.webkitRequestFullscreen) {
+                video.webkitRequestFullscreen();
+            } else if (video.mozRequestFullScreen) {
+                video.mozRequestFullScreen();
+            } else if (video.msRequestFullscreen) {
+                video.msRequestFullscreen();
+            }
+        });
+
+        // Update status on play/pause
+        video.addEventListener('play', function() {
+            updateStatus('Playing', true);
+        });
+
+        video.addEventListener('pause', function() {
+            updateStatus('Paused', false);
+        });
+
+        video.addEventListener('waiting', function() {
+            updateStatus('Buffering...', false);
+        });
+
+        video.addEventListener('playing', function() {
+            updateStatus('Playing', true);
+        });
+    </script>
+</body>
+</html>
