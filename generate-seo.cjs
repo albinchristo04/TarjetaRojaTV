@@ -29,6 +29,8 @@ const PRIMARY_KEYWORDS = [
   'roja dirécta'
 ];
 
+// ... rest of the code from the artifact
+
 // Fetch JSON data
 function fetchJSON(url) {
   return new Promise((resolve, reject) => {
