@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-21T18:36:02.769Z",
-  "total_events": 68,
+  "generated_at": "2025-12-22T02:19:54.080Z",
+  "total_events": 47,
   "categories": [
     {
       "name": "American Football",
@@ -19,12 +19,6 @@
       "name_es": "Deportes de Combate",
       "slug": "deportes-de-combate",
       "canonical_url": "https://tarjetarojaenvivo.live/categoria/deportes-de-combate"
-    },
-    {
-      "name": "Darts",
-      "name_es": "Dardos",
-      "slug": "dardos",
-      "canonical_url": "https://tarjetarojaenvivo.live/categoria/dardos"
     },
     {
       "name": "Football",
@@ -47,246 +41,6 @@
   ],
   "events": [
     {
-      "id": 11090,
-      "slug": "nfl-redzone",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/nfl-redzone-wk16",
-      "meta": {
-        "title": "NFL RedZone EN VIVO - Tarjeta Roja TV",
-        "description": "Ver NFL RedZone en vivo gratis el domingo 21 de diciembre de 2025",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, NFL RedZone, Fútbol Americano"
-      },
-      "event": {
-        "start_time": "2025-12-21T18:00:00.000Z",
-        "end_time": "2025-12-22T01:00:00.000Z",
-        "status": "en vivo"
-      },
-      "technical": {
-        "last_modified": "2025-12-21T18:36:02.769Z",
-        "changefreq": "hourly",
-        "priority": 0.85
-      }
-    },
-    {
-      "id": 15072,
-      "slug": "buffalo-bills-vs-cleveland-browns",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/nfl/2025-12-21/buf-cle",
-      "meta": {
-        "title": "Buffalo Bills vs. Cleveland Browns EN VIVO - Tarjeta Roja TV",
-        "description": "Ver Buffalo Bills vs. Cleveland Browns en vivo gratis el domingo 21 de diciembre de 2025",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Buffalo Bills vs. Cleveland Browns, Fútbol Americano"
-      },
-      "event": {
-        "start_time": "2025-12-21T18:00:00.000Z",
-        "end_time": "2025-12-21T21:30:00.000Z",
-        "status": "en vivo"
-      },
-      "technical": {
-        "last_modified": "2025-12-21T18:36:02.769Z",
-        "changefreq": "hourly",
-        "priority": 0.85
-      }
-    },
-    {
-      "id": 15074,
-      "slug": "los-angeles-chargers-vs-dallas-cowboys",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/nfl/2025-12-21/lac-dal",
-      "meta": {
-        "title": "Los Angeles Chargers vs. Dallas Cowboys EN VIVO - Tarjeta Roja TV",
-        "description": "Ver Los Angeles Chargers vs. Dallas Cowboys en vivo gratis el domingo 21 de diciembre de 2025",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Los Angeles Chargers vs. Dallas Cowboys, Fútbol Americano"
-      },
-      "event": {
-        "start_time": "2025-12-21T18:00:00.000Z",
-        "end_time": "2025-12-21T21:30:00.000Z",
-        "status": "en vivo"
-      },
-      "technical": {
-        "last_modified": "2025-12-21T18:36:02.769Z",
-        "changefreq": "hourly",
-        "priority": 0.85
-      }
-    },
-    {
-      "id": 15075,
-      "slug": "kansas-city-chiefs-vs-tennessee-titans",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/nfl/2025-12-21/kc-ten",
-      "meta": {
-        "title": "Kansas City Chiefs vs. Tennessee Titans EN VIVO - Tarjeta Roja TV",
-        "description": "Ver Kansas City Chiefs vs. Tennessee Titans en vivo gratis el domingo 21 de diciembre de 2025",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Kansas City Chiefs vs. Tennessee Titans, Fútbol Americano"
-      },
-      "event": {
-        "start_time": "2025-12-21T18:00:00.000Z",
-        "end_time": "2025-12-21T21:30:00.000Z",
-        "status": "en vivo"
-      },
-      "technical": {
-        "last_modified": "2025-12-21T18:36:02.769Z",
-        "changefreq": "hourly",
-        "priority": 0.85
-      }
-    },
-    {
-      "id": 15078,
-      "slug": "cincinnati-bengals-vs-miami-dolphins",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/nfl/2025-12-21/cin-mia",
-      "meta": {
-        "title": "Cincinnati Bengals vs. Miami Dolphins EN VIVO - Tarjeta Roja TV",
-        "description": "Ver Cincinnati Bengals vs. Miami Dolphins en vivo gratis el domingo 21 de diciembre de 2025",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Cincinnati Bengals vs. Miami Dolphins, Fútbol Americano"
-      },
-      "event": {
-        "start_time": "2025-12-21T18:00:00.000Z",
-        "end_time": "2025-12-21T21:30:00.000Z",
-        "status": "en vivo"
-      },
-      "technical": {
-        "last_modified": "2025-12-21T18:36:02.770Z",
-        "changefreq": "hourly",
-        "priority": 0.85
-      }
-    },
-    {
-      "id": 15080,
-      "slug": "new-york-jets-vs-new-orleans-saints",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/nfl/2025-12-21/nyj-no",
-      "meta": {
-        "title": "New York Jets vs. New Orleans Saints EN VIVO - Tarjeta Roja TV",
-        "description": "Ver New York Jets vs. New Orleans Saints en vivo gratis el domingo 21 de diciembre de 2025",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, New York Jets vs. New Orleans Saints, Fútbol Americano"
-      },
-      "event": {
-        "start_time": "2025-12-21T18:00:00.000Z",
-        "end_time": "2025-12-21T21:30:00.000Z",
-        "status": "en vivo"
-      },
-      "technical": {
-        "last_modified": "2025-12-21T18:36:02.770Z",
-        "changefreq": "hourly",
-        "priority": 0.85
-      }
-    },
-    {
-      "id": 15081,
-      "slug": "minnesota-vikings-vs-new-york-giants",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/nfl/2025-12-21/min-nyg",
-      "meta": {
-        "title": "Minnesota Vikings vs. New York Giants EN VIVO - Tarjeta Roja TV",
-        "description": "Ver Minnesota Vikings vs. New York Giants en vivo gratis el domingo 21 de diciembre de 2025",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Minnesota Vikings vs. New York Giants, Fútbol Americano"
-      },
-      "event": {
-        "start_time": "2025-12-21T18:00:00.000Z",
-        "end_time": "2025-12-21T21:30:00.000Z",
-        "status": "en vivo"
-      },
-      "technical": {
-        "last_modified": "2025-12-21T18:36:02.770Z",
-        "changefreq": "hourly",
-        "priority": 0.85
-      }
-    },
-    {
-      "id": 15082,
-      "slug": "tampa-bay-buccaneers-vs-carolina-panthers",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/nfl/2025-12-21/tb-car",
-      "meta": {
-        "title": "Tampa Bay Buccaneers vs. Carolina Panthers EN VIVO - Tarjeta Roja TV",
-        "description": "Ver Tampa Bay Buccaneers vs. Carolina Panthers en vivo gratis el domingo 21 de diciembre de 2025",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Tampa Bay Buccaneers vs. Carolina Panthers, Fútbol Americano"
-      },
-      "event": {
-        "start_time": "2025-12-21T18:00:00.000Z",
-        "end_time": "2025-12-21T21:30:00.000Z",
-        "status": "en vivo"
-      },
-      "technical": {
-        "last_modified": "2025-12-21T18:36:02.770Z",
-        "changefreq": "hourly",
-        "priority": 0.85
-      }
-    },
-    {
-      "id": 15083,
-      "slug": "jacksonville-jaguars-vs-denver-broncos",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/nfl/2025-12-21/jax-den",
-      "meta": {
-        "title": "Jacksonville Jaguars vs. Denver Broncos EN VIVO - Tarjeta Roja TV",
-        "description": "Ver Jacksonville Jaguars vs. Denver Broncos en vivo gratis el domingo 21 de diciembre de 2025",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Jacksonville Jaguars vs. Denver Broncos, Fútbol Americano"
-      },
-      "event": {
-        "start_time": "2025-12-21T21:05:00.000Z",
-        "end_time": "2025-12-22T00:35:00.000Z",
-        "status": "próximamente"
-      },
-      "technical": {
-        "last_modified": "2025-12-21T18:36:02.770Z",
-        "changefreq": "hourly",
-        "priority": 0.85
-      }
-    },
-    {
-      "id": 15084,
-      "slug": "atlanta-falcons-vs-arizona-cardinals",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/nfl/2025-12-21/atl-ari",
-      "meta": {
-        "title": "Atlanta Falcons vs. Arizona Cardinals EN VIVO - Tarjeta Roja TV",
-        "description": "Ver Atlanta Falcons vs. Arizona Cardinals en vivo gratis el domingo 21 de diciembre de 2025",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Atlanta Falcons vs. Arizona Cardinals, Fútbol Americano"
-      },
-      "event": {
-        "start_time": "2025-12-21T21:05:00.000Z",
-        "end_time": "2025-12-22T00:35:00.000Z",
-        "status": "próximamente"
-      },
-      "technical": {
-        "last_modified": "2025-12-21T18:36:02.770Z",
-        "changefreq": "hourly",
-        "priority": 0.85
-      }
-    },
-    {
-      "id": 15085,
-      "slug": "pittsburgh-steelers-vs-detroit-lions",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/nfl/2025-12-21/pit-det",
-      "meta": {
-        "title": "Pittsburgh Steelers vs. Detroit Lions EN VIVO - Tarjeta Roja TV",
-        "description": "Ver Pittsburgh Steelers vs. Detroit Lions en vivo gratis el domingo 21 de diciembre de 2025",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Pittsburgh Steelers vs. Detroit Lions, Fútbol Americano"
-      },
-      "event": {
-        "start_time": "2025-12-21T21:25:00.000Z",
-        "end_time": "2025-12-22T00:55:00.000Z",
-        "status": "próximamente"
-      },
-      "technical": {
-        "last_modified": "2025-12-21T18:36:02.770Z",
-        "changefreq": "hourly",
-        "priority": 0.85
-      }
-    },
-    {
-      "id": 15086,
-      "slug": "las-vegas-raiders-vs-houston-texans",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/nfl/2025-12-21/lv-hou",
-      "meta": {
-        "title": "Las Vegas Raiders vs. Houston Texans EN VIVO - Tarjeta Roja TV",
-        "description": "Ver Las Vegas Raiders vs. Houston Texans en vivo gratis el domingo 21 de diciembre de 2025",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Las Vegas Raiders vs. Houston Texans, Fútbol Americano"
-      },
-      "event": {
-        "start_time": "2025-12-21T21:25:00.000Z",
-        "end_time": "2025-12-22T00:55:00.000Z",
-        "status": "próximamente"
-      },
-      "technical": {
-        "last_modified": "2025-12-21T18:36:02.770Z",
-        "changefreq": "hourly",
-        "priority": 0.85
-      }
-    },
-    {
       "id": 15087,
       "slug": "new-england-patriots-vs-baltimore-ravens",
       "canonical_url": "https://tarjetarojaenvivo.live/eventos/nfl/2025-12-21/ne-bal",
@@ -298,10 +52,10 @@
       "event": {
         "start_time": "2025-12-22T01:20:00.000Z",
         "end_time": "2025-12-22T04:50:00.000Z",
-        "status": "próximamente"
+        "status": "en vivo"
       },
       "technical": {
-        "last_modified": "2025-12-21T18:36:02.770Z",
+        "last_modified": "2025-12-22T02:19:54.080Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -321,27 +75,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2025-12-21T18:36:02.770Z",
-        "changefreq": "hourly",
-        "priority": 0.85
-      }
-    },
-    {
-      "id": 15205,
-      "slug": "chicago-bulls-vs-atlanta-hawks",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/nba/2025-12-21/chi-atl",
-      "meta": {
-        "title": "Chicago Bulls vs. Atlanta Hawks EN VIVO - Tarjeta Roja TV",
-        "description": "Ver Chicago Bulls vs. Atlanta Hawks en vivo gratis el domingo 21 de diciembre de 2025",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Chicago Bulls vs. Atlanta Hawks, Baloncesto"
-      },
-      "event": {
-        "start_time": "2025-12-21T20:30:00.000Z",
-        "end_time": "2025-12-21T23:18:00.000Z",
-        "status": "próximamente"
-      },
-      "technical": {
-        "last_modified": "2025-12-21T18:36:02.770Z",
+        "last_modified": "2025-12-22T02:19:54.080Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -358,10 +92,10 @@
       "event": {
         "start_time": "2025-12-21T23:00:00.000Z",
         "end_time": "2025-12-22T01:48:00.000Z",
-        "status": "próximamente"
+        "status": "en vivo"
       },
       "technical": {
-        "last_modified": "2025-12-21T18:36:02.770Z",
+        "last_modified": "2025-12-22T02:19:54.080Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -378,10 +112,10 @@
       "event": {
         "start_time": "2025-12-21T23:00:00.000Z",
         "end_time": "2025-12-22T01:48:00.000Z",
-        "status": "próximamente"
+        "status": "en vivo"
       },
       "technical": {
-        "last_modified": "2025-12-21T18:36:02.770Z",
+        "last_modified": "2025-12-22T02:19:54.080Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -398,10 +132,10 @@
       "event": {
         "start_time": "2025-12-22T00:00:00.000Z",
         "end_time": "2025-12-22T02:48:00.000Z",
-        "status": "próximamente"
+        "status": "en vivo"
       },
       "technical": {
-        "last_modified": "2025-12-21T18:36:02.770Z",
+        "last_modified": "2025-12-22T02:19:54.080Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -418,10 +152,10 @@
       "event": {
         "start_time": "2025-12-22T00:00:00.000Z",
         "end_time": "2025-12-22T02:48:00.000Z",
-        "status": "próximamente"
+        "status": "en vivo"
       },
       "technical": {
-        "last_modified": "2025-12-21T18:36:02.770Z",
+        "last_modified": "2025-12-22T02:19:54.080Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -441,7 +175,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2025-12-21T18:36:02.770Z",
+        "last_modified": "2025-12-22T02:19:54.080Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -461,167 +195,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2025-12-21T18:36:02.770Z",
-        "changefreq": "hourly",
-        "priority": 0.85
-      }
-    },
-    {
-      "id": 14899,
-      "slug": "world-darts-championship",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/2025-world-darts-championship",
-      "meta": {
-        "title": "World Darts Championship EN VIVO - Tarjeta Roja TV",
-        "description": "Ver World Darts Championship en vivo gratis el domingo 21 de diciembre de 2025",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, World Darts Championship, Dardos"
-      },
-      "event": {
-        "start_time": "2025-12-21T12:30:00.000Z",
-        "end_time": "2025-12-21T23:30:00.000Z",
-        "status": "en vivo"
-      },
-      "technical": {
-        "last_modified": "2025-12-21T18:36:02.770Z",
-        "changefreq": "hourly",
-        "priority": 0.85
-      }
-    },
-    {
-      "id": 15022,
-      "slug": "1-fc-heidenheim-1846-vs-bayern-munich",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/bundesliga/2025-12-21/hdh-mun",
-      "meta": {
-        "title": "1. FC Heidenheim 1846 vs. Bayern Munich EN VIVO - Tarjeta Roja TV",
-        "description": "Ver 1. FC Heidenheim 1846 vs. Bayern Munich en vivo gratis el domingo 21 de diciembre de 2025",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, 1. FC Heidenheim 1846 vs. Bayern Munich, Fútbol"
-      },
-      "event": {
-        "start_time": "2025-12-21T16:30:00.000Z",
-        "end_time": "2025-12-21T19:00:00.000Z",
-        "status": "en vivo"
-      },
-      "technical": {
-        "last_modified": "2025-12-21T18:36:02.770Z",
-        "changefreq": "hourly",
-        "priority": 0.85
-      }
-    },
-    {
-      "id": 15031,
-      "slug": "aston-villa-vs-manchester-united",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/premierleague/2025-12-21/avl-man",
-      "meta": {
-        "title": "Aston Villa vs. Manchester United EN VIVO - Tarjeta Roja TV",
-        "description": "Ver Aston Villa vs. Manchester United en vivo gratis el domingo 21 de diciembre de 2025",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Aston Villa vs. Manchester United, Fútbol"
-      },
-      "event": {
-        "start_time": "2025-12-21T16:30:00.000Z",
-        "end_time": "2025-12-21T19:00:00.000Z",
-        "status": "en vivo"
-      },
-      "technical": {
-        "last_modified": "2025-12-21T18:36:02.770Z",
-        "changefreq": "hourly",
-        "priority": 0.85
-      }
-    },
-    {
-      "id": 15038,
-      "slug": "fiorentina-vs-udinese",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/seriea/2025-12-21/fio-udi",
-      "meta": {
-        "title": "Fiorentina vs. Udinese EN VIVO - Tarjeta Roja TV",
-        "description": "Ver Fiorentina vs. Udinese en vivo gratis el domingo 21 de diciembre de 2025",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Fiorentina vs. Udinese, Fútbol"
-      },
-      "event": {
-        "start_time": "2025-12-21T17:00:00.000Z",
-        "end_time": "2025-12-21T19:30:00.000Z",
-        "status": "en vivo"
-      },
-      "technical": {
-        "last_modified": "2025-12-21T18:36:02.770Z",
-        "changefreq": "hourly",
-        "priority": 0.85
-      }
-    },
-    {
-      "id": 15011,
-      "slug": "elche-vs-rayo-vallecano",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/laliga/2025-12-21/elc-ray",
-      "meta": {
-        "title": "Elche vs. Rayo Vallecano EN VIVO - Tarjeta Roja TV",
-        "description": "Ver Elche vs. Rayo Vallecano en vivo gratis el domingo 21 de diciembre de 2025",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Elche vs. Rayo Vallecano, Fútbol"
-      },
-      "event": {
-        "start_time": "2025-12-21T17:30:00.000Z",
-        "end_time": "2025-12-21T20:00:00.000Z",
-        "status": "en vivo"
-      },
-      "technical": {
-        "last_modified": "2025-12-21T18:36:02.770Z",
-        "changefreq": "hourly",
-        "priority": 0.85
-      }
-    },
-    {
-      "id": 15267,
-      "slug": "morocco-vs-comoros",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/afcon/2025-12-21/mar-com",
-      "meta": {
-        "title": "Morocco vs. Comoros EN VIVO - Tarjeta Roja TV",
-        "description": "Ver Morocco vs. Comoros en vivo gratis el domingo 21 de diciembre de 2025",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Morocco vs. Comoros, Fútbol"
-      },
-      "event": {
-        "start_time": "2025-12-21T19:00:00.000Z",
-        "end_time": "2025-12-21T21:00:00.000Z",
-        "status": "próximamente"
-      },
-      "technical": {
-        "last_modified": "2025-12-21T18:36:02.770Z",
-        "changefreq": "hourly",
-        "priority": 0.85
-      }
-    },
-    {
-      "id": 15039,
-      "slug": "genoa-vs-atalanta",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/seriea/2025-12-21/gen-ata",
-      "meta": {
-        "title": "Genoa vs. Atalanta EN VIVO - Tarjeta Roja TV",
-        "description": "Ver Genoa vs. Atalanta en vivo gratis el domingo 21 de diciembre de 2025",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Genoa vs. Atalanta, Fútbol"
-      },
-      "event": {
-        "start_time": "2025-12-21T19:45:00.000Z",
-        "end_time": "2025-12-21T22:15:00.000Z",
-        "status": "próximamente"
-      },
-      "technical": {
-        "last_modified": "2025-12-21T18:36:02.770Z",
-        "changefreq": "hourly",
-        "priority": 0.85
-      }
-    },
-    {
-      "id": 15012,
-      "slug": "real-betis-vs-getafe",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/laliga/2025-12-21/bet-get",
-      "meta": {
-        "title": "Real Betis vs. Getafe EN VIVO - Tarjeta Roja TV",
-        "description": "Ver Real Betis vs. Getafe en vivo gratis el domingo 21 de diciembre de 2025",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Real Betis vs. Getafe, Fútbol"
-      },
-      "event": {
-        "start_time": "2025-12-21T20:00:00.000Z",
-        "end_time": "2025-12-21T22:30:00.000Z",
-        "status": "próximamente"
-      },
-      "technical": {
-        "last_modified": "2025-12-21T18:36:02.770Z",
+        "last_modified": "2025-12-22T02:19:54.080Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -641,7 +215,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2025-12-21T18:36:02.770Z",
+        "last_modified": "2025-12-22T02:19:54.080Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -661,7 +235,27 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2025-12-21T18:36:02.770Z",
+        "last_modified": "2025-12-22T02:19:54.080Z",
+        "changefreq": "hourly",
+        "priority": 0.85
+      }
+    },
+    {
+      "id": 15295,
+      "slug": "napoli-vs-bologna",
+      "canonical_url": "https://tarjetarojaenvivo.live/eventos/supercoppa/2025-12-22/nap-bol",
+      "meta": {
+        "title": "Napoli vs. Bologna EN VIVO - Tarjeta Roja TV",
+        "description": "Ver Napoli vs. Bologna en vivo gratis el lunes 22 de diciembre de 2025",
+        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Napoli vs. Bologna, Fútbol"
+      },
+      "event": {
+        "start_time": "2025-12-22T19:00:00.000Z",
+        "end_time": "2025-12-22T21:30:00.000Z",
+        "status": "próximamente"
+      },
+      "technical": {
+        "last_modified": "2025-12-22T02:19:54.080Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -681,7 +275,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2025-12-21T18:36:02.770Z",
+        "last_modified": "2025-12-22T02:19:54.080Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -701,7 +295,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2025-12-21T18:36:02.770Z",
+        "last_modified": "2025-12-22T02:19:54.080Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -721,7 +315,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2025-12-21T18:36:02.770Z",
+        "last_modified": "2025-12-22T02:19:54.080Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -741,7 +335,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2025-12-21T18:36:02.770Z",
+        "last_modified": "2025-12-22T02:19:54.080Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -761,7 +355,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2025-12-21T18:36:02.770Z",
+        "last_modified": "2025-12-22T02:19:54.080Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -781,7 +375,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2025-12-21T18:36:02.770Z",
+        "last_modified": "2025-12-22T02:19:54.080Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -801,7 +395,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2025-12-21T18:36:02.770Z",
+        "last_modified": "2025-12-22T02:19:54.080Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -821,7 +415,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2025-12-21T18:36:02.770Z",
+        "last_modified": "2025-12-22T02:19:54.080Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -841,7 +435,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2025-12-21T18:36:02.770Z",
+        "last_modified": "2025-12-22T02:19:54.080Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -861,7 +455,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2025-12-21T18:36:02.770Z",
+        "last_modified": "2025-12-22T02:19:54.080Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -881,7 +475,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2025-12-21T18:36:02.770Z",
+        "last_modified": "2025-12-22T02:19:54.080Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -901,7 +495,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2025-12-21T18:36:02.770Z",
+        "last_modified": "2025-12-22T02:19:54.080Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -921,7 +515,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2025-12-21T18:36:02.770Z",
+        "last_modified": "2025-12-22T02:19:54.080Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -941,7 +535,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2025-12-21T18:36:02.770Z",
+        "last_modified": "2025-12-22T02:19:54.080Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -961,7 +555,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2025-12-21T18:36:02.770Z",
+        "last_modified": "2025-12-22T02:19:54.081Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -981,7 +575,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2025-12-21T18:36:02.770Z",
+        "last_modified": "2025-12-22T02:19:54.081Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1001,7 +595,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2025-12-21T18:36:02.770Z",
+        "last_modified": "2025-12-22T02:19:54.081Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1021,7 +615,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2025-12-21T18:36:02.770Z",
+        "last_modified": "2025-12-22T02:19:54.081Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1041,7 +635,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2025-12-21T18:36:02.770Z",
+        "last_modified": "2025-12-22T02:19:54.081Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1061,7 +655,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2025-12-21T18:36:02.770Z",
+        "last_modified": "2025-12-22T02:19:54.081Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1081,7 +675,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2025-12-21T18:36:02.770Z",
+        "last_modified": "2025-12-22T02:19:54.081Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1101,7 +695,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2025-12-21T18:36:02.770Z",
+        "last_modified": "2025-12-22T02:19:54.081Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1121,27 +715,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2025-12-21T18:36:02.770Z",
-        "changefreq": "hourly",
-        "priority": 0.85
-      }
-    },
-    {
-      "id": 15204,
-      "slug": "washington-capitals-vs-detroit-red-wings",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/nhl/2025-12-21/wsh-det",
-      "meta": {
-        "title": "Washington Capitals vs. Detroit Red Wings EN VIVO - Tarjeta Roja TV",
-        "description": "Ver Washington Capitals vs. Detroit Red Wings en vivo gratis el domingo 21 de diciembre de 2025",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Washington Capitals vs. Detroit Red Wings, Hockey sobre Hielo"
-      },
-      "event": {
-        "start_time": "2025-12-21T18:00:00.000Z",
-        "end_time": "2025-12-21T21:00:00.000Z",
-        "status": "en vivo"
-      },
-      "technical": {
-        "last_modified": "2025-12-21T18:36:02.770Z",
+        "last_modified": "2025-12-22T02:19:54.081Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1158,10 +732,10 @@
       "event": {
         "start_time": "2025-12-21T23:00:00.000Z",
         "end_time": "2025-12-22T02:00:00.000Z",
-        "status": "próximamente"
+        "status": "en vivo"
       },
       "technical": {
-        "last_modified": "2025-12-21T18:36:02.770Z",
+        "last_modified": "2025-12-22T02:19:54.081Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1178,10 +752,10 @@
       "event": {
         "start_time": "2025-12-22T00:00:00.000Z",
         "end_time": "2025-12-22T03:00:00.000Z",
-        "status": "próximamente"
+        "status": "en vivo"
       },
       "technical": {
-        "last_modified": "2025-12-21T18:36:02.770Z",
+        "last_modified": "2025-12-22T02:19:54.081Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1198,10 +772,10 @@
       "event": {
         "start_time": "2025-12-22T00:00:00.000Z",
         "end_time": "2025-12-22T03:00:00.000Z",
-        "status": "próximamente"
+        "status": "en vivo"
       },
       "technical": {
-        "last_modified": "2025-12-21T18:36:02.770Z",
+        "last_modified": "2025-12-22T02:19:54.081Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1218,10 +792,10 @@
       "event": {
         "start_time": "2025-12-22T00:00:00.000Z",
         "end_time": "2025-12-22T03:00:00.000Z",
-        "status": "próximamente"
+        "status": "en vivo"
       },
       "technical": {
-        "last_modified": "2025-12-21T18:36:02.770Z",
+        "last_modified": "2025-12-22T02:19:54.081Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1238,10 +812,10 @@
       "event": {
         "start_time": "2025-12-22T00:00:00.000Z",
         "end_time": "2025-12-22T03:00:00.000Z",
-        "status": "próximamente"
+        "status": "en vivo"
       },
       "technical": {
-        "last_modified": "2025-12-21T18:36:02.770Z",
+        "last_modified": "2025-12-22T02:19:54.081Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1258,10 +832,10 @@
       "event": {
         "start_time": "2025-12-22T00:00:00.000Z",
         "end_time": "2025-12-22T03:00:00.000Z",
-        "status": "próximamente"
+        "status": "en vivo"
       },
       "technical": {
-        "last_modified": "2025-12-21T18:36:02.770Z",
+        "last_modified": "2025-12-22T02:19:54.081Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1278,10 +852,10 @@
       "event": {
         "start_time": "2025-12-22T00:00:00.000Z",
         "end_time": "2025-12-22T03:00:00.000Z",
-        "status": "próximamente"
+        "status": "en vivo"
       },
       "technical": {
-        "last_modified": "2025-12-21T18:36:02.770Z",
+        "last_modified": "2025-12-22T02:19:54.081Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1298,10 +872,10 @@
       "event": {
         "start_time": "2025-12-22T01:00:00.000Z",
         "end_time": "2025-12-22T04:00:00.000Z",
-        "status": "próximamente"
+        "status": "en vivo"
       },
       "technical": {
-        "last_modified": "2025-12-21T18:36:02.770Z",
+        "last_modified": "2025-12-22T02:19:54.081Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1321,7 +895,7 @@
         "status": "en vivo"
       },
       "technical": {
-        "last_modified": "2025-12-21T18:36:02.770Z",
+        "last_modified": "2025-12-22T02:19:54.081Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1341,7 +915,7 @@
         "status": "en vivo"
       },
       "technical": {
-        "last_modified": "2025-12-21T18:36:02.770Z",
+        "last_modified": "2025-12-22T02:19:54.081Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1361,7 +935,7 @@
         "status": "en vivo"
       },
       "technical": {
-        "last_modified": "2025-12-21T18:36:02.770Z",
+        "last_modified": "2025-12-22T02:19:54.081Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1381,7 +955,7 @@
         "status": "en vivo"
       },
       "technical": {
-        "last_modified": "2025-12-21T18:36:02.770Z",
+        "last_modified": "2025-12-22T02:19:54.081Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1401,7 +975,7 @@
         "status": "en vivo"
       },
       "technical": {
-        "last_modified": "2025-12-21T18:36:02.770Z",
+        "last_modified": "2025-12-22T02:19:54.081Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
