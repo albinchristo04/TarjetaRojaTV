@@ -1,0 +1,76 @@
+name: Scrape Rojadirecta Matches
+
+on:
+  schedule:
+    # Run every 3 hours
+    - cron: '0 */3 * * *'
+  
+  # Allow manual trigger
+  workflow_dispatch:
+  
+  # Run on push to main (optional, for testing)
+  push:
+    branches:
+      - main
+    paths:
+      - 'scraper.py'
+      - '.github/workflows/scrape.yml'
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+      
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+      
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests beautifulsoup4
+      
+      - name: Run scraper
+        run: |
+          python scraper.py
+      
+      - name: Check if there are changes
+        id: verify_diff
+        run: |
+          git diff --quiet rojadirecta_matches.json || echo "changed=true" >> $GITHUB_OUTPUT
+      
+      - name: Commit and push if changed
+        if: steps.verify_diff.outputs.changed == 'true'
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add rojadirecta_matches.json
+          git commit -m "Update matches data - $(date -u +'%Y-%m-%d %H:%M:%S UTC')"
+          git push
+      
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: rojadirecta-matches-${{ github.run_number }}
+          path: rojadirecta_matches.json
+          retention-days: 7
+      
+      - name: Create GitHub Release (weekly)
+        if: github.event.schedule == '0 0 * * 0'
+        uses: softprops/action-gh-release@v1
+        with:
+          tag_name: data-${{ github.run_number }}
+          name: Match Data $(date +'%Y-%m-%d')
+          files: rojadirecta_matches.json
+          body: |
+            Automated match data scrape
+            Scraped at: $(date -u +'%Y-%m-%d %H:%M:%S UTC')
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
