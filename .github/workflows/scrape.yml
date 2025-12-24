@@ -7,6 +7,15 @@ on:
   
   # Allow manual trigger
   workflow_dispatch:
+    inputs:
+      extract_nested:
+        description: 'Extract nested iframes (slower but more complete)'
+        required: false
+        default: 'false'
+        type: choice
+        options:
+          - 'true'
+          - 'false'
   
   # Run on push to main (optional, for testing)
   push:
@@ -32,19 +41,63 @@ jobs:
           python-version: '3.11'
           cache: 'pip'
       
+      - name: Cache Python packages
+        uses: actions/cache@v3
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-pip-
+      
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install requests beautifulsoup4
+          pip install requests beautifulsoup4 lxml
       
-      - name: Run scraper
+      - name: Run scraper (without nested iframe extraction for speed)
         run: |
-          python scraper.py
+          echo "Starting scraper..."
+          python scraper.py --no-nested
+          echo "Scraper finished"
+          
+          # Check if file was created
+          if [ -f "rojadirecta_matches.json" ]; then
+            echo "✓ Output file created successfully"
+            ls -lh rojadirecta_matches.json
+            echo "File contents preview:"
+            head -n 20 rojadirecta_matches.json
+          else
+            echo "✗ ERROR: Output file not created!"
+            exit 1
+          fi
+      
+      - name: Validate JSON output
+        run: |
+          python -c "import json; data = json.load(open('rojadirecta_matches.json')); print(f'Valid JSON with {data[\"total_matches\"]} matches')"
       
       - name: Check if there are changes
         id: verify_diff
         run: |
-          git diff --quiet rojadirecta_matches.json || echo "changed=true" >> $GITHUB_OUTPUT
+          if [ ! -f "rojadirecta_matches.json" ]; then
+            echo "File doesn't exist"
+            echo "changed=false" >> $GITHUB_OUTPUT
+            exit 0
+          fi
+          
+          git add -N rojadirecta_matches.json
+          if git diff --quiet rojadirecta_matches.json; then
+            echo "No changes detected"
+            echo "changed=false" >> $GITHUB_OUTPUT
+          else
+            echo "Changes detected"
+            echo "changed=true" >> $GITHUB_OUTPUT
+          fi
+      
+      - name: Show diff (if changed)
+        if: steps.verify_diff.outputs.changed == 'true'
+        run: |
+          echo "Changes in matches data:"
+          git diff rojadirecta_matches.json | head -n 50
       
       - name: Commit and push if changed
         if: steps.verify_diff.outputs.changed == 'true'
@@ -52,25 +105,48 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add rojadirecta_matches.json
-          git commit -m "Update matches data - $(date -u +'%Y-%m-%d %H:%M:%S UTC')"
+          
+          # Get match count
+          MATCH_COUNT=$(python -c "import json; print(json.load(open('rojadirecta_matches.json'))['total_matches'])")
+          
+          git commit -m "🔄 Update matches data - ${MATCH_COUNT} matches [$(date -u +'%Y-%m-%d %H:%M UTC')]"
           git push
       
-      - name: Upload artifact
+      - name: Upload artifact (always)
         uses: actions/upload-artifact@v4
+        if: always()
         with:
           name: rojadirecta-matches-${{ github.run_number }}
-          path: rojadirecta_matches.json
+          path: |
+            rojadirecta_matches.json
+            *.log
           retention-days: 7
+          if-no-files-found: warn
       
-      - name: Create GitHub Release (weekly)
-        if: github.event.schedule == '0 0 * * 0'
-        uses: softprops/action-gh-release@v1
-        with:
-          tag_name: data-${{ github.run_number }}
-          name: Match Data $(date +'%Y-%m-%d')
-          files: rojadirecta_matches.json
-          body: |
-            Automated match data scrape
-            Scraped at: $(date -u +'%Y-%m-%d %H:%M:%S UTC')
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Create summary
+        if: always()
+        run: |
+          echo "## Scraping Results 🎯" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          
+          if [ -f "rojadirecta_matches.json" ]; then
+            MATCH_COUNT=$(python -c "import json; d=json.load(open('rojadirecta_matches.json')); print(d['total_matches'])")
+            SCRAPE_TIME=$(python -c "import json; d=json.load(open('rojadirecta_matches.json')); print(d['scraped_at'])")
+            
+            echo "✅ **Status:** Success" >> $GITHUB_STEP_SUMMARY
+            echo "📊 **Total Matches:** ${MATCH_COUNT}" >> $GITHUB_STEP_SUMMARY
+            echo "⏰ **Scraped At:** ${SCRAPE_TIME}" >> $GITHUB_STEP_SUMMARY
+            echo "" >> $GITHUB_STEP_SUMMARY
+            
+            echo "### Match Preview" >> $GITHUB_STEP_SUMMARY
+            echo "\`\`\`json" >> $GITHUB_STEP_SUMMARY
+            python -c "import json; d=json.load(open('rojadirecta_matches.json')); [print(f\"{i+1}. {m['time']} - {m['sport']} - {m['title']} ({len(m['streams'])} streams)\") for i, m in enumerate(d['matches'][:5])]"  >> $GITHUB_STEP_SUMMARY
+            echo "\`\`\`" >> $GITHUB_STEP_SUMMARY
+          else
+            echo "❌ **Status:** Failed - No output file created" >> $GITHUB_STEP_SUMMARY
+          fi
+      
+      - name: Notify on failure
+        if: failure()
+        run: |
+          echo "::error::Scraping failed! Check the logs for details."
