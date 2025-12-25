@@ -1,45 +1,7 @@
 {
-  "scraped_at": "2025-12-25T09:27:58.879113",
-  "total_matches": 21,
+  "scraped_at": "2025-12-25T12:50:51.598428",
+  "total_matches": 19,
   "matches": [
-    {
-      "title": "Vatican City",
-      "sport": "",
-      "competition": "Urbi et Orbi",
-      "date": "2025-12-25T10:00",
-      "time": "10:00",
-      "end_time": "12:30",
-      "streams": [
-        {
-          "p2p": "NO",
-          "name": "Marca",
-          "language": "",
-          "type": "Youtube",
-          "bitrate": "1000",
-          "url": "https://www.youtube.com/watch?v=4ckD6b6tnjg",
-          "nested_iframe": "https://www.youtube.com/watch?v=4ckD6b6tnjg"
-        }
-      ]
-    },
-    {
-      "title": "Sydney Kings - Illawarra Hawks",
-      "sport": "",
-      "competition": "New Zealand NBL",
-      "date": "2025-12-25T10:30",
-      "time": "10:30",
-      "end_time": "",
-      "streams": [
-        {
-          "p2p": "NO",
-          "name": "nbl",
-          "language": "en",
-          "type": "Youtube",
-          "bitrate": "1000",
-          "url": "https://www.youtube.com/watch?v=qPgfiEIMt9g",
-          "nested_iframe": "https://www.youtube.com/watch?v=qPgfiEIMt9g"
-        }
-      ]
-    },
     {
       "title": "Knicks - Cavaliers",
       "sport": "",
@@ -315,6 +277,15 @@
         },
         {
           "p2p": "NO",
+          "name": "FitforceDaily",
+          "language": "en",
+          "type": "Web (flash) +mobile",
+          "bitrate": "1000",
+          "url": "https://fitforcedaily.com/wag54/",
+          "nested_iframe": "https://streams.center/embed/ch67.php"
+        },
+        {
+          "p2p": "NO",
           "name": "daddylive",
           "language": "en",
           "type": "Web(flash) + mobile",
@@ -341,6 +312,15 @@
       "time": "02:00",
       "end_time": "",
       "streams": [
+        {
+          "p2p": "NO",
+          "name": "FitforceDaily",
+          "language": "en",
+          "type": "Web (flash) +mobile",
+          "bitrate": "1000",
+          "url": "https://fitforcedaily.com/flak60/",
+          "nested_iframe": "https://streams.center/embed/ch68.php"
+        },
         {
           "p2p": "NO",
           "name": "Sebn 12",
@@ -378,6 +358,15 @@
       "time": "02:15",
       "end_time": "05:15",
       "streams": [
+        {
+          "p2p": "NO",
+          "name": "FitforceDaily",
+          "language": "en",
+          "type": "Web (flash) +mobile",
+          "bitrate": "1000",
+          "url": "https://fitforcedaily.com/gtt53/",
+          "nested_iframe": "https://streams.center/embed/ch32.php"
+        },
         {
           "p2p": "NO",
           "name": "Sebn 11",
