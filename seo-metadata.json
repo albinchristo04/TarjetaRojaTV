@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-28T02:26:38.082Z",
-  "total_events": 77,
+  "generated_at": "2025-12-28T06:40:02.177Z",
+  "total_events": 63,
   "categories": [
     {
       "name": "American Football",
@@ -21,6 +21,12 @@
       "canonical_url": "https://tarjetarojaenvivo.live/categoria/deportes-de-combate"
     },
     {
+      "name": "Darts",
+      "name_es": "Dardos",
+      "slug": "dardos",
+      "canonical_url": "https://tarjetarojaenvivo.live/categoria/dardos"
+    },
+    {
       "name": "Football",
       "name_es": "Fútbol",
       "slug": "futbol",
@@ -33,12 +39,6 @@
       "canonical_url": "https://tarjetarojaenvivo.live/categoria/hockey-sobre-hielo"
     },
     {
-      "name": "Wrestling",
-      "name_es": "Lucha Libre",
-      "slug": "lucha-libre",
-      "canonical_url": "https://tarjetarojaenvivo.live/categoria/lucha-libre"
-    },
-    {
       "name": "24/7 Streams",
       "name_es": "24/7 Streams",
       "slug": "24-7-streams",
@@ -46,86 +46,6 @@
     }
   ],
   "events": [
-    {
-      "id": 15424,
-      "slug": "north-texas-mean-green-vs-san-diego-state-aztecs",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/cfb/4949-4949",
-      "meta": {
-        "title": "North Texas Mean Green vs. San Diego State Aztecs EN VIVO - Tarjeta Roja TV",
-        "description": "Ver North Texas Mean Green vs. San Diego State Aztecs en vivo gratis el sábado 27 de diciembre de 2025",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, North Texas Mean Green vs. San Diego State Aztecs, Fútbol Americano"
-      },
-      "event": {
-        "start_time": "2025-12-27T22:45:00.000Z",
-        "end_time": "2025-12-28T02:15:00.000Z",
-        "status": "en vivo"
-      },
-      "technical": {
-        "last_modified": "2025-12-28T02:26:38.083Z",
-        "changefreq": "hourly",
-        "priority": 0.85
-      }
-    },
-    {
-      "id": 15425,
-      "slug": "virginia-cavaliers-vs-missouri-tigers",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/cfb/8633-8633",
-      "meta": {
-        "title": "Virginia Cavaliers vs. Missouri Tigers EN VIVO - Tarjeta Roja TV",
-        "description": "Ver Virginia Cavaliers vs. Missouri Tigers en vivo gratis el domingo 28 de diciembre de 2025",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Virginia Cavaliers vs. Missouri Tigers, Fútbol Americano"
-      },
-      "event": {
-        "start_time": "2025-12-28T00:30:00.000Z",
-        "end_time": "2025-12-28T04:00:00.000Z",
-        "status": "en vivo"
-      },
-      "technical": {
-        "last_modified": "2025-12-28T02:26:38.083Z",
-        "changefreq": "hourly",
-        "priority": 0.85
-      }
-    },
-    {
-      "id": 15354,
-      "slug": "baltimore-ravens-vs-green-bay-packers",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/nfl/2025-12-27/bal-gb",
-      "meta": {
-        "title": "Baltimore Ravens vs. Green Bay Packers EN VIVO - Tarjeta Roja TV",
-        "description": "Ver Baltimore Ravens vs. Green Bay Packers en vivo gratis el domingo 28 de diciembre de 2025",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Baltimore Ravens vs. Green Bay Packers, Fútbol Americano"
-      },
-      "event": {
-        "start_time": "2025-12-28T01:00:00.000Z",
-        "end_time": "2025-12-28T04:30:00.000Z",
-        "status": "en vivo"
-      },
-      "technical": {
-        "last_modified": "2025-12-28T02:26:38.083Z",
-        "changefreq": "hourly",
-        "priority": 0.85
-      }
-    },
-    {
-      "id": 15426,
-      "slug": "lsu-tigers-vs-houston-cougars",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/cfb/4566-4566",
-      "meta": {
-        "title": "LSU Tigers vs. Houston Cougars EN VIVO - Tarjeta Roja TV",
-        "description": "Ver LSU Tigers vs. Houston Cougars en vivo gratis el domingo 28 de diciembre de 2025",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, LSU Tigers vs. Houston Cougars, Fútbol Americano"
-      },
-      "event": {
-        "start_time": "2025-12-28T02:15:00.000Z",
-        "end_time": "2025-12-28T05:45:00.000Z",
-        "status": "en vivo"
-      },
-      "technical": {
-        "last_modified": "2025-12-28T02:26:38.083Z",
-        "changefreq": "hourly",
-        "priority": 0.85
-      }
-    },
     {
       "id": 15356,
       "slug": "arizona-cardinals-vs-cincinnati-bengals",
@@ -141,7 +61,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2025-12-28T02:26:38.083Z",
+        "last_modified": "2025-12-28T06:40:02.178Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -161,7 +81,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2025-12-28T02:26:38.083Z",
+        "last_modified": "2025-12-28T06:40:02.178Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -181,7 +101,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2025-12-28T02:26:38.083Z",
+        "last_modified": "2025-12-28T06:40:02.178Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -201,7 +121,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2025-12-28T02:26:38.083Z",
+        "last_modified": "2025-12-28T06:40:02.178Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -221,7 +141,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2025-12-28T02:26:38.083Z",
+        "last_modified": "2025-12-28T06:40:02.178Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -241,7 +161,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2025-12-28T02:26:38.083Z",
+        "last_modified": "2025-12-28T06:40:02.178Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -261,7 +181,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2025-12-28T02:26:38.083Z",
+        "last_modified": "2025-12-28T06:40:02.178Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -281,7 +201,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2025-12-28T02:26:38.083Z",
+        "last_modified": "2025-12-28T06:40:02.178Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -301,7 +221,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2025-12-28T02:26:38.083Z",
+        "last_modified": "2025-12-28T06:40:02.178Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -321,7 +241,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2025-12-28T02:26:38.083Z",
+        "last_modified": "2025-12-28T06:40:02.178Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -341,7 +261,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2025-12-28T02:26:38.083Z",
+        "last_modified": "2025-12-28T06:40:02.178Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -361,7 +281,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2025-12-28T02:26:38.083Z",
+        "last_modified": "2025-12-28T06:40:02.178Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -381,7 +301,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2025-12-28T02:26:38.083Z",
+        "last_modified": "2025-12-28T06:40:02.178Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -401,7 +321,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2025-12-28T02:26:38.083Z",
+        "last_modified": "2025-12-28T06:40:02.178Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -421,7 +341,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2025-12-28T02:26:38.083Z",
+        "last_modified": "2025-12-28T06:40:02.178Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -441,7 +361,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2025-12-28T02:26:38.083Z",
+        "last_modified": "2025-12-28T06:40:02.178Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -461,7 +381,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2025-12-28T02:26:38.083Z",
+        "last_modified": "2025-12-28T06:40:02.178Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -481,7 +401,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2025-12-28T02:26:38.083Z",
+        "last_modified": "2025-12-28T06:40:02.178Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -501,7 +421,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2025-12-28T02:26:38.083Z",
+        "last_modified": "2025-12-28T06:40:02.178Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -521,7 +441,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2025-12-28T02:26:38.084Z",
+        "last_modified": "2025-12-28T06:40:02.178Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -541,7 +461,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2025-12-28T02:26:38.084Z",
+        "last_modified": "2025-12-28T06:40:02.178Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -561,7 +481,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2025-12-28T02:26:38.084Z",
+        "last_modified": "2025-12-28T06:40:02.178Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -581,7 +501,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2025-12-28T02:26:38.084Z",
+        "last_modified": "2025-12-28T06:40:02.178Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -601,7 +521,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2025-12-28T02:26:38.084Z",
+        "last_modified": "2025-12-28T06:40:02.178Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -621,7 +541,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2025-12-28T02:26:38.084Z",
+        "last_modified": "2025-12-28T06:40:02.178Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -641,7 +561,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2025-12-28T02:26:38.084Z",
+        "last_modified": "2025-12-28T06:40:02.178Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -661,7 +581,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2025-12-28T02:26:38.084Z",
+        "last_modified": "2025-12-28T06:40:02.178Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -681,167 +601,127 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2025-12-28T02:26:38.084Z",
+        "last_modified": "2025-12-28T06:40:02.178Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
     },
     {
-      "id": 15454,
-      "slug": "denver-nuggets-vs-orlando-magic",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/nba/2025-12-27/den-orl",
+      "id": 15478,
+      "slug": "golden-state-warriors-vs-toronto-raptors",
+      "canonical_url": "https://tarjetarojaenvivo.live/eventos/nba/2025-12-28/gs-tor",
       "meta": {
-        "title": "Denver Nuggets vs. Orlando Magic EN VIVO - Tarjeta Roja TV",
-        "description": "Ver Denver Nuggets vs. Orlando Magic en vivo gratis el domingo 28 de diciembre de 2025",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Denver Nuggets vs. Orlando Magic, Baloncesto"
+        "title": "Golden State Warriors vs. Toronto Raptors EN VIVO - Tarjeta Roja TV",
+        "description": "Ver Golden State Warriors vs. Toronto Raptors en vivo gratis el domingo 28 de diciembre de 2025",
+        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Golden State Warriors vs. Toronto Raptors, Baloncesto"
       },
       "event": {
-        "start_time": "2025-12-28T00:00:00.000Z",
-        "end_time": "2025-12-28T02:48:00.000Z",
-        "status": "en vivo"
+        "start_time": "2025-12-28T20:30:00.000Z",
+        "end_time": "2025-12-28T23:18:00.000Z",
+        "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2025-12-28T02:26:38.084Z",
+        "last_modified": "2025-12-28T06:40:02.178Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
     },
     {
-      "id": 15456,
-      "slug": "phoenix-suns-vs-new-orleans-pelicans",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/nba/2025-12-27/phx-no",
+      "id": 15480,
+      "slug": "philadelphia-76ers-vs-oklahoma-city-thunder",
+      "canonical_url": "https://tarjetarojaenvivo.live/eventos/nba/2025-12-28/phi-okc",
       "meta": {
-        "title": "Phoenix Suns vs. New Orleans Pelicans EN VIVO - Tarjeta Roja TV",
-        "description": "Ver Phoenix Suns vs. New Orleans Pelicans en vivo gratis el domingo 28 de diciembre de 2025",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Phoenix Suns vs. New Orleans Pelicans, Baloncesto"
+        "title": "Philadelphia 76ers vs. Oklahoma City Thunder EN VIVO - Tarjeta Roja TV",
+        "description": "Ver Philadelphia 76ers vs. Oklahoma City Thunder en vivo gratis el domingo 28 de diciembre de 2025",
+        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Philadelphia 76ers vs. Oklahoma City Thunder, Baloncesto"
       },
       "event": {
-        "start_time": "2025-12-28T00:00:00.000Z",
-        "end_time": "2025-12-28T02:48:00.000Z",
-        "status": "en vivo"
+        "start_time": "2025-12-28T20:30:00.000Z",
+        "end_time": "2025-12-28T23:18:00.000Z",
+        "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2025-12-28T02:26:38.084Z",
+        "last_modified": "2025-12-28T06:40:02.179Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
     },
     {
-      "id": 15458,
-      "slug": "new-york-knicks-vs-atlanta-hawks",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/nba/2025-12-27/ny-atl",
+      "id": 15482,
+      "slug": "memphis-grizzlies-vs-washington-wizards",
+      "canonical_url": "https://tarjetarojaenvivo.live/eventos/nba/2025-12-28/mem-wsh",
       "meta": {
-        "title": "New York Knicks vs. Atlanta Hawks EN VIVO - Tarjeta Roja TV",
-        "description": "Ver New York Knicks vs. Atlanta Hawks en vivo gratis el domingo 28 de diciembre de 2025",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, New York Knicks vs. Atlanta Hawks, Baloncesto"
+        "title": "Memphis Grizzlies vs. Washington Wizards EN VIVO - Tarjeta Roja TV",
+        "description": "Ver Memphis Grizzlies vs. Washington Wizards en vivo gratis el domingo 28 de diciembre de 2025",
+        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Memphis Grizzlies vs. Washington Wizards, Baloncesto"
       },
       "event": {
-        "start_time": "2025-12-28T01:00:00.000Z",
-        "end_time": "2025-12-28T03:48:00.000Z",
-        "status": "en vivo"
+        "start_time": "2025-12-28T23:00:00.000Z",
+        "end_time": "2025-12-29T01:48:00.000Z",
+        "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2025-12-28T02:26:38.084Z",
+        "last_modified": "2025-12-28T06:40:02.179Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
     },
     {
-      "id": 15460,
-      "slug": "indiana-pacers-vs-miami-heat",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/nba/2025-12-27/ind-mia",
+      "id": 15484,
+      "slug": "boston-celtics-vs-portland-trail-blazers",
+      "canonical_url": "https://tarjetarojaenvivo.live/eventos/nba/2025-12-28/bos-por",
       "meta": {
-        "title": "Indiana Pacers vs. Miami Heat EN VIVO - Tarjeta Roja TV",
-        "description": "Ver Indiana Pacers vs. Miami Heat en vivo gratis el domingo 28 de diciembre de 2025",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Indiana Pacers vs. Miami Heat, Baloncesto"
+        "title": "Boston Celtics vs. Portland Trail Blazers EN VIVO - Tarjeta Roja TV",
+        "description": "Ver Boston Celtics vs. Portland Trail Blazers en vivo gratis el domingo 28 de diciembre de 2025",
+        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Boston Celtics vs. Portland Trail Blazers, Baloncesto"
       },
       "event": {
-        "start_time": "2025-12-28T01:00:00.000Z",
-        "end_time": "2025-12-28T03:48:00.000Z",
-        "status": "en vivo"
+        "start_time": "2025-12-28T23:00:00.000Z",
+        "end_time": "2025-12-29T01:48:00.000Z",
+        "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2025-12-28T02:26:38.084Z",
+        "last_modified": "2025-12-28T06:40:02.179Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
     },
     {
-      "id": 15461,
-      "slug": "milwaukee-bucks-vs-chicago-bulls",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/nba/2025-12-27/mil-chi",
+      "id": 15485,
+      "slug": "detroit-pistons-vs-la-clippers",
+      "canonical_url": "https://tarjetarojaenvivo.live/eventos/nba/2025-12-28/det-lac",
       "meta": {
-        "title": "Milwaukee Bucks vs. Chicago Bulls EN VIVO - Tarjeta Roja TV",
-        "description": "Ver Milwaukee Bucks vs. Chicago Bulls en vivo gratis el domingo 28 de diciembre de 2025",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Milwaukee Bucks vs. Chicago Bulls, Baloncesto"
+        "title": "Detroit Pistons vs. LA Clippers EN VIVO - Tarjeta Roja TV",
+        "description": "Ver Detroit Pistons vs. LA Clippers en vivo gratis el lunes 29 de diciembre de 2025",
+        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Detroit Pistons vs. LA Clippers, Baloncesto"
       },
       "event": {
-        "start_time": "2025-12-28T01:00:00.000Z",
-        "end_time": "2025-12-28T03:48:00.000Z",
-        "status": "en vivo"
+        "start_time": "2025-12-29T02:00:00.000Z",
+        "end_time": "2025-12-29T04:48:00.000Z",
+        "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2025-12-28T02:26:38.084Z",
+        "last_modified": "2025-12-28T06:40:02.179Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
     },
     {
-      "id": 15463,
-      "slug": "cleveland-cavaliers-vs-houston-rockets",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/nba/2025-12-27/cle-hou",
+      "id": 15486,
+      "slug": "sacramento-kings-vs-los-angeles-lakers",
+      "canonical_url": "https://tarjetarojaenvivo.live/eventos/nba/2025-12-28/sac-lal",
       "meta": {
-        "title": "Cleveland Cavaliers vs. Houston Rockets EN VIVO - Tarjeta Roja TV",
-        "description": "Ver Cleveland Cavaliers vs. Houston Rockets en vivo gratis el domingo 28 de diciembre de 2025",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Cleveland Cavaliers vs. Houston Rockets, Baloncesto"
+        "title": "Sacramento Kings vs. Los Angeles Lakers EN VIVO - Tarjeta Roja TV",
+        "description": "Ver Sacramento Kings vs. Los Angeles Lakers en vivo gratis el lunes 29 de diciembre de 2025",
+        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Sacramento Kings vs. Los Angeles Lakers, Baloncesto"
       },
       "event": {
-        "start_time": "2025-12-28T01:00:00.000Z",
-        "end_time": "2025-12-28T03:48:00.000Z",
-        "status": "en vivo"
+        "start_time": "2025-12-29T02:30:00.000Z",
+        "end_time": "2025-12-29T05:18:00.000Z",
+        "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2025-12-28T02:26:38.084Z",
-        "changefreq": "hourly",
-        "priority": 0.85
-      }
-    },
-    {
-      "id": 15465,
-      "slug": "brooklyn-nets-vs-minnesota-timberwolves",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/nba/2025-12-27/bkn-min",
-      "meta": {
-        "title": "Brooklyn Nets vs. Minnesota Timberwolves EN VIVO - Tarjeta Roja TV",
-        "description": "Ver Brooklyn Nets vs. Minnesota Timberwolves en vivo gratis el domingo 28 de diciembre de 2025",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Brooklyn Nets vs. Minnesota Timberwolves, Baloncesto"
-      },
-      "event": {
-        "start_time": "2025-12-28T01:00:00.000Z",
-        "end_time": "2025-12-28T03:48:00.000Z",
-        "status": "en vivo"
-      },
-      "technical": {
-        "last_modified": "2025-12-28T02:26:38.084Z",
-        "changefreq": "hourly",
-        "priority": 0.85
-      }
-    },
-    {
-      "id": 15467,
-      "slug": "utah-jazz-vs-san-antonio-spurs",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/nba/2025-12-27/utah-sa",
-      "meta": {
-        "title": "Utah Jazz vs. San Antonio Spurs EN VIVO - Tarjeta Roja TV",
-        "description": "Ver Utah Jazz vs. San Antonio Spurs en vivo gratis el domingo 28 de diciembre de 2025",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Utah Jazz vs. San Antonio Spurs, Baloncesto"
-      },
-      "event": {
-        "start_time": "2025-12-28T01:00:00.000Z",
-        "end_time": "2025-12-28T03:48:00.000Z",
-        "status": "en vivo"
-      },
-      "technical": {
-        "last_modified": "2025-12-28T02:26:38.084Z",
+        "last_modified": "2025-12-28T06:40:02.179Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -861,7 +741,27 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2025-12-28T02:26:38.084Z",
+        "last_modified": "2025-12-28T06:40:02.179Z",
+        "changefreq": "hourly",
+        "priority": 0.85
+      }
+    },
+    {
+      "id": 14899,
+      "slug": "world-darts-championship",
+      "canonical_url": "https://tarjetarojaenvivo.live/eventos/2025-world-darts-championship",
+      "meta": {
+        "title": "World Darts Championship EN VIVO - Tarjeta Roja TV",
+        "description": "Ver World Darts Championship en vivo gratis el domingo 28 de diciembre de 2025",
+        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, World Darts Championship, Dardos"
+      },
+      "event": {
+        "start_time": "2025-12-28T12:30:00.000Z",
+        "end_time": "2025-12-28T23:30:00.000Z",
+        "status": "próximamente"
+      },
+      "technical": {
+        "last_modified": "2025-12-28T06:40:02.179Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -881,7 +781,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2025-12-28T02:26:38.084Z",
+        "last_modified": "2025-12-28T06:40:02.179Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -901,7 +801,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2025-12-28T02:26:38.084Z",
+        "last_modified": "2025-12-28T06:40:02.179Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -921,7 +821,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2025-12-28T02:26:38.084Z",
+        "last_modified": "2025-12-28T06:40:02.179Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -941,7 +841,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2025-12-28T02:26:38.084Z",
+        "last_modified": "2025-12-28T06:40:02.179Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -961,7 +861,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2025-12-28T02:26:38.084Z",
+        "last_modified": "2025-12-28T06:40:02.179Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -981,7 +881,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2025-12-28T02:26:38.084Z",
+        "last_modified": "2025-12-28T06:40:02.179Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1001,7 +901,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2025-12-28T02:26:38.084Z",
+        "last_modified": "2025-12-28T06:40:02.179Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1021,7 +921,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2025-12-28T02:26:38.084Z",
+        "last_modified": "2025-12-28T06:40:02.179Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1041,7 +941,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2025-12-28T02:26:38.084Z",
+        "last_modified": "2025-12-28T06:40:02.179Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1061,7 +961,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2025-12-28T02:26:38.084Z",
+        "last_modified": "2025-12-28T06:40:02.179Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1081,7 +981,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2025-12-28T02:26:38.084Z",
+        "last_modified": "2025-12-28T06:40:02.179Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1101,7 +1001,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2025-12-28T02:26:38.084Z",
+        "last_modified": "2025-12-28T06:40:02.179Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1121,7 +1021,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2025-12-28T02:26:38.084Z",
+        "last_modified": "2025-12-28T06:40:02.179Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1141,7 +1041,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2025-12-28T02:26:38.084Z",
+        "last_modified": "2025-12-28T06:40:02.179Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1161,327 +1061,147 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2025-12-28T02:26:38.084Z",
+        "last_modified": "2025-12-28T06:40:02.179Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
     },
     {
-      "id": 15452,
-      "slug": "united-states-vs-switzerland",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/wjc/2025-12-27/usa-sui",
+      "id": 15476,
+      "slug": "sweden-vs-switzerland",
+      "canonical_url": "https://tarjetarojaenvivo.live/eventos/wjc/2025-12-28/swe-sui",
       "meta": {
-        "title": "United States vs. Switzerland EN VIVO - Tarjeta Roja TV",
-        "description": "Ver United States vs. Switzerland en vivo gratis el sábado 27 de diciembre de 2025",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, United States vs. Switzerland, Hockey sobre Hielo"
+        "title": "Sweden vs. Switzerland EN VIVO - Tarjeta Roja TV",
+        "description": "Ver Sweden vs. Switzerland en vivo gratis el domingo 28 de diciembre de 2025",
+        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Sweden vs. Switzerland, Hockey sobre Hielo"
       },
       "event": {
-        "start_time": "2025-12-27T23:00:00.000Z",
-        "end_time": "2025-12-28T01:30:00.000Z",
-        "status": "en vivo"
-      },
-      "technical": {
-        "last_modified": "2025-12-28T02:26:38.084Z",
-        "changefreq": "hourly",
-        "priority": 0.85
-      }
-    },
-    {
-      "id": 15453,
-      "slug": "new-york-rangers-vs-new-york-islanders",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/nhl/2025-12-27/nyr-nyi",
-      "meta": {
-        "title": "New York Rangers vs. New York Islanders EN VIVO - Tarjeta Roja TV",
-        "description": "Ver New York Rangers vs. New York Islanders en vivo gratis el sábado 27 de diciembre de 2025",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, New York Rangers vs. New York Islanders, Hockey sobre Hielo"
-      },
-      "event": {
-        "start_time": "2025-12-27T23:00:00.000Z",
-        "end_time": "2025-12-28T02:00:00.000Z",
-        "status": "en vivo"
-      },
-      "technical": {
-        "last_modified": "2025-12-28T02:26:38.084Z",
-        "changefreq": "hourly",
-        "priority": 0.85
-      }
-    },
-    {
-      "id": 15457,
-      "slug": "boston-bruins-vs-buffalo-sabres",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/nhl/2025-12-27/bos-buf",
-      "meta": {
-        "title": "Boston Bruins vs. Buffalo Sabres EN VIVO - Tarjeta Roja TV",
-        "description": "Ver Boston Bruins vs. Buffalo Sabres en vivo gratis el domingo 28 de diciembre de 2025",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Boston Bruins vs. Buffalo Sabres, Hockey sobre Hielo"
-      },
-      "event": {
-        "start_time": "2025-12-28T00:00:00.000Z",
-        "end_time": "2025-12-28T03:00:00.000Z",
-        "status": "en vivo"
-      },
-      "technical": {
-        "last_modified": "2025-12-28T02:26:38.084Z",
-        "changefreq": "hourly",
-        "priority": 0.85
-      }
-    },
-    {
-      "id": 15459,
-      "slug": "ottawa-senators-vs-toronto-maple-leafs",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/nhl/2025-12-27/ott-tor",
-      "meta": {
-        "title": "Ottawa Senators vs. Toronto Maple Leafs EN VIVO - Tarjeta Roja TV",
-        "description": "Ver Ottawa Senators vs. Toronto Maple Leafs en vivo gratis el domingo 28 de diciembre de 2025",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Ottawa Senators vs. Toronto Maple Leafs, Hockey sobre Hielo"
-      },
-      "event": {
-        "start_time": "2025-12-28T00:00:00.000Z",
-        "end_time": "2025-12-28T03:00:00.000Z",
-        "status": "en vivo"
-      },
-      "technical": {
-        "last_modified": "2025-12-28T02:26:38.084Z",
-        "changefreq": "hourly",
-        "priority": 0.85
-      }
-    },
-    {
-      "id": 15462,
-      "slug": "tampa-bay-lightning-vs-florida-panthers",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/nhl/2025-12-27/tb-fla",
-      "meta": {
-        "title": "Tampa Bay Lightning vs. Florida Panthers EN VIVO - Tarjeta Roja TV",
-        "description": "Ver Tampa Bay Lightning vs. Florida Panthers en vivo gratis el domingo 28 de diciembre de 2025",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Tampa Bay Lightning vs. Florida Panthers, Hockey sobre Hielo"
-      },
-      "event": {
-        "start_time": "2025-12-28T00:00:00.000Z",
-        "end_time": "2025-12-28T03:00:00.000Z",
-        "status": "en vivo"
-      },
-      "technical": {
-        "last_modified": "2025-12-28T02:26:38.084Z",
-        "changefreq": "hourly",
-        "priority": 0.85
-      }
-    },
-    {
-      "id": 15464,
-      "slug": "washington-capitals-vs-new-jersey-devils",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/nhl/2025-12-27/wsh-nj",
-      "meta": {
-        "title": "Washington Capitals vs. New Jersey Devils EN VIVO - Tarjeta Roja TV",
-        "description": "Ver Washington Capitals vs. New Jersey Devils en vivo gratis el domingo 28 de diciembre de 2025",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Washington Capitals vs. New Jersey Devils, Hockey sobre Hielo"
-      },
-      "event": {
-        "start_time": "2025-12-28T00:00:00.000Z",
-        "end_time": "2025-12-28T03:00:00.000Z",
-        "status": "en vivo"
-      },
-      "technical": {
-        "last_modified": "2025-12-28T02:26:38.084Z",
-        "changefreq": "hourly",
-        "priority": 0.85
-      }
-    },
-    {
-      "id": 15466,
-      "slug": "detroit-red-wings-vs-carolina-hurricanes",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/nhl/2025-12-27/det-car",
-      "meta": {
-        "title": "Detroit Red Wings vs. Carolina Hurricanes EN VIVO - Tarjeta Roja TV",
-        "description": "Ver Detroit Red Wings vs. Carolina Hurricanes en vivo gratis el domingo 28 de diciembre de 2025",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Detroit Red Wings vs. Carolina Hurricanes, Hockey sobre Hielo"
-      },
-      "event": {
-        "start_time": "2025-12-28T00:00:00.000Z",
-        "end_time": "2025-12-28T03:00:00.000Z",
-        "status": "en vivo"
-      },
-      "technical": {
-        "last_modified": "2025-12-28T02:26:38.084Z",
-        "changefreq": "hourly",
-        "priority": 0.85
-      }
-    },
-    {
-      "id": 15468,
-      "slug": "minnesota-wild-vs-winnipeg-jets",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/nhl/2025-12-27/min-wpg",
-      "meta": {
-        "title": "Minnesota Wild vs. Winnipeg Jets EN VIVO - Tarjeta Roja TV",
-        "description": "Ver Minnesota Wild vs. Winnipeg Jets en vivo gratis el domingo 28 de diciembre de 2025",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Minnesota Wild vs. Winnipeg Jets, Hockey sobre Hielo"
-      },
-      "event": {
-        "start_time": "2025-12-28T00:00:00.000Z",
-        "end_time": "2025-12-28T03:00:00.000Z",
-        "status": "en vivo"
-      },
-      "technical": {
-        "last_modified": "2025-12-28T02:26:38.084Z",
-        "changefreq": "hourly",
-        "priority": 0.85
-      }
-    },
-    {
-      "id": 15469,
-      "slug": "nashville-predators-vs-st-louis-blues",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/nhl/2025-12-27/nsh-stl",
-      "meta": {
-        "title": "Nashville Predators vs. St. Louis Blues EN VIVO - Tarjeta Roja TV",
-        "description": "Ver Nashville Predators vs. St. Louis Blues en vivo gratis el domingo 28 de diciembre de 2025",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Nashville Predators vs. St. Louis Blues, Hockey sobre Hielo"
-      },
-      "event": {
-        "start_time": "2025-12-28T01:00:00.000Z",
-        "end_time": "2025-12-28T04:00:00.000Z",
-        "status": "en vivo"
-      },
-      "technical": {
-        "last_modified": "2025-12-28T02:26:38.084Z",
-        "changefreq": "hourly",
-        "priority": 0.85
-      }
-    },
-    {
-      "id": 15470,
-      "slug": "chicago-blackhawks-vs-dallas-stars",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/nhl/2025-12-27/chi-dal",
-      "meta": {
-        "title": "Chicago Blackhawks vs. Dallas Stars EN VIVO - Tarjeta Roja TV",
-        "description": "Ver Chicago Blackhawks vs. Dallas Stars en vivo gratis el domingo 28 de diciembre de 2025",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Chicago Blackhawks vs. Dallas Stars, Hockey sobre Hielo"
-      },
-      "event": {
-        "start_time": "2025-12-28T01:00:00.000Z",
-        "end_time": "2025-12-28T04:00:00.000Z",
-        "status": "en vivo"
-      },
-      "technical": {
-        "last_modified": "2025-12-28T02:26:38.084Z",
-        "changefreq": "hourly",
-        "priority": 0.85
-      }
-    },
-    {
-      "id": 15455,
-      "slug": "denmark-vs-czech-republic",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/wjc/2025-12-27/den-cze",
-      "meta": {
-        "title": "Denmark vs. Czech Republic EN VIVO - Tarjeta Roja TV",
-        "description": "Ver Denmark vs. Czech Republic en vivo gratis el domingo 28 de diciembre de 2025",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Denmark vs. Czech Republic, Hockey sobre Hielo"
-      },
-      "event": {
-        "start_time": "2025-12-28T01:30:00.000Z",
-        "end_time": "2025-12-28T04:00:00.000Z",
-        "status": "en vivo"
-      },
-      "technical": {
-        "last_modified": "2025-12-28T02:26:38.084Z",
-        "changefreq": "hourly",
-        "priority": 0.85
-      }
-    },
-    {
-      "id": 15471,
-      "slug": "anaheim-ducks-vs-los-angeles-kings",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/nhl/2025-12-27/ana-la",
-      "meta": {
-        "title": "Anaheim Ducks vs. Los Angeles Kings EN VIVO - Tarjeta Roja TV",
-        "description": "Ver Anaheim Ducks vs. Los Angeles Kings en vivo gratis el domingo 28 de diciembre de 2025",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Anaheim Ducks vs. Los Angeles Kings, Hockey sobre Hielo"
-      },
-      "event": {
-        "start_time": "2025-12-28T02:00:00.000Z",
-        "end_time": "2025-12-28T05:00:00.000Z",
-        "status": "en vivo"
-      },
-      "technical": {
-        "last_modified": "2025-12-28T02:26:38.084Z",
-        "changefreq": "hourly",
-        "priority": 0.85
-      }
-    },
-    {
-      "id": 15472,
-      "slug": "edmonton-oilers-vs-calgary-flames",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/nhl/2025-12-27/edm-cgy",
-      "meta": {
-        "title": "Edmonton Oilers vs. Calgary Flames EN VIVO - Tarjeta Roja TV",
-        "description": "Ver Edmonton Oilers vs. Calgary Flames en vivo gratis el domingo 28 de diciembre de 2025",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Edmonton Oilers vs. Calgary Flames, Hockey sobre Hielo"
-      },
-      "event": {
-        "start_time": "2025-12-28T03:00:00.000Z",
-        "end_time": "2025-12-28T06:00:00.000Z",
+        "start_time": "2025-12-28T19:00:00.000Z",
+        "end_time": "2025-12-28T21:30:00.000Z",
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2025-12-28T02:26:38.084Z",
+        "last_modified": "2025-12-28T06:40:02.179Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
     },
     {
-      "id": 15473,
-      "slug": "san-jose-sharks-vs-vancouver-canucks",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/nhl/2025-12-27/sj-van",
+      "id": 15477,
+      "slug": "finland-vs-latvia",
+      "canonical_url": "https://tarjetarojaenvivo.live/eventos/wjc/2025-12-28/fin-lat",
       "meta": {
-        "title": "San Jose Sharks vs. Vancouver Canucks EN VIVO - Tarjeta Roja TV",
-        "description": "Ver San Jose Sharks vs. Vancouver Canucks en vivo gratis el domingo 28 de diciembre de 2025",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, San Jose Sharks vs. Vancouver Canucks, Hockey sobre Hielo"
+        "title": "Finland vs. Latvia EN VIVO - Tarjeta Roja TV",
+        "description": "Ver Finland vs. Latvia en vivo gratis el domingo 28 de diciembre de 2025",
+        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Finland vs. Latvia, Hockey sobre Hielo"
       },
       "event": {
-        "start_time": "2025-12-28T03:00:00.000Z",
-        "end_time": "2025-12-28T06:00:00.000Z",
+        "start_time": "2025-12-28T21:30:00.000Z",
+        "end_time": "2025-12-29T00:00:00.000Z",
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2025-12-28T02:26:38.084Z",
+        "last_modified": "2025-12-28T06:40:02.179Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
     },
     {
-      "id": 15474,
-      "slug": "colorado-avalanche-vs-vegas-golden-knights",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/nhl/2025-12-27/col-vgk",
+      "id": 15479,
+      "slug": "montreal-canadiens-vs-tampa-bay-lightning",
+      "canonical_url": "https://tarjetarojaenvivo.live/eventos/nhl/2025-12-28/mtl-tb",
       "meta": {
-        "title": "Colorado Avalanche vs. Vegas Golden Knights EN VIVO - Tarjeta Roja TV",
-        "description": "Ver Colorado Avalanche vs. Vegas Golden Knights en vivo gratis el domingo 28 de diciembre de 2025",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Colorado Avalanche vs. Vegas Golden Knights, Hockey sobre Hielo"
+        "title": "Montreal Canadiens vs. Tampa Bay Lightning EN VIVO - Tarjeta Roja TV",
+        "description": "Ver Montreal Canadiens vs. Tampa Bay Lightning en vivo gratis el domingo 28 de diciembre de 2025",
+        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Montreal Canadiens vs. Tampa Bay Lightning, Hockey sobre Hielo"
       },
       "event": {
-        "start_time": "2025-12-28T03:00:00.000Z",
-        "end_time": "2025-12-28T06:00:00.000Z",
+        "start_time": "2025-12-28T22:00:00.000Z",
+        "end_time": "2025-12-29T01:00:00.000Z",
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2025-12-28T02:26:38.084Z",
+        "last_modified": "2025-12-28T06:40:02.179Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
     },
     {
-      "id": 15475,
-      "slug": "aew-world-s-end",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/aew-worlds-end-2025",
+      "id": 15481,
+      "slug": "new-york-islanders-vs-columbus-blue-jackets",
+      "canonical_url": "https://tarjetarojaenvivo.live/eventos/nhl/2025-12-28/nyi-cbj",
       "meta": {
-        "title": "AEW: World's End EN VIVO - Tarjeta Roja TV",
-        "description": "Ver AEW: World's End en vivo gratis el domingo 28 de diciembre de 2025",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, AEW: World's End, Lucha Libre"
+        "title": "New York Islanders vs. Columbus Blue Jackets EN VIVO - Tarjeta Roja TV",
+        "description": "Ver New York Islanders vs. Columbus Blue Jackets en vivo gratis el domingo 28 de diciembre de 2025",
+        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, New York Islanders vs. Columbus Blue Jackets, Hockey sobre Hielo"
       },
       "event": {
-        "start_time": "2025-12-28T00:00:00.000Z",
-        "end_time": "2025-12-28T05:00:00.000Z",
-        "status": "en vivo"
+        "start_time": "2025-12-28T22:00:00.000Z",
+        "end_time": "2025-12-29T01:00:00.000Z",
+        "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2025-12-28T02:26:38.084Z",
+        "last_modified": "2025-12-28T06:40:02.179Z",
+        "changefreq": "hourly",
+        "priority": 0.85
+      }
+    },
+    {
+      "id": 15483,
+      "slug": "toronto-maple-leafs-vs-detroit-red-wings",
+      "canonical_url": "https://tarjetarojaenvivo.live/eventos/nhl/2025-12-28/tor-det",
+      "meta": {
+        "title": "Toronto Maple Leafs vs. Detroit Red Wings EN VIVO - Tarjeta Roja TV",
+        "description": "Ver Toronto Maple Leafs vs. Detroit Red Wings en vivo gratis el lunes 29 de diciembre de 2025",
+        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Toronto Maple Leafs vs. Detroit Red Wings, Hockey sobre Hielo"
+      },
+      "event": {
+        "start_time": "2025-12-29T00:00:00.000Z",
+        "end_time": "2025-12-29T03:00:00.000Z",
+        "status": "próximamente"
+      },
+      "technical": {
+        "last_modified": "2025-12-28T06:40:02.179Z",
+        "changefreq": "hourly",
+        "priority": 0.85
+      }
+    },
+    {
+      "id": 15487,
+      "slug": "pittsburgh-penguins-vs-chicago-blackhawks",
+      "canonical_url": "https://tarjetarojaenvivo.live/eventos/nhl/2025-12-28/pit-chi",
+      "meta": {
+        "title": "Pittsburgh Penguins vs. Chicago Blackhawks EN VIVO - Tarjeta Roja TV",
+        "description": "Ver Pittsburgh Penguins vs. Chicago Blackhawks en vivo gratis el lunes 29 de diciembre de 2025",
+        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Pittsburgh Penguins vs. Chicago Blackhawks, Hockey sobre Hielo"
+      },
+      "event": {
+        "start_time": "2025-12-29T00:00:00.000Z",
+        "end_time": "2025-12-29T03:00:00.000Z",
+        "status": "próximamente"
+      },
+      "technical": {
+        "last_modified": "2025-12-28T06:40:02.179Z",
+        "changefreq": "hourly",
+        "priority": 0.85
+      }
+    },
+    {
+      "id": 15488,
+      "slug": "philadelphia-flyers-vs-seattle-kraken",
+      "canonical_url": "https://tarjetarojaenvivo.live/eventos/nhl/2025-12-28/phi-sea",
+      "meta": {
+        "title": "Philadelphia Flyers vs. Seattle Kraken EN VIVO - Tarjeta Roja TV",
+        "description": "Ver Philadelphia Flyers vs. Seattle Kraken en vivo gratis el lunes 29 de diciembre de 2025",
+        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Philadelphia Flyers vs. Seattle Kraken, Hockey sobre Hielo"
+      },
+      "event": {
+        "start_time": "2025-12-29T01:00:00.000Z",
+        "end_time": "2025-12-29T04:00:00.000Z",
+        "status": "próximamente"
+      },
+      "technical": {
+        "last_modified": "2025-12-28T06:40:02.179Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1501,7 +1221,7 @@
         "status": "en vivo"
       },
       "technical": {
-        "last_modified": "2025-12-28T02:26:38.084Z",
+        "last_modified": "2025-12-28T06:40:02.179Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1521,7 +1241,7 @@
         "status": "en vivo"
       },
       "technical": {
-        "last_modified": "2025-12-28T02:26:38.084Z",
+        "last_modified": "2025-12-28T06:40:02.179Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1541,7 +1261,7 @@
         "status": "en vivo"
       },
       "technical": {
-        "last_modified": "2025-12-28T02:26:38.084Z",
+        "last_modified": "2025-12-28T06:40:02.179Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1561,7 +1281,7 @@
         "status": "en vivo"
       },
       "technical": {
-        "last_modified": "2025-12-28T02:26:38.084Z",
+        "last_modified": "2025-12-28T06:40:02.179Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1581,7 +1301,7 @@
         "status": "en vivo"
       },
       "technical": {
-        "last_modified": "2025-12-28T02:26:38.084Z",
+        "last_modified": "2025-12-28T06:40:02.179Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
