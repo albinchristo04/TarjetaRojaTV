@@ -9,8 +9,11 @@ export default function Navbar() {
                     TARJETA<span className="text-live">ROJA</span><span className="text-sm font-normal not-italic text-white/60 ml-1">ENVIVO</span>
                 </Link>
 
-                <div className="flex items-center gap-4">
-                    {/* Placeholder for future nav items */}
+                <div className="hidden md:flex items-center gap-6">
+                    <Link to="/" className="text-sm font-semibold hover:text-primary transition-colors">Inicio</Link>
+                    <a href="/tarjeta-roja/" className="text-sm font-semibold hover:text-primary transition-colors">Tarjeta Roja</a>
+                    <a href="/futbol-en-vivo/" className="text-sm font-semibold hover:text-primary transition-colors">Fútbol En Vivo</a>
+                    <a href="/partidos-de-hoy/" className="text-sm font-semibold hover:text-primary transition-colors">Partidos de Hoy</a>
                 </div>
             </div>
         </nav>

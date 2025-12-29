@@ -11,50 +11,83 @@
     <meta property="og:description" content="Bienvenido a Tarjeta Roja TV, el sitio oficial para ver fútbol en vivo gratis. Disfruta de todos los partidos de hoy en HD sin registro.">
     <meta property="og:url" content="https://tarjetarojaenvivo.live/tarjeta-roja-tv/">
     <meta property="og:type" content="website">
-    <meta name="twitter:card" content="summary_large_image">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
     <style>
         :root { --primary: #e31937; --bg: #0a0a0a; --text: #ffffff; --card: #1a1a1a; }
         body { font-family: 'Inter', sans-serif; background: var(--bg); color: var(--text); margin: 0; line-height: 1.6; }
-        header { background: #000; padding: 1rem; border-bottom: 2px solid var(--primary); text-align: center; }
-        .container { max-width: 1000px; margin: 0 auto; padding: 2rem; }
-        h1 { color: var(--primary); font-size: 2.5rem; margin-bottom: 1rem; }
-        .content { background: var(--card); padding: 2rem; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.5); }
-        .links { margin-top: 2rem; display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 1rem; }
-        .links a { color: #aaa; text-decoration: none; font-size: 0.9rem; }
-        .links a:hover { color: var(--primary); }
-        footer { margin-top: 4rem; padding: 2rem; text-align: center; border-top: 1px solid #333; color: #666; }
-        .faq { margin-top: 2rem; }
-        .faq-item { margin-bottom: 1.5rem; }
-        .faq-q { font-weight: 700; color: var(--primary); margin-bottom: 0.5rem; }
-        .match-card { border-left: 4px solid var(--primary); padding: 1rem; margin-bottom: 1rem; background: #222; }
+        .main-nav { background: #000; border-bottom: 2px solid var(--primary); padding: 1rem 0; position: sticky; top: 0; z-index: 100; }
+        .nav-container { max-width: 1200px; margin: 0 auto; display: flex; justify-content: space-between; align-items: center; px: 1rem; }
+        .nav-logo { color: white; text-decoration: none; font-weight: 900; font-size: 1.5rem; italic; }
+        .nav-links a { color: #ccc; text-decoration: none; margin-left: 1.5rem; font-weight: 600; font-size: 0.9rem; transition: color 0.3s; }
+        .nav-links a:hover { color: var(--primary); }
+        .container { max-width: 1000px; margin: 0 auto; padding: 2rem 1rem; }
+        h1 { color: var(--primary); font-size: 2.5rem; margin-bottom: 1.5rem; text-align: center; }
+        .content { background: var(--card); padding: 2rem; border-radius: 12px; box-shadow: 0 4px 30px rgba(0,0,0,0.7); margin-bottom: 2rem; }
+        .match-list { list-style: none; padding: 0; display: grid; gap: 1rem; }
+        .match-item { background: #222; padding: 1rem; border-radius: 8px; border-left: 4px solid var(--primary); }
+        .match-item a { color: white; text-decoration: none; font-weight: 700; display: block; }
+        .match-item a:hover { color: var(--primary); }
+        .internal-links-block { margin-top: 3rem; padding-top: 2rem; border-top: 1px solid #333; display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 1rem; }
+        .internal-links-block a { color: #888; text-decoration: none; font-size: 0.85rem; }
+        .internal-links-block a:hover { color: var(--primary); }
+        .site-footer { background: #000; padding: 3rem 1rem; text-align: center; border-top: 1px solid #222; margin-top: 4rem; color: #555; }
+        .footer-links { margin-bottom: 1.5rem; }
+        .footer-links a { color: #777; text-decoration: none; margin: 0 0.5rem; }
+        .footer-links a:hover { color: var(--primary); }
+        @media (max-width: 768px) { .nav-links { display: none; } }
     </style>
-    <script type="application/ld+json">{"@context":"https://schema.org","@type":"WebPage","name":"Tarjeta Roja TV","description":"Página oficial de Tarjeta Roja TV para ver fútbol en vivo.","url":"https://tarjetarojaenvivo.live/tarjeta-roja-tv/"}</script>
+    <script type="application/ld+json">{"@context":"https://schema.org","@type":"WebPage","name":"Tarjeta Roja TV","url":"https://tarjetarojaenvivo.live/tarjeta-roja-tv/"}</script>
 </head>
 <body>
-    <header>
-        <a href="/" style="color:white; text-decoration:none; font-weight:bold; font-size:1.5rem;">TarjetaRojaEnvivo</a>
-    </header>
+    
+    <nav class="main-nav">
+        <div class="nav-container">
+            <a href="/" class="nav-logo">TarjetaRojaEnvivo</a>
+            <div class="nav-links">
+                <a href="/">Inicio</a>
+                <a href="/tarjeta-roja/">Tarjeta Roja</a>
+                <a href="/tarjeta-roja-tv/">Tarjeta Roja TV</a>
+                <a href="/futbol-en-vivo/">Fútbol En Vivo</a>
+                <a href="/partidos-de-hoy/">Partidos de Hoy</a>
+                <a href="/canales-deportivos-en-vivo/">Canales</a>
+            </div>
+        </div>
+    </nav>
     <div class="container">
         <article class="content">
             <h1>Tarjeta Roja TV</h1>
-            <div class="main-text"><p>En <strong>Tarjeta Roja TV</strong>, ofrecemos la mejor experiencia para ver deportes online. Nuestra plataforma está optimizada para brindarte transmisiones estables y de alta calidad de las mejores ligas del mundo, incluyendo LaLiga, Champions League, Premier League y más.</p>
+            <div class="main-text">
+            <p>En <strong>Tarjeta Roja TV</strong>, ofrecemos la mejor experiencia para ver deportes online. Nuestra plataforma está optimizada para brindarte transmisiones estables y de alta calidad de las mejores ligas del mundo.</p>
+            <h3>Partidos Destacados Hoy</h3>
+            <ul class="match-list-simple"><li><a href="/partidos/ver-georgia-southern-eagles-vs-app-state-mountaineers-en-vivo/">Ver Georgia Southern Eagles vs. App State Mountaineers en vivo</a></li><li><a href="/partidos/ver-los-angeles-rams-vs-atlanta-falcons-en-vivo/">Ver Los Angeles Rams vs. Atlanta Falcons en vivo</a></li><li><a href="/partidos/ver-coastal-carolina-chanticleers-vs-louisiana-tech-bulldogs-en-vivo/">Ver Coastal Carolina Chanticleers vs. Louisiana Tech Bulldogs en vivo</a></li><li><a href="/partidos/ver-tennessee-volunteers-vs-illinois-fighting-illini-en-vivo/">Ver Tennessee Volunteers vs. Illinois Fighting Illini en vivo</a></li><li><a href="/partidos/ver-usc-trojans-vs-tcu-horned-frogs-en-vivo/">Ver USC Trojans vs. TCU Horned Frogs en vivo</a></li><li><a href="/partidos/ver-iowa-hawkeyes-vs-vanderbilt-commodores-en-vivo/">Ver Iowa Hawkeyes vs. Vanderbilt Commodores en vivo</a></li><li><a href="/partidos/ver-arizona-state-sun-devils-vs-duke-blue-devils-en-vivo/">Ver Arizona State Sun Devils vs. Duke Blue Devils en vivo</a></li><li><a href="/partidos/ver-michigan-wolverines-vs-texas-longhorns-en-vivo/">Ver Michigan Wolverines vs. Texas Longhorns en vivo</a></li><li><a href="/partidos/ver-nebraska-cornhuskers-vs-utah-utes-en-vivo/">Ver Nebraska Cornhuskers vs. Utah Utes en vivo</a></li><li><a href="/partidos/ver-miami-hurricanes-vs-ohio-state-buckeyes-en-vivo/">Ver Miami Hurricanes vs. Ohio State Buckeyes en vivo</a></li></ul>
             <p>No te pierdas ningún detalle de tus equipos favoritos. Con Tarjeta Roja TV, tienes acceso directo a los canales deportivos más importantes de forma gratuita y segura.</p></div>
         </article>
         
-        <div class="links">
+        <div class="internal-links-block">
+            <strong>Explorar más:</strong>
             <a href="/">Inicio</a>
             <a href="/tarjeta-roja/">Tarjeta Roja</a>
             <a href="/tarjeta-roja-tv/">Tarjeta Roja TV</a>
             <a href="/futbol-en-vivo/">Fútbol en Vivo</a>
             <a href="/partidos-de-hoy/">Partidos de Hoy</a>
+            <a href="/mapa-del-sitio/">Mapa del Sitio</a>
+            <a href="/tarjeta-roja/">Tarjeta Roja</a><a href="/tarjeta-roja-en-vivo/">Tarjeta Roja en Vivo</a><a href="/tarjetarojaenvivo/">TarjetaRojaEnvivo</a><a href="/tarjeta-roja-directa/">Tarjeta Roja Directa</a><a href="/tarjeta-roja-tv-en-vivo/">Tarjeta Roja TV en Vivo</a>
         </div>
     </div>
-    <footer>
+    
+    <footer class="site-footer">
+        <div class="footer-links">
+            <a href="/">Tarjeta Roja</a> | 
+            <a href="/tarjeta-roja-tv/">Tarjeta Roja TV</a> | 
+            <a href="/futbol-en-vivo/">Fútbol En Vivo</a> | 
+            <a href="/partidos-de-hoy/">Partidos de Hoy</a> | 
+            <a href="/canales-deportivos-en-vivo/">Canales Deportivos</a> |
+            <a href="/mapa-del-sitio/">Mapa del Sitio</a>
+        </div>
         <p>&copy; 2025 TarjetaRojaEnvivo - Todos los derechos reservados.</p>
-        <p>Actualizado hoy: 29/12/2025</p>
+        <p>Actualizado: 2025-12-29T16:35:45.688Z</p>
     </footer>
 </body>
 </html>

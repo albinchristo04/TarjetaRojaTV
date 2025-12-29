@@ -35,6 +35,7 @@ export default function Footer() {
                             <li><a href="/partidos-de-hoy/" className="hover:text-primary transition-colors">Partidos de Hoy</a></li>
                             <li><a href="/futbol-gratis/" className="hover:text-primary transition-colors">Fútbol Gratis</a></li>
                             <li><a href="/canales-deportivos-en-vivo/" className="hover:text-primary transition-colors">Canales en Vivo</a></li>
+                            <li><a href="/mapa-del-sitio/" className="hover:text-primary transition-colors">Mapa del Sitio</a></li>
                             <li><Link to="/dmca" className="hover:text-primary transition-colors">DMCA</Link></li>
                         </ul>
                     </div>

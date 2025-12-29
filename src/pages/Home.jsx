@@ -130,6 +130,37 @@ export default function Home() {
 
                 <MatchGrid matches={displayMatches.filter(m => !isLive(m) || activeCategory !== 'All')} />
             </section>
+
+            {/* SECTION 3 — ⚽ Fútbol Hoy */}
+            <section className="container mx-auto px-4 mt-16">
+                <h2 className="text-xl font-bold tracking-wide uppercase mb-6">⚽ Fútbol Hoy</h2>
+                <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4">
+                    <a href="/partidos-de-hoy/" className="bg-card p-4 rounded-lg border border-white/5 hover:border-primary/50 transition-colors">
+                        <h3 className="font-bold text-primary">Partidos de Hoy</h3>
+                        <p className="text-xs text-gray-400">Todos los encuentros programados para el día de hoy.</p>
+                    </a>
+                    <a href="/futbol-en-vivo-hoy/" className="bg-card p-4 rounded-lg border border-white/5 hover:border-primary/50 transition-colors">
+                        <h3 className="font-bold text-primary">Fútbol en Vivo Hoy</h3>
+                        <p className="text-xs text-gray-400">Transmisiones en directo disponibles ahora mismo.</p>
+                    </a>
+                    <a href="/ver-futbol-online/" className="bg-card p-4 rounded-lg border border-white/5 hover:border-primary/50 transition-colors">
+                        <h3 className="font-bold text-primary">Ver Fútbol Online</h3>
+                        <p className="text-xs text-gray-400">Guía completa para ver fútbol por internet gratis.</p>
+                    </a>
+                </div>
+            </section>
+
+            {/* SECTION 4 — ⭐ Tarjeta Roja Popular */}
+            <section className="container mx-auto px-4 mt-16">
+                <h2 className="text-xl font-bold tracking-wide uppercase mb-6">⭐ Tarjeta Roja Popular</h2>
+                <div className="flex flex-wrap gap-4">
+                    <a href="/tarjeta-roja/" className="px-6 py-3 bg-card rounded-full border border-white/5 hover:bg-primary hover:text-white transition-all font-bold text-sm">Tarjeta Roja</a>
+                    <a href="/tarjeta-roja-tv/" className="px-6 py-3 bg-card rounded-full border border-white/5 hover:bg-primary hover:text-white transition-all font-bold text-sm">Tarjeta Roja TV</a>
+                    <a href="/tarjeta-roja-en-vivo/" className="px-6 py-3 bg-card rounded-full border border-white/5 hover:bg-primary hover:text-white transition-all font-bold text-sm">Tarjeta Roja en Vivo</a>
+                    <a href="/tarjetarojaenvivo/" className="px-6 py-3 bg-card rounded-full border border-white/5 hover:bg-primary hover:text-white transition-all font-bold text-sm">TarjetaRojaEnvivo</a>
+                    <a href="/tarjeta-roja-directa/" className="px-6 py-3 bg-card rounded-full border border-white/5 hover:bg-primary hover:text-white transition-all font-bold text-sm">Tarjeta Roja Directa</a>
+                </div>
+            </section>
         </div>
     );
 }
