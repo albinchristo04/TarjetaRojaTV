@@ -83,23 +83,25 @@ export default function Home() {
 
     return (
         <div className="bg-background min-h-screen pb-20">
-            <Title>Tarjeta Roja TV - Deportes en Vivo Gratis</Title>
-            <Meta name="description" content="Ver fútbol, NBA, UFC, tenis y más deportes en vivo gratis. Tarjeta Roja TV ofrece streams de alta calidad." />
+            <Title>Tarjeta Roja En Vivo - Horarios y Estadísticas de Fútbol Hoy</Title>
+            <Meta name="description" content="Consulta los horarios de fútbol en vivo, estadísticas head-to-head y resultados de hoy. Información deportiva actualizada de las mejores ligas del mundo." />
 
             {heroMatch && <Hero match={heroMatch} />}
 
+            {/* SECTION 1 — 🔴 Partidos en Vivo */}
             {liveMatches.length > 0 && (
                 <section className="mt-8">
                     <div className="container mx-auto px-4 mb-4 flex items-center gap-2">
                         <div className="w-2 h-2 rounded-full bg-live animate-pulse" />
-                        <h2 className="text-xl font-bold tracking-wide uppercase">EN VIVO AHORA</h2>
+                        <h2 className="text-xl font-bold tracking-wide uppercase">Partidos en Vivo</h2>
                     </div>
                     <LiveCarousel matches={liveMatches} />
                 </section>
             )}
 
+            {/* SECTION 2 — ⏱️ Próximos Partidos */}
             <section className="container mx-auto px-4 mt-12" id="schedule">
-                <h2 className="text-xl font-bold tracking-wide uppercase mb-6">Próximos Eventos</h2>
+                <h2 className="text-xl font-bold tracking-wide uppercase mb-6">Próximos Partidos</h2>
 
                 <div className="flex flex-col md:flex-row gap-4 mb-8 justify-between">
                     <div className="flex gap-2 overflow-x-auto pb-2 no-scrollbar">
@@ -131,21 +133,21 @@ export default function Home() {
                 <MatchGrid matches={displayMatches.filter(m => !isLive(m) || activeCategory !== 'All')} />
             </section>
 
-            {/* SECTION 3 — ⚽ Fútbol Hoy */}
+            {/* SECTION 3 — 📅 Partidos de Hoy */}
             <section className="container mx-auto px-4 mt-16">
-                <h2 className="text-xl font-bold tracking-wide uppercase mb-6">⚽ Fútbol Hoy</h2>
+                <h2 className="text-xl font-bold tracking-wide uppercase mb-6">📅 Partidos de Hoy</h2>
                 <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4">
                     <a href="/partidos-de-hoy/" className="bg-card p-4 rounded-lg border border-white/5 hover:border-primary/50 transition-colors">
                         <h3 className="font-bold text-primary">Partidos de Hoy</h3>
-                        <p className="text-xs text-gray-400">Todos los encuentros programados para el día de hoy.</p>
+                        <p className="text-xs text-gray-400">Consulta el calendario completo de encuentros para el día de hoy.</p>
                     </a>
                     <a href="/futbol-en-vivo-hoy/" className="bg-card p-4 rounded-lg border border-white/5 hover:border-primary/50 transition-colors">
                         <h3 className="font-bold text-primary">Fútbol en Vivo Hoy</h3>
-                        <p className="text-xs text-gray-400">Transmisiones en directo disponibles ahora mismo.</p>
+                        <p className="text-xs text-gray-400">Información en tiempo real sobre los partidos que se juegan ahora.</p>
                     </a>
                     <a href="/ver-futbol-online/" className="bg-card p-4 rounded-lg border border-white/5 hover:border-primary/50 transition-colors">
                         <h3 className="font-bold text-primary">Ver Fútbol Online</h3>
-                        <p className="text-xs text-gray-400">Guía completa para ver fútbol por internet gratis.</p>
+                        <p className="text-xs text-gray-400">Guía informativa sobre cómo seguir el fútbol por internet legalmente.</p>
                     </a>
                 </div>
             </section>
