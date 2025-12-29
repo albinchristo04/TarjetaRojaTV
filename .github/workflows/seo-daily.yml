@@ -1,0 +1,29 @@
+name: TarjetaRojaEnvivo Daily SEO
+
+on:
+  schedule:
+    - cron: '0 3 * * *'
+  workflow_dispatch:
+
+jobs:
+  seo:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - run: npm ci
+      - name: Run SEO Daily Script
+        run: npm run seo-daily
+      - name: Ping Search Engines
+        run: |
+          curl -s "https://www.google.com/ping?sitemap=https://tarjetarojaenvivo.live/sitemap-index.xml"
+          curl -s "https://www.bing.com/ping?sitemap=https://tarjetarojaenvivo.live/sitemap-index.xml"
+      - name: Commit and Push Changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add public/ sitemap-index.xml sitemap-partidos.xml sitemap-hubs.xml seo-metadata.json
+          git commit -m "🤖 Daily SEO Update: Brand, Hubs, and Match Pages" || echo "No changes to commit"
+          git push

@@ -9,6 +9,7 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "generate": "node generate-seo.cjs",
+    "seo-daily": "node scripts/seo-daily.cjs",
     "submit-bing": "node submit-bing.cjs",
     "test": "node test-seo.js"
   },

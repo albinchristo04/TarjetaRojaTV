@@ -18,20 +18,24 @@ export default function Footer() {
                     </div>
 
                     <div>
-                        <h3 className="text-white font-bold mb-4 uppercase tracking-wider text-sm">Legal</h3>
+                        <h3 className="text-white font-bold mb-4 uppercase tracking-wider text-sm">Marcas</h3>
                         <ul className="space-y-2 text-sm text-gray-400">
-                            <li><Link to="/dmca" className="hover:text-primary transition-colors">DMCA / Copyright</Link></li>
-                            <li><Link to="/privacy-policy" className="hover:text-primary transition-colors">Política de Privacidad</Link></li>
-                            <li><Link to="/terms" className="hover:text-primary transition-colors">Términos de Uso</Link></li>
+                            <li><a href="/tarjeta-roja/" className="hover:text-primary transition-colors">Tarjeta Roja</a></li>
+                            <li><a href="/tarjeta-roja-tv/" className="hover:text-primary transition-colors">Tarjeta Roja TV</a></li>
+                            <li><a href="/tarjeta-roja-en-vivo/" className="hover:text-primary transition-colors">Tarjeta Roja en Vivo</a></li>
+                            <li><a href="/tarjetarojaenvivo/" className="hover:text-primary transition-colors">TarjetaRojaEnvivo</a></li>
+                            <li><a href="/tarjeta-roja-directa/" className="hover:text-primary transition-colors">Tarjeta Roja Directa</a></li>
                         </ul>
                     </div>
 
                     <div>
-                        <h3 className="text-white font-bold mb-4 uppercase tracking-wider text-sm">Sitio</h3>
+                        <h3 className="text-white font-bold mb-4 uppercase tracking-wider text-sm">Explorar</h3>
                         <ul className="space-y-2 text-sm text-gray-400">
-                            <li><Link to="/about" className="hover:text-primary transition-colors">Sobre Nosotros</Link></li>
-                            <li><Link to="/contact" className="hover:text-primary transition-colors">Contacto</Link></li>
-                            <li><Link to="/" className="hover:text-primary transition-colors">Inicio</Link></li>
+                            <li><a href="/futbol-en-vivo/" className="hover:text-primary transition-colors">Fútbol en Vivo</a></li>
+                            <li><a href="/partidos-de-hoy/" className="hover:text-primary transition-colors">Partidos de Hoy</a></li>
+                            <li><a href="/futbol-gratis/" className="hover:text-primary transition-colors">Fútbol Gratis</a></li>
+                            <li><a href="/canales-deportivos-en-vivo/" className="hover:text-primary transition-colors">Canales en Vivo</a></li>
+                            <li><Link to="/dmca" className="hover:text-primary transition-colors">DMCA</Link></li>
                         </ul>
                     </div>
                 </div>
