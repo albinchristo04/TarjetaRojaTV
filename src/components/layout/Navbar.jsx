@@ -11,9 +11,10 @@ export default function Navbar() {
 
                 <div className="hidden md:flex items-center gap-6">
                     <Link to="/" className="text-sm font-semibold hover:text-primary transition-colors">Inicio</Link>
-                    <a href="/tarjeta-roja/" className="text-sm font-semibold hover:text-primary transition-colors">Tarjeta Roja</a>
                     <a href="/futbol-en-vivo/" className="text-sm font-semibold hover:text-primary transition-colors">Fútbol En Vivo</a>
                     <a href="/partidos-de-hoy/" className="text-sm font-semibold hover:text-primary transition-colors">Partidos de Hoy</a>
+                    <a href="/tarjeta-roja-tv/" className="text-sm font-semibold hover:text-primary transition-colors">Tarjeta Roja TV</a>
+                    <a href="/contact-us/" className="text-sm font-semibold hover:text-primary transition-colors">Contacto</a>
                 </div>
             </div>
         </nav>

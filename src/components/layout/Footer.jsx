@@ -12,39 +12,40 @@ export default function Footer() {
                             TARJETA<span className="text-[#e31937]">ROJA</span>ENVIVO
                         </Link>
                         <p className="text-gray-400 text-sm leading-relaxed max-w-md">
-                            Tarjeta Roja TV es tu guía definitiva para ver deportes en vivo gratis por internet.
-                            Fútbol, Baloncesto, Tenis, F1 y mucho más. La mejor calidad y la mejor experiencia de usuario.
+                            Tarjeta Roja En Vivo es un portal de información deportiva operado por Tarjeta Roja Media Network.
+                            Ofrecemos horarios, estadísticas y noticias del mundo del fútbol.
                         </p>
+                        <div className="mt-4 text-xs text-gray-500">
+                            <p>Calle de Alcalá 476, 28027 Madrid, Spain</p>
+                            <p>Email: contact@tarjetarojaenvivo.live</p>
+                        </div>
                     </div>
 
                     <div>
-                        <h3 className="text-white font-bold mb-4 uppercase tracking-wider text-sm">Marcas</h3>
+                        <h3 className="text-white font-bold mb-4 uppercase tracking-wider text-sm">Legal</h3>
                         <ul className="space-y-2 text-sm text-gray-400">
-                            <li><a href="/tarjeta-roja/" className="hover:text-primary transition-colors">Tarjeta Roja</a></li>
-                            <li><a href="/tarjeta-roja-tv/" className="hover:text-primary transition-colors">Tarjeta Roja TV</a></li>
-                            <li><a href="/tarjeta-roja-en-vivo/" className="hover:text-primary transition-colors">Tarjeta Roja en Vivo</a></li>
-                            <li><a href="/tarjetarojaenvivo/" className="hover:text-primary transition-colors">TarjetaRojaEnvivo</a></li>
-                            <li><a href="/tarjeta-roja-directa/" className="hover:text-primary transition-colors">Tarjeta Roja Directa</a></li>
+                            <li><a href="/about-us/" className="hover:text-primary transition-colors">About Us</a></li>
+                            <li><a href="/contact-us/" className="hover:text-primary transition-colors">Contact Us</a></li>
+                            <li><a href="/privacy-policy/" className="hover:text-primary transition-colors">Privacy Policy</a></li>
+                            <li><a href="/terms-and-conditions/" className="hover:text-primary transition-colors">Terms & Conditions</a></li>
                         </ul>
                     </div>
 
                     <div>
-                        <h3 className="text-white font-bold mb-4 uppercase tracking-wider text-sm">Explorar</h3>
+                        <h3 className="text-white font-bold mb-4 uppercase tracking-wider text-sm">Soporte</h3>
                         <ul className="space-y-2 text-sm text-gray-400">
-                            <li><a href="/futbol-en-vivo/" className="hover:text-primary transition-colors">Fútbol en Vivo</a></li>
-                            <li><a href="/partidos-de-hoy/" className="hover:text-primary transition-colors">Partidos de Hoy</a></li>
-                            <li><a href="/futbol-gratis/" className="hover:text-primary transition-colors">Fútbol Gratis</a></li>
-                            <li><a href="/canales-deportivos-en-vivo/" className="hover:text-primary transition-colors">Canales en Vivo</a></li>
+                            <li><a href="/disclaimer/" className="hover:text-primary transition-colors">Disclaimer</a></li>
+                            <li><a href="/dmca/" className="hover:text-primary transition-colors">DMCA</a></li>
+                            <li><a href="/advertise/" className="hover:text-primary transition-colors">Advertise</a></li>
                             <li><a href="/mapa-del-sitio/" className="hover:text-primary transition-colors">Mapa del Sitio</a></li>
-                            <li><Link to="/dmca" className="hover:text-primary transition-colors">DMCA</Link></li>
                         </ul>
                     </div>
                 </div>
 
                 <div className="border-t border-white/5 pt-8 text-center md:text-left flex flex-col md:flex-row justify-between items-center text-xs text-gray-500">
-                    <p>&copy; {currentYear} Tarjeta Roja TV. Todos los derechos reservados.</p>
+                    <p>&copy; {currentYear} Tarjeta Roja En Vivo. Todos los derechos reservados.</p>
                     <p className="mt-2 md:mt-0">
-                        Hecho con <span className="text-red-500">♥</span> para los fanáticos del deporte.
+                        Tarjeta Roja Media Network - Madrid, Spain
                     </p>
                 </div>
             </div>

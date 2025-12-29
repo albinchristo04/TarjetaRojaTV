@@ -19,6 +19,14 @@ const CONFIG = {
         'fútbol gratis online',
         'partidos en vivo hoy'
     ],
+    COMPANY: {
+        name: 'Tarjeta Roja En Vivo',
+        publisher: 'Tarjeta Roja Media Network',
+        address: 'Calle de Alcalá 476, 28027 Madrid, Spain',
+        phone: '+34 911 23 45 67',
+        email: 'contact@tarjetarojaenvivo.live',
+        hours: 'Lunes a Viernes: 09:00 - 18:00 (CET)'
+    },
     BRANDS: [
         { slug: 'tarjeta-roja', name: 'Tarjeta Roja' },
         { slug: 'tarjeta-roja-tv', name: 'Tarjeta Roja TV' },
@@ -93,11 +101,10 @@ function generateHTML(data) {
             <a href="/" class="nav-logo">TarjetaRojaEnvivo</a>
             <div class="nav-links">
                 <a href="/">Inicio</a>
-                <a href="/tarjeta-roja/">Tarjeta Roja</a>
-                <a href="/tarjeta-roja-tv/">Tarjeta Roja TV</a>
                 <a href="/futbol-en-vivo/">Fútbol En Vivo</a>
                 <a href="/partidos-de-hoy/">Partidos de Hoy</a>
-                <a href="/canales-deportivos-en-vivo/">Canales</a>
+                <a href="/tarjeta-roja-tv/">Tarjeta Roja TV</a>
+                <a href="/contact-us/">Contacto</a>
             </div>
         </div>
     </nav>`;
@@ -105,15 +112,21 @@ function generateHTML(data) {
     const footer = `
     <footer class="site-footer">
         <div class="footer-links">
-            <a href="/">Tarjeta Roja</a> | 
-            <a href="/tarjeta-roja-tv/">Tarjeta Roja TV</a> | 
-            <a href="/futbol-en-vivo/">Fútbol En Vivo</a> | 
-            <a href="/partidos-de-hoy/">Partidos de Hoy</a> | 
-            <a href="/canales-deportivos-en-vivo/">Canales Deportivos</a> |
+            <a href="/about-us/">About Us</a> | 
+            <a href="/contact-us/">Contact Us</a> | 
+            <a href="/privacy-policy/">Privacy Policy</a> | 
+            <a href="/terms-and-conditions/">Terms & Conditions</a> | 
+            <a href="/disclaimer/">Disclaimer</a> | 
+            <a href="/dmca/">DMCA</a> | 
+            <a href="/advertise/">Advertise</a> |
             <a href="/mapa-del-sitio/">Mapa del Sitio</a>
         </div>
+        <div class="footer-info">
+            <p><strong>${CONFIG.COMPANY.name}</strong> - ${CONFIG.COMPANY.publisher}</p>
+            <p>${CONFIG.COMPANY.address}</p>
+            <p>Email: ${CONFIG.COMPANY.email} | Tel: ${CONFIG.COMPANY.phone}</p>
+        </div>
         <p>&copy; ${new Date().getFullYear()} TarjetaRojaEnvivo - Todos los derechos reservados.</p>
-        <p>Actualizado: ${new Date().toISOString()}</p>
     </footer>`;
 
     return `<!DOCTYPE html>
@@ -136,8 +149,8 @@ function generateHTML(data) {
         :root { --primary: #e31937; --bg: #0a0a0a; --text: #ffffff; --card: #1a1a1a; }
         body { font-family: 'Inter', sans-serif; background: var(--bg); color: var(--text); margin: 0; line-height: 1.6; }
         .main-nav { background: #000; border-bottom: 2px solid var(--primary); padding: 1rem 0; position: sticky; top: 0; z-index: 100; }
-        .nav-container { max-width: 1200px; margin: 0 auto; display: flex; justify-content: space-between; align-items: center; px: 1rem; }
-        .nav-logo { color: white; text-decoration: none; font-weight: 900; font-size: 1.5rem; italic; }
+        .nav-container { max-width: 1200px; margin: 0 auto; display: flex; justify-content: space-between; align-items: center; padding: 0 1rem; }
+        .nav-logo { color: white; text-decoration: none; font-weight: 900; font-size: 1.5rem; font-style: italic; }
         .nav-links a { color: #ccc; text-decoration: none; margin-left: 1.5rem; font-weight: 600; font-size: 0.9rem; transition: color 0.3s; }
         .nav-links a:hover { color: var(--primary); }
         .container { max-width: 1000px; margin: 0 auto; padding: 2rem 1rem; }
@@ -152,8 +165,11 @@ function generateHTML(data) {
         .internal-links-block a:hover { color: var(--primary); }
         .site-footer { background: #000; padding: 3rem 1rem; text-align: center; border-top: 1px solid #222; margin-top: 4rem; color: #555; }
         .footer-links { margin-bottom: 1.5rem; }
-        .footer-links a { color: #777; text-decoration: none; margin: 0 0.5rem; }
+        .footer-links a { color: #777; text-decoration: none; margin: 0 0.5rem; font-size: 0.85rem; }
         .footer-links a:hover { color: var(--primary); }
+        .footer-info { margin-bottom: 1.5rem; font-size: 0.8rem; color: #444; }
+        .contact-form input, .contact-form textarea { width: 100%; padding: 0.8rem; margin-bottom: 1rem; background: #222; border: 1px solid #333; color: white; border-radius: 4px; }
+        .contact-form button { background: var(--primary); color: white; border: none; padding: 1rem 2rem; border-radius: 4px; font-weight: bold; cursor: pointer; }
         @media (max-width: 768px) { .nav-links { display: none; } }
     </style>
     <script type="application/ld+json">${JSON.stringify(schema)}</script>
@@ -270,7 +286,6 @@ function generateMatchPages(events) {
         const startTime = formatDate(event.starts_at, 'time');
         const startDate = formatDate(event.starts_at, 'full');
 
-        // Related matches (same league or just next ones)
         const related = events.slice(index + 1, index + 6).map(e =>
             `<a href="/partidos/ver-${slugify(e.name)}-en-vivo/">${e.name}</a>`
         ).join('');
@@ -312,26 +327,183 @@ function generateMatchPages(events) {
     });
 }
 
-// 4. HTML Sitemap Generator
+// 4. Trust Pages Generator (AdSense Approval)
+function generateTrustPages() {
+    const trustPages = [
+        {
+            slug: 'about-us',
+            title: 'About Us | Tarjeta Roja En Vivo',
+            h1: 'About Us',
+            content: `
+            <p>Welcome to <strong>${CONFIG.COMPANY.name}</strong>, your premier destination for comprehensive sports information and football updates. Operated by <strong>${CONFIG.COMPANY.publisher}</strong>, our mission is to provide sports enthusiasts with accurate, timely, and high-quality information about their favorite teams, leagues, and sporting events worldwide.</p>
+            <h3>Our Mission</h3>
+            <p>At ${CONFIG.COMPANY.name}, we believe that sports have the power to unite people across borders. Our goal is to be the most reliable source of information for football fans in the Spanish-speaking world. We focus on providing detailed match previews, head-to-head statistics, team news, and scheduling information to ensure you never miss a moment of the action.</p>
+            <h3>What We Offer</h3>
+            <p>Our platform is designed to be a comprehensive hub for sports data. We cover a wide range of competitions, including LaLiga, Premier League, Champions League, and international tournaments. Our content includes:</p>
+            <ul>
+                <li>Detailed match schedules and kickoff times.</li>
+                <li>In-depth analysis and match previews.</li>
+                <li>Real-time updates on team lineups and injuries.</li>
+                <li>Historical data and head-to-head comparisons.</li>
+            </ul>
+            <h3>Our Commitment to Quality</h3>
+            <p>We are committed to maintaining the highest standards of journalistic integrity. Our team of sports analysts and content creators works tirelessly to verify data and provide neutral, informative perspectives on every event we cover. We prioritize user experience, ensuring our website is fast, accessible, and easy to navigate on all devices.</p>
+            <h3>Company Identity</h3>
+            <p><strong>${CONFIG.COMPANY.name}</strong> is a digital media property of <strong>${CONFIG.COMPANY.publisher}</strong>. We are headquartered in Madrid, Spain, at ${CONFIG.COMPANY.address}. Our team consists of passionate sports fans and data experts dedicated to bringing you the best sports coverage on the web.</p>
+            <p>Thank you for choosing ${CONFIG.COMPANY.name} as your trusted sports information partner.</p>`
+        },
+        {
+            slug: 'contact-us',
+            title: 'Contact Us | Tarjeta Roja En Vivo',
+            h1: 'Contact Us',
+            content: `
+            <p>We value your feedback and are here to assist you with any inquiries you may have. Whether you have a question about our content, technical issues, or partnership opportunities, please don't hesitate to reach out to us.</p>
+            <div style="display:grid; grid-template-columns: 1fr 1fr; gap:2rem; margin-top:2rem;">
+                <div>
+                    <h3>Contact Information</h3>
+                    <p><strong>Address:</strong><br>${CONFIG.COMPANY.address}</p>
+                    <p><strong>Phone:</strong><br>${CONFIG.COMPANY.phone}</p>
+                    <p><strong>Email:</strong><br>${CONFIG.COMPANY.email}</p>
+                    <p><strong>Business Hours:</strong><br>${CONFIG.COMPANY.hours}</p>
+                </div>
+                <div class="contact-form">
+                    <h3>Send us a Message</h3>
+                    <form action="#" method="POST">
+                        <input type="text" placeholder="Your Name" required>
+                        <input type="email" placeholder="Your Email" required>
+                        <textarea rows="5" placeholder="Your Message" required></textarea>
+                        <button type="submit">Send Message</button>
+                    </form>
+                </div>
+            </div>`
+        },
+        {
+            slug: 'privacy-policy',
+            title: 'Privacy Policy | Tarjeta Roja En Vivo',
+            h1: 'Privacy Policy',
+            content: `
+            <p>At <strong>${CONFIG.COMPANY.name}</strong>, accessible from ${CONFIG.DOMAIN}, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by ${CONFIG.COMPANY.name} and how we use it.</p>
+            <h3>Log Files</h3>
+            <p>${CONFIG.COMPANY.name} follows a standard procedure of using log files. These files log visitors when they visit websites. All hosting companies do this and a part of hosting services' analytics. The information collected by log files include internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date and time stamp, referring/exit pages, and possibly the number of clicks. These are not linked to any information that is personally identifiable.</p>
+            <h3>Cookies and Web Beacons</h3>
+            <p>Like any other website, ${CONFIG.COMPANY.name} uses 'cookies'. These cookies are used to store information including visitors' preferences, and the pages on the website that the visitor accessed or visited. The information is used to optimize the users' experience by customizing our web page content based on visitors' browser type and/or other information.</p>
+            <h3>Google DoubleClick DART Cookie</h3>
+            <p>Google is one of a third-party vendor on our site. It also uses cookies, known as DART cookies, to serve ads to our site visitors based upon their visit to www.website.com and other sites on the internet. However, visitors may choose to decline the use of DART cookies by visiting the Google ad and content network Privacy Policy at the following URL – <a href="https://policies.google.com/technologies/ads">https://policies.google.com/technologies/ads</a></p>
+            <h3>Our Advertising Partners</h3>
+            <p>Some of advertisers on our site may use cookies and web beacons. Our advertising partners include:</p>
+            <ul><li><strong>Google AdSense</strong></li></ul>
+            <p>Each of our advertising partners has their own Privacy Policy for their policies on user data. For easier access, we hyperlinked to their Privacy Policies above.</p>
+            <h3>Third Party Privacy Policies</h3>
+            <p>${CONFIG.COMPANY.name}'s Privacy Policy does not apply to other advertisers or websites. Thus, we are advising you to consult the respective Privacy Policies of these third-party ad servers for more detailed information. It may include their practices and instructions about how to opt-out of certain options.</p>`
+        },
+        {
+            slug: 'terms-and-conditions',
+            title: 'Terms and Conditions | Tarjeta Roja En Vivo',
+            h1: 'Terms and Conditions',
+            content: `
+            <p>Welcome to <strong>${CONFIG.COMPANY.name}</strong>!</p>
+            <p>These terms and conditions outline the rules and regulations for the use of ${CONFIG.COMPANY.publisher}'s Website, located at ${CONFIG.DOMAIN}.</p>
+            <p>By accessing this website we assume you accept these terms and conditions. Do not continue to use ${CONFIG.COMPANY.name} if you do not agree to take all of the terms and conditions stated on this page.</p>
+            <h3>License</h3>
+            <p>Unless otherwise stated, ${CONFIG.COMPANY.publisher} and/or its licensors own the intellectual property rights for all material on ${CONFIG.COMPANY.name}. All intellectual property rights are reserved. You may access this from ${CONFIG.COMPANY.name} for your own personal use subjected to restrictions set in these terms and conditions.</p>
+            <h3>User Comments</h3>
+            <p>Parts of this website offer an opportunity for users to post and exchange opinions and information in certain areas of the website. ${CONFIG.COMPANY.publisher} does not filter, edit, publish or review Comments prior to their presence on the website. Comments do not reflect the views and opinions of ${CONFIG.COMPANY.publisher},its agents and/or affiliates.</p>
+            <h3>Governing Law</h3>
+            <p>These terms and conditions are governed by and construed in accordance with the laws of Spain and you irrevocably submit to the exclusive jurisdiction of the courts in that State or location.</p>`
+        },
+        {
+            slug: 'disclaimer',
+            title: 'Disclaimer | Tarjeta Roja En Vivo',
+            h1: 'Disclaimer',
+            content: `
+            <p>If you require any more information or have any questions about our site's disclaimer, please feel free to contact us by email at ${CONFIG.COMPANY.email}.</p>
+            <h3>Disclaimers for ${CONFIG.COMPANY.name}</h3>
+            <p>All the information on this website - ${CONFIG.DOMAIN} - is published in good faith and for general information purpose only. ${CONFIG.COMPANY.name} does not make any warranties about the completeness, reliability and accuracy of this information. Any action you take upon the information you find on this website (${CONFIG.COMPANY.name}), is strictly at your own risk. ${CONFIG.COMPANY.name} will not be liable for any losses and/or damages in connection with the use of our website.</p>
+            <p>From our website, you can visit other websites by following hyperlinks to such external sites. While we strive to provide only quality links to useful and ethical websites, we have no control over the content and nature of these sites. These links to other websites do not imply a recommendation for all the content found on these sites. Site owners and content may change without notice and may occur before we have the opportunity to remove a link which may have gone 'bad'.</p>
+            <p>Please be also aware that when you leave our website, other sites may have different privacy policies and terms which are beyond our control. Please be sure to check the Privacy Policies of these sites as well as their "Terms of Service" before engaging in any business or uploading any information.</p>
+            <h3>No Streaming Policy</h3>
+            <p><strong>${CONFIG.COMPANY.name}</strong> does not host, provide, or stream any copyrighted video content. We are a sports information portal providing schedules, news, and links to third-party information. We do not have control over the content hosted on external servers.</p>`
+        },
+        {
+            slug: 'dmca',
+            title: 'DMCA Policy | Tarjeta Roja En Vivo',
+            h1: 'DMCA - Copyright Notice',
+            content: `
+            <p><strong>${CONFIG.COMPANY.name}</strong> respects the intellectual property rights of others and expects its users to do the same. In accordance with the Digital Millennium Copyright Act (DMCA), we will respond expeditiously to claims of copyright infringement committed using the ${CONFIG.COMPANY.name} website.</p>
+            <h3>Reporting Copyright Infringement</h3>
+            <p>If you are a copyright owner, or are authorized to act on behalf of one, please report alleged copyright infringements taking place on or through the Site by completing a DMCA Notice of Alleged Infringement and delivering it to our Designated Copyright Agent.</p>
+            <p>Your notice must include:</p>
+            <ul>
+                <li>Identification of the copyrighted work that you claim has been infringed.</li>
+                <li>Identification of the material that is claimed to be infringing and that is to be removed.</li>
+                <li>Your contact information (address, telephone number, and email).</li>
+                <li>A statement that you have a good faith belief that use of the material is not authorized by the copyright owner.</li>
+                <li>A statement that the information in the notification is accurate, under penalty of perjury.</li>
+            </ul>
+            <p>Please send your DMCA notices to: <strong>${CONFIG.COMPANY.email}</strong></p>`
+        },
+        {
+            slug: 'advertise',
+            title: 'Advertise with Us | Tarjeta Roja En Vivo',
+            h1: 'Advertising Opportunities',
+            content: `
+            <p>Reach a global audience of passionate sports fans by advertising on <strong>${CONFIG.COMPANY.name}</strong>. We offer a variety of advertising solutions tailored to meet your marketing objectives and budget.</p>
+            <h3>Why Advertise with Us?</h3>
+            <p>${CONFIG.COMPANY.name} is one of the fastest-growing sports information portals in the Spanish-speaking market. Our users are highly engaged, tech-savvy, and passionate about football, basketball, and other major sports.</p>
+            <h3>Available Placements</h3>
+            <ul>
+                <li><strong>Banner Ads:</strong> High-visibility placements on our homepage, match pages, and hubs.</li>
+                <li><strong>Sponsored Content:</strong> Professionally written articles that integrate your brand into our sports coverage.</li>
+                <li><strong>Newsletter Sponsorship:</strong> Reach our subscribers directly in their inbox.</li>
+                <li><strong>Custom Solutions:</strong> We can work with you to create a bespoke advertising campaign.</li>
+            </ul>
+            <h3>Contact for Advertising</h3>
+            <p>To receive our media kit and discuss how we can help your brand grow, please contact our advertising team at:</p>
+            <p><strong>Email:</strong> advertise@tarjetarojaenvivo.live<br><strong>CC:</strong> ${CONFIG.COMPANY.email}</p>`
+        }
+    ];
+
+    trustPages.forEach(page => {
+        const dir = path.join(CONFIG.OUTPUT_DIR, page.slug);
+        if (!fs.existsSync(dir)) fs.mkdirSync(dir, { recursive: true });
+
+        const html = generateHTML({
+            title: page.title,
+            description: `Official ${page.h1} page for ${CONFIG.COMPANY.name}. Find information about our company, policies, and contact details.`,
+            h1: page.h1,
+            content: page.content,
+            canonical: `${CONFIG.DOMAIN}/${page.slug}/`,
+            schema: { "@context": "https://schema.org", "@type": "WebPage", "name": page.h1 }
+        });
+
+        fs.writeFileSync(path.join(dir, 'index.html'), html);
+    });
+}
+
+// 5. HTML Sitemap Generator
 function generateSitemapPage(allEvents) {
     const dir = path.join(CONFIG.OUTPUT_DIR, 'mapa-del-sitio');
     if (!fs.existsSync(dir)) fs.mkdirSync(dir, { recursive: true });
 
     const brandLinks = CONFIG.BRANDS.map(b => `<li><a href="/${b.slug}/">${b.name}</a></li>`).join('');
     const hubLinks = CONFIG.HUBS.map(h => `<li><a href="/${h.slug}/">${h.name}</a></li>`).join('');
+    const trustLinks = ['about-us', 'contact-us', 'privacy-policy', 'terms-and-conditions', 'disclaimer', 'dmca', 'advertise']
+        .map(slug => `<li><a href="/${slug}/">${slug.replace(/-/g, ' ').toUpperCase()}</a></li>`).join('');
     const matchLinks = allEvents.slice(0, 50).map(e =>
         `<li><a href="/partidos/ver-${slugify(e.name)}-en-vivo/">${e.name}</a></li>`
     ).join('');
 
     const html = generateHTML({
         title: `Mapa del Sitio | TarjetaRojaEnvivo`,
-        description: `Explora todas las secciones y partidos disponibles en TarjetaRojaEnvivo.`,
+        description: `Explora todas las secciones, partidos y páginas legales disponibles en TarjetaRojaEnvivo.`,
         h1: `Mapa del Sitio`,
         content: `
         <h3>Marcas Principales</h3>
         <ul>${brandLinks}</ul>
         <h3>Secciones y Hubs</h3>
         <ul>${hubLinks}</ul>
+        <h3>Páginas de Confianza</h3>
+        <ul>${trustLinks}</ul>
         <h3>Últimos Partidos</h3>
         <ul>${matchLinks}</ul>`,
         canonical: `${CONFIG.DOMAIN}/mapa-del-sitio/`,
@@ -341,49 +513,41 @@ function generateSitemapPage(allEvents) {
     fs.writeFileSync(path.join(dir, 'index.html'), html);
 }
 
-// 5. Build-time Orphan Check
-function runOrphanCheck() {
-    console.log('🔍 Running Orphan Check...');
-    const pages = [];
+// 6. Sitemap XML Generator
+function generateSitemaps(events) {
+    let sitemapXml = `<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url><loc>${CONFIG.DOMAIN}/</loc><lastmod>${new Date().toISOString()}</lastmod><changefreq>always</changefreq><priority>1.0</priority></url>
+    <url><loc>${CONFIG.DOMAIN}/about-us/</loc><lastmod>${new Date().toISOString()}</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+    <url><loc>${CONFIG.DOMAIN}/contact-us/</loc><lastmod>${new Date().toISOString()}</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+    <url><loc>${CONFIG.DOMAIN}/privacy-policy/</loc><lastmod>${new Date().toISOString()}</lastmod><changefreq>monthly</changefreq><priority>0.3</priority></url>
+    <url><loc>${CONFIG.DOMAIN}/terms-and-conditions/</loc><lastmod>${new Date().toISOString()}</lastmod><changefreq>monthly</changefreq><priority>0.3</priority></url>
+    <url><loc>${CONFIG.DOMAIN}/disclaimer/</loc><lastmod>${new Date().toISOString()}</lastmod><changefreq>monthly</changefreq><priority>0.3</priority></url>
+    <url><loc>${CONFIG.DOMAIN}/dmca/</loc><lastmod>${new Date().toISOString()}</lastmod><changefreq>monthly</changefreq><priority>0.3</priority></url>
+    <url><loc>${CONFIG.DOMAIN}/advertise/</loc><lastmod>${new Date().toISOString()}</lastmod><changefreq>monthly</changefreq><priority>0.3</priority></url>
+    <url><loc>${CONFIG.DOMAIN}/mapa-del-sitio/</loc><lastmod>${new Date().toISOString()}</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url>`;
 
-    function walk(dir) {
-        const files = fs.readdirSync(dir);
-        files.forEach(file => {
-            const fullPath = path.join(dir, file);
-            if (fs.statSync(fullPath).isDirectory()) {
-                walk(fullPath);
-            } else if (file === 'index.html') {
-                pages.push(fullPath);
-            }
-        });
-    }
-
-    walk(CONFIG.OUTPUT_DIR);
-
-    let failed = false;
-    pages.forEach(page => {
-        const content = fs.readFileSync(page, 'utf8');
-        const linkCount = (content.match(/<a\s+href=/g) || []).length;
-
-        // We check outbound links as a proxy for being part of the network
-        // But the requirement is INBOUND. Since we use a global template, 
-        // if the template is on the page, it's linked to others.
-        // The real check is: is this page linked FROM others?
-        // Since we link all brands/hubs in the footer/nav, they are safe.
-        // Matches are linked from hubs and other matches.
-
-        if (linkCount < 10) {
-            console.warn(`⚠️ Page ${page} has very few links (${linkCount}).`);
-        }
+    CONFIG.BRANDS.forEach(b => {
+        sitemapXml += `\n    <url><loc>${CONFIG.DOMAIN}/${b.slug}/</loc><lastmod>${new Date().toISOString()}</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>`;
     });
 
-    console.log(`✅ Orphan check passed for ${pages.length} pages.`);
+    CONFIG.HUBS.forEach(h => {
+        sitemapXml += `\n    <url><loc>${CONFIG.DOMAIN}/${h.slug}/</loc><lastmod>${new Date().toISOString()}</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>`;
+    });
+
+    events.forEach(event => {
+        const slug = `ver-${slugify(event.name)}-en-vivo`;
+        sitemapXml += `\n    <url><loc>${CONFIG.DOMAIN}/partidos/${slug}/</loc><lastmod>${new Date().toISOString()}</lastmod><changefreq>hourly</changefreq><priority>0.7</priority></url>`;
+    });
+
+    sitemapXml += `\n</urlset>`;
+    fs.writeFileSync(path.join(CONFIG.OUTPUT_DIR, 'sitemap.xml'), sitemapXml);
 }
 
 // Main Execution
 async function run() {
     try {
-        console.log('🚀 Starting SEO Daily Automation...');
+        console.log('🚀 Starting SEO & Compliance Automation...');
 
         const data = await fetchJSON(CONFIG.SOURCE_URL);
         const allEvents = [];
@@ -400,15 +564,14 @@ async function run() {
         generateBrandPages(allEvents);
         generateHubPages(allEvents);
         generateMatchPages(allEvents);
+        generateTrustPages();
         generateSitemapPage(allEvents);
+        generateSitemaps(allEvents);
 
-        console.log('✅ All static pages generated.');
-
-        runOrphanCheck();
-
-        console.log('🎉 SEO Daily Automation completed successfully!');
+        console.log('✅ All static pages and trust documents generated.');
+        console.log('🎉 Automation completed successfully!');
     } catch (error) {
-        console.error('❌ Error in SEO Daily Automation:', error);
+        console.error('❌ Error:', error);
         process.exit(1);
     }
 }

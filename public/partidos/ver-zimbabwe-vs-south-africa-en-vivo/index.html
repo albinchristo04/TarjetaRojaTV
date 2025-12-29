@@ -18,8 +18,8 @@
         :root { --primary: #e31937; --bg: #0a0a0a; --text: #ffffff; --card: #1a1a1a; }
         body { font-family: 'Inter', sans-serif; background: var(--bg); color: var(--text); margin: 0; line-height: 1.6; }
         .main-nav { background: #000; border-bottom: 2px solid var(--primary); padding: 1rem 0; position: sticky; top: 0; z-index: 100; }
-        .nav-container { max-width: 1200px; margin: 0 auto; display: flex; justify-content: space-between; align-items: center; px: 1rem; }
-        .nav-logo { color: white; text-decoration: none; font-weight: 900; font-size: 1.5rem; italic; }
+        .nav-container { max-width: 1200px; margin: 0 auto; display: flex; justify-content: space-between; align-items: center; padding: 0 1rem; }
+        .nav-logo { color: white; text-decoration: none; font-weight: 900; font-size: 1.5rem; font-style: italic; }
         .nav-links a { color: #ccc; text-decoration: none; margin-left: 1.5rem; font-weight: 600; font-size: 0.9rem; transition: color 0.3s; }
         .nav-links a:hover { color: var(--primary); }
         .container { max-width: 1000px; margin: 0 auto; padding: 2rem 1rem; }
@@ -34,8 +34,11 @@
         .internal-links-block a:hover { color: var(--primary); }
         .site-footer { background: #000; padding: 3rem 1rem; text-align: center; border-top: 1px solid #222; margin-top: 4rem; color: #555; }
         .footer-links { margin-bottom: 1.5rem; }
-        .footer-links a { color: #777; text-decoration: none; margin: 0 0.5rem; }
+        .footer-links a { color: #777; text-decoration: none; margin: 0 0.5rem; font-size: 0.85rem; }
         .footer-links a:hover { color: var(--primary); }
+        .footer-info { margin-bottom: 1.5rem; font-size: 0.8rem; color: #444; }
+        .contact-form input, .contact-form textarea { width: 100%; padding: 0.8rem; margin-bottom: 1rem; background: #222; border: 1px solid #333; color: white; border-radius: 4px; }
+        .contact-form button { background: var(--primary); color: white; border: none; padding: 1rem 2rem; border-radius: 4px; font-weight: bold; cursor: pointer; }
         @media (max-width: 768px) { .nav-links { display: none; } }
     </style>
     <script type="application/ld+json">{"@context":"https://schema.org","@type":"SportsEvent","name":"Zimbabwe vs. South Africa","startDate":"2025-12-29T16:00:00.000Z","location":{"@type":"VirtualLocation","url":"https://tarjetarojaenvivo.live/partidos/ver-zimbabwe-vs-south-africa-en-vivo/"}}</script>
@@ -47,11 +50,10 @@
             <a href="/" class="nav-logo">TarjetaRojaEnvivo</a>
             <div class="nav-links">
                 <a href="/">Inicio</a>
-                <a href="/tarjeta-roja/">Tarjeta Roja</a>
-                <a href="/tarjeta-roja-tv/">Tarjeta Roja TV</a>
                 <a href="/futbol-en-vivo/">Fútbol En Vivo</a>
                 <a href="/partidos-de-hoy/">Partidos de Hoy</a>
-                <a href="/canales-deportivos-en-vivo/">Canales</a>
+                <a href="/tarjeta-roja-tv/">Tarjeta Roja TV</a>
+                <a href="/contact-us/">Contacto</a>
             </div>
         </div>
     </nav>
@@ -92,15 +94,21 @@
     
     <footer class="site-footer">
         <div class="footer-links">
-            <a href="/">Tarjeta Roja</a> | 
-            <a href="/tarjeta-roja-tv/">Tarjeta Roja TV</a> | 
-            <a href="/futbol-en-vivo/">Fútbol En Vivo</a> | 
-            <a href="/partidos-de-hoy/">Partidos de Hoy</a> | 
-            <a href="/canales-deportivos-en-vivo/">Canales Deportivos</a> |
+            <a href="/about-us/">About Us</a> | 
+            <a href="/contact-us/">Contact Us</a> | 
+            <a href="/privacy-policy/">Privacy Policy</a> | 
+            <a href="/terms-and-conditions/">Terms & Conditions</a> | 
+            <a href="/disclaimer/">Disclaimer</a> | 
+            <a href="/dmca/">DMCA</a> | 
+            <a href="/advertise/">Advertise</a> |
             <a href="/mapa-del-sitio/">Mapa del Sitio</a>
         </div>
+        <div class="footer-info">
+            <p><strong>Tarjeta Roja En Vivo</strong> - Tarjeta Roja Media Network</p>
+            <p>Calle de Alcalá 476, 28027 Madrid, Spain</p>
+            <p>Email: contact@tarjetarojaenvivo.live | Tel: +34 911 23 45 67</p>
+        </div>
         <p>&copy; 2025 TarjetaRojaEnvivo - Todos los derechos reservados.</p>
-        <p>Actualizado: 2025-12-29T16:35:45.850Z</p>
     </footer>
 </body>
 </html>
