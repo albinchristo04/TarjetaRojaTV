@@ -1,100 +1,7 @@
 {
-  "scraped_at": "2025-12-29T02:08:32.863542",
-  "total_matches": 20,
+  "scraped_at": "2025-12-29T04:14:06.656801",
+  "total_matches": 22,
   "matches": [
-    {
-      "title": "Penguins - Blackhawks",
-      "sport": "",
-      "competition": "NHL",
-      "date": "2025-12-29T01:00",
-      "time": "01:00",
-      "end_time": "",
-      "streams": [
-        {
-          "p2p": "NO",
-          "name": "shazysport",
-          "language": "en",
-          "type": "Web flash",
-          "bitrate": "1000",
-          "url": "https://shazysport.xyz/livehd10.html",
-          "nested_iframe": "https://epicplayplay.cfd/embedlivetv.php?id=RcitYCzOmw"
-        },
-        {
-          "p2p": "NO",
-          "name": "daddylive",
-          "language": "en",
-          "type": "Web(flash) + mobile",
-          "bitrate": "1000",
-          "url": "https://daddylivestream.xyz/u8/d14.php",
-          "nested_iframe": "https://ovogoal.cfd/hubplay/stream-14.php"
-        }
-      ]
-    },
-    {
-      "title": "Wings - Leafs",
-      "sport": "",
-      "competition": "NHL",
-      "date": "2025-12-29T01:00",
-      "time": "01:00",
-      "end_time": "",
-      "streams": [
-        {
-          "p2p": "NO",
-          "name": "Sebn 20",
-          "language": "en",
-          "type": "Web (flash)",
-          "bitrate": "1000",
-          "url": "https://sebnsc.dad/281225/sebn-20.html",
-          "nested_iframe": "https://sebnsc.dad/281225/sebn-20.html"
-        },
-        {
-          "p2p": "NO",
-          "name": "daddylive",
-          "language": "en",
-          "type": "Web(flash) + mobile",
-          "bitrate": "1000",
-          "url": "https://daddylivestream.xyz/u8/d13.php",
-          "nested_iframe": "https://ovogoal.cfd/hubplay/stream-13.php"
-        }
-      ]
-    },
-    {
-      "title": "Kraken - Flyers",
-      "sport": "",
-      "competition": "NHL",
-      "date": "2025-12-29T02:00",
-      "time": "02:00",
-      "end_time": "",
-      "streams": [
-        {
-          "p2p": "NO",
-          "name": "Sebn 19",
-          "language": "en",
-          "type": "Web (flash)",
-          "bitrate": "1000",
-          "url": "https://sebnsc.dad/281225/sebn-19.html",
-          "nested_iframe": "https://sebnsc.dad/281225/sebn-19.html"
-        },
-        {
-          "p2p": "NO",
-          "name": "shazysport",
-          "language": "en",
-          "type": "Web flash",
-          "bitrate": "1000",
-          "url": "https://shazysport.xyz/livehd4.html",
-          "nested_iframe": "https://epicplayplay.cfd/embedlivetv.php?id=dBFwalQEqf"
-        },
-        {
-          "p2p": "NO",
-          "name": "daddylive",
-          "language": "en",
-          "type": "Web(flash) + mobile",
-          "bitrate": "1000",
-          "url": "https://daddylivestream.xyz/u8/d15.php",
-          "nested_iframe": "https://ovogoal.cfd/hubplay/stream-15.php"
-        }
-      ]
-    },
     {
       "title": "49ers - Bears",
       "sport": "",
@@ -598,24 +505,6 @@
       "streams": [
         {
           "p2p": "NO",
-          "name": "Primera Live TV 17",
-          "language": "ar",
-          "type": "Web(flash) + mobile",
-          "bitrate": "1000",
-          "url": "https://www.streamysport.xyz/live/live17",
-          "nested_iframe": "https://streamysport.xyz/frame/17.php"
-        },
-        {
-          "p2p": "NO",
-          "name": "Primera Live TV 18",
-          "language": "fr",
-          "type": "Web(flash) + mobile",
-          "bitrate": "1000",
-          "url": "https://www.streamysport.xyz/live/live18",
-          "nested_iframe": "https://streamysport.xyz/frame/18.php"
-        },
-        {
-          "p2p": "NO",
           "name": "Sebn 16",
           "language": "en",
           "type": "Web (flash)",
@@ -640,6 +529,24 @@
           "bitrate": "1000",
           "url": "https://www.channel4.com/now/4S",
           "nested_iframe": "https://www.channel4.com/now/4S"
+        },
+        {
+          "p2p": "NO",
+          "name": "daddylive",
+          "language": "en",
+          "type": "Web(flash) + mobile",
+          "bitrate": "1000",
+          "url": "https://daddylivestream.xyz/u9/d2.php",
+          "nested_iframe": "https://ovogoal.cfd/hubplay/stream-2.php"
+        },
+        {
+          "p2p": "NO",
+          "name": "daddylive",
+          "language": "en",
+          "type": "Web(flash) + mobile",
+          "bitrate": "1000",
+          "url": "https://daddylivestream.xyz/m9/d2.php",
+          "nested_iframe": "https://ovogoal.cfd/hubplay/stream-2.php"
         }
       ]
     },
@@ -731,6 +638,24 @@
           "bitrate": "1000",
           "url": "https://www.sabcsport.com/tv/live",
           "nested_iframe": "//player.mangomolo.com/v1/live?id=MTk0&channelid=MzIz&countries=WkE=&w=100%25&h=100%25&autoplay=true&filter=ALLOW&signature=dd0eb8c02a6516620519e8a0fe2f3838&app_id=38&vast=true"
+        },
+        {
+          "p2p": "NO",
+          "name": "daddylive",
+          "language": "en",
+          "type": "Web(flash) + mobile",
+          "bitrate": "1000",
+          "url": "https://daddylivestream.xyz/u9/d3.php",
+          "nested_iframe": "https://ovogoal.cfd/hubplay/stream-3.php"
+        },
+        {
+          "p2p": "NO",
+          "name": "daddylive",
+          "language": "en",
+          "type": "Web(flash) + mobile",
+          "bitrate": "1000",
+          "url": "https://daddylivestream.xyz/m9/d3.php",
+          "nested_iframe": "https://ovogoal.cfd/hubplay/stream-3.php"
         }
       ]
     },
@@ -861,6 +786,24 @@
           "bitrate": "1000",
           "url": "https://www.sabcsport.com/tv/live",
           "nested_iframe": "//player.mangomolo.com/v1/live?id=MTk0&channelid=MzIz&countries=WkE=&w=100%25&h=100%25&autoplay=true&filter=ALLOW&signature=dd0eb8c02a6516620519e8a0fe2f3838&app_id=38&vast=true"
+        },
+        {
+          "p2p": "NO",
+          "name": "daddylive",
+          "language": "en",
+          "type": "Web(flash) + mobile",
+          "bitrate": "1000",
+          "url": "https://daddylivestream.xyz/u9/d3.php",
+          "nested_iframe": "https://ovogoal.cfd/hubplay/stream-3.php"
+        },
+        {
+          "p2p": "NO",
+          "name": "daddylive",
+          "language": "en",
+          "type": "Web(flash) + mobile",
+          "bitrate": "1000",
+          "url": "https://daddylivestream.xyz/m9/d3.php",
+          "nested_iframe": "https://ovogoal.cfd/hubplay/stream-3.php"
         }
       ]
     },
@@ -874,21 +817,21 @@
       "streams": [
         {
           "p2p": "NO",
-          "name": "Primera Live TV 17",
+          "name": "Primera Live TV 3",
           "language": "ar",
           "type": "Web(flash) + mobile",
           "bitrate": "1000",
-          "url": "https://www.streamysport.xyz/live/live17",
-          "nested_iframe": "https://streamysport.xyz/frame/17.php"
+          "url": "https://www.streamysport.xyz/live/live03",
+          "nested_iframe": "https://streamysport.xyz/frame/03.php"
         },
         {
           "p2p": "NO",
-          "name": "Primera Live TV 18",
+          "name": "Primera Live TV 6",
           "language": "fr",
           "type": "Web(flash) + mobile",
           "bitrate": "1000",
-          "url": "https://www.streamysport.xyz/live/live18",
-          "nested_iframe": "https://streamysport.xyz/frame/18.php"
+          "url": "https://www.streamysport.xyz/live/live06",
+          "nested_iframe": "https://streamysport.xyz/frame/06.php"
         },
         {
           "p2p": "NO",
@@ -925,6 +868,24 @@
           "bitrate": "1000",
           "url": "https://www.channel4.com/now/4S",
           "nested_iframe": "https://www.channel4.com/now/4S"
+        },
+        {
+          "p2p": "NO",
+          "name": "daddylive",
+          "language": "en",
+          "type": "Web(flash) + mobile",
+          "bitrate": "1000",
+          "url": "https://daddylivestream.xyz/u9/d2.php",
+          "nested_iframe": "https://ovogoal.cfd/hubplay/stream-2.php"
+        },
+        {
+          "p2p": "NO",
+          "name": "daddylive",
+          "language": "en",
+          "type": "Web(flash) + mobile",
+          "bitrate": "1000",
+          "url": "https://daddylivestream.xyz/m9/d2.php",
+          "nested_iframe": "https://ovogoal.cfd/hubplay/stream-2.php"
         }
       ]
     },
@@ -944,6 +905,24 @@
           "bitrate": "1000",
           "url": "https://sebnsc.dad/291225/sebn-11.html",
           "nested_iframe": "https://sebnsc.dad/291225/sebn-11.html"
+        },
+        {
+          "p2p": "NO",
+          "name": "daddylive",
+          "language": "en",
+          "type": "Web(flash) + mobile",
+          "bitrate": "1000",
+          "url": "https://daddylivestream.xyz/u9/d108.php",
+          "nested_iframe": "https://ovogoal.cfd/hubplay/stream-108.php"
+        },
+        {
+          "p2p": "NO",
+          "name": "daddylive",
+          "language": "en",
+          "type": "Web(flash) + mobile",
+          "bitrate": "1000",
+          "url": "https://daddylivestream.xyz/m9/d108.php",
+          "nested_iframe": "https://ovogoal.cfd/hubplay/stream-108.php"
         }
       ]
     },
@@ -955,6 +934,60 @@
       "time": "20:45",
       "end_time": "",
       "streams": [
+        {
+          "p2p": "NO",
+          "name": "Primera Live TV 3",
+          "language": "es",
+          "type": "Web(flash) + mobile",
+          "bitrate": "1000",
+          "url": "https://www.streamysport.xyz/live/live03",
+          "nested_iframe": "https://streamysport.xyz/frame/03.php"
+        },
+        {
+          "p2p": "NO",
+          "name": "Primera Live TV 15",
+          "language": "it",
+          "type": "Web(flash) + mobile",
+          "bitrate": "1000",
+          "url": "https://www.streamysport.xyz/live/live15",
+          "nested_iframe": "https://streamysport.xyz/frame/15.php"
+        },
+        {
+          "p2p": "NO",
+          "name": "Primera Live TV 23",
+          "language": "de",
+          "type": "Web(flash) + mobile",
+          "bitrate": "1000",
+          "url": "https://www.streamysport.xyz/live/live23",
+          "nested_iframe": "https://streamysport.xyz/frame/23.php"
+        },
+        {
+          "p2p": "NO",
+          "name": "Primera Live TV 24",
+          "language": "fr",
+          "type": "Web(flash) + mobile",
+          "bitrate": "1000",
+          "url": "https://www.streamysport.xyz/live/live24",
+          "nested_iframe": "https://streamysport.xyz/frame/24.php"
+        },
+        {
+          "p2p": "NO",
+          "name": "Primera Live TV 36",
+          "language": "es",
+          "type": "Web(flash) + mobile",
+          "bitrate": "1000",
+          "url": "https://www.streamysport.xyz/live/live36",
+          "nested_iframe": "https://streamysport.xyz/frame/36.php"
+        },
+        {
+          "p2p": "NO",
+          "name": "Primera Live TV 46",
+          "language": "ar",
+          "type": "Web(flash) + mobile",
+          "bitrate": "1000",
+          "url": "https://www.streamysport.xyz/live/live46",
+          "nested_iframe": "https://streamysport.xyz/frame/46.php"
+        },
         {
           "p2p": "NO",
           "name": "Sebn 13",
@@ -972,6 +1005,33 @@
           "bitrate": "1000",
           "url": "https://matchtv.ru/football/italy/matchtvvideo_NI2280710_translation_Roma___Dzhenoa_Chempionat_Italii_Tur_17",
           "nested_iframe": "https://matchtv.ru/football/italy/matchtvvideo_NI2280710_translation_Roma___Dzhenoa_Chempionat_Italii_Tur_17"
+        },
+        {
+          "p2p": "NO",
+          "name": "daddylive",
+          "language": "it",
+          "type": "Web(flash) + mobile",
+          "bitrate": "1000",
+          "url": "https://daddylivestream.xyz/u9/d9.php",
+          "nested_iframe": "https://ovogoal.cfd/hubplay/stream-9.php"
+        },
+        {
+          "p2p": "NO",
+          "name": "daddylive",
+          "language": "en",
+          "type": "Web(flash) + mobile",
+          "bitrate": "1000",
+          "url": "https://daddylivestream.xyz/u9/d308.php",
+          "nested_iframe": "https://ovogoal.cfd/hubplay/stream-308.php"
+        },
+        {
+          "p2p": "NO",
+          "name": "daddylive",
+          "language": "it",
+          "type": "Web(flash) + mobile",
+          "bitrate": "1000",
+          "url": "https://daddylivestream.xyz/m9/d9.php",
+          "nested_iframe": "https://ovogoal.cfd/hubplay/stream-9.php"
         }
       ]
     },
@@ -991,6 +1051,173 @@
           "bitrate": "1000",
           "url": "https://sebnsc.dad/291225/sebn-12.html",
           "nested_iframe": "https://sebnsc.dad/291225/sebn-12.html"
+        },
+        {
+          "p2p": "NO",
+          "name": "daddylive",
+          "language": "en",
+          "type": "Web(flash) + mobile",
+          "bitrate": "1000",
+          "url": "https://daddylivestream.xyz/u9/d35.php",
+          "nested_iframe": "https://ovogoal.cfd/hubplay/stream-35.php"
+        },
+        {
+          "p2p": "NO",
+          "name": "daddylive",
+          "language": "en",
+          "type": "Web(flash) + mobile",
+          "bitrate": "1000",
+          "url": "https://daddylivestream.xyz/m9/d35.php",
+          "nested_iframe": "https://ovogoal.cfd/hubplay/stream-35.php"
+        }
+      ]
+    },
+    {
+      "title": "Porto - AFS",
+      "sport": "",
+      "competition": "Portugal Primeira Liga",
+      "date": "2025-12-29T21:15",
+      "time": "21:15",
+      "end_time": "",
+      "streams": [
+        {
+          "p2p": "NO",
+          "name": "Primera Live TV 6",
+          "language": "pt",
+          "type": "Web(flash) + mobile",
+          "bitrate": "1000",
+          "url": "https://www.streamysport.xyz/live/live06",
+          "nested_iframe": "https://streamysport.xyz/frame/06.php"
+        },
+        {
+          "p2p": "NO",
+          "name": "Primera Live TV 32",
+          "language": "es",
+          "type": "Web(flash) + mobile",
+          "bitrate": "1000",
+          "url": "https://www.streamysport.xyz/live/live32",
+          "nested_iframe": "https://streamysport.xyz/frame/32.php"
+        },
+        {
+          "p2p": "NO",
+          "name": "Sebn 14",
+          "language": "en",
+          "type": "Web (flash)",
+          "bitrate": "1000",
+          "url": "https://sebnsc.dad/291225/sebn-14.html",
+          "nested_iframe": "https://sebnsc.dad/291225/sebn-14.html"
+        },
+        {
+          "p2p": "NO",
+          "name": "daddylive",
+          "language": "pt",
+          "type": "Web(flash) + mobile",
+          "bitrate": "1000",
+          "url": "https://daddylivestream.xyz/u9/d49.php",
+          "nested_iframe": "https://ovogoal.cfd/hubplay/stream-49.php"
+        },
+        {
+          "p2p": "NO",
+          "name": "daddylive",
+          "language": "pt",
+          "type": "Web(flash) + mobile",
+          "bitrate": "1000",
+          "url": "https://daddylivestream.xyz/m9/d49.php",
+          "nested_iframe": "https://ovogoal.cfd/hubplay/stream-49.php"
+        }
+      ]
+    },
+    {
+      "title": "Hornets - Bucks",
+      "sport": "",
+      "competition": "NBA",
+      "date": "2025-12-30T01:00",
+      "time": "01:00",
+      "end_time": "",
+      "streams": [
+        {
+          "p2p": "NO",
+          "name": "Sebn 12",
+          "language": "en",
+          "type": "Web (flash)",
+          "bitrate": "1000",
+          "url": "https://sebnsc.dad/291225/sebn-12.html",
+          "nested_iframe": "https://sebnsc.dad/291225/sebn-12.html"
+        },
+        {
+          "p2p": "NO",
+          "name": "daddylive",
+          "language": "en",
+          "type": "Web(flash) + mobile",
+          "bitrate": "1000",
+          "url": "https://daddylivestream.xyz/u9/d3.php",
+          "nested_iframe": "https://ovogoal.cfd/hubplay/stream-3.php"
+        },
+        {
+          "p2p": "NO",
+          "name": "daddylive",
+          "language": "en",
+          "type": "Web(flash) + mobile",
+          "bitrate": "1000",
+          "url": "https://daddylivestream.xyz/m9/d3.php",
+          "nested_iframe": "https://ovogoal.cfd/hubplay/stream-3.php"
+        }
+      ]
+    },
+    {
+      "title": "Wizards - Suns",
+      "sport": "",
+      "competition": "NBA",
+      "date": "2025-12-30T01:00",
+      "time": "01:00",
+      "end_time": "",
+      "streams": [
+        {
+          "p2p": "NO",
+          "name": "Sebn 13",
+          "language": "en",
+          "type": "Web (flash)",
+          "bitrate": "1000",
+          "url": "https://sebnsc.dad/291225/sebn-13.html",
+          "nested_iframe": "https://sebnsc.dad/291225/sebn-13.html"
+        }
+      ]
+    },
+    {
+      "title": "Senators - Jackets",
+      "sport": "",
+      "competition": "NHL",
+      "date": "2025-12-30T01:00",
+      "time": "01:00",
+      "end_time": "",
+      "streams": [
+        {
+          "p2p": "NO",
+          "name": "Sebn 23",
+          "language": "en",
+          "type": "Web (flash)",
+          "bitrate": "1000",
+          "url": "https://sebnsc.dad/291225/sebn-23.html",
+          "nested_iframe": "https://sebnsc.dad/291225/sebn-23.html"
+        }
+      ]
+    },
+    {
+      "title": "Heat - Nuggets",
+      "sport": "",
+      "competition": "NBA",
+      "date": "2025-12-30T01:30",
+      "time": "01:30",
+      "end_time": "",
+      "streams": [
+        {
+          "p2p": "NO",
+          "name": "Sebn 15",
+          "language": "en",
+          "type": "Web (flash)",
+          "bitrate": "1000",
+          "url": "https://sebnsc.dad/291225/sebn-15.html",
+          "nested_iframe": "https://sebnsc.dad/291225/sebn-15.html"
         }
       ]
     }
