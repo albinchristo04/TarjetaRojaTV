@@ -43,7 +43,10 @@ export default function Footer() {
                 </div>
 
                 <div className="border-t border-white/5 pt-8 text-center md:text-left flex flex-col md:flex-row justify-between items-center text-xs text-gray-500">
-                    <p>&copy; {currentYear} Tarjeta Roja En Vivo. Todos los derechos reservados.</p>
+                    <div>
+                        <p>&copy; {currentYear} Tarjeta Roja En Vivo. Todos los derechos reservados.</p>
+                        <p className="mt-1 text-gray-600">This site does not host or stream copyrighted content.</p>
+                    </div>
                     <p className="mt-2 md:mt-0">
                         Tarjeta Roja Media Network - Madrid, Spain
                     </p>

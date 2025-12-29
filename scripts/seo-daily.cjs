@@ -118,6 +118,7 @@ function generateHTML(data) {
             <p><strong>${CONFIG.COMPANY.name}</strong> - ${CONFIG.COMPANY.publisher}</p>
             <p>${CONFIG.COMPANY.address}</p>
             <p>Email: ${CONFIG.COMPANY.email} | Tel: ${CONFIG.COMPANY.phone}</p>
+            <p style="color: #666; font-size: 0.75rem; margin-top: 1rem;">This site does not host or stream copyrighted content.</p>
         </div>
         <p>&copy; ${new Date().getFullYear()} TarjetaRojaEnvivo - Todos los derechos reservados.</p>
     </footer>`;
@@ -301,6 +302,9 @@ function generateMatchPages(events) {
             <p>Para este partido de ${event.category_name}, los analistas prevén un juego táctico muy cerrado. ${event.name} han demostrado una solidez defensiva envidiable en sus últimos compromisos, lo que hace que cada detalle cuente para el resultado final.</p>
             <h3>¿Cómo seguir el partido?</h3>
             <p>Puedes seguir el desarrollo de este evento a través de nuestra plataforma, donde proporcionamos actualizaciones constantes y toda la información necesaria para que no pierdas detalle de la transmisión oficial en tu región.</p>
+            <p style="background: #111; padding: 1rem; border-radius: 4px; font-size: 0.85rem; color: #888; border: 1px solid #222; margin-top: 2rem;">
+                <strong>Aviso Legal:</strong> This site does not host or stream copyrighted content. We only provide sports information and schedules.
+            </p>
             <div style="margin-top:2rem;">
                 <strong>Otros encuentros de interés:</strong>
                 <div class="related-links" style="display:flex; flex-wrap:wrap; gap:1rem; margin-top:1rem;">${related}</div>
