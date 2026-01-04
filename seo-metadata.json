@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-03T18:36:51.620Z",
-  "total_events": 91,
+  "generated_at": "2026-01-04T02:28:43.423Z",
+  "total_events": 63,
   "categories": [
     {
       "name": "American Football",
@@ -21,10 +21,10 @@
       "canonical_url": "https://tarjetarojaenvivo.live/categoria/deportes-de-combate"
     },
     {
-      "name": "Darts",
-      "name_es": "Dardos",
-      "slug": "dardos",
-      "canonical_url": "https://tarjetarojaenvivo.live/categoria/dardos"
+      "name": "Cricket",
+      "name_es": "Cricket",
+      "slug": "cricket",
+      "canonical_url": "https://tarjetarojaenvivo.live/categoria/cricket"
     },
     {
       "name": "Football",
@@ -53,26 +53,6 @@
   ],
   "events": [
     {
-      "id": 15602,
-      "slug": "carolina-panthers-vs-tampa-bay-buccaneers",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/nfl/2026-01-03/car-tb",
-      "meta": {
-        "title": "Carolina Panthers vs. Tampa Bay Buccaneers EN VIVO - Tarjeta Roja TV",
-        "description": "Ver Carolina Panthers vs. Tampa Bay Buccaneers en vivo gratis el sábado 3 de enero de 2026",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Carolina Panthers vs. Tampa Bay Buccaneers, Fútbol Americano"
-      },
-      "event": {
-        "start_time": "2026-01-03T21:30:00.000Z",
-        "end_time": "2026-01-04T01:00:00.000Z",
-        "status": "próximamente"
-      },
-      "technical": {
-        "last_modified": "2026-01-03T18:36:51.620Z",
-        "changefreq": "hourly",
-        "priority": 0.85
-      }
-    },
-    {
       "id": 15605,
       "slug": "seattle-seahawks-vs-san-francisco-49ers",
       "canonical_url": "https://tarjetarojaenvivo.live/eventos/nfl/2026-01-03/sea-sf",
@@ -84,10 +64,10 @@
       "event": {
         "start_time": "2026-01-04T01:00:00.000Z",
         "end_time": "2026-01-04T04:30:00.000Z",
-        "status": "próximamente"
+        "status": "en vivo"
       },
       "technical": {
-        "last_modified": "2026-01-03T18:36:51.620Z",
+        "last_modified": "2026-01-04T02:28:43.424Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -107,7 +87,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-01-03T18:36:51.621Z",
+        "last_modified": "2026-01-04T02:28:43.424Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -127,7 +107,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-01-03T18:36:51.621Z",
+        "last_modified": "2026-01-04T02:28:43.424Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -147,7 +127,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-01-03T18:36:51.621Z",
+        "last_modified": "2026-01-04T02:28:43.424Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -167,7 +147,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-01-03T18:36:51.621Z",
+        "last_modified": "2026-01-04T02:28:43.424Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -187,7 +167,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-01-03T18:36:51.621Z",
+        "last_modified": "2026-01-04T02:28:43.424Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -207,7 +187,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-01-03T18:36:51.621Z",
+        "last_modified": "2026-01-04T02:28:43.424Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -227,7 +207,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-01-03T18:36:51.621Z",
+        "last_modified": "2026-01-04T02:28:43.424Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -247,7 +227,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-01-03T18:36:51.621Z",
+        "last_modified": "2026-01-04T02:28:43.424Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -267,7 +247,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-01-03T18:36:51.621Z",
+        "last_modified": "2026-01-04T02:28:43.424Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -287,7 +267,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-01-03T18:36:51.621Z",
+        "last_modified": "2026-01-04T02:28:43.424Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -307,7 +287,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-01-03T18:36:51.621Z",
+        "last_modified": "2026-01-04T02:28:43.424Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -327,7 +307,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-01-03T18:36:51.621Z",
+        "last_modified": "2026-01-04T02:28:43.424Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -347,7 +327,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-01-03T18:36:51.621Z",
+        "last_modified": "2026-01-04T02:28:43.424Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -367,7 +347,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-01-03T18:36:51.621Z",
+        "last_modified": "2026-01-04T02:28:43.424Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -387,267 +367,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-01-03T18:36:51.621Z",
-        "changefreq": "hourly",
-        "priority": 0.85
-      }
-    },
-    {
-      "id": 15718,
-      "slug": "virginia-cavaliers-vs-nc-state-wolfpack",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/cfb/5984-5984",
-      "meta": {
-        "title": "Virginia Cavaliers vs. NC State Wolfpack EN VIVO - Tarjeta Roja TV",
-        "description": "Ver Virginia Cavaliers vs. NC State Wolfpack en vivo gratis el sábado 3 de enero de 2026",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Virginia Cavaliers vs. NC State Wolfpack, Baloncesto"
-      },
-      "event": {
-        "start_time": "2026-01-03T16:00:00.000Z",
-        "end_time": "2026-01-03T19:30:00.000Z",
-        "status": "en vivo"
-      },
-      "technical": {
-        "last_modified": "2026-01-03T18:36:51.621Z",
-        "changefreq": "hourly",
-        "priority": 0.85
-      }
-    },
-    {
-      "id": 15719,
-      "slug": "kentucky-wildcats-vs-alabama-crimson-tide",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/cfb/4386-4386",
-      "meta": {
-        "title": "Kentucky Wildcats vs. Alabama Crimson Tide EN VIVO - Tarjeta Roja TV",
-        "description": "Ver Kentucky Wildcats vs. Alabama Crimson Tide en vivo gratis el sábado 3 de enero de 2026",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Kentucky Wildcats vs. Alabama Crimson Tide, Baloncesto"
-      },
-      "event": {
-        "start_time": "2026-01-03T17:00:00.000Z",
-        "end_time": "2026-01-03T20:30:00.000Z",
-        "status": "en vivo"
-      },
-      "technical": {
-        "last_modified": "2026-01-03T18:36:51.621Z",
-        "changefreq": "hourly",
-        "priority": 0.85
-      }
-    },
-    {
-      "id": 15720,
-      "slug": "oklahoma-state-cowboys-vs-texas-tech-red-raiders",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/cfb/5527-5527",
-      "meta": {
-        "title": "Oklahoma State Cowboys vs. Texas Tech Red Raiders EN VIVO - Tarjeta Roja TV",
-        "description": "Ver Oklahoma State Cowboys vs. Texas Tech Red Raiders en vivo gratis el sábado 3 de enero de 2026",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Oklahoma State Cowboys vs. Texas Tech Red Raiders, Baloncesto"
-      },
-      "event": {
-        "start_time": "2026-01-03T18:00:00.000Z",
-        "end_time": "2026-01-03T21:30:00.000Z",
-        "status": "en vivo"
-      },
-      "technical": {
-        "last_modified": "2026-01-03T18:36:51.621Z",
-        "changefreq": "hourly",
-        "priority": 0.85
-      }
-    },
-    {
-      "id": 15721,
-      "slug": "auburn-tigers-vs-georgia-bulldogs",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/cfb/5538-5538",
-      "meta": {
-        "title": "Auburn Tigers vs. Georgia Bulldogs EN VIVO - Tarjeta Roja TV",
-        "description": "Ver Auburn Tigers vs. Georgia Bulldogs en vivo gratis el sábado 3 de enero de 2026",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Auburn Tigers vs. Georgia Bulldogs, Baloncesto"
-      },
-      "event": {
-        "start_time": "2026-01-03T18:00:00.000Z",
-        "end_time": "2026-01-03T21:30:00.000Z",
-        "status": "en vivo"
-      },
-      "technical": {
-        "last_modified": "2026-01-03T18:36:51.621Z",
-        "changefreq": "hourly",
-        "priority": 0.85
-      }
-    },
-    {
-      "id": 15722,
-      "slug": "byu-cougars-vs-kansas-state-wildcats",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/cfb/1249-1249",
-      "meta": {
-        "title": "BYU Cougars vs. Kansas State Wildcats EN VIVO - Tarjeta Roja TV",
-        "description": "Ver BYU Cougars vs. Kansas State Wildcats en vivo gratis el sábado 3 de enero de 2026",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, BYU Cougars vs. Kansas State Wildcats, Baloncesto"
-      },
-      "event": {
-        "start_time": "2026-01-03T18:30:00.000Z",
-        "end_time": "2026-01-03T22:00:00.000Z",
-        "status": "en vivo"
-      },
-      "technical": {
-        "last_modified": "2026-01-03T18:36:51.621Z",
-        "changefreq": "hourly",
-        "priority": 0.85
-      }
-    },
-    {
-      "id": 15723,
-      "slug": "houston-cougars-vs-cincinnati-bearcats",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/cfb/8411-8411",
-      "meta": {
-        "title": "Houston Cougars vs. Cincinnati Bearcats EN VIVO - Tarjeta Roja TV",
-        "description": "Ver Houston Cougars vs. Cincinnati Bearcats en vivo gratis el sábado 3 de enero de 2026",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Houston Cougars vs. Cincinnati Bearcats, Baloncesto"
-      },
-      "event": {
-        "start_time": "2026-01-03T19:00:00.000Z",
-        "end_time": "2026-01-03T22:30:00.000Z",
-        "status": "próximamente"
-      },
-      "technical": {
-        "last_modified": "2026-01-03T18:36:51.621Z",
-        "changefreq": "hourly",
-        "priority": 0.85
-      }
-    },
-    {
-      "id": 15724,
-      "slug": "vanderbilt-commodores-vs-south-carolina-gamecocks",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/cfb/2243-2243",
-      "meta": {
-        "title": "Vanderbilt Commodores vs. South Carolina Gamecocks EN VIVO - Tarjeta Roja TV",
-        "description": "Ver Vanderbilt Commodores vs. South Carolina Gamecocks en vivo gratis el sábado 3 de enero de 2026",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Vanderbilt Commodores vs. South Carolina Gamecocks, Baloncesto"
-      },
-      "event": {
-        "start_time": "2026-01-03T19:00:00.000Z",
-        "end_time": "2026-01-03T22:30:00.000Z",
-        "status": "próximamente"
-      },
-      "technical": {
-        "last_modified": "2026-01-03T18:36:51.621Z",
-        "changefreq": "hourly",
-        "priority": 0.85
-      }
-    },
-    {
-      "id": 15725,
-      "slug": "kansas-jayhawks-vs-ucf-knights",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/cfb/8810-8810",
-      "meta": {
-        "title": "Kansas Jayhawks vs. UCF Knights EN VIVO - Tarjeta Roja TV",
-        "description": "Ver Kansas Jayhawks vs. UCF Knights en vivo gratis el sábado 3 de enero de 2026",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Kansas Jayhawks vs. UCF Knights, Baloncesto"
-      },
-      "event": {
-        "start_time": "2026-01-03T19:00:00.000Z",
-        "end_time": "2026-01-03T22:30:00.000Z",
-        "status": "próximamente"
-      },
-      "technical": {
-        "last_modified": "2026-01-03T18:36:51.621Z",
-        "changefreq": "hourly",
-        "priority": 0.85
-      }
-    },
-    {
-      "id": 15726,
-      "slug": "north-carolina-tar-heels-vs-smu-mustangs",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/cfb/1844-1844",
-      "meta": {
-        "title": "North Carolina Tar Heels vs. SMU Mustangs EN VIVO - Tarjeta Roja TV",
-        "description": "Ver North Carolina Tar Heels vs. SMU Mustangs en vivo gratis el sábado 3 de enero de 2026",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, North Carolina Tar Heels vs. SMU Mustangs, Baloncesto"
-      },
-      "event": {
-        "start_time": "2026-01-03T19:15:00.000Z",
-        "end_time": "2026-01-03T22:45:00.000Z",
-        "status": "próximamente"
-      },
-      "technical": {
-        "last_modified": "2026-01-03T18:36:51.621Z",
-        "changefreq": "hourly",
-        "priority": 0.85
-      }
-    },
-    {
-      "id": 15727,
-      "slug": "tennessee-volunteers-vs-arkansas-razorbacks",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/cfb/2723-2723",
-      "meta": {
-        "title": "Tennessee Volunteers vs. Arkansas Razorbacks EN VIVO - Tarjeta Roja TV",
-        "description": "Ver Tennessee Volunteers vs. Arkansas Razorbacks en vivo gratis el sábado 3 de enero de 2026",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Tennessee Volunteers vs. Arkansas Razorbacks, Baloncesto"
-      },
-      "event": {
-        "start_time": "2026-01-03T20:00:00.000Z",
-        "end_time": "2026-01-03T23:30:00.000Z",
-        "status": "próximamente"
-      },
-      "technical": {
-        "last_modified": "2026-01-03T18:36:51.621Z",
-        "changefreq": "hourly",
-        "priority": 0.85
-      }
-    },
-    {
-      "id": 15728,
-      "slug": "duke-blue-devils-vs-florida-state-seminoles",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/cfb/7666-7666",
-      "meta": {
-        "title": "Duke Blue Devils vs. Florida State Seminoles EN VIVO - Tarjeta Roja TV",
-        "description": "Ver Duke Blue Devils vs. Florida State Seminoles en vivo gratis el sábado 3 de enero de 2026",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Duke Blue Devils vs. Florida State Seminoles, Baloncesto"
-      },
-      "event": {
-        "start_time": "2026-01-03T20:45:00.000Z",
-        "end_time": "2026-01-04T00:15:00.000Z",
-        "status": "próximamente"
-      },
-      "technical": {
-        "last_modified": "2026-01-03T18:36:51.621Z",
-        "changefreq": "hourly",
-        "priority": 0.85
-      }
-    },
-    {
-      "id": 15729,
-      "slug": "arizona-wildcats-vs-utah-utes",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/cfb/2707-2707",
-      "meta": {
-        "title": "Arizona Wildcats vs. Utah Utes EN VIVO - Tarjeta Roja TV",
-        "description": "Ver Arizona Wildcats vs. Utah Utes en vivo gratis el sábado 3 de enero de 2026",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Arizona Wildcats vs. Utah Utes, Baloncesto"
-      },
-      "event": {
-        "start_time": "2026-01-03T21:00:00.000Z",
-        "end_time": "2026-01-04T00:30:00.000Z",
-        "status": "próximamente"
-      },
-      "technical": {
-        "last_modified": "2026-01-03T18:36:51.621Z",
-        "changefreq": "hourly",
-        "priority": 0.85
-      }
-    },
-    {
-      "id": 15694,
-      "slug": "minnesota-timberwolves-vs-miami-heat",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/nba/2026-01-03/min-mia",
-      "meta": {
-        "title": "Minnesota Timberwolves vs. Miami Heat EN VIVO - Tarjeta Roja TV",
-        "description": "Ver Minnesota Timberwolves vs. Miami Heat en vivo gratis el sábado 3 de enero de 2026",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Minnesota Timberwolves vs. Miami Heat, Baloncesto"
-      },
-      "event": {
-        "start_time": "2026-01-03T22:00:00.000Z",
-        "end_time": "2026-01-04T00:48:00.000Z",
-        "status": "próximamente"
-      },
-      "technical": {
-        "last_modified": "2026-01-03T18:36:51.621Z",
+        "last_modified": "2026-01-04T02:28:43.424Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -664,10 +384,10 @@
       "event": {
         "start_time": "2026-01-03T23:00:00.000Z",
         "end_time": "2026-01-04T02:30:00.000Z",
-        "status": "próximamente"
+        "status": "en vivo"
       },
       "technical": {
-        "last_modified": "2026-01-03T18:36:51.621Z",
+        "last_modified": "2026-01-04T02:28:43.424Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -684,10 +404,10 @@
       "event": {
         "start_time": "2026-01-04T00:00:00.000Z",
         "end_time": "2026-01-04T03:30:00.000Z",
-        "status": "próximamente"
+        "status": "en vivo"
       },
       "technical": {
-        "last_modified": "2026-01-03T18:36:51.621Z",
+        "last_modified": "2026-01-04T02:28:43.424Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -704,10 +424,10 @@
       "event": {
         "start_time": "2026-01-04T00:30:00.000Z",
         "end_time": "2026-01-04T03:18:00.000Z",
-        "status": "próximamente"
+        "status": "en vivo"
       },
       "technical": {
-        "last_modified": "2026-01-03T18:36:51.621Z",
+        "last_modified": "2026-01-04T02:28:43.424Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -724,10 +444,10 @@
       "event": {
         "start_time": "2026-01-04T00:30:00.000Z",
         "end_time": "2026-01-04T03:18:00.000Z",
-        "status": "próximamente"
+        "status": "en vivo"
       },
       "technical": {
-        "last_modified": "2026-01-03T18:36:51.621Z",
+        "last_modified": "2026-01-04T02:28:43.424Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -744,10 +464,10 @@
       "event": {
         "start_time": "2026-01-04T01:00:00.000Z",
         "end_time": "2026-01-04T03:48:00.000Z",
-        "status": "próximamente"
+        "status": "en vivo"
       },
       "technical": {
-        "last_modified": "2026-01-03T18:36:51.621Z",
+        "last_modified": "2026-01-04T02:28:43.424Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -764,10 +484,10 @@
       "event": {
         "start_time": "2026-01-04T01:00:00.000Z",
         "end_time": "2026-01-04T03:48:00.000Z",
-        "status": "próximamente"
+        "status": "en vivo"
       },
       "technical": {
-        "last_modified": "2026-01-03T18:36:51.621Z",
+        "last_modified": "2026-01-04T02:28:43.424Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -784,10 +504,10 @@
       "event": {
         "start_time": "2026-01-04T01:00:00.000Z",
         "end_time": "2026-01-04T04:30:00.000Z",
-        "status": "próximamente"
+        "status": "en vivo"
       },
       "technical": {
-        "last_modified": "2026-01-03T18:36:51.621Z",
+        "last_modified": "2026-01-04T02:28:43.424Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -804,10 +524,10 @@
       "event": {
         "start_time": "2026-01-04T01:30:00.000Z",
         "end_time": "2026-01-04T04:18:00.000Z",
-        "status": "próximamente"
+        "status": "en vivo"
       },
       "technical": {
-        "last_modified": "2026-01-03T18:36:51.621Z",
+        "last_modified": "2026-01-04T02:28:43.424Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -824,10 +544,10 @@
       "event": {
         "start_time": "2026-01-04T01:30:00.000Z",
         "end_time": "2026-01-04T05:00:00.000Z",
-        "status": "próximamente"
+        "status": "en vivo"
       },
       "technical": {
-        "last_modified": "2026-01-03T18:36:51.621Z",
+        "last_modified": "2026-01-04T02:28:43.424Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -847,7 +567,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-01-03T18:36:51.621Z",
+        "last_modified": "2026-01-04T02:28:43.424Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -867,7 +587,27 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-01-03T18:36:51.621Z",
+        "last_modified": "2026-01-04T02:28:43.424Z",
+        "changefreq": "hourly",
+        "priority": 0.85
+      }
+    },
+    {
+      "id": 15734,
+      "slug": "amanda-serrano-vs-reina-tellez",
+      "canonical_url": "https://tarjetarojaenvivo.live/eventos/amanda-serrano-vs.-reina-tellez",
+      "meta": {
+        "title": "Amanda Serrano vs. Reina Tellez EN VIVO - Tarjeta Roja TV",
+        "description": "Ver Amanda Serrano vs. Reina Tellez en vivo gratis el sábado 3 de enero de 2026",
+        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Amanda Serrano vs. Reina Tellez, Deportes de Combate"
+      },
+      "event": {
+        "start_time": "2026-01-03T19:30:00.000Z",
+        "end_time": "2026-01-04T03:30:00.000Z",
+        "status": "en vivo"
+      },
+      "technical": {
+        "last_modified": "2026-01-04T02:28:43.424Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -887,207 +627,27 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-01-03T18:36:51.621Z",
+        "last_modified": "2026-01-04T02:28:43.424Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
     },
     {
-      "id": 14899,
-      "slug": "world-darts-championship",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/2025-world-darts-championship",
+      "id": 15735,
+      "slug": "australia-vs-england",
+      "canonical_url": "https://tarjetarojaenvivo.live/eventos/cricket/2026/au-en/5th-test",
       "meta": {
-        "title": "World Darts Championship EN VIVO - Tarjeta Roja TV",
-        "description": "Ver World Darts Championship en vivo gratis el sábado 3 de enero de 2026",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, World Darts Championship, Dardos"
+        "title": "Australia vs. England EN VIVO - Tarjeta Roja TV",
+        "description": "Ver Australia vs. England en vivo gratis el sábado 3 de enero de 2026",
+        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Australia vs. England, Cricket"
       },
       "event": {
-        "start_time": "2026-01-03T20:00:00.000Z",
-        "end_time": "2026-01-04T01:00:00.000Z",
-        "status": "próximamente"
-      },
-      "technical": {
-        "last_modified": "2026-01-03T18:36:51.621Z",
-        "changefreq": "hourly",
-        "priority": 0.85
-      }
-    },
-    {
-      "id": 15575,
-      "slug": "as-monaco-vs-lyon",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/ligue1/2026-01-03/mon-lyon",
-      "meta": {
-        "title": "AS Monaco vs. Lyon EN VIVO - Tarjeta Roja TV",
-        "description": "Ver AS Monaco vs. Lyon en vivo gratis el sábado 3 de enero de 2026",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, AS Monaco vs. Lyon, Fútbol"
-      },
-      "event": {
-        "start_time": "2026-01-03T16:00:00.000Z",
-        "end_time": "2026-01-03T18:30:00.000Z",
+        "start_time": "2026-01-03T23:30:00.000Z",
+        "end_time": "2026-01-04T09:30:00.000Z",
         "status": "en vivo"
       },
       "technical": {
-        "last_modified": "2026-01-03T18:36:51.621Z",
-        "changefreq": "hourly",
-        "priority": 0.85
-      }
-    },
-    {
-      "id": 15568,
-      "slug": "juventus-vs-lecce",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/seriea/2026-01-03/juv-lec",
-      "meta": {
-        "title": "Juventus vs. Lecce EN VIVO - Tarjeta Roja TV",
-        "description": "Ver Juventus vs. Lecce en vivo gratis el sábado 3 de enero de 2026",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Juventus vs. Lecce, Fútbol"
-      },
-      "event": {
-        "start_time": "2026-01-03T17:00:00.000Z",
-        "end_time": "2026-01-03T19:30:00.000Z",
-        "status": "en vivo"
-      },
-      "technical": {
-        "last_modified": "2026-01-03T18:36:51.621Z",
-        "changefreq": "hourly",
-        "priority": 0.85
-      }
-    },
-    {
-      "id": 15528,
-      "slug": "elche-vs-villarreal",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/laliga/2026-01-03/elc-vil",
-      "meta": {
-        "title": "Elche vs. Villarreal EN VIVO - Tarjeta Roja TV",
-        "description": "Ver Elche vs. Villarreal en vivo gratis el sábado 3 de enero de 2026",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Elche vs. Villarreal, Fútbol"
-      },
-      "event": {
-        "start_time": "2026-01-03T17:30:00.000Z",
-        "end_time": "2026-01-03T20:00:00.000Z",
-        "status": "en vivo"
-      },
-      "technical": {
-        "last_modified": "2026-01-03T18:36:51.621Z",
-        "changefreq": "hourly",
-        "priority": 0.85
-      }
-    },
-    {
-      "id": 15557,
-      "slug": "afc-bournemouth-vs-arsenal",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/premierleague/2026-01-03/bou-ars",
-      "meta": {
-        "title": "AFC Bournemouth vs. Arsenal EN VIVO - Tarjeta Roja TV",
-        "description": "Ver AFC Bournemouth vs. Arsenal en vivo gratis el sábado 3 de enero de 2026",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, AFC Bournemouth vs. Arsenal, Fútbol"
-      },
-      "event": {
-        "start_time": "2026-01-03T17:30:00.000Z",
-        "end_time": "2026-01-03T20:00:00.000Z",
-        "status": "en vivo"
-      },
-      "technical": {
-        "last_modified": "2026-01-03T18:36:51.621Z",
-        "changefreq": "hourly",
-        "priority": 0.85
-      }
-    },
-    {
-      "id": 15576,
-      "slug": "nice-vs-strasbourg",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/ligue1/2026-01-03/nice-str",
-      "meta": {
-        "title": "Nice vs. Strasbourg EN VIVO - Tarjeta Roja TV",
-        "description": "Ver Nice vs. Strasbourg en vivo gratis el sábado 3 de enero de 2026",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Nice vs. Strasbourg, Fútbol"
-      },
-      "event": {
-        "start_time": "2026-01-03T18:00:00.000Z",
-        "end_time": "2026-01-03T20:30:00.000Z",
-        "status": "en vivo"
-      },
-      "technical": {
-        "last_modified": "2026-01-03T18:36:51.621Z",
-        "changefreq": "hourly",
-        "priority": 0.85
-      }
-    },
-    {
-      "id": 15699,
-      "slug": "mali-vs-tunisia",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/afcon/2026-01-03/mli-tun",
-      "meta": {
-        "title": "Mali vs. Tunisia EN VIVO - Tarjeta Roja TV",
-        "description": "Ver Mali vs. Tunisia en vivo gratis el sábado 3 de enero de 2026",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Mali vs. Tunisia, Fútbol"
-      },
-      "event": {
-        "start_time": "2026-01-03T19:00:00.000Z",
-        "end_time": "2026-01-03T21:00:00.000Z",
-        "status": "próximamente"
-      },
-      "technical": {
-        "last_modified": "2026-01-03T18:36:51.621Z",
-        "changefreq": "hourly",
-        "priority": 0.85
-      }
-    },
-    {
-      "id": 15569,
-      "slug": "atalanta-vs-as-roma",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/seriea/2026-01-03/ata-roma",
-      "meta": {
-        "title": "Atalanta vs. AS Roma EN VIVO - Tarjeta Roja TV",
-        "description": "Ver Atalanta vs. AS Roma en vivo gratis el sábado 3 de enero de 2026",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Atalanta vs. AS Roma, Fútbol"
-      },
-      "event": {
-        "start_time": "2026-01-03T19:45:00.000Z",
-        "end_time": "2026-01-03T22:15:00.000Z",
-        "status": "próximamente"
-      },
-      "technical": {
-        "last_modified": "2026-01-03T18:36:51.621Z",
-        "changefreq": "hourly",
-        "priority": 0.85
-      }
-    },
-    {
-      "id": 15530,
-      "slug": "espanyol-vs-barcelona",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/laliga/2026-01-03/esp-bar",
-      "meta": {
-        "title": "Espanyol vs. Barcelona EN VIVO - Tarjeta Roja TV",
-        "description": "Ver Espanyol vs. Barcelona en vivo gratis el sábado 3 de enero de 2026",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Espanyol vs. Barcelona, Fútbol"
-      },
-      "event": {
-        "start_time": "2026-01-03T20:00:00.000Z",
-        "end_time": "2026-01-03T22:30:00.000Z",
-        "status": "próximamente"
-      },
-      "technical": {
-        "last_modified": "2026-01-03T18:36:51.621Z",
-        "changefreq": "hourly",
-        "priority": 0.85
-      }
-    },
-    {
-      "id": 15577,
-      "slug": "lille-vs-stade-rennais",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/ligue1/2026-01-03/lill-ren",
-      "meta": {
-        "title": "Lille vs. Stade Rennais EN VIVO - Tarjeta Roja TV",
-        "description": "Ver Lille vs. Stade Rennais en vivo gratis el sábado 3 de enero de 2026",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Lille vs. Stade Rennais, Fútbol"
-      },
-      "event": {
-        "start_time": "2026-01-03T20:05:00.000Z",
-        "end_time": "2026-01-03T22:35:00.000Z",
-        "status": "próximamente"
-      },
-      "technical": {
-        "last_modified": "2026-01-03T18:36:51.621Z",
+        "last_modified": "2026-01-04T02:28:43.424Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1107,7 +667,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-01-03T18:36:51.621Z",
+        "last_modified": "2026-01-04T02:28:43.424Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1127,7 +687,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-01-03T18:36:51.621Z",
+        "last_modified": "2026-01-04T02:28:43.424Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1147,7 +707,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-01-03T18:36:51.621Z",
+        "last_modified": "2026-01-04T02:28:43.424Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1167,7 +727,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-01-03T18:36:51.621Z",
+        "last_modified": "2026-01-04T02:28:43.424Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1187,7 +747,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-01-03T18:36:51.621Z",
+        "last_modified": "2026-01-04T02:28:43.424Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1207,7 +767,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-01-03T18:36:51.621Z",
+        "last_modified": "2026-01-04T02:28:43.424Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1227,7 +787,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-01-03T18:36:51.621Z",
+        "last_modified": "2026-01-04T02:28:43.424Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1247,7 +807,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-01-03T18:36:51.621Z",
+        "last_modified": "2026-01-04T02:28:43.424Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1267,7 +827,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-01-03T18:36:51.621Z",
+        "last_modified": "2026-01-04T02:28:43.424Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1287,7 +847,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-01-03T18:36:51.621Z",
+        "last_modified": "2026-01-04T02:28:43.424Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1307,7 +867,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-01-03T18:36:51.621Z",
+        "last_modified": "2026-01-04T02:28:43.424Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1327,7 +887,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-01-03T18:36:51.621Z",
+        "last_modified": "2026-01-04T02:28:43.424Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1347,7 +907,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-01-03T18:36:51.621Z",
+        "last_modified": "2026-01-04T02:28:43.424Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1367,7 +927,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-01-03T18:36:51.621Z",
+        "last_modified": "2026-01-04T02:28:43.424Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1387,7 +947,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-01-03T18:36:51.621Z",
+        "last_modified": "2026-01-04T02:28:43.424Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1407,7 +967,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-01-03T18:36:51.621Z",
+        "last_modified": "2026-01-04T02:28:43.424Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1427,7 +987,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-01-03T18:36:51.621Z",
+        "last_modified": "2026-01-04T02:28:43.424Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1447,7 +1007,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-01-03T18:36:51.621Z",
+        "last_modified": "2026-01-04T02:28:43.424Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1467,7 +1027,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-01-03T18:36:51.621Z",
+        "last_modified": "2026-01-04T02:28:43.424Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1487,127 +1047,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-01-03T18:36:51.621Z",
-        "changefreq": "hourly",
-        "priority": 0.85
-      }
-    },
-    {
-      "id": 15695,
-      "slug": "pittsburgh-penguins-vs-detroit-red-wings",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/nhl/2026-01-03/pit-det",
-      "meta": {
-        "title": "Pittsburgh Penguins vs. Detroit Red Wings EN VIVO - Tarjeta Roja TV",
-        "description": "Ver Pittsburgh Penguins vs. Detroit Red Wings en vivo gratis el sábado 3 de enero de 2026",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Pittsburgh Penguins vs. Detroit Red Wings, Hockey sobre Hielo"
-      },
-      "event": {
-        "start_time": "2026-01-03T17:00:00.000Z",
-        "end_time": "2026-01-03T20:00:00.000Z",
-        "status": "en vivo"
-      },
-      "technical": {
-        "last_modified": "2026-01-03T18:36:51.621Z",
-        "changefreq": "hourly",
-        "priority": 0.85
-      }
-    },
-    {
-      "id": 15698,
-      "slug": "utah-mammoth-vs-new-jersey-devils",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/nhl/2026-01-03/uta-nj",
-      "meta": {
-        "title": "Utah Mammoth vs. New Jersey Devils EN VIVO - Tarjeta Roja TV",
-        "description": "Ver Utah Mammoth vs. New Jersey Devils en vivo gratis el sábado 3 de enero de 2026",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Utah Mammoth vs. New Jersey Devils, Hockey sobre Hielo"
-      },
-      "event": {
-        "start_time": "2026-01-03T20:00:00.000Z",
-        "end_time": "2026-01-03T23:00:00.000Z",
-        "status": "próximamente"
-      },
-      "technical": {
-        "last_modified": "2026-01-03T18:36:51.621Z",
-        "changefreq": "hourly",
-        "priority": 0.85
-      }
-    },
-    {
-      "id": 15701,
-      "slug": "buffalo-sabres-vs-columbus-blue-jackets",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/nhl/2026-01-03/buf-cbj",
-      "meta": {
-        "title": "Buffalo Sabres vs. Columbus Blue Jackets EN VIVO - Tarjeta Roja TV",
-        "description": "Ver Buffalo Sabres vs. Columbus Blue Jackets en vivo gratis el sábado 3 de enero de 2026",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Buffalo Sabres vs. Columbus Blue Jackets, Hockey sobre Hielo"
-      },
-      "event": {
-        "start_time": "2026-01-03T20:00:00.000Z",
-        "end_time": "2026-01-03T23:00:00.000Z",
-        "status": "próximamente"
-      },
-      "technical": {
-        "last_modified": "2026-01-03T18:36:51.621Z",
-        "changefreq": "hourly",
-        "priority": 0.85
-      }
-    },
-    {
-      "id": 15704,
-      "slug": "philadelphia-flyers-vs-edmonton-oilers",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/nhl/2026-01-03/phi-edm",
-      "meta": {
-        "title": "Philadelphia Flyers vs. Edmonton Oilers EN VIVO - Tarjeta Roja TV",
-        "description": "Ver Philadelphia Flyers vs. Edmonton Oilers en vivo gratis el sábado 3 de enero de 2026",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Philadelphia Flyers vs. Edmonton Oilers, Hockey sobre Hielo"
-      },
-      "event": {
-        "start_time": "2026-01-03T20:30:00.000Z",
-        "end_time": "2026-01-03T23:30:00.000Z",
-        "status": "próximamente"
-      },
-      "technical": {
-        "last_modified": "2026-01-03T18:36:51.621Z",
-        "changefreq": "hourly",
-        "priority": 0.85
-      }
-    },
-    {
-      "id": 15706,
-      "slug": "montreal-canadiens-vs-st-louis-blues",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/nhl/2026-01-03/mtl-stl",
-      "meta": {
-        "title": "Montreal Canadiens vs. St. Louis Blues EN VIVO - Tarjeta Roja TV",
-        "description": "Ver Montreal Canadiens vs. St. Louis Blues en vivo gratis el sábado 3 de enero de 2026",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Montreal Canadiens vs. St. Louis Blues, Hockey sobre Hielo"
-      },
-      "event": {
-        "start_time": "2026-01-03T21:00:00.000Z",
-        "end_time": "2026-01-04T00:00:00.000Z",
-        "status": "próximamente"
-      },
-      "technical": {
-        "last_modified": "2026-01-03T18:36:51.621Z",
-        "changefreq": "hourly",
-        "priority": 0.85
-      }
-    },
-    {
-      "id": 15708,
-      "slug": "tampa-bay-lightning-vs-san-jose-sharks",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/nhl/2026-01-03/tb-sj",
-      "meta": {
-        "title": "Tampa Bay Lightning vs. San Jose Sharks EN VIVO - Tarjeta Roja TV",
-        "description": "Ver Tampa Bay Lightning vs. San Jose Sharks en vivo gratis el sábado 3 de enero de 2026",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Tampa Bay Lightning vs. San Jose Sharks, Hockey sobre Hielo"
-      },
-      "event": {
-        "start_time": "2026-01-03T21:00:00.000Z",
-        "end_time": "2026-01-04T00:00:00.000Z",
-        "status": "próximamente"
-      },
-      "technical": {
-        "last_modified": "2026-01-03T18:36:51.621Z",
+        "last_modified": "2026-01-04T02:28:43.424Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1624,10 +1064,10 @@
       "event": {
         "start_time": "2026-01-04T00:00:00.000Z",
         "end_time": "2026-01-04T03:00:00.000Z",
-        "status": "próximamente"
+        "status": "en vivo"
       },
       "technical": {
-        "last_modified": "2026-01-03T18:36:51.621Z",
+        "last_modified": "2026-01-04T02:28:43.424Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1644,10 +1084,10 @@
       "event": {
         "start_time": "2026-01-04T00:00:00.000Z",
         "end_time": "2026-01-04T03:00:00.000Z",
-        "status": "próximamente"
+        "status": "en vivo"
       },
       "technical": {
-        "last_modified": "2026-01-03T18:36:51.621Z",
+        "last_modified": "2026-01-04T02:28:43.424Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1664,10 +1104,10 @@
       "event": {
         "start_time": "2026-01-04T00:00:00.000Z",
         "end_time": "2026-01-04T03:00:00.000Z",
-        "status": "próximamente"
+        "status": "en vivo"
       },
       "technical": {
-        "last_modified": "2026-01-03T18:36:51.621Z",
+        "last_modified": "2026-01-04T02:28:43.424Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1684,10 +1124,10 @@
       "event": {
         "start_time": "2026-01-04T00:00:00.000Z",
         "end_time": "2026-01-04T03:00:00.000Z",
-        "status": "próximamente"
+        "status": "en vivo"
       },
       "technical": {
-        "last_modified": "2026-01-03T18:36:51.621Z",
+        "last_modified": "2026-01-04T02:28:43.424Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1704,10 +1144,10 @@
       "event": {
         "start_time": "2026-01-04T00:00:00.000Z",
         "end_time": "2026-01-04T03:00:00.000Z",
-        "status": "próximamente"
+        "status": "en vivo"
       },
       "technical": {
-        "last_modified": "2026-01-03T18:36:51.621Z",
+        "last_modified": "2026-01-04T02:28:43.424Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1724,10 +1164,10 @@
       "event": {
         "start_time": "2026-01-04T02:00:00.000Z",
         "end_time": "2026-01-04T05:00:00.000Z",
-        "status": "próximamente"
+        "status": "en vivo"
       },
       "technical": {
-        "last_modified": "2026-01-03T18:36:51.621Z",
+        "last_modified": "2026-01-04T02:28:43.424Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1747,7 +1187,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-01-03T18:36:51.621Z",
+        "last_modified": "2026-01-04T02:28:43.424Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1764,10 +1204,10 @@
       "event": {
         "start_time": "2026-01-04T01:00:00.000Z",
         "end_time": "2026-01-04T04:00:00.000Z",
-        "status": "próximamente"
+        "status": "en vivo"
       },
       "technical": {
-        "last_modified": "2026-01-03T18:36:51.621Z",
+        "last_modified": "2026-01-04T02:28:43.424Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1787,7 +1227,7 @@
         "status": "en vivo"
       },
       "technical": {
-        "last_modified": "2026-01-03T18:36:51.621Z",
+        "last_modified": "2026-01-04T02:28:43.424Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1807,7 +1247,7 @@
         "status": "en vivo"
       },
       "technical": {
-        "last_modified": "2026-01-03T18:36:51.621Z",
+        "last_modified": "2026-01-04T02:28:43.424Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1827,7 +1267,7 @@
         "status": "en vivo"
       },
       "technical": {
-        "last_modified": "2026-01-03T18:36:51.621Z",
+        "last_modified": "2026-01-04T02:28:43.424Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1847,7 +1287,7 @@
         "status": "en vivo"
       },
       "technical": {
-        "last_modified": "2026-01-03T18:36:51.622Z",
+        "last_modified": "2026-01-04T02:28:43.424Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1867,7 +1307,7 @@
         "status": "en vivo"
       },
       "technical": {
-        "last_modified": "2026-01-03T18:36:51.622Z",
+        "last_modified": "2026-01-04T02:28:43.424Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
