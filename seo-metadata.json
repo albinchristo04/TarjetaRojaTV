@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-25T18:38:56.195Z",
-  "total_events": 42,
+  "generated_at": "2026-01-26T02:29:47.854Z",
+  "total_events": 23,
   "categories": [
     {
       "name": "American Football",
@@ -59,26 +59,6 @@
   ],
   "events": [
     {
-      "id": 16360,
-      "slug": "new-england-patriots-vs-denver-broncos",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/nfl/2026-01-25/ne-den",
-      "meta": {
-        "title": "New England Patriots vs. Denver Broncos EN VIVO - Tarjeta Roja TV",
-        "description": "Ver New England Patriots vs. Denver Broncos en vivo gratis el domingo 25 de enero de 2026",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, New England Patriots vs. Denver Broncos, Fútbol Americano"
-      },
-      "event": {
-        "start_time": "2026-01-25T20:00:00.000Z",
-        "end_time": "2026-01-25T23:30:00.000Z",
-        "status": "próximamente"
-      },
-      "technical": {
-        "last_modified": "2026-01-25T18:38:56.196Z",
-        "changefreq": "hourly",
-        "priority": 0.85
-      }
-    },
-    {
       "id": 16363,
       "slug": "los-angeles-rams-vs-seattle-seahawks",
       "canonical_url": "https://tarjetarojaenvivo.live/eventos/nfl/2026-01-25/lar-sea",
@@ -90,90 +70,10 @@
       "event": {
         "start_time": "2026-01-25T23:30:00.000Z",
         "end_time": "2026-01-26T03:00:00.000Z",
-        "status": "próximamente"
+        "status": "en vivo"
       },
       "technical": {
-        "last_modified": "2026-01-25T18:38:56.196Z",
-        "changefreq": "hourly",
-        "priority": 0.85
-      }
-    },
-    {
-      "id": 16469,
-      "slug": "sacramento-kings-vs-detroit-pistons",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/nba/2026-01-25/sac-det",
-      "meta": {
-        "title": "Sacramento Kings vs. Detroit Pistons EN VIVO - Tarjeta Roja TV",
-        "description": "Ver Sacramento Kings vs. Detroit Pistons en vivo gratis el domingo 25 de enero de 2026",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Sacramento Kings vs. Detroit Pistons, Baloncesto"
-      },
-      "event": {
-        "start_time": "2026-01-25T20:00:00.000Z",
-        "end_time": "2026-01-25T22:48:00.000Z",
-        "status": "próximamente"
-      },
-      "technical": {
-        "last_modified": "2026-01-25T18:38:56.196Z",
-        "changefreq": "hourly",
-        "priority": 0.85
-      }
-    },
-    {
-      "id": 16470,
-      "slug": "denver-nuggets-vs-memphis-grizzlies",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/nba/2026-01-25/den-mem",
-      "meta": {
-        "title": "Denver Nuggets vs. Memphis Grizzlies EN VIVO - Tarjeta Roja TV",
-        "description": "Ver Denver Nuggets vs. Memphis Grizzlies en vivo gratis el domingo 25 de enero de 2026",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Denver Nuggets vs. Memphis Grizzlies, Baloncesto"
-      },
-      "event": {
-        "start_time": "2026-01-25T20:30:00.000Z",
-        "end_time": "2026-01-25T23:18:00.000Z",
-        "status": "próximamente"
-      },
-      "technical": {
-        "last_modified": "2026-01-25T18:38:56.196Z",
-        "changefreq": "hourly",
-        "priority": 0.85
-      }
-    },
-    {
-      "id": 16472,
-      "slug": "golden-state-warriors-vs-minnesota-timberwolves",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/nba/2026-01-25/gs-min",
-      "meta": {
-        "title": "Golden State Warriors vs. Minnesota Timberwolves EN VIVO - Tarjeta Roja TV",
-        "description": "Ver Golden State Warriors vs. Minnesota Timberwolves en vivo gratis el domingo 25 de enero de 2026",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Golden State Warriors vs. Minnesota Timberwolves, Baloncesto"
-      },
-      "event": {
-        "start_time": "2026-01-25T22:30:00.000Z",
-        "end_time": "2026-01-26T01:18:00.000Z",
-        "status": "próximamente"
-      },
-      "technical": {
-        "last_modified": "2026-01-25T18:38:56.196Z",
-        "changefreq": "hourly",
-        "priority": 0.85
-      }
-    },
-    {
-      "id": 16475,
-      "slug": "dallas-mavericks-vs-milwaukee-bucks",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/nba/2026-01-25/dal-mil",
-      "meta": {
-        "title": "Dallas Mavericks vs. Milwaukee Bucks EN VIVO - Tarjeta Roja TV",
-        "description": "Ver Dallas Mavericks vs. Milwaukee Bucks en vivo gratis el lunes 26 de enero de 2026",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Dallas Mavericks vs. Milwaukee Bucks, Baloncesto"
-      },
-      "event": {
-        "start_time": "2026-01-26T00:00:00.000Z",
-        "end_time": "2026-01-26T02:48:00.000Z",
-        "status": "próximamente"
-      },
-      "technical": {
-        "last_modified": "2026-01-25T18:38:56.196Z",
+        "last_modified": "2026-01-26T02:29:47.855Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -190,10 +90,10 @@
       "event": {
         "start_time": "2026-01-26T00:00:00.000Z",
         "end_time": "2026-01-26T02:48:00.000Z",
-        "status": "próximamente"
+        "status": "en vivo"
       },
       "technical": {
-        "last_modified": "2026-01-25T18:38:56.196Z",
+        "last_modified": "2026-01-26T02:29:47.855Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -210,10 +110,10 @@
       "event": {
         "start_time": "2026-01-26T00:00:00.000Z",
         "end_time": "2026-01-26T02:48:00.000Z",
-        "status": "próximamente"
+        "status": "en vivo"
       },
       "technical": {
-        "last_modified": "2026-01-25T18:38:56.196Z",
+        "last_modified": "2026-01-26T02:29:47.855Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -230,10 +130,10 @@
       "event": {
         "start_time": "2026-01-26T01:00:00.000Z",
         "end_time": "2026-01-26T03:48:00.000Z",
-        "status": "próximamente"
+        "status": "en vivo"
       },
       "technical": {
-        "last_modified": "2026-01-25T18:38:56.196Z",
+        "last_modified": "2026-01-26T02:29:47.855Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -250,10 +150,10 @@
       "event": {
         "start_time": "2026-01-26T02:00:00.000Z",
         "end_time": "2026-01-26T04:48:00.000Z",
-        "status": "próximamente"
+        "status": "en vivo"
       },
       "technical": {
-        "last_modified": "2026-01-25T18:38:56.196Z",
+        "last_modified": "2026-01-26T02:29:47.855Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -273,207 +173,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-01-25T18:38:56.196Z",
-        "changefreq": "hourly",
-        "priority": 0.85
-      }
-    },
-    {
-      "id": 16305,
-      "slug": "brest-vs-toulouse",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/ligue1/2026-01-25/bre-tou",
-      "meta": {
-        "title": "Brest vs. Toulouse EN VIVO - Tarjeta Roja TV",
-        "description": "Ver Brest vs. Toulouse en vivo gratis el domingo 25 de enero de 2026",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Brest vs. Toulouse, Fútbol"
-      },
-      "event": {
-        "start_time": "2026-01-25T16:15:00.000Z",
-        "end_time": "2026-01-25T18:45:00.000Z",
-        "status": "en vivo"
-      },
-      "technical": {
-        "last_modified": "2026-01-25T18:38:56.196Z",
-        "changefreq": "hourly",
-        "priority": 0.85
-      }
-    },
-    {
-      "id": 16306,
-      "slug": "metz-vs-lyon",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/ligue1/2026-01-25/metz-lyon",
-      "meta": {
-        "title": "Metz vs. Lyon EN VIVO - Tarjeta Roja TV",
-        "description": "Ver Metz vs. Lyon en vivo gratis el domingo 25 de enero de 2026",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Metz vs. Lyon, Fútbol"
-      },
-      "event": {
-        "start_time": "2026-01-25T16:15:00.000Z",
-        "end_time": "2026-01-25T18:45:00.000Z",
-        "status": "en vivo"
-      },
-      "technical": {
-        "last_modified": "2026-01-25T18:38:56.196Z",
-        "changefreq": "hourly",
-        "priority": 0.85
-      }
-    },
-    {
-      "id": 16307,
-      "slug": "paris-fc-vs-angers",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/ligue1/2026-01-25/par-ang",
-      "meta": {
-        "title": "Paris FC vs. Angers EN VIVO - Tarjeta Roja TV",
-        "description": "Ver Paris FC vs. Angers en vivo gratis el domingo 25 de enero de 2026",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Paris FC vs. Angers, Fútbol"
-      },
-      "event": {
-        "start_time": "2026-01-25T16:15:00.000Z",
-        "end_time": "2026-01-25T18:45:00.000Z",
-        "status": "en vivo"
-      },
-      "technical": {
-        "last_modified": "2026-01-25T18:38:56.196Z",
-        "changefreq": "hourly",
-        "priority": 0.85
-      }
-    },
-    {
-      "id": 16279,
-      "slug": "sc-freiburg-vs-fc-cologne",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/bundesliga/2026-01-25/scf-koe",
-      "meta": {
-        "title": "SC Freiburg vs. FC Cologne EN VIVO - Tarjeta Roja TV",
-        "description": "Ver SC Freiburg vs. FC Cologne en vivo gratis el domingo 25 de enero de 2026",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, SC Freiburg vs. FC Cologne, Fútbol"
-      },
-      "event": {
-        "start_time": "2026-01-25T16:30:00.000Z",
-        "end_time": "2026-01-25T19:00:00.000Z",
-        "status": "en vivo"
-      },
-      "technical": {
-        "last_modified": "2026-01-25T18:38:56.196Z",
-        "changefreq": "hourly",
-        "priority": 0.85
-      }
-    },
-    {
-      "id": 16288,
-      "slug": "arsenal-vs-manchester-united",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/premierleague/2026-01-25/ars-man",
-      "meta": {
-        "title": "Arsenal vs. Manchester United EN VIVO - Tarjeta Roja TV",
-        "description": "Ver Arsenal vs. Manchester United en vivo gratis el domingo 25 de enero de 2026",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Arsenal vs. Manchester United, Fútbol"
-      },
-      "event": {
-        "start_time": "2026-01-25T16:30:00.000Z",
-        "end_time": "2026-01-25T19:00:00.000Z",
-        "status": "en vivo"
-      },
-      "technical": {
-        "last_modified": "2026-01-25T18:38:56.196Z",
-        "changefreq": "hourly",
-        "priority": 0.85
-      }
-    },
-    {
-      "id": 16297,
-      "slug": "juventus-vs-napoli",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/seriea/2026-01-25/juv-nap",
-      "meta": {
-        "title": "Juventus vs. Napoli EN VIVO - Tarjeta Roja TV",
-        "description": "Ver Juventus vs. Napoli en vivo gratis el domingo 25 de enero de 2026",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Juventus vs. Napoli, Fútbol"
-      },
-      "event": {
-        "start_time": "2026-01-25T17:00:00.000Z",
-        "end_time": "2026-01-25T19:30:00.000Z",
-        "status": "en vivo"
-      },
-      "technical": {
-        "last_modified": "2026-01-25T18:38:56.196Z",
-        "changefreq": "hourly",
-        "priority": 0.85
-      }
-    },
-    {
-      "id": 16268,
-      "slug": "real-sociedad-vs-celta-vigo",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/laliga/2026-01-25/rso-cel",
-      "meta": {
-        "title": "Real Sociedad vs. Celta Vigo EN VIVO - Tarjeta Roja TV",
-        "description": "Ver Real Sociedad vs. Celta Vigo en vivo gratis el domingo 25 de enero de 2026",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Real Sociedad vs. Celta Vigo, Fútbol"
-      },
-      "event": {
-        "start_time": "2026-01-25T17:30:00.000Z",
-        "end_time": "2026-01-25T20:00:00.000Z",
-        "status": "en vivo"
-      },
-      "technical": {
-        "last_modified": "2026-01-25T18:38:56.196Z",
-        "changefreq": "hourly",
-        "priority": 0.85
-      }
-    },
-    {
-      "id": 16298,
-      "slug": "as-roma-vs-ac-milan",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/seriea/2026-01-25/roma-mil",
-      "meta": {
-        "title": "AS Roma vs. AC Milan EN VIVO - Tarjeta Roja TV",
-        "description": "Ver AS Roma vs. AC Milan en vivo gratis el domingo 25 de enero de 2026",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, AS Roma vs. AC Milan, Fútbol"
-      },
-      "event": {
-        "start_time": "2026-01-25T19:45:00.000Z",
-        "end_time": "2026-01-25T22:15:00.000Z",
-        "status": "próximamente"
-      },
-      "technical": {
-        "last_modified": "2026-01-25T18:38:56.196Z",
-        "changefreq": "hourly",
-        "priority": 0.85
-      }
-    },
-    {
-      "id": 16308,
-      "slug": "lille-vs-strasbourg",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/ligue1/2026-01-25/lill-str",
-      "meta": {
-        "title": "Lille vs. Strasbourg EN VIVO - Tarjeta Roja TV",
-        "description": "Ver Lille vs. Strasbourg en vivo gratis el domingo 25 de enero de 2026",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Lille vs. Strasbourg, Fútbol"
-      },
-      "event": {
-        "start_time": "2026-01-25T19:45:00.000Z",
-        "end_time": "2026-01-25T22:15:00.000Z",
-        "status": "próximamente"
-      },
-      "technical": {
-        "last_modified": "2026-01-25T18:38:56.196Z",
-        "changefreq": "hourly",
-        "priority": 0.85
-      }
-    },
-    {
-      "id": 16269,
-      "slug": "alaves-vs-real-betis",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/laliga/2026-01-25/ala-bet",
-      "meta": {
-        "title": "Alavés vs. Real Betis EN VIVO - Tarjeta Roja TV",
-        "description": "Ver Alavés vs. Real Betis en vivo gratis el domingo 25 de enero de 2026",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Alavés vs. Real Betis, Fútbol"
-      },
-      "event": {
-        "start_time": "2026-01-25T20:00:00.000Z",
-        "end_time": "2026-01-25T22:30:00.000Z",
-        "status": "próximamente"
-      },
-      "technical": {
-        "last_modified": "2026-01-25T18:38:56.196Z",
+        "last_modified": "2026-01-26T02:29:47.855Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -493,7 +193,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-01-25T18:38:56.196Z",
+        "last_modified": "2026-01-26T02:29:47.855Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -513,7 +213,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-01-25T18:38:56.196Z",
+        "last_modified": "2026-01-26T02:29:47.855Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -533,67 +233,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-01-25T18:38:56.196Z",
-        "changefreq": "hourly",
-        "priority": 0.85
-      }
-    },
-    {
-      "id": 16468,
-      "slug": "colorado-avalanche-vs-toronto-maple-leafs",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/nhl/2026-01-25/col-tor",
-      "meta": {
-        "title": "Colorado Avalanche vs. Toronto Maple Leafs EN VIVO - Tarjeta Roja TV",
-        "description": "Ver Colorado Avalanche vs. Toronto Maple Leafs en vivo gratis el domingo 25 de enero de 2026",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Colorado Avalanche vs. Toronto Maple Leafs, Hockey sobre Hielo"
-      },
-      "event": {
-        "start_time": "2026-01-25T18:30:00.000Z",
-        "end_time": "2026-01-25T21:30:00.000Z",
-        "status": "en vivo"
-      },
-      "technical": {
-        "last_modified": "2026-01-25T18:38:56.196Z",
-        "changefreq": "hourly",
-        "priority": 0.85
-      }
-    },
-    {
-      "id": 16471,
-      "slug": "new-jersey-devils-vs-seattle-kraken",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/nhl/2026-01-25/nj-sea",
-      "meta": {
-        "title": "New Jersey Devils vs. Seattle Kraken EN VIVO - Tarjeta Roja TV",
-        "description": "Ver New Jersey Devils vs. Seattle Kraken en vivo gratis el domingo 25 de enero de 2026",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, New Jersey Devils vs. Seattle Kraken, Hockey sobre Hielo"
-      },
-      "event": {
-        "start_time": "2026-01-25T20:00:00.000Z",
-        "end_time": "2026-01-25T23:00:00.000Z",
-        "status": "próximamente"
-      },
-      "technical": {
-        "last_modified": "2026-01-25T18:38:56.196Z",
-        "changefreq": "hourly",
-        "priority": 0.85
-      }
-    },
-    {
-      "id": 16473,
-      "slug": "vegas-golden-knights-vs-ottawa-senators",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/nhl/2026-01-25/vgk-ott",
-      "meta": {
-        "title": "Vegas Golden Knights vs. Ottawa Senators EN VIVO - Tarjeta Roja TV",
-        "description": "Ver Vegas Golden Knights vs. Ottawa Senators en vivo gratis el domingo 25 de enero de 2026",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Vegas Golden Knights vs. Ottawa Senators, Hockey sobre Hielo"
-      },
-      "event": {
-        "start_time": "2026-01-25T22:00:00.000Z",
-        "end_time": "2026-01-26T01:00:00.000Z",
-        "status": "próximamente"
-      },
-      "technical": {
-        "last_modified": "2026-01-25T18:38:56.196Z",
+        "last_modified": "2026-01-26T02:29:47.855Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -610,10 +250,10 @@
       "event": {
         "start_time": "2026-01-25T23:00:00.000Z",
         "end_time": "2026-01-26T02:00:00.000Z",
-        "status": "próximamente"
+        "status": "en vivo"
       },
       "technical": {
-        "last_modified": "2026-01-25T18:38:56.196Z",
+        "last_modified": "2026-01-26T02:29:47.855Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -630,10 +270,10 @@
       "event": {
         "start_time": "2026-01-26T00:00:00.000Z",
         "end_time": "2026-01-26T03:00:00.000Z",
-        "status": "próximamente"
+        "status": "en vivo"
       },
       "technical": {
-        "last_modified": "2026-01-25T18:38:56.196Z",
+        "last_modified": "2026-01-26T02:29:47.855Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -650,10 +290,10 @@
       "event": {
         "start_time": "2026-01-26T01:00:00.000Z",
         "end_time": "2026-01-26T04:00:00.000Z",
-        "status": "próximamente"
+        "status": "en vivo"
       },
       "technical": {
-        "last_modified": "2026-01-25T18:38:56.196Z",
+        "last_modified": "2026-01-26T02:29:47.855Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -673,7 +313,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-01-25T18:38:56.196Z",
+        "last_modified": "2026-01-26T02:29:47.855Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -693,7 +333,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-01-25T18:38:56.196Z",
+        "last_modified": "2026-01-26T02:29:47.855Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -713,27 +353,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-01-25T18:38:56.196Z",
-        "changefreq": "hourly",
-        "priority": 0.85
-      }
-    },
-    {
-      "id": 16466,
-      "slug": "rolex-24-at-daytona",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/rolex-24-at-daytona-2026",
-      "meta": {
-        "title": "Rolex 24 at Daytona EN VIVO - Tarjeta Roja TV",
-        "description": "Ver Rolex 24 at Daytona en vivo gratis el sábado 24 de enero de 2026",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Rolex 24 at Daytona, Motorsports"
-      },
-      "event": {
-        "start_time": "2026-01-24T18:30:00.000Z",
-        "end_time": "2026-01-25T20:30:00.000Z",
-        "status": "en vivo"
-      },
-      "technical": {
-        "last_modified": "2026-01-25T18:38:56.196Z",
+        "last_modified": "2026-01-26T02:29:47.855Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -753,7 +373,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-01-25T18:38:56.196Z",
+        "last_modified": "2026-01-26T02:29:47.855Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -773,7 +393,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-01-25T18:38:56.196Z",
+        "last_modified": "2026-01-26T02:29:47.855Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -793,7 +413,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-01-25T18:38:56.196Z",
+        "last_modified": "2026-01-26T02:29:47.855Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -813,7 +433,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-01-25T18:38:56.196Z",
+        "last_modified": "2026-01-26T02:29:47.855Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -833,7 +453,7 @@
         "status": "en vivo"
       },
       "technical": {
-        "last_modified": "2026-01-25T18:38:56.196Z",
+        "last_modified": "2026-01-26T02:29:47.855Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -853,7 +473,7 @@
         "status": "en vivo"
       },
       "technical": {
-        "last_modified": "2026-01-25T18:38:56.196Z",
+        "last_modified": "2026-01-26T02:29:47.855Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -873,7 +493,7 @@
         "status": "en vivo"
       },
       "technical": {
-        "last_modified": "2026-01-25T18:38:56.196Z",
+        "last_modified": "2026-01-26T02:29:47.855Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -893,7 +513,7 @@
         "status": "en vivo"
       },
       "technical": {
-        "last_modified": "2026-01-25T18:38:56.196Z",
+        "last_modified": "2026-01-26T02:29:47.855Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
