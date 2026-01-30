@@ -1,0 +1,273 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Leyendas de los Mundiales - Los Mayores Héroes del Fútbol Global | Tarjeta Roja TV</title>
+    <meta name="description" content="Explora las leyendas más memorables de la historia de los Mundiales de Fútbol: Pelé, Maradona, Messi, Cruyff y otros íconos que definieron las Copas del Mundo.">
+    <meta name="keywords" content="Mundial, Copa del Mundo, FIFA, leyendas del fútbol, Pelé, Maradona, Messi, historia mundialista">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel-content="stylesheet">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: 'Arial', sans-serif; line-height: 1.6; color: #333; background: #f8f9fa; }
+        .container { max-width: 1200px; margin: 0 auto; padding: 0 20px; }
+        header { background: linear-gradient(135deg, #1a237e 0%, #283593 100%); color: white; padding: 1rem 0; box-shadow: 0 2px 10px rgba(0,0,0,0.1); }
+        .logo { font-size: 2rem; font-weight: bold; color: #fff; text-decoration: none; }
+        nav ul { display: flex; list-style: none; gap: 2rem; }
+        nav a { color: white; text-decoration: none; padding: 0.5rem 1rem; border-radius: 4px; transition: background 0.3s; }
+        nav a:hover { background: rgba(255,255,255,0.1); }
+        .hero { background: linear-gradient(rgba(26,35,126,0.8), rgba(26,35,126,0.8)), url('https://images.unsplash.com/photo-1540747913346-19e32dc3e97e?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80'); background-size: cover; background-position: center; color: white; text-align: center; padding: 4rem 0; }
+        .hero h1 { font-size: 3rem; margin-bottom: 1rem; text-shadow: 2px 2px 4px rgba(0,0,0,0.5); }
+        .hero p { font-size: 1.2rem; max-width: 800px; margin: 0 auto; text-shadow: 1px 1px 2px rgba(0,0,0,0.5); }
+        .breadcrumb { padding: 1rem 0; background: white; border-bottom: 1px solid #eee; }
+        .breadcrumb a { color: #1a237e; text-decoration: none; }
+        .breadcrumb a:hover { text-decoration: underline; }
+        .content-wrapper { display: grid; grid-template-columns: 1fr 300px; gap: 2rem; margin: 2rem 0; }
+        main { background: white; padding: 2rem; border-radius: 8px; box-shadow: 0 2px 10px rgba(0,0,0,0.1); }
+        .article-meta { color: #666; margin-bottom: 2rem; padding-bottom: 1rem; border-bottom: 1px solid #eee; }
+        .article-meta span { margin-right: 1rem; }
+        h2 { color: #1a237e; margin: 2rem 0 1rem; font-size: 1.8rem; }
+        h3 { color: #34495e; margin: 1.5rem 0 1rem; font-size: 1.4rem; }
+        p { margin-bottom: 1.5rem; text-align: justify; }
+        .legend-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 2rem; margin: 2rem 0; }
+        .legend-card { background: #f8f9fa; border-radius: 8px; overflow: hidden; box-shadow: 0 4px 15px rgba(0,0,0,0.1); transition: transform 0.3s; }
+        .legend-card:hover { transform: translateY(-5px); }
+        .legend-image { height: 200px; background-size: cover; background-position: center; }
+        .legend-content { padding: 1.5rem; }
+        .legend-name { font-size: 1.4rem; font-weight: bold; color: #1a237e; margin-bottom: 0.5rem; }
+        .legend-country { color: #666; font-size: 1rem; margin-bottom: 1rem; }
+        .legend-achievements { color: #333; line-height: 1.6; }
+        .world-cup-highlights { background: linear-gradient(135deg, #1a237e 0%, #3949ab 100%); color: white; padding: 2rem; border-radius: 8px; margin: 2rem 0; }
+        .highlights-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 1.5rem; margin-top: 1.5rem; }
+        .highlight-card { background: rgba(255,255,255,0.1); padding: 1.5rem; border-radius: 8px; text-align: center; }
+        .highlight-title { font-weight: bold; margin-bottom: 0.5rem; font-size: 1.1rem; }
+        .highlight-desc { font-size: 0.9rem; opacity: 0.9; }
+        .timeline-section { background: white; padding: 2rem; border-radius: 8px; margin: 2rem 0; border-left: 4px solid #1a237e; }
+        .timeline { position: relative; padding-left: 2rem; }
+        .timeline::before { content: ''; position: absolute; left: 0; top: 0; bottom: 0; width: 2px; background: #1a237e; }
+        .timeline-event { position: relative; margin-bottom: 2rem; }
+        .timeline-event::before { content: ''; position: absolute; left: -2.5rem; top: 0.5rem; width: 12px; height: 12px; border-radius: 50%; background: #1a237e; border: 3px solid white; box-shadow: 0 0 0 2px #1a237e; }
+        .event-year { font-weight: bold; color: #1a237e; margin-bottom: 0.3rem; }
+        .event-desc { color: #333; }
+        aside { background: white; padding: 1.5rem; border-radius: 8px; box-shadow: 0 2px 10px rgba(0,0,0,0.1); align-self: start; }
+        .related-content h3 { color: #1a237e; margin-bottom: 1rem; }
+        .related-links { list-style: none; }
+        .related-links li { margin-bottom: 0.8rem; }
+        .related-links a { color: #1a237e; text-decoration: none; display: flex; align-items: center; gap: 0.5rem; }
+        .related-links a:hover { text-decoration: underline; }
+        .social-share { background: #e8eaf6; padding: 1.5rem; border-radius: 8px; margin: 2rem 0; }
+        .social-share h3 { margin-bottom: 1rem; color: #1a237e; }
+        .share-buttons { display: flex; gap: 1rem; }
+        .share-button { padding: 0.8rem 1.5rem; border-radius: 4px; color: white; text-decoration: none; display: inline-flex; align-items: center; gap: 0.5rem; transition: transform 0.2s; }
+        .share-button:hover { transform: translateY(-2px); }
+        .facebook { background: #3b5998; }
+        .twitter { background: #1da1f2; }
+        .whatsapp { background: #25d366; }
+        footer { background: #34495e; color: white; text-align: center; padding: 2rem 0; margin-top: 2rem; }
+        @media (max-width: 768px) {
+            .content-wrapper { grid-template-columns: 1fr; }
+            .hero h1 { font-size: 2rem; }
+            nav ul { flex-direction: column; gap: 1rem; }
+            .legend-grid { grid-template-columns: 1fr; }
+            .highlights-grid { grid-template-columns: 1fr; }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <div style="display: flex; justify-content: space-between; align-items: center;">
+                <a href="/" class="logo">⚽ Tarjeta Roja TV</a>
+                <nav>
+                    <ul>
+                        <li><a href="/"><i class="fas fa-home"></i> Inicio</a></li>
+                        <li><a href="/partidos-hoy"><i class="fas fa-calendar-day"></i> Partidos</a></li>
+                        <li><a href="/noticias"><i class="fas fa-newspaper"></i> Noticias</a></li>
+                        <li><a href="/historia"><i class="fas fa-history"></i> Historia</a></li>
+                    </ul>
+                </nav>
+            </div>
+        </div>
+    </header>
+
+    <section class="hero">
+        <div class="container">
+            <h1>Leyendas de los Mundiales: Héroes Eternos del Fútbol Global</h1>
+            <p>Los jugadores que definieron las Copas del Mundo y se convirtieron en mitos vivientes del deporte rey</p>
+        </div>
+    </section>
+
+    <div class="breadcrumb">
+        <div class="container">
+            <a href="/">Inicio</a> > <a href="/historia">Historia</a> > Leyendas de los Mundiales
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="content-wrapper">
+            <main>
+                <div class="article-meta">
+                    <span><i class="far fa-calendar"></i> Actualizado: Enero 30, 2026</span>
+                    <span><i class="far fa-clock"></i> 20 minutos de lectura</span>
+                    <span><i class="fas fa-tag"></i> Historia del Fútbol</span>
+                </div>
+
+                <p>La Copa del Mundo de la FIFA representa la máxima expresión del fútbol internacional, donde nacen las leyendas más memorables de la historia deportiva. A lo largo de más de noventa años de torneos, ciertos jugadores han trascendido su condición de atletas para convertirse en héroes universales, cuyas actuaciones mágicas en los Mundiales quedan grabadas para siempre en la memoria colectiva del planeta.</p>
+
+                <h2>Los Grandes Maestros del Balón</h2>
+                <p>Cada Copa del Mundo ha tenido sus protagonistas únicos, aquellos jugadores capaces de elevar su juego cuando más se necesita, de crear momentos de genialidad pura que definen competencias enteras. Desde Pelé en Suecia 1958 hasta Messi en Qatar 2022, estas leyendas han dado forma a la narrativa mundialista y han inspirado a generaciones de futbolistas.</p>
+
+                <div class="legend-grid">
+                    <div class="legend-card">
+                        <div class="legend-image" style="background-image: url('https://images.unsplash.com/photo-1540747913346-19e32dc3e97e?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80');"></div>
+                        <div class="legend-content">
+                            <div class="legend-name">Pelé</div>
+                            <div class="legend-country">Brasil (1958, 1962, 1966, 1970)</div>
+                            <div class="legend-achievements">
+                                <strong>El único en ganar 3 Mundiales</strong> - Jugó su primer mundial a los 17 años y marcó dos goles en la final de 1958. Considerado por muchos como el mejor jugador de la historia.
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="legend-card">
+                        <div class="legend-image" style="background-image: url('https://images.unsplash.com/photo-1540747913346-19e32dc3e97e?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80');"></div>
+                        <div class="legend-content">
+                            <div class="legend-name">Diego Maradona</div>
+                            <div class="legend-country">Argentina (1978, 1982, 1986, 1990, 1994)</div>
+                            <div class="legend-achievements">
+                                <strong>La mano de Dios y el gol del siglo</strong> - Su actuación en México 1986 fue mítica, especialmente en la victoria contra Inglaterra donde marcó ambos goles legendarios.
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="legend-card">
+                        <div class="legend-image" style="background-image: url('https://images.unsplash.com/photo-1540747913346-19e32dc3e97e?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80');"></div>
+                        <div class="legend-content">
+                            <div class="legend-name">Lionel Messi</div>
+                            <div class="legend-country">Argentina (2006, 2010, 2014, 2018, 2022)</div>
+                            <div class="legend-achievements">
+                                <strong>Redención en Qatar 2022</strong> - Después de años de frustraciones, finalmente levantó la Copa del Mundo, coronando su carrera con el título más codiciado.
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="legend-card">
+                        <div class="legend-image" style="background-image: url('https://images.unsplash.com/photo-1540747913346-19e32dc3e97e?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80');"></div>
+                        <div class="legend-content">
+                            <div class="legend-name">Johan Cruyff</div>
+                            <div class="legend-country">Países Bajos (1974, 1978)</div>
+                            <div class="legend-achievements">
+                                <strong>Arquitecto del fútbol total</strong> - Revolucionó el juego con su visión táctica y habilidades técnicas. Ganó el Balón de Oro tres veces consecutivas.
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <h2>Momentos Épicos que Definieron Mundiales</h2>
+                <div class="world-cup-highlights">
+                    <h3><i class="fas fa-trophy"></i> Momentos Legendarios de la Historia Mundialista</h3>
+                    <div class="highlights-grid">
+                        <div class="highlight-card">
+                            <div class="highlight-title">La Mano de Dios (1986)</div>
+                            <div class="highlight-desc">Maradona's controvertido gol contra Inglaterra que cambió la historia del fútbol argentino</div>
+                        </div>
+                        <div class="highlight-card">
+                            <div class="highlight-title">Gol del Siglo (1986)</div>
+                            <div class="highlight-desc">El dribbling de Maradona que superó a cinco jugadores ingleses en un solo ataque mágico</div>
+                        </div>
+                        <div class="highlight-card">
+                            <div class="highlight-title">Final Francia 1998</div>
+                            <div class="highlight-desc">Zinedine Zidane brilló con dos goles espectaculares en la final contra Brasil</div>
+                        </div>
+                        <div class="highlight-card">
+                            <div class="highlight-title">Alemania 2014</div>
+                            <div class="highlight-desc">Mario Götze marcó el gol decisivo en la prórroga contra Argentina</div>
+                        </div>
+                    </div>
+                </div>
+
+                <h2>Evolución de las Leyendas a Través de las Décadas</h2>
+                <div class="timeline-section">
+                    <h3><i class="fas fa-history"></i> Evolución de los Héroes Mundialistas</h3>
+                    <div class="timeline">
+                        <div class="timeline-event">
+                            <div class="event-year">Década de 1950-1960</div>
+                            <div class="event-desc">Pelé emerge como prodigio brasileño, ganando su primer mundial a los 17 años en Suecia 1958</div>
+                        </div>
+                        <div class="timeline-event">
+                            <div class="event-year">Década de 1970</div>
+                            <div class="event-desc">Cruyff redefine el fútbol con el sistema holandés del "fútbol total" en Alemania 1974</div>
+                        </div>
+                        <div class="timeline-event">
+                            <div class="event-year">Década de 1980</div>
+                            <div class="event-desc">Maradona lleva a Argentina a la gloria en México 1986 con actuaciones mágicas</div>
+                        </div>
+                        <div class="timeline-event">
+                            <div class="event-year">Década de 1990</div>
+                            <div class="event-desc">Ronaldo "El Fenómeno" aparece como la próxima gran estrella en Estados Unidos 1994</div>
+                        </div>
+                        <div class="timeline-event">
+                            <div class="event-year">Década de 2000</div>
+                            <div class="event-desc">Zidane brilla en Francia 1998 y Brasil 2002, mientras Ronaldinho y Kaká emergen</div>
+                        </div>
+                        <div class="timeline-event">
+                            <div class="event-year">Década de 2010-2020</div>
+                            <div class="event-desc">Messi y Cristiano Ronaldo dominan la era moderna, culminando con la victoria de Messi en Qatar 2022</div>
+                        </div>
+                    </div>
+                </div>
+
+                <h2>Características de las Leyendas Mundialistas</h2>
+                <p>Las leyendas de los Mundiales comparten ciertas cualidades que las distinguen en los momentos más importantes. La capacidad de elevar su nivel de juego en situaciones críticas, la inteligencia táctica para leer el partido, y la fortaleza mental para rendir bajo presión extrema son atributos comunes.</p>
+
+                <p>Además, estas leyendas poseen una conexión especial con sus selecciones nacionales y con los millones de aficionados que las siguen. Su identificación con la causa nacional trasciende el simple rendimiento deportivo para convertirse en símbolos de esperanza, orgullo y unidad nacional.</p>
+
+                <h2>Impacto Cultural y Legado</h2>
+                <p>Las leyendas de los Mundiales no solo impactan el fútbol, sino que influyen profundamente en la cultura popular y social de sus países. Pelé se convirtió en embajador global del Brasil, mientras que Maradona representó la lucha y la pasión del pueblo argentino.</p>
+
+                <p>El legado de estas leyendas trasciende generaciones, inspirando a nuevos talentos y manteniendo viva la llama del fútbol como arte y emoción. Sus nombres se convierten en sinónimo de excelencia y sus hazañas se cuentan como leyendas urbanas que alimentan el sueño de millones de niños en todo el mundo.</p>
+
+                <h2>Las Nuevas Generaciones</h2>
+                <p>Hoy en día, jugadores como Kylian Mbappé, Erling Haaland y Kevin De Bruyne representan la nueva generación de talentos que buscan dejar su huella en los Mundiales. La evolución del juego, la tecnología y los medios de comunicación han cambiado la forma en que se crean y perciben las leyendas, pero la esencia sigue siendo la misma: momentos de genialidad en los escenarios más importantes.</p>
+
+                <p>La Copa del Mundo continúa siendo el laboratorio perfecto para el nacimiento de nuevas leyendas, donde el talento individual se fusiona con el espíritu colectivo para crear recuerdos imborrables que trascienden el tiempo y el espacio.</p>
+
+                <div class="social-share">
+                    <h3><i class="fas fa-share-alt"></i> Comparte esta historia</h3>
+                    <div class="share-buttons">
+                        <a href="#" class="share-button facebook"><i class="fab fa-facebook-f"></i> Facebook</a>
+                        <a href="#" class="share-button twitter"><i class="fab fa-twitter"></i> Twitter</a>
+                        <a href="#" class="share-button whatsapp"><i class="fab fa-whatsapp"></i> WhatsApp</a>
+                    </div>
+                </div>
+            </main>
+
+            <aside>
+                <div class="related-content">
+                    <h3><i class="fas fa-book-reader"></i> Contenido Relacionado</h3>
+                    <ul class="related-links">
+                        <li><a href="/historia/leyendas-futbol"><i class="fas fa-chevron-right"></i> Leyendas del Fútbol</a></li>
+                        <li><a href="/equipos/real-madrid"><i class="fas fa-chevron-right"></i> Real Madrid CF</a></li>
+                        <li><a href="/equipos/fc-barcelona"><i class="fas fa-chevron-right"></i> FC Barcelona</a></li>
+                        <li><a href="/guias/historia-champions-league"><i class="fas fa-chevron-right"></i> Historia Champions League</a></li>
+                        <li><a href="/guias/mejores-ligas-futbol"><i class="fas fa-chevron-right"></i> Mejores Ligas Europeas</a></li>
+                    </ul>
+                </div>
+
+                <div style="margin-top: 2rem; padding: 1.5rem; background: #e8eaf6; border-radius: 8px;">
+                    <h3><i class="fas fa-trophy"></i> Historia Destacada</h3>
+                    <p style="margin: 1rem 0;"><strong>Leyendas de los Mundiales</strong> - Los héroes que definieron las Copas del Mundo más memorables de la historia.</p>
+                    <a href="/historia/leyendas-mundiales" style="display: inline-block; background: #1a237e; color: white; padding: 0.5rem 1rem; border-radius: 4px; text-decoration: none;">Leer Historia Completa</a>
+                </div>
+            </aside>
+        </div>
+    </div>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2026 Tarjeta Roja TV. Todos los derechos reservados.</p>
+            <p>El mejor contenido sobre fútbol en español</p>
+        </div>
+    </footer>
+</body>
+</html>
