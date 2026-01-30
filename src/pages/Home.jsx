@@ -88,84 +88,8 @@ export default function Home() {
 
             {heroMatch && <Hero match={heroMatch} />}
 
-            {/* SECTION 1 — 🔴 Partidos en Vivo */}
-            {liveMatches.length > 0 && (
-                <section className="mt-8">
-                    <div className="container mx-auto px-4 mb-4 flex items-center gap-2">
-                        <div className="w-2 h-2 rounded-full bg-live animate-pulse" />
-                        <h2 className="text-xl font-bold tracking-wide uppercase">Partidos en Vivo</h2>
-                    </div>
-                    <LiveCarousel matches={liveMatches} />
-                </section>
-            )}
-
-            {/* SECTION 2 — ⏱️ Próximos Partidos */}
-            <section className="container mx-auto px-4 mt-12" id="schedule">
-                <h2 className="text-xl font-bold tracking-wide uppercase mb-6">Próximos Partidos</h2>
-
-                <div className="flex flex-col md:flex-row gap-4 mb-8 justify-between">
-                    <div className="flex gap-2 overflow-x-auto pb-2 no-scrollbar">
-                        {uniqueCategories.map(cat => (
-                            <button
-                                key={cat}
-                                onClick={() => setActiveCategory(cat)}
-                                className={`px-4 py-2 rounded-full text-sm font-medium transition-colors whitespace-nowrap ${activeCategory === cat
-                                    ? 'bg-white text-black'
-                                    : 'bg-card text-gray-400 hover:bg-white/10'
-                                    }`}
-                            >
-                                {cat === 'All' ? 'Todos' : cat}
-                            </button>
-                        ))}
-                    </div>
-
-                    <div className="relative min-w-[200px]">
-                        <input
-                            type="text"
-                            placeholder="Buscar equipos, competencias..."
-                            className="w-full bg-card border border-white/10 rounded-lg px-4 py-2 text-sm text-white focus:outline-none focus:border-white/30 placeholder:text-gray-600"
-                            value={searchQuery}
-                            onChange={(e) => setSearchQuery(e.target.value)}
-                        />
-                    </div>
-                </div>
-
-                <MatchGrid matches={displayMatches.filter(m => !isLive(m) || activeCategory !== 'All')} />
-            </section>
-
-            {/* SECTION 3 — 📅 Partidos de Hoy */}
-            <section className="container mx-auto px-4 mt-16">
-                <h2 className="text-xl font-bold tracking-wide uppercase mb-6">📅 Partidos de Hoy</h2>
-                <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4">
-                    <a href="/partidos-de-hoy/" className="bg-card p-4 rounded-lg border border-white/5 hover:border-primary/50 transition-colors">
-                        <h3 className="font-bold text-primary">Partidos de Hoy</h3>
-                        <p className="text-xs text-gray-400">Consulta el calendario completo de encuentros para el día de hoy.</p>
-                    </a>
-                    <a href="/futbol-en-vivo-hoy/" className="bg-card p-4 rounded-lg border border-white/5 hover:border-primary/50 transition-colors">
-                        <h3 className="font-bold text-primary">Fútbol en Vivo Hoy</h3>
-                        <p className="text-xs text-gray-400">Información en tiempo real sobre los partidos que se juegan ahora.</p>
-                    </a>
-                    <a href="/ver-futbol-online/" className="bg-card p-4 rounded-lg border border-white/5 hover:border-primary/50 transition-colors">
-                        <h3 className="font-bold text-primary">Ver Fútbol Online</h3>
-                        <p className="text-xs text-gray-400">Guía informativa sobre cómo seguir el fútbol por internet legalmente.</p>
-                    </a>
-                </div>
-            </section>
-
-            {/* SECTION 4 — ⭐ Tarjeta Roja Popular */}
-            <section className="container mx-auto px-4 mt-16">
-                <h2 className="text-xl font-bold tracking-wide uppercase mb-6">⭐ Tarjeta Roja Popular</h2>
-                <div className="flex flex-wrap gap-4">
-                    <a href="/tarjeta-roja/" className="px-6 py-3 bg-card rounded-full border border-white/5 hover:bg-primary hover:text-white transition-all font-bold text-sm">Tarjeta Roja</a>
-                    <a href="/tarjeta-roja-tv/" className="px-6 py-3 bg-card rounded-full border border-white/5 hover:bg-primary hover:text-white transition-all font-bold text-sm">Tarjeta Roja TV</a>
-                    <a href="/tarjeta-roja-en-vivo/" className="px-6 py-3 bg-card rounded-full border border-white/5 hover:bg-primary hover:text-white transition-all font-bold text-sm">Tarjeta Roja en Vivo</a>
-                    <a href="/tarjetarojaenvivo/" className="px-6 py-3 bg-card rounded-full border border-white/5 hover:bg-primary hover:text-white transition-all font-bold text-sm">TarjetaRojaEnvivo</a>
-                    <a href="/tarjeta-roja-directa/" className="px-6 py-3 bg-card rounded-full border border-white/5 hover:bg-primary hover:text-white transition-all font-bold text-sm">Tarjeta Roja Directa</a>
-                </div>
-            </section>
-
-            {/* SECTION 5 — 📚 Contenido Educativo */}
-            <section className="container mx-auto px-4 mt-16">
+            {/* SECTION 1 — 📚 Contenido Educativo (Moved to top for AdSense) */}
+            <section className="container mx-auto px-4 mt-12">
                 <h2 className="text-xl font-bold tracking-wide uppercase mb-6">📚 Guías y Artículos</h2>
                 <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
                     <a href="/guias/como-ver-futbol-en-vivo/" className="bg-card p-6 rounded-lg border border-white/5 hover:border-primary/50 transition-colors group">
@@ -204,6 +128,82 @@ export default function Home() {
                         <h3 className="font-bold text-primary group-hover:text-white transition-colors mb-2">Mundial 2026</h3>
                         <p className="text-sm text-gray-400">Toda la información sobre el Mundial en USA, México y Canadá.</p>
                     </a>
+                </div>
+            </section>
+
+            {/* SECTION 2 — 🔴 Partidos en Vivo */}
+            {liveMatches.length > 0 && (
+                <section className="mt-16">
+                    <div className="container mx-auto px-4 mb-4 flex items-center gap-2">
+                        <div className="w-2 h-2 rounded-full bg-live animate-pulse" />
+                        <h2 className="text-xl font-bold tracking-wide uppercase">Partidos en Vivo</h2>
+                    </div>
+                    <LiveCarousel matches={liveMatches} />
+                </section>
+            )}
+
+            {/* SECTION 3 — ⏱️ Próximos Partidos */}
+            <section className="container mx-auto px-4 mt-16" id="schedule">
+                <h2 className="text-xl font-bold tracking-wide uppercase mb-6">Próximos Partidos</h2>
+
+                <div className="flex flex-col md:flex-row gap-4 mb-8 justify-between">
+                    <div className="flex gap-2 overflow-x-auto pb-2 no-scrollbar">
+                        {uniqueCategories.map(cat => (
+                            <button
+                                key={cat}
+                                onClick={() => setActiveCategory(cat)}
+                                className={`px-4 py-2 rounded-full text-sm font-medium transition-colors whitespace-nowrap ${activeCategory === cat
+                                    ? 'bg-white text-black'
+                                    : 'bg-card text-gray-400 hover:bg-white/10'
+                                    }`}
+                            >
+                                {cat === 'All' ? 'Todos' : cat}
+                            </button>
+                        ))}
+                    </div>
+
+                    <div className="relative min-w-[200px]">
+                        <input
+                            type="text"
+                            placeholder="Buscar equipos, competencias..."
+                            className="w-full bg-card border border-white/10 rounded-lg px-4 py-2 text-sm text-white focus:outline-none focus:border-white/30 placeholder:text-gray-600"
+                            value={searchQuery}
+                            onChange={(e) => setSearchQuery(e.target.value)}
+                        />
+                    </div>
+                </div>
+
+                <MatchGrid matches={displayMatches.filter(m => !isLive(m) || activeCategory !== 'All')} />
+            </section>
+
+            {/* SECTION 4 — 📅 Partidos de Hoy */}
+            <section className="container mx-auto px-4 mt-16">
+                <h2 className="text-xl font-bold tracking-wide uppercase mb-6">📅 Partidos de Hoy</h2>
+                <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4">
+                    <a href="/partidos-de-hoy/" className="bg-card p-4 rounded-lg border border-white/5 hover:border-primary/50 transition-colors">
+                        <h3 className="font-bold text-primary">Partidos de Hoy</h3>
+                        <p className="text-xs text-gray-400">Consulta el calendario completo de encuentros para el día de hoy.</p>
+                    </a>
+                    <a href="/futbol-en-vivo-hoy/" className="bg-card p-4 rounded-lg border border-white/5 hover:border-primary/50 transition-colors">
+                        <h3 className="font-bold text-primary">Fútbol en Vivo Hoy</h3>
+                        <p className="text-xs text-gray-400">Información en tiempo real sobre los partidos que se juegan ahora.</p>
+                    </a>
+                    <a href="/ver-futbol-online/" className="bg-card p-4 rounded-lg border border-white/5 hover:border-primary/50 transition-colors">
+                        <h3 className="font-bold text-primary">Ver Fútbol Online</h3>
+                        <p className="text-xs text-gray-400">Guía informativa sobre cómo seguir el fútbol por internet legalmente.</p>
+                    </a>
+                </div>
+            </section>
+
+            {/* SECTION 5 — ⭐ Tarjeta Roja Popular */}
+            <section className="container mx-auto px-4 mt-16">
+                <h2 className="text-xl font-bold tracking-wide uppercase mb-6">⭐ Tarjeta Roja Popular</h2>
+                <div className="flex flex-wrap gap-4">
+                    <a href="/tarjeta-roja/" className="px-6 py-3 bg-card rounded-full border border-white/5 hover:bg-primary hover:text-white transition-all font-bold text-sm">Tarjeta Roja</a>
+                    <a href="/tarjeta-roja-tv/" className="px-6 py-3 bg-card rounded-full border border-white/5 hover:bg-primary hover:text-white transition-all font-bold text-sm">Tarjeta Roja TV</a>
+                    <a href="/tarjeta-roja-en-vivo/" className="px-6 py-3 bg-card rounded-full border border-white/5 hover:bg-primary hover:text-white transition-all font-bold text-sm">Tarjeta Roja en Vivo</a>
+                    <a href="/tarjetarojaenvivo/" className="px-6 py-3 bg-card rounded-full border border-white/5 hover:bg-primary hover:text-white transition-all font-bold text-sm">TarjetaRojaEnvivo</a>
+                    <a href="/tarjeta-roja-directa/" className="px-6 py-3 bg-card rounded-full border border-white/5 hover:bg-primary hover:text-white transition-all font-bold text-sm">Tarjeta Roja Directa</a>
                 </div>
             </section>
         </div>
