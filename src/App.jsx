@@ -3,6 +3,7 @@ import Home from './pages/Home';
 import Event from './pages/Event';
 import Navbar from './components/layout/Navbar';
 import Footer from './components/layout/Footer';
+import CookieConsent from './components/layout/CookieConsent';
 import PrivacyPolicy from './pages/legal/PrivacyPolicy';
 import Terms from './pages/legal/Terms';
 import DMCA from './pages/legal/DMCA';
@@ -26,6 +27,7 @@ function App() {
           </Routes>
         </main>
         <Footer />
+        <CookieConsent />
       </div>
     </BrowserRouter>
   );

@@ -40,8 +40,50 @@
         .contact-form input, .contact-form textarea { width: 100%; padding: 0.8rem; margin-bottom: 1rem; background: #222; border: 1px solid #333; color: white; border-radius: 4px; }
         .contact-form button { background: var(--primary); color: white; border: none; padding: 1rem 2rem; border-radius: 4px; font-weight: bold; cursor: pointer; }
         @media (max-width: 768px) { .nav-links { display: none; } }
+        .mobile-menu-btn { display: none; background: none; border: none; color: white; font-size: 1.5rem; cursor: pointer; }
+        @media (max-width: 768px) { .mobile-menu-btn { display: block; } }
+        .mobile-nav { display: none; background: #000; padding: 1rem; }
+        .mobile-nav.active { display: block; }
+        .mobile-nav a { display: block; color: #ccc; text-decoration: none; padding: 0.75rem 0; border-bottom: 1px solid #222; }
+        .cookie-banner { position: fixed; bottom: 0; left: 0; right: 0; background: #1a1a1a; border-top: 1px solid #333; padding: 1rem; z-index: 1000; display: none; }
+        .cookie-banner.show { display: block; }
+        .cookie-content { max-width: 1200px; margin: 0 auto; display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 1rem; }
+        .cookie-text { flex: 1; min-width: 300px; font-size: 0.9rem; color: #aaa; }
+        .cookie-buttons { display: flex; gap: 0.5rem; }
+        .cookie-btn { padding: 0.5rem 1.5rem; border-radius: 4px; font-weight: 600; cursor: pointer; font-size: 0.85rem; }
+        .cookie-accept { background: var(--primary); color: white; border: none; }
+        .cookie-decline { background: transparent; color: #888; border: 1px solid #444; }
     </style>
-    <script type="application/ld+json">{"@context":"https://schema.org","@type":"WebPage","name":"Privacy Policy"}</script>
+    <script type="application/ld+json">{
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Privacy Policy",
+        "description": "Official Privacy Policy for Tarjeta Roja En Vivo. Learn how we collect, use, and protect your personal information.",
+        "url": "https://tarjetarojaenvivo.live/privacy-policy/",
+        "dateModified": "2026-01-29",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Tarjeta Roja Media Network",
+            "url": "https://tarjetarojaenvivo.live",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://tarjetarojaenvivo.live/logo.png"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "Calle de Alcala 476",
+                "addressLocality": "Madrid",
+                "postalCode": "28027",
+                "addressCountry": "ES"
+            },
+            "contactPoint": {
+                "@type": "ContactPoint",
+                "email": "contact@tarjetarojaenvivo.live",
+                "telephone": "+34 911 23 45 67",
+                "contactType": "customer service"
+            }
+        }
+    }</script>
 </head>
 <body>
     
@@ -50,16 +92,27 @@
             <a href="/" class="nav-logo">TarjetaRojaEnvivo</a>
             <div class="nav-links">
                 <a href="/">Inicio</a>
-                <a href="/futbol-en-vivo/">Fútbol En Vivo</a>
+                <a href="/futbol-en-vivo/">Futbol En Vivo</a>
                 <a href="/partidos-de-hoy/">Partidos de Hoy</a>
                 <a href="/tarjeta-roja-tv/">Tarjeta Roja TV</a>
                 <a href="/contact-us/">Contacto</a>
             </div>
+            <button class="mobile-menu-btn" onclick="toggleMobileMenu()">&#9776;</button>
+        </div>
+        <div class="mobile-nav" id="mobileNav">
+            <a href="/">Inicio</a>
+            <a href="/futbol-en-vivo/">Futbol En Vivo</a>
+            <a href="/partidos-de-hoy/">Partidos de Hoy</a>
+            <a href="/tarjeta-roja-tv/">Tarjeta Roja TV</a>
+            <a href="/contact-us/">Contacto</a>
+            <a href="/about-us/">About Us</a>
+            <a href="/privacy-policy/">Privacy Policy</a>
         </div>
     </nav>
     <div class="container">
         <article class="content">
             <h1>Privacy Policy</h1>
+            <p style="text-align: center; color: #888; font-size: 0.85rem; margin-bottom: 2rem;"><strong>Last Updated:</strong> January 29, 2026</p>
             <div class="main-text">
             <p>At <strong>Tarjeta Roja En Vivo</strong>, we take your privacy seriously. This policy outlines how we collect, use, and protect your personal information when you visit our website at https://tarjetarojaenvivo.live. We are committed to complying with the General Data Protection Regulation (GDPR) and other applicable privacy laws.</p>
             <h3>Information Collection</h3>
@@ -68,6 +121,16 @@
             <p>Cookies are small text files stored on your device. We use them to remember your preferences, analyze site traffic, and provide personalized content. You can control cookie settings in your browser, but disabling them may affect your experience on our site.</p>
             <h3>Google AdSense and Third-Party Advertising</h3>
             <p>We use <strong>Google AdSense</strong> to serve advertisements on our site. Google uses cookies, specifically the DART cookie, to serve ads based on your visits to our site and other sites on the internet. You can opt out of the use of the DART cookie by visiting the Google Ad and Content Network privacy policy. We may also work with other third-party advertising networks that use similar technologies.</p>
+            <h3>Google Analytics</h3>
+            <p>We use Google Analytics to analyze the use of our website. Google Analytics gathers information about website use by means of cookies. The information gathered relating to our website is used to create reports about the use of our website. Google's privacy policy is available at: https://policies.google.com/privacy. You can opt out of Google Analytics by installing the Google Analytics Opt-out Browser Add-on.</p>
+            <h3>Types of Cookies We Use</h3>
+            <p>Our website uses the following types of cookies:</p>
+            <ul style="margin-left: 1.5rem; margin-bottom: 1rem;">
+                <li><strong>Essential Cookies:</strong> Required for basic site functionality and security.</li>
+                <li><strong>Analytics Cookies:</strong> Help us understand how visitors interact with our website (Google Analytics, Microsoft Clarity).</li>
+                <li><strong>Advertising Cookies:</strong> Used to deliver relevant advertisements and track ad campaign performance (Google AdSense).</li>
+                <li><strong>Preference Cookies:</strong> Remember your settings and preferences for future visits.</li>
+            </ul>
             <h3>Data Sharing and Third Parties</h3>
             <p>We do not sell or rent your personal information to third parties. We may share data with trusted service providers who assist us in operating our website, conducting our business, or serving our users, so long as those parties agree to keep this information confidential. We may also release information when its release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety.</p>
             <h3>Your Rights</h3>
@@ -110,7 +173,38 @@
             <p>Email: contact@tarjetarojaenvivo.live | Tel: +34 911 23 45 67</p>
             <p style="color: #666; font-size: 0.75rem; margin-top: 1rem;">This site does not host or stream copyrighted content.</p>
         </div>
-        <p>&copy; 2025 TarjetaRojaEnvivo - Todos los derechos reservados.</p>
+        <p>&copy; 2026 TarjetaRojaEnvivo - Todos los derechos reservados.</p>
     </footer>
+
+    <div class="cookie-banner" id="cookieBanner">
+        <div class="cookie-content">
+            <div class="cookie-text">
+                We use cookies to enhance your browsing experience, serve personalized ads, and analyze our traffic. 
+                By clicking "Accept All", you consent to our use of cookies. 
+                <a href="/privacy-policy/" style="color: var(--primary);">Learn more</a>
+            </div>
+            <div class="cookie-buttons">
+                <button class="cookie-btn cookie-decline" onclick="declineCookies()">Decline</button>
+                <button class="cookie-btn cookie-accept" onclick="acceptCookies()">Accept All</button>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        function toggleMobileMenu() {
+            document.getElementById('mobileNav').classList.toggle('active');
+        }
+        function acceptCookies() {
+            localStorage.setItem('cookie_consent', 'accepted');
+            document.getElementById('cookieBanner').classList.remove('show');
+        }
+        function declineCookies() {
+            localStorage.setItem('cookie_consent', 'declined');
+            document.getElementById('cookieBanner').classList.remove('show');
+        }
+        if (!localStorage.getItem('cookie_consent')) {
+            document.getElementById('cookieBanner').classList.add('show');
+        }
+    </script>
 </body>
 </html>
