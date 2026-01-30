@@ -163,6 +163,49 @@ export default function Home() {
                     <a href="/tarjeta-roja-directa/" className="px-6 py-3 bg-card rounded-full border border-white/5 hover:bg-primary hover:text-white transition-all font-bold text-sm">Tarjeta Roja Directa</a>
                 </div>
             </section>
+
+            {/* SECTION 5 — 📚 Contenido Educativo */}
+            <section className="container mx-auto px-4 mt-16">
+                <h2 className="text-xl font-bold tracking-wide uppercase mb-6">📚 Guías y Artículos</h2>
+                <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+                    <a href="/guias/como-ver-futbol-en-vivo/" className="bg-card p-6 rounded-lg border border-white/5 hover:border-primary/50 transition-colors group">
+                        <h3 className="font-bold text-primary group-hover:text-white transition-colors mb-2">Cómo Ver Fútbol en Vivo</h3>
+                        <p className="text-sm text-gray-400">Guía completa sobre plataformas, canales y servicios legales para seguir tus partidos favoritos.</p>
+                    </a>
+                    <a href="/guias/mejores-ligas-futbol/" className="bg-card p-6 rounded-lg border border-white/5 hover:border-primary/50 transition-colors group">
+                        <h3 className="font-bold text-primary group-hover:text-white transition-colors mb-2">Mejores Ligas del Mundo</h3>
+                        <p className="text-sm text-gray-400">Análisis de las 5 grandes ligas europeas y otras competiciones de élite mundial.</p>
+                    </a>
+                    <a href="/guias/historia-champions-league/" className="bg-card p-6 rounded-lg border border-white/5 hover:border-primary/50 transition-colors group">
+                        <h3 className="font-bold text-primary group-hover:text-white transition-colors mb-2">Historia de la Champions</h3>
+                        <p className="text-sm text-gray-400">Desde la Copa de Europa hasta el torneo más prestigioso del mundo.</p>
+                    </a>
+                    <a href="/guias/formaciones-tacticas/" className="bg-card p-6 rounded-lg border border-white/5 hover:border-primary/50 transition-colors group">
+                        <h3 className="font-bold text-primary group-hover:text-white transition-colors mb-2">Formaciones Tácticas</h3>
+                        <p className="text-sm text-gray-400">Sistemas tácticos modernos: 4-4-2, 4-3-3, 3-5-2 y variantes explicadas.</p>
+                    </a>
+                    <a href="/guias/posiciones-jugadores/" className="bg-card p-6 rounded-lg border border-white/5 hover:border-primary/50 transition-colors group">
+                        <h3 className="font-bold text-primary group-hover:text-white transition-colors mb-2">Posiciones de Jugadores</h3>
+                        <p className="text-sm text-gray-400">Guía completa de todas las posiciones: portero, defensa, mediocampo y ataque.</p>
+                    </a>
+                    <a href="/guias/entrenamiento-fitness/" className="bg-card p-6 rounded-lg border border-white/5 hover:border-primary/50 transition-colors group">
+                        <h3 className="font-bold text-primary group-hover:text-white transition-colors mb-2">Entrenamiento y Fitness</h3>
+                        <p className="text-sm text-gray-400">Rutinas, ejercicios y nutrición para futbolistas de todos los niveles.</p>
+                    </a>
+                    <a href="/guias/apuestas-deportivas/" className="bg-card p-6 rounded-lg border border-white/5 hover:border-primary/50 transition-colors group">
+                        <h3 className="font-bold text-primary group-hover:text-white transition-colors mb-2">Apuestas Responsables</h3>
+                        <p className="text-sm text-gray-400">Guía sobre apuestas deportivas responsables y gestión de bankroll.</p>
+                    </a>
+                    <a href="/guias/reglas-futbol/" className="bg-card p-6 rounded-lg border border-white/5 hover:border-primary/50 transition-colors group">
+                        <h3 className="font-bold text-primary group-hover:text-white transition-colors mb-2">Reglas del Fútbol</h3>
+                        <p className="text-sm text-gray-400">Explicación clara de todas las reglas del juego para principiantes.</p>
+                    </a>
+                    <a href="/guias/calendario-mundial-2026/" className="bg-card p-6 rounded-lg border border-white/5 hover:border-primary/50 transition-colors group">
+                        <h3 className="font-bold text-primary group-hover:text-white transition-colors mb-2">Mundial 2026</h3>
+                        <p className="text-sm text-gray-400">Toda la información sobre el Mundial en USA, México y Canadá.</p>
+                    </a>
+                </div>
+            </section>
         </div>
     );
 }
