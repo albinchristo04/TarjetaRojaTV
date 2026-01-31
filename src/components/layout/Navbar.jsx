@@ -20,6 +20,21 @@ export default function Navbar() {
                     <a href="/futbol-en-vivo/" className="text-sm font-semibold hover:text-primary transition-colors">Futbol En Vivo</a>
                     <a href="/partidos-de-hoy/" className="text-sm font-semibold hover:text-primary transition-colors">Partidos de Hoy</a>
                     <a href="/tarjeta-roja-tv/" className="text-sm font-semibold hover:text-primary transition-colors">Tarjeta Roja TV</a>
+                    <div className="relative group">
+                        <button className="text-sm font-semibold hover:text-primary transition-colors flex items-center gap-1">
+                            Legal
+                            <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
+                            </svg>
+                        </button>
+                        <div className="absolute left-0 mt-2 w-48 bg-background/95 backdrop-blur-sm border border-white/10 rounded-lg shadow-lg opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-200">
+                            <a href="/privacy-policy/" className="block px-4 py-2 text-sm hover:text-primary transition-colors">Privacy Policy</a>
+                            <a href="/terms-and-conditions/" className="block px-4 py-2 text-sm hover:text-primary transition-colors">Terms & Conditions</a>
+                            <a href="/disclaimer/" className="block px-4 py-2 text-sm hover:text-primary transition-colors">Disclaimer</a>
+                            <a href="/dmca/" className="block px-4 py-2 text-sm hover:text-primary transition-colors">DMCA</a>
+                        </div>
+                    </div>
+                    <a href="/advertise/" className="text-sm font-semibold hover:text-primary transition-colors">Advertise</a>
                     <a href="/contact-us/" className="text-sm font-semibold hover:text-primary transition-colors">Contacto</a>
                 </div>
 
