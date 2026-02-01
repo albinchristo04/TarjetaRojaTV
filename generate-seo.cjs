@@ -14,27 +14,27 @@ const SOURCE_URL = 'https://raw.githubusercontent.com/albinchristo04/ptv/refs/he
 const OUTPUT_FILE = 'seo-metadata.json';
 const DOMAIN = 'https://tarjetarojaenvivo.live';
 
-// Primary Spanish keywords for Bing optimization
+// Primary English keywords for search engine optimization
 const PRIMARY_KEYWORDS = [
-  'rojadirecta',
+  'red card sports',
+  'red card tv',
+  'red card live',
   'tarjeta roja',
-  'rojadirecta tv',
-  'pirlotv',
   'tarjeta roja tv',
-  'rojadirecta en vivo',
+  'red card sports live',
   'tarjeta roja directa',
   'tarjeta roja en vivo',
-  'pirlo tv rojadirecta',
-  'roja directa pirlo',
-  'tarjeta roja futbol en vivo',
-  'roja directa en vivo fútbol gratis',
-  'tarjeta roja fútbol en vivo',
-  'pirlo tv tarjeta roja',
-  'tarjeta roja tv en vivo',
-  'roja tv',
-  'la roja directa',
-  'rojadirecta tv en vivo',
-  'roja dirécta'
+  'free sports streaming',
+  'live sports free',
+  'red card football live',
+  'free football streaming',
+  'red card football',
+  'sports streaming free',
+  'red card sports tv',
+  'live sports channel',
+  'red card live sports',
+  'free live sports',
+  'red card sports streaming'
 ];
 
 // ... rest of the code from the artifact
@@ -66,47 +66,47 @@ function generateSlug(text) {
     .replace(/^-+|-+$/g, '');
 }
 
-// Translate category names to Spanish
+// Translate category names to English
 function translateCategory(category) {
   const translations = {
-    'American Football': 'Fútbol Americano',
-    'Basketball': 'Baloncesto',
-    'Combat Sports': 'Deportes de Combate',
-    'Darts': 'Dardos',
-    'Football': 'Fútbol',
-    'Ice Hockey': 'Hockey sobre Hielo',
-    'Wrestling': 'Lucha Libre',
-    '24/7 Streams': 'Transmisiones 24/7'
+    'American Football': 'American Football',
+    'Basketball': 'Basketball',
+    'Combat Sports': 'Combat Sports',
+    'Darts': 'Darts',
+    'Football': 'Football',
+    'Ice Hockey': 'Ice Hockey',
+    'Wrestling': 'Wrestling',
+    '24/7 Streams': '24/7 Streams'
   };
   return translations[category] || category;
 }
 
-// Get Spanish month name
-function getSpanishMonth(month) {
-  const months = ['enero', 'febrero', 'marzo', 'abril', 'mayo', 'junio',
-    'julio', 'agosto', 'septiembre', 'octubre', 'noviembre', 'diciembre'];
+// Get English month name
+function getEnglishMonth(month) {
+  const months = ['January', 'February', 'March', 'April', 'May', 'June',
+    'July', 'August', 'September', 'October', 'November', 'December'];
   return months[month];
 }
 
-// Get Spanish day name
-function getSpanishDay(day) {
-  const days = ['domingo', 'lunes', 'martes', 'miércoles', 'jueves', 'viernes', 'sábado'];
+// Get English day name
+function getEnglishDay(day) {
+  const days = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'];
   return days[day];
 }
 
-// Format date in Spanish
-function formatSpanishDate(timestamp) {
+// Format date in English
+function formatEnglishDate(timestamp) {
   const date = new Date(timestamp * 1000);
-  const day = getSpanishDay(date.getDay());
+  const day = getEnglishDay(date.getDay());
   const dayNum = date.getDate();
-  const month = getSpanishMonth(date.getMonth());
+  const month = getEnglishMonth(date.getMonth());
   const year = date.getFullYear();
   const hours = date.getHours().toString().padStart(2, '0');
   const minutes = date.getMinutes().toString().padStart(2, '0');
 
   return {
-    full: `${day} ${dayNum} de ${month} de ${year}`,
-    short: `${dayNum} de ${month} de ${year}`,
+    full: `${day}, ${month} ${dayNum}, ${year}`,
+    short: `${month} ${dayNum}, ${year}`,
     time: `${hours}:${minutes}`,
     iso: date.toISOString()
   };
@@ -132,8 +132,8 @@ function generateMetadata(stream, category) {
     viewers
   } = stream;
 
-  const eventDate = formatSpanishDate(starts_at);
-  const endDate = formatSpanishDate(ends_at);
+  const eventDate = formatEnglishDate(starts_at);
+  const endDate = formatEnglishDate(ends_at);
   const slug = generateSlug(name);
   const categorySpanish = translateCategory(category_name);
 
@@ -148,12 +148,12 @@ function generateMetadata(stream, category) {
     ...teams,
     categorySpanish,
     category_name,
-    'ver online gratis',
-    'en vivo gratis',
-    'streaming gratis',
+    'watch online free',
+    'live free',
+    'free streaming',
     tag,
     eventDate.short,
-    'transmisión en vivo'
+    'live streaming'
   ];
 
   // Generate comprehensive SEO metadata in Spanish
@@ -164,53 +164,53 @@ function generateMetadata(stream, category) {
     uri_name,
     canonical_url: `${DOMAIN}/eventos/${uri_name}`,
 
-    // SEO Meta Tags (Spanish, optimized for Bing)
+    // SEO Meta Tags (English, optimized for search engines)
     meta: {
-      title: `${name} EN VIVO - Tarjeta Roja TV | Rojadirecta Gratis`,
-      description: `⚽ Ver ${name} en vivo gratis por Tarjeta Roja TV. ${isVersusMatch ? `${teams[0]} vs ${teams[1]}` : name} transmisión en directo ${eventDate.full}. Rojadirecta, Pirlo TV - Fútbol gratis online.`,
+      title: `${name} LIVE - Tarjeta Roja TV | Free Live Sports`,
+      description: `⚽ Watch ${name} live free on Tarjeta Roja TV. ${isVersusMatch ? `${teams[0]} vs ${teams[1]}` : name} live stream ${eventDate.full}. Rojadirecta, Pirlo TV - Free online sports.`,
       keywords: eventKeywords.join(', '),
       robots: 'index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1',
       author: 'Tarjeta Roja En Vivo',
       viewport: 'width=device-width, initial-scale=1.0',
-      language: 'es',
-      'geo.region': 'ES',
-      'geo.placename': 'España',
+      language: 'en',
+      'geo.region': 'US',
+      'geo.placename': 'United States',
       rating: 'general',
       revisit_after: '1 hour',
       'msapplication-TileColor': '#e31937',
       'theme-color': '#e31937'
     },
 
-    // Open Graph (Facebook, LinkedIn) - Spanish
+    // Open Graph (Facebook, LinkedIn) - English
     og: {
       type: 'website',
       url: `${DOMAIN}/eventos/${uri_name}`,
-      title: `${name} EN VIVO ⚽ Tarjeta Roja TV - Rojadirecta Gratis`,
-      description: `Ver ${name} en vivo gratis. ${isVersusMatch ? `${teams[0]} vs ${teams[1]}` : name} transmisión en directo por Tarjeta Roja TV - ${eventDate.full} a las ${eventDate.time}hrs.`,
+      title: `${name} LIVE ⚽ Tarjeta Roja TV - Free Live Sports`,
+      description: `Watch ${name} live free. ${isVersusMatch ? `${teams[0]} vs ${teams[1]}` : name} live stream on Tarjeta Roja TV - ${eventDate.full} at ${eventDate.time}hrs.`,
       image: poster,
-      image_alt: `${name} - Tarjeta Roja TV en vivo`,
+      image_alt: `${name} - Tarjeta Roja TV live`,
       site_name: 'Tarjeta Roja En Vivo - Rojadirecta TV',
-      locale: 'es_ES',
-      locale_alternate: ['es_MX', 'es_AR', 'es_CO', 'es_CL']
+      locale: 'en_US',
+      locale_alternate: ['en_GB', 'en_CA', 'en_AU']
     },
 
-    // Twitter Card - Spanish
+    // Twitter Card - English
     twitter: {
       card: 'summary_large_image',
       site: '@tarjetarojatvs',
-      title: `${name} EN VIVO ⚽ Tarjeta Roja - Rojadirecta`,
-      description: `Ver ${name} en vivo gratis por Tarjeta Roja TV. ${categorySpanish} en directo.`,
+      title: `${name} LIVE ⚽ Tarjeta Roja - Rojadirecta`,
+      description: `Watch ${name} live free on Tarjeta Roja TV. ${categorySpanish} live stream.`,
       image: poster,
-      image_alt: `${name} streaming gratis`,
+      image_alt: `${name} free streaming`,
       creator: '@tarjetarojatvs'
     },
 
-    // Schema.org JSON-LD for Rich Results (Spanish)
+    // Schema.org JSON-LD for Rich Results (English)
     schema: {
       '@context': 'https://schema.org',
       '@type': 'SportsEvent',
       name: name,
-      description: `Transmisión en vivo de ${name} gratis por Tarjeta Roja TV`,
+      description: `Live broadcast of ${name} free on Tarjeta Roja TV`,
       startDate: eventDate.iso,
       endDate: endDate.iso,
       eventStatus: 'https://schema.org/EventScheduled',
@@ -234,7 +234,7 @@ function generateMetadata(stream, category) {
       offers: {
         '@type': 'Offer',
         price: '0',
-        priceCurrency: 'EUR',
+        priceCurrency: 'USD',
         availability: 'https://schema.org/InStock',
         url: `${DOMAIN}/eventos/${uri_name}`,
         validFrom: eventDate.iso
@@ -254,71 +254,71 @@ function generateMetadata(stream, category) {
         }
       }),
       sport: categorySpanish,
-      inLanguage: 'es'
+      inLanguage: 'en'
     },
 
-    // Additional SEO Elements (Spanish)
+    // Additional SEO Elements (English)
     seo: {
       breadcrumbs: [
-        { name: 'Inicio', url: DOMAIN },
+        { name: 'Home', url: DOMAIN },
         { name: categorySpanish, url: `${DOMAIN}/categoria/${generateSlug(categorySpanish)}` },
         { name: name, url: `${DOMAIN}/eventos/${uri_name}` }
       ],
-      h1: `${name} EN VIVO - Tarjeta Roja TV`,
-      h2: `Ver ${name} Online Gratis por Rojadirecta`,
+      h1: `${name} LIVE - Tarjeta Roja TV`,
+      h2: `Watch ${name} Online Free on Rojadirecta`,
       faq: [
         {
-          question: `¿Cómo ver ${name} en vivo gratis?`,
-          answer: `Puedes ver ${name} en vivo gratis por Tarjeta Roja TV. La transmisión comienza el ${eventDate.full} a las ${eventDate.time}hrs. Rojadirecta y Pirlo TV transmiten en directo.`
+          question: `How to watch ${name} live for free?`,
+          answer: `You can watch ${name} live free on Tarjeta Roja TV. The broadcast starts on ${eventDate.full} at ${eventDate.time}hrs. Rojadirecta and Pirlo TV stream live.`
         },
         {
-          question: `¿A qué hora es ${name}?`,
-          answer: `${name} comienza el ${eventDate.full} a las ${eventDate.time}hrs (hora de España).`
+          question: `What time is ${name}?`,
+          answer: `${name} starts on ${eventDate.full} at ${eventDate.time}hrs (Spain time).`
         },
         {
-          question: `¿Dónde ver ${name} por internet?`,
-          answer: `Ver ${name} online por Tarjeta Roja TV, Rojadirecta, y Pirlo TV. Transmisión gratis en vivo sin registro.`
+          question: `Where to watch ${name} online?`,
+          answer: `Watch ${name} online on Tarjeta Roja TV, Rojadirecta, and Pirlo TV. Free live streaming without registration.`
         },
         ...(isVersusMatch ? [{
-          question: `¿Dónde ver ${teams[0]} vs ${teams[1]} en vivo?`,
-          answer: `Ver ${teams[0]} vs ${teams[1]} en directo por Tarjeta Roja, Rojadirecta TV y Pirlo TV. Streaming gratis de ${categorySpanish}.`
+          question: `Where to watch ${teams[0]} vs ${teams[1]} live?`,
+          answer: `Watch ${teams[0]} vs ${teams[1]} live on Tarjeta Roja, Rojadirecta TV and Pirlo TV. Free streaming of ${categorySpanish}.`
         }] : []),
         {
-          question: '¿Qué es Tarjeta Roja TV?',
-          answer: 'Tarjeta Roja TV (también conocida como Rojadirecta, Pirlo TV) es una plataforma para ver deportes en vivo gratis. Transmisión de fútbol, baloncesto, UFC y más deportes online.'
+          question: 'What is Tarjeta Roja TV?',
+          answer: 'Tarjeta Roja TV (also known as Rojadirecta, Pirlo TV) is a platform to watch live sports for free. Broadcasting football, basketball, UFC and more online sports.'
         },
         {
-          question: '¿Es gratis Tarjeta Roja?',
-          answer: 'Sí, Tarjeta Roja TV es completamente gratis. Ver todos los partidos en vivo sin pagar, sin registro y sin publicidad invasiva.'
+          question: 'Is Tarjeta Roja free?',
+          answer: 'Yes, Tarjeta Roja TV is completely free. Watch all live matches without paying, without registration and without invasive advertising.'
         }
       ],
       content_sections: [
         {
-          heading: `Ver ${name} en Vivo Gratis`,
-          content: `Transmisión en directo de ${name} por Tarjeta Roja TV. ${isVersusMatch ? `${teams[0]} se enfrenta a ${teams[1]}` : name} el ${eventDate.full}. Rojadirecta y Pirlo TV ofrecen streaming gratis de ${categorySpanish}.`
+          heading: `Watch ${name} Live Free`,
+          content: `Live broadcast of ${name} on Tarjeta Roja TV. ${isVersusMatch ? `${teams[0]} faces ${teams[1]}` : name} on ${eventDate.full}. Rojadirecta and Pirlo TV offer free streaming of ${categorySpanish}.`
         },
         {
-          heading: `${name} - Tarjeta Roja Directa`,
-          content: `Ver ${name} online gratis. La Roja Directa transmite ${categorySpanish} en vivo sin cortes. Rojadirecta TV, Pirlo TV y Tarjeta Roja son tu mejor opción para ver deportes gratis.`
+          heading: `${name} - Tarjeta Roja Direct`,
+          content: `Watch ${name} online free. La Roja Direct broadcasts ${categorySpanish} live without cuts. Rojadirecta TV, Pirlo TV and Tarjeta Roja are your best option to watch free sports.`
         }
       ]
     },
 
-    // Event Details (bilingual)
+    // Event Details (English)
     event: {
       name,
-      name_es: name,
+      name_en: name,
       category: category_name,
-      category_es: categorySpanish,
+      category_en: categorySpanish,
       broadcaster: tag,
       start_time: eventDate.iso,
       start_time_formatted: `${eventDate.full} - ${eventDate.time}hrs`,
       end_time: endDate.iso,
       duration_minutes: Math.round((ends_at - starts_at) / 60),
-      status: starts_at < Date.now() / 1000 ? (ends_at > Date.now() / 1000 ? 'en vivo' : 'finalizado') : 'próximamente',
+      status: starts_at < Date.now() / 1000 ? (ends_at > Date.now() / 1000 ? 'live' : 'completed') : 'upcoming',
       viewers: viewers || '0',
-      language: 'es',
-      country_focus: ['ES', 'MX', 'AR', 'CO', 'CL', 'PE', 'VE', 'EC'],
+      language: 'en',
+      country_focus: ['US', 'GB', 'CA', 'AU', 'IE', 'NZ', 'ZA', 'IN'],
       ...(isVersusMatch && {
         home_team: teams[0],
         away_team: teams[1],
@@ -327,28 +327,28 @@ function generateMetadata(stream, category) {
       })
     },
 
-    // Technical SEO (Bing optimized)
+    // Technical SEO (Optimized for search engines)
     technical: {
       last_modified: new Date().toISOString(),
       priority: stream.always_live ? 0.9 : 0.85,
       changefreq: stream.always_live ? 'always' : 'hourly',
-      hreflang: 'es',
+      hreflang: 'en',
       alternate_languages: {
-        'es-ES': `${DOMAIN}/eventos/${uri_name}`,
-        'es-MX': `${DOMAIN}/mx/eventos/${uri_name}`,
-        'es-AR': `${DOMAIN}/ar/eventos/${uri_name}`
+        'en-US': `${DOMAIN}/eventos/${uri_name}`,
+        'en-GB': `${DOMAIN}/uk/eventos/${uri_name}`,
+        'en-CA': `${DOMAIN}/ca/eventos/${uri_name}`
       }
     },
 
-    // Bing-specific optimizations
-    bing: {
-      verify: 'bing-site-verification-code',
+    // Search engine optimizations
+    search: {
+      verify: 'search-engine-verification-code',
       news_keywords: eventKeywords.slice(0, 10).join(', '),
       content_type: 'Sports',
       syndication_source: DOMAIN,
       original_source: DOMAIN,
-      content_language: 'es',
-      geo_region: 'ES',
+      content_language: 'en',
+      geo_region: 'US',
       distribution: 'global',
       audience: 'all',
       rating: 'general'
@@ -382,30 +382,30 @@ async function generateSEOData() {
       const categoryMeta = {
         id: category.id,
         name: category.category,
-        name_es: categorySpanish,
+        name_en: categorySpanish,
         slug: generateSlug(category.category),
         event_count: category.streams.length,
         always_live: category.always_live,
         canonical_url: `${DOMAIN}/categoria/${generateSlug(categorySpanish)}`,
         meta: {
-          title: `${categorySpanish} EN VIVO - Tarjeta Roja TV | Rojadirecta Gratis`,
-          description: `⚽ Ver ${categorySpanish} en vivo gratis por Tarjeta Roja TV. Todos los partidos y eventos de ${categorySpanish} online. Rojadirecta, Pirlo TV - Streaming gratis.`,
+          title: `${categorySpanish} LIVE - Tarjeta Roja TV | Free Live Sports`,
+          description: `⚽ Watch ${categorySpanish} live free on Tarjeta Roja TV. All matches and events of ${categorySpanish} online. Rojadirecta, Pirlo TV - Free streaming.`,
           keywords: [
             ...PRIMARY_KEYWORDS.slice(0, 10),
             categorySpanish,
             category.category,
-            `${categorySpanish} en vivo`,
-            `ver ${categorySpanish} gratis`,
+            `${categorySpanish} live`,
+            `watch ${categorySpanish} free`,
             `${categorySpanish} online`
           ].join(', ')
         },
         schema: {
           '@context': 'https://schema.org',
           '@type': 'CollectionPage',
-          name: `${categorySpanish} en Vivo - Tarjeta Roja TV`,
-          description: `Ver todos los eventos de ${categorySpanish} en vivo gratis`,
+          name: `${categorySpanish} Live - Tarjeta Roja TV`,
+          description: `Watch all events of ${categorySpanish} live free`,
           url: `${DOMAIN}/categoria/${generateSlug(categorySpanish)}`,
-          inLanguage: 'es'
+          inLanguage: 'en'
         }
       };
 
@@ -424,7 +424,7 @@ async function generateSEOData() {
     console.log(`✅ Generated SEO metadata for ${seoData.total_events} events`);
     console.log(`📁 Output saved to: ${OUTPUT_FILE}`);
 
-    // Generate sitemap URLs with Spanish priorities
+    // Generate sitemap URLs with English priorities
     const sitemapUrls = [
       // Homepage - highest priority
       {
@@ -433,9 +433,9 @@ async function generateSEOData() {
         changefreq: 'always',
         priority: 1.0,
         'xhtml:link': [
-          { rel: 'alternate', hreflang: 'es', href: DOMAIN },
-          { rel: 'alternate', hreflang: 'es-ES', href: DOMAIN },
-          { rel: 'alternate', hreflang: 'es-MX', href: `${DOMAIN}/mx` },
+          { rel: 'alternate', hreflang: 'en', href: DOMAIN },
+          { rel: 'alternate', hreflang: 'en-US', href: DOMAIN },
+          { rel: 'alternate', hreflang: 'en-GB', href: `${DOMAIN}/uk` },
           { rel: 'alternate', hreflang: 'x-default', href: DOMAIN }
         ]
       },
@@ -458,13 +458,13 @@ async function generateSEOData() {
     fs.writeFileSync('sitemap-urls.json', JSON.stringify(sitemapUrls, null, 2));
     console.log(`🗺️  Generated sitemap URLs: sitemap-urls.json`);
 
-    // Generate keywords file for Bing Webmaster Tools
+    // Generate keywords file for Webmaster Tools
     const keywordData = {
       primary_keywords: PRIMARY_KEYWORDS,
       total_keywords: PRIMARY_KEYWORDS.length,
-      target_audience: 'Spanish speakers (Spain, Mexico, Argentina, Colombia)',
-      target_search_engines: ['Bing', 'Google'],
-      language: 'es',
+      target_audience: 'English speakers (US, UK, Canada, Australia)',
+      target_search_engines: ['Google', 'Bing'],
+      language: 'en',
       generated_at: new Date().toISOString()
     };
 
