@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-18T19:05:01.566Z",
-  "total_events": 95,
+  "generated_at": "2026-02-19T02:47:33.666Z",
+  "total_events": 103,
   "categories": [
     {
       "name": "2026 Winter Olympics",
@@ -13,6 +13,12 @@
       "name_es": "Baseball",
       "slug": "baseball",
       "canonical_url": "https://tarjetarojaenvivo.live/categoria/baseball"
+    },
+    {
+      "name": "Darts",
+      "name_es": "Dardos",
+      "slug": "dardos",
+      "canonical_url": "https://tarjetarojaenvivo.live/categoria/dardos"
     },
     {
       "name": "Football",
@@ -41,161 +47,441 @@
   ],
   "events": [
     {
-      "id": 17762,
-      "slug": "gold-zone-day-12",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/olympics/2026-02-18/gold-zone-day-12",
+      "id": 17781,
+      "slug": "china-vs-germany-m-round-robin",
+      "canonical_url": "https://tarjetarojaenvivo.live/eventos/olympics/2026-02-19/curling/china-vs-germany-m-round-robin",
       "meta": {
-        "title": "Gold Zone: Day 12 EN VIVO - Tarjeta Roja TV",
-        "description": "Ver Gold Zone: Day 12 en vivo gratis el miércoles 18 de febrero de 2026",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Gold Zone: Day 12, 2026 Winter Olympics"
+        "title": "China vs. Germany (M Round-Robin) EN VIVO - Tarjeta Roja TV",
+        "description": "Ver China vs. Germany (M Round-Robin) en vivo gratis el jueves 19 de febrero de 2026",
+        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, China vs. Germany (M Round-Robin), 2026 Winter Olympics"
       },
       "event": {
-        "start_time": "2026-02-18T13:00:00.000Z",
-        "end_time": "2026-02-18T22:00:00.000Z",
-        "status": "en vivo"
-      },
-      "technical": {
-        "last_modified": "2026-02-18T19:05:01.566Z",
-        "changefreq": "hourly",
-        "priority": 0.85
-      }
-    },
-    {
-      "id": 17778,
-      "slug": "finland-vs-switzerland-men-s-quarterfinal",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/olympics/2026-02-18/hockey/fin-sui",
-      "meta": {
-        "title": "Finland vs. Switzerland (Men's Quarterfinal) EN VIVO - Tarjeta Roja TV",
-        "description": "Ver Finland vs. Switzerland (Men's Quarterfinal) en vivo gratis el miércoles 18 de febrero de 2026",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Finland vs. Switzerland (Men's Quarterfinal), 2026 Winter Olympics"
-      },
-      "event": {
-        "start_time": "2026-02-18T17:10:00.000Z",
-        "end_time": "2026-02-18T19:40:00.000Z",
-        "status": "en vivo"
-      },
-      "technical": {
-        "last_modified": "2026-02-18T19:05:01.566Z",
-        "changefreq": "hourly",
-        "priority": 0.85
-      }
-    },
-    {
-      "id": 17770,
-      "slug": "canada-vs-italy-w-round-robin",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/olympics/2026-02-18/curling/canada-vs-italy-w-round-robin",
-      "meta": {
-        "title": "Canada vs. Italy (W Round-Robin) EN VIVO - Tarjeta Roja TV",
-        "description": "Ver Canada vs. Italy (W Round-Robin) en vivo gratis el miércoles 18 de febrero de 2026",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Canada vs. Italy (W Round-Robin), 2026 Winter Olympics"
-      },
-      "event": {
-        "start_time": "2026-02-18T18:05:00.000Z",
-        "end_time": "2026-02-18T21:05:00.000Z",
-        "status": "en vivo"
-      },
-      "technical": {
-        "last_modified": "2026-02-18T19:05:01.566Z",
-        "changefreq": "hourly",
-        "priority": 0.85
-      }
-    },
-    {
-      "id": 17771,
-      "slug": "china-vs-sweden-w-round-robin",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/olympics/2026-02-18/curling/china-vs-sweden-w-round-robin",
-      "meta": {
-        "title": "China vs. Sweden (W Round-Robin) EN VIVO - Tarjeta Roja TV",
-        "description": "Ver China vs. Sweden (W Round-Robin) en vivo gratis el miércoles 18 de febrero de 2026",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, China vs. Sweden (W Round-Robin), 2026 Winter Olympics"
-      },
-      "event": {
-        "start_time": "2026-02-18T18:05:00.000Z",
-        "end_time": "2026-02-18T21:05:00.000Z",
-        "status": "en vivo"
-      },
-      "technical": {
-        "last_modified": "2026-02-18T19:05:01.566Z",
-        "changefreq": "hourly",
-        "priority": 0.85
-      }
-    },
-    {
-      "id": 17772,
-      "slug": "great-britain-vs-japan-w-round-robin",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/olympics/2026-02-18/curling/great-britain-vs-japan-w-round-robin",
-      "meta": {
-        "title": "Great Britain vs. Japan (W Round-Robin) EN VIVO - Tarjeta Roja TV",
-        "description": "Ver Great Britain vs. Japan (W Round-Robin) en vivo gratis el miércoles 18 de febrero de 2026",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Great Britain vs. Japan (W Round-Robin), 2026 Winter Olympics"
-      },
-      "event": {
-        "start_time": "2026-02-18T18:05:00.000Z",
-        "end_time": "2026-02-18T21:05:00.000Z",
-        "status": "en vivo"
-      },
-      "technical": {
-        "last_modified": "2026-02-18T19:05:01.566Z",
-        "changefreq": "hourly",
-        "priority": 0.85
-      }
-    },
-    {
-      "id": 17773,
-      "slug": "switzerland-vs-denmark-w-round-robin",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/olympics/2026-02-18/curling/switzerland-vs-denmark-w-round-robin",
-      "meta": {
-        "title": "Switzerland vs. Denmark (W Round-Robin) EN VIVO - Tarjeta Roja TV",
-        "description": "Ver Switzerland vs. Denmark (W Round-Robin) en vivo gratis el miércoles 18 de febrero de 2026",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Switzerland vs. Denmark (W Round-Robin), 2026 Winter Olympics"
-      },
-      "event": {
-        "start_time": "2026-02-18T18:05:00.000Z",
-        "end_time": "2026-02-18T21:05:00.000Z",
-        "status": "en vivo"
-      },
-      "technical": {
-        "last_modified": "2026-02-18T19:05:01.566Z",
-        "changefreq": "hourly",
-        "priority": 0.85
-      }
-    },
-    {
-      "id": 17774,
-      "slug": "men-s-500m-women-s-relay-finals",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/olympics/2026-02-18/short-track/mens-500m--womens-relay-finals",
-      "meta": {
-        "title": "Men's 500m & Women's Relay Finals EN VIVO - Tarjeta Roja TV",
-        "description": "Ver Men's 500m & Women's Relay Finals en vivo gratis el miércoles 18 de febrero de 2026",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Men's 500m & Women's Relay Finals, 2026 Winter Olympics"
-      },
-      "event": {
-        "start_time": "2026-02-18T19:15:00.000Z",
-        "end_time": "2026-02-18T20:45:00.000Z",
+        "start_time": "2026-02-19T08:05:00.000Z",
+        "end_time": "2026-02-19T12:05:00.000Z",
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-02-18T19:05:01.566Z",
+        "last_modified": "2026-02-19T02:47:33.667Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
     },
     {
-      "id": 17775,
-      "slug": "usa-vs-sweden-men-s-quarterfinal",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/olympics/2026-02-18/hockey/usa-vs-sweden-mens-quarterfinal",
+      "id": 17782,
+      "slug": "italy-vs-switzerland-m-round-robin",
+      "canonical_url": "https://tarjetarojaenvivo.live/eventos/olympics/2026-02-19/curling/italy-vs-switzerland-m-round-robin",
       "meta": {
-        "title": "USA vs. Sweden (Men's Quarterfinal) EN VIVO - Tarjeta Roja TV",
-        "description": "Ver USA vs. Sweden (Men's Quarterfinal) en vivo gratis el miércoles 18 de febrero de 2026",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, USA vs. Sweden (Men's Quarterfinal), 2026 Winter Olympics"
+        "title": "Italy vs. Switzerland (M Round-Robin) EN VIVO - Tarjeta Roja TV",
+        "description": "Ver Italy vs. Switzerland (M Round-Robin) en vivo gratis el jueves 19 de febrero de 2026",
+        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Italy vs. Switzerland (M Round-Robin), 2026 Winter Olympics"
       },
       "event": {
-        "start_time": "2026-02-18T20:10:00.000Z",
-        "end_time": "2026-02-18T22:00:00.000Z",
+        "start_time": "2026-02-19T08:05:00.000Z",
+        "end_time": "2026-02-19T12:05:00.000Z",
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-02-18T19:05:01.566Z",
+        "last_modified": "2026-02-19T02:47:33.667Z",
+        "changefreq": "hourly",
+        "priority": 0.85
+      }
+    },
+    {
+      "id": 17783,
+      "slug": "norway-vs-canada-m-round-robin",
+      "canonical_url": "https://tarjetarojaenvivo.live/eventos/olympics/2026-02-19/curling/norway-vs-canada-m-round-robin",
+      "meta": {
+        "title": "Norway vs. Canada (M Round-Robin) EN VIVO - Tarjeta Roja TV",
+        "description": "Ver Norway vs. Canada (M Round-Robin) en vivo gratis el jueves 19 de febrero de 2026",
+        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Norway vs. Canada (M Round-Robin), 2026 Winter Olympics"
+      },
+      "event": {
+        "start_time": "2026-02-19T08:05:00.000Z",
+        "end_time": "2026-02-19T12:05:00.000Z",
+        "status": "próximamente"
+      },
+      "technical": {
+        "last_modified": "2026-02-19T02:47:33.667Z",
+        "changefreq": "hourly",
+        "priority": 0.85
+      }
+    },
+    {
+      "id": 17784,
+      "slug": "sweden-vs-czechia-m-round-robin",
+      "canonical_url": "https://tarjetarojaenvivo.live/eventos/olympics/2026-02-19/curling/sweden-vs-czechia-m-round-robin",
+      "meta": {
+        "title": "Sweden vs. Czechia (M Round-Robin) EN VIVO - Tarjeta Roja TV",
+        "description": "Ver Sweden vs. Czechia (M Round-Robin) en vivo gratis el jueves 19 de febrero de 2026",
+        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Sweden vs. Czechia (M Round-Robin), 2026 Winter Olympics"
+      },
+      "event": {
+        "start_time": "2026-02-19T08:05:00.000Z",
+        "end_time": "2026-02-19T12:05:00.000Z",
+        "status": "próximamente"
+      },
+      "technical": {
+        "last_modified": "2026-02-19T02:47:33.667Z",
+        "changefreq": "hourly",
+        "priority": 0.85
+      }
+    },
+    {
+      "id": 17785,
+      "slug": "men-s-team-large-hill-ski-jump",
+      "canonical_url": "https://tarjetarojaenvivo.live/eventos/olympics/2026-02-19/nordic-combined/mens-team-large-hill-ski-jump",
+      "meta": {
+        "title": "Men's Team Large Hill: Ski Jump EN VIVO - Tarjeta Roja TV",
+        "description": "Ver Men's Team Large Hill: Ski Jump en vivo gratis el jueves 19 de febrero de 2026",
+        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Men's Team Large Hill: Ski Jump, 2026 Winter Olympics"
+      },
+      "event": {
+        "start_time": "2026-02-19T08:10:00.000Z",
+        "end_time": "2026-02-19T10:40:00.000Z",
+        "status": "próximamente"
+      },
+      "technical": {
+        "last_modified": "2026-02-19T02:47:33.667Z",
+        "changefreq": "hourly",
+        "priority": 0.85
+      }
+    },
+    {
+      "id": 17786,
+      "slug": "men-s-women-s-sprints-heats",
+      "canonical_url": "https://tarjetarojaenvivo.live/eventos/olympics/2026-02-19/ski-mountaineering/mens--womens-sprints-heats",
+      "meta": {
+        "title": "Men's & Women's Sprints: Heats EN VIVO - Tarjeta Roja TV",
+        "description": "Ver Men's & Women's Sprints: Heats en vivo gratis el jueves 19 de febrero de 2026",
+        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Men's & Women's Sprints: Heats, 2026 Winter Olympics"
+      },
+      "event": {
+        "start_time": "2026-02-19T08:45:00.000Z",
+        "end_time": "2026-02-19T11:00:00.000Z",
+        "status": "próximamente"
+      },
+      "technical": {
+        "last_modified": "2026-02-19T02:47:33.667Z",
+        "changefreq": "hourly",
+        "priority": 0.85
+      }
+    },
+    {
+      "id": 17787,
+      "slug": "men-s-freeski-halfpipe-qualifying",
+      "canonical_url": "https://tarjetarojaenvivo.live/eventos/olympics/2026-02-19/freestyle-skiing/mens-freeski-halfpipe-qualifying",
+      "meta": {
+        "title": "Men's Freeski Halfpipe: Qualifying EN VIVO - Tarjeta Roja TV",
+        "description": "Ver Men's Freeski Halfpipe: Qualifying en vivo gratis el jueves 19 de febrero de 2026",
+        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Men's Freeski Halfpipe: Qualifying, 2026 Winter Olympics"
+      },
+      "event": {
+        "start_time": "2026-02-19T09:30:00.000Z",
+        "end_time": "2026-02-19T12:25:00.000Z",
+        "status": "próximamente"
+      },
+      "technical": {
+        "last_modified": "2026-02-19T02:47:33.667Z",
+        "changefreq": "hourly",
+        "priority": 0.85
+      }
+    },
+    {
+      "id": 17790,
+      "slug": "men-s-women-s-sprints-finals",
+      "canonical_url": "https://tarjetarojaenvivo.live/eventos/olympics/2026-02-19/ski-mountaineering/mens--womens-sprints-finals",
+      "meta": {
+        "title": "Men's & Women's Sprints: Finals EN VIVO - Tarjeta Roja TV",
+        "description": "Ver Men's & Women's Sprints: Finals en vivo gratis el jueves 19 de febrero de 2026",
+        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Men's & Women's Sprints: Finals, 2026 Winter Olympics"
+      },
+      "event": {
+        "start_time": "2026-02-19T11:55:00.000Z",
+        "end_time": "2026-02-19T14:35:00.000Z",
+        "status": "próximamente"
+      },
+      "technical": {
+        "last_modified": "2026-02-19T02:47:33.667Z",
+        "changefreq": "hourly",
+        "priority": 0.85
+      }
+    },
+    {
+      "id": 17791,
+      "slug": "gold-zone-day-13",
+      "canonical_url": "https://tarjetarojaenvivo.live/eventos/olympics/2026-02-19/gold-zone-day-13",
+      "meta": {
+        "title": "Gold Zone: Day 13 EN VIVO - Tarjeta Roja TV",
+        "description": "Ver Gold Zone: Day 13 en vivo gratis el jueves 19 de febrero de 2026",
+        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Gold Zone: Day 13, 2026 Winter Olympics"
+      },
+      "event": {
+        "start_time": "2026-02-19T13:00:00.000Z",
+        "end_time": "2026-02-19T23:00:00.000Z",
+        "status": "próximamente"
+      },
+      "technical": {
+        "last_modified": "2026-02-19T02:47:33.667Z",
+        "changefreq": "hourly",
+        "priority": 0.85
+      }
+    },
+    {
+      "id": 17792,
+      "slug": "two-woman-bobsled-training",
+      "canonical_url": "https://tarjetarojaenvivo.live/eventos/olympics/2026-02-19/bobsled/two-woman-bobsled-training",
+      "meta": {
+        "title": "Two-Woman Bobsled: Training EN VIVO - Tarjeta Roja TV",
+        "description": "Ver Two-Woman Bobsled: Training en vivo gratis el jueves 19 de febrero de 2026",
+        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Two-Woman Bobsled: Training, 2026 Winter Olympics"
+      },
+      "event": {
+        "start_time": "2026-02-19T13:00:00.000Z",
+        "end_time": "2026-02-19T15:55:00.000Z",
+        "status": "próximamente"
+      },
+      "technical": {
+        "last_modified": "2026-02-19T02:47:33.667Z",
+        "changefreq": "hourly",
+        "priority": 0.85
+      }
+    },
+    {
+      "id": 17793,
+      "slug": "men-s-team-large-hill-2x7-5km-relay",
+      "canonical_url": "https://tarjetarojaenvivo.live/eventos/olympics/2026-02-19/nordic-combined/mens-team-large-hill-2x75km-relay",
+      "meta": {
+        "title": "Men's Team Large Hill: 2x7.5km Relay EN VIVO - Tarjeta Roja TV",
+        "description": "Ver Men's Team Large Hill: 2x7.5km Relay en vivo gratis el jueves 19 de febrero de 2026",
+        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Men's Team Large Hill: 2x7.5km Relay, 2026 Winter Olympics"
+      },
+      "event": {
+        "start_time": "2026-02-19T13:00:00.000Z",
+        "end_time": "2026-02-19T14:55:00.000Z",
+        "status": "próximamente"
+      },
+      "technical": {
+        "last_modified": "2026-02-19T02:47:33.667Z",
+        "changefreq": "hourly",
+        "priority": 0.85
+      }
+    },
+    {
+      "id": 17794,
+      "slug": "canada-vs-south-korea-w-round-robin",
+      "canonical_url": "https://tarjetarojaenvivo.live/eventos/olympics/2026-02-19/curling/canada-vs-south-korea-w-round-robin",
+      "meta": {
+        "title": "Canada vs. South Korea (W Round-Robin) EN VIVO - Tarjeta Roja TV",
+        "description": "Ver Canada vs. South Korea (W Round-Robin) en vivo gratis el jueves 19 de febrero de 2026",
+        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Canada vs. South Korea (W Round-Robin), 2026 Winter Olympics"
+      },
+      "event": {
+        "start_time": "2026-02-19T13:05:00.000Z",
+        "end_time": "2026-02-19T17:05:00.000Z",
+        "status": "próximamente"
+      },
+      "technical": {
+        "last_modified": "2026-02-19T02:47:33.667Z",
+        "changefreq": "hourly",
+        "priority": 0.85
+      }
+    },
+    {
+      "id": 17795,
+      "slug": "great-britain-vs-italy-w-round-robin",
+      "canonical_url": "https://tarjetarojaenvivo.live/eventos/olympics/2026-02-19/curling/great-britain-vs-italy-w-round-robin",
+      "meta": {
+        "title": "Great Britain vs. Italy (W Round-Robin) EN VIVO - Tarjeta Roja TV",
+        "description": "Ver Great Britain vs. Italy (W Round-Robin) en vivo gratis el jueves 19 de febrero de 2026",
+        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Great Britain vs. Italy (W Round-Robin), 2026 Winter Olympics"
+      },
+      "event": {
+        "start_time": "2026-02-19T13:05:00.000Z",
+        "end_time": "2026-02-19T17:05:00.000Z",
+        "status": "próximamente"
+      },
+      "technical": {
+        "last_modified": "2026-02-19T02:47:33.667Z",
+        "changefreq": "hourly",
+        "priority": 0.85
+      }
+    },
+    {
+      "id": 17796,
+      "slug": "japan-vs-china-w-round-robin",
+      "canonical_url": "https://tarjetarojaenvivo.live/eventos/olympics/2026-02-19/curling/japan-vs-china-w-round-robin",
+      "meta": {
+        "title": "Japan vs. China (W Round-Robin) EN VIVO - Tarjeta Roja TV",
+        "description": "Ver Japan vs. China (W Round-Robin) en vivo gratis el jueves 19 de febrero de 2026",
+        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Japan vs. China (W Round-Robin), 2026 Winter Olympics"
+      },
+      "event": {
+        "start_time": "2026-02-19T13:05:00.000Z",
+        "end_time": "2026-02-19T17:05:00.000Z",
+        "status": "próximamente"
+      },
+      "technical": {
+        "last_modified": "2026-02-19T02:47:33.667Z",
+        "changefreq": "hourly",
+        "priority": 0.85
+      }
+    },
+    {
+      "id": 17797,
+      "slug": "switzerland-vs-usa-w-round-robin",
+      "canonical_url": "https://tarjetarojaenvivo.live/eventos/olympics/2026-02-19/curling/switzerland-vs-usa-w-round-robin",
+      "meta": {
+        "title": "Switzerland vs. USA (W Round-Robin) EN VIVO - Tarjeta Roja TV",
+        "description": "Ver Switzerland vs. USA (W Round-Robin) en vivo gratis el jueves 19 de febrero de 2026",
+        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Switzerland vs. USA (W Round-Robin), 2026 Winter Olympics"
+      },
+      "event": {
+        "start_time": "2026-02-19T13:05:00.000Z",
+        "end_time": "2026-02-19T17:05:00.000Z",
+        "status": "próximamente"
+      },
+      "technical": {
+        "last_modified": "2026-02-19T02:47:33.667Z",
+        "changefreq": "hourly",
+        "priority": 0.85
+      }
+    },
+    {
+      "id": 17799,
+      "slug": "switzerland-vs-sweden-women-s-bronze",
+      "canonical_url": "https://tarjetarojaenvivo.live/eventos/olympics/2026-02-19/hockey/switzerland-vs-sweden-womens-bronze",
+      "meta": {
+        "title": "Switzerland vs. Sweden (Women's Bronze) EN VIVO - Tarjeta Roja TV",
+        "description": "Ver Switzerland vs. Sweden (Women's Bronze) en vivo gratis el jueves 19 de febrero de 2026",
+        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Switzerland vs. Sweden (Women's Bronze), 2026 Winter Olympics"
+      },
+      "event": {
+        "start_time": "2026-02-19T13:40:00.000Z",
+        "end_time": "2026-02-19T17:10:00.000Z",
+        "status": "próximamente"
+      },
+      "technical": {
+        "last_modified": "2026-02-19T02:47:33.667Z",
+        "changefreq": "hourly",
+        "priority": 0.85
+      }
+    },
+    {
+      "id": 17800,
+      "slug": "women-s-free-warm-up-more",
+      "canonical_url": "https://tarjetarojaenvivo.live/eventos/olympics/2026-02-19/figure-skating/womens-free-warm-up--more",
+      "meta": {
+        "title": "Women's Free: Warm-Up & More EN VIVO - Tarjeta Roja TV",
+        "description": "Ver Women's Free: Warm-Up & More en vivo gratis el jueves 19 de febrero de 2026",
+        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Women's Free: Warm-Up & More, 2026 Winter Olympics"
+      },
+      "event": {
+        "start_time": "2026-02-19T14:40:00.000Z",
+        "end_time": "2026-02-19T20:40:00.000Z",
+        "status": "próximamente"
+      },
+      "technical": {
+        "last_modified": "2026-02-19T02:47:33.667Z",
+        "changefreq": "hourly",
+        "priority": 0.85
+      }
+    },
+    {
+      "id": 17801,
+      "slug": "men-s-1500m",
+      "canonical_url": "https://tarjetarojaenvivo.live/eventos/olympics/2026-02-19/short-track/mens-1500m",
+      "meta": {
+        "title": "Men's 1500m EN VIVO - Tarjeta Roja TV",
+        "description": "Ver Men's 1500m en vivo gratis el jueves 19 de febrero de 2026",
+        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Men's 1500m, 2026 Winter Olympics"
+      },
+      "event": {
+        "start_time": "2026-02-19T15:30:00.000Z",
+        "end_time": "2026-02-19T18:00:00.000Z",
+        "status": "próximamente"
+      },
+      "technical": {
+        "last_modified": "2026-02-19T02:47:33.667Z",
+        "changefreq": "hourly",
+        "priority": 0.85
+      }
+    },
+    {
+      "id": 17803,
+      "slug": "nbc-women-s-free-skate",
+      "canonical_url": "https://tarjetarojaenvivo.live/eventos/olympics/2026-02-19/figure-skating/nbc-womens-free-skate",
+      "meta": {
+        "title": "NBC: Women's Free Skate EN VIVO - Tarjeta Roja TV",
+        "description": "Ver NBC: Women's Free Skate en vivo gratis el jueves 19 de febrero de 2026",
+        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, NBC: Women's Free Skate, 2026 Winter Olympics"
+      },
+      "event": {
+        "start_time": "2026-02-19T18:00:00.000Z",
+        "end_time": "2026-02-19T23:00:00.000Z",
+        "status": "próximamente"
+      },
+      "technical": {
+        "last_modified": "2026-02-19T02:47:33.667Z",
+        "changefreq": "hourly",
+        "priority": 0.85
+      }
+    },
+    {
+      "id": 17805,
+      "slug": "men-s-semifinal",
+      "canonical_url": "https://tarjetarojaenvivo.live/eventos/olympics/2026-02-19/curling/mens-semifinal",
+      "meta": {
+        "title": "Men's Semifinal EN VIVO - Tarjeta Roja TV",
+        "description": "Ver Men's Semifinal en vivo gratis el jueves 19 de febrero de 2026",
+        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Men's Semifinal, 2026 Winter Olympics"
+      },
+      "event": {
+        "start_time": "2026-02-19T18:05:00.000Z",
+        "end_time": "2026-02-19T22:05:00.000Z",
+        "status": "próximamente"
+      },
+      "technical": {
+        "last_modified": "2026-02-19T02:47:33.667Z",
+        "changefreq": "hourly",
+        "priority": 0.85
+      }
+    },
+    {
+      "id": 17807,
+      "slug": "usa-vs-canada-women-s-gold",
+      "canonical_url": "https://tarjetarojaenvivo.live/eventos/olympics/2026-02-19/hockey/usa-vs-canada-womens-gold",
+      "meta": {
+        "title": "USA vs. Canada (Women's Gold) EN VIVO - Tarjeta Roja TV",
+        "description": "Ver USA vs. Canada (Women's Gold) en vivo gratis el jueves 19 de febrero de 2026",
+        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, USA vs. Canada (Women's Gold), 2026 Winter Olympics"
+      },
+      "event": {
+        "start_time": "2026-02-19T18:10:00.000Z",
+        "end_time": "2026-02-19T22:10:00.000Z",
+        "status": "próximamente"
+      },
+      "technical": {
+        "last_modified": "2026-02-19T02:47:33.667Z",
+        "changefreq": "hourly",
+        "priority": 0.85
+      }
+    },
+    {
+      "id": 17808,
+      "slug": "women-s-freeski-halfpipe-qualifying",
+      "canonical_url": "https://tarjetarojaenvivo.live/eventos/olympics/2026-02-19/freestyle-skiing/womens-freeski-halfpipe-qualifying",
+      "meta": {
+        "title": "Women's Freeski Halfpipe: Qualifying EN VIVO - Tarjeta Roja TV",
+        "description": "Ver Women's Freeski Halfpipe: Qualifying en vivo gratis el jueves 19 de febrero de 2026",
+        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Women's Freeski Halfpipe: Qualifying, 2026 Winter Olympics"
+      },
+      "event": {
+        "start_time": "2026-02-19T18:30:00.000Z",
+        "end_time": "2026-02-19T21:25:00.000Z",
+        "status": "próximamente"
+      },
+      "technical": {
+        "last_modified": "2026-02-19T02:47:33.667Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -215,7 +501,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-02-18T19:05:01.566Z",
+        "last_modified": "2026-02-19T02:47:33.667Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -235,7 +521,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-02-18T19:05:01.566Z",
+        "last_modified": "2026-02-19T02:47:33.667Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -255,7 +541,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-02-18T19:05:01.566Z",
+        "last_modified": "2026-02-19T02:47:33.667Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -275,147 +561,27 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-02-18T19:05:01.566Z",
+        "last_modified": "2026-02-19T02:47:33.668Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
     },
     {
-      "id": 17655,
-      "slug": "qarabag-vs-newcastle",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/ucl/2026-02-18/qar-new",
+      "id": 17269,
+      "slug": "premier-league-darts-night-3",
+      "canonical_url": "https://tarjetarojaenvivo.live/eventos/premier-league-darts-night-3",
       "meta": {
-        "title": "Qarabağ vs. Newcastle EN VIVO - Tarjeta Roja TV",
-        "description": "Ver Qarabağ vs. Newcastle en vivo gratis el miércoles 18 de febrero de 2026",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Qarabağ vs. Newcastle, Fútbol"
+        "title": "Premier League Darts: Night 3 EN VIVO - Tarjeta Roja TV",
+        "description": "Ver Premier League Darts: Night 3 en vivo gratis el jueves 19 de febrero de 2026",
+        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Premier League Darts: Night 3, Dardos"
       },
       "event": {
-        "start_time": "2026-02-18T17:45:00.000Z",
-        "end_time": "2026-02-18T20:45:00.000Z",
-        "status": "en vivo"
-      },
-      "technical": {
-        "last_modified": "2026-02-18T19:05:01.566Z",
-        "changefreq": "hourly",
-        "priority": 0.85
-      }
-    },
-    {
-      "id": 17588,
-      "slug": "levante-vs-villarreal",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/laliga/2026-02-18/lev-vil",
-      "meta": {
-        "title": "Levante vs. Villarreal EN VIVO - Tarjeta Roja TV",
-        "description": "Ver Levante vs. Villarreal en vivo gratis el miércoles 18 de febrero de 2026",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Levante vs. Villarreal, Fútbol"
-      },
-      "event": {
-        "start_time": "2026-02-18T19:00:00.000Z",
-        "end_time": "2026-02-18T21:30:00.000Z",
-        "status": "en vivo"
-      },
-      "technical": {
-        "last_modified": "2026-02-18T19:05:01.566Z",
-        "changefreq": "hourly",
-        "priority": 0.85
-      }
-    },
-    {
-      "id": 17619,
-      "slug": "ac-milan-vs-como",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/seriea/2026-02-18/mil-como",
-      "meta": {
-        "title": "AC Milan vs. Como EN VIVO - Tarjeta Roja TV",
-        "description": "Ver AC Milan vs. Como en vivo gratis el miércoles 18 de febrero de 2026",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, AC Milan vs. Como, Fútbol"
-      },
-      "event": {
-        "start_time": "2026-02-18T19:45:00.000Z",
-        "end_time": "2026-02-18T22:15:00.000Z",
+        "start_time": "2026-02-19T19:00:00.000Z",
+        "end_time": "2026-02-19T23:00:00.000Z",
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-02-18T19:05:01.566Z",
-        "changefreq": "hourly",
-        "priority": 0.85
-      }
-    },
-    {
-      "id": 17608,
-      "slug": "wolverhampton-wanderers-vs-arsenal",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/premierleague/2026-02-18/wol-ars",
-      "meta": {
-        "title": "Wolverhampton Wanderers vs. Arsenal EN VIVO - Tarjeta Roja TV",
-        "description": "Ver Wolverhampton Wanderers vs. Arsenal en vivo gratis el miércoles 18 de febrero de 2026",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Wolverhampton Wanderers vs. Arsenal, Fútbol"
-      },
-      "event": {
-        "start_time": "2026-02-18T20:00:00.000Z",
-        "end_time": "2026-02-18T22:30:00.000Z",
-        "status": "próximamente"
-      },
-      "technical": {
-        "last_modified": "2026-02-18T19:05:01.566Z",
-        "changefreq": "hourly",
-        "priority": 0.85
-      }
-    },
-    {
-      "id": 17656,
-      "slug": "olympiacos-vs-leverkusen",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/ucl/2026-02-18/oly-lev",
-      "meta": {
-        "title": "Olympiacos vs. Leverkusen EN VIVO - Tarjeta Roja TV",
-        "description": "Ver Olympiacos vs. Leverkusen en vivo gratis el miércoles 18 de febrero de 2026",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Olympiacos vs. Leverkusen, Fútbol"
-      },
-      "event": {
-        "start_time": "2026-02-18T20:00:00.000Z",
-        "end_time": "2026-02-18T23:00:00.000Z",
-        "status": "próximamente"
-      },
-      "technical": {
-        "last_modified": "2026-02-18T19:05:01.566Z",
-        "changefreq": "hourly",
-        "priority": 0.85
-      }
-    },
-    {
-      "id": 17657,
-      "slug": "bod-glimt-vs-inter",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/ucl/2026-02-18/bod-int",
-      "meta": {
-        "title": "Bodø/Glimt vs. Inter EN VIVO - Tarjeta Roja TV",
-        "description": "Ver Bodø/Glimt vs. Inter en vivo gratis el miércoles 18 de febrero de 2026",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Bodø/Glimt vs. Inter, Fútbol"
-      },
-      "event": {
-        "start_time": "2026-02-18T20:00:00.000Z",
-        "end_time": "2026-02-18T23:00:00.000Z",
-        "status": "próximamente"
-      },
-      "technical": {
-        "last_modified": "2026-02-18T19:05:01.566Z",
-        "changefreq": "hourly",
-        "priority": 0.85
-      }
-    },
-    {
-      "id": 17658,
-      "slug": "club-brugge-vs-atleti",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/ucl/2026-02-18/bru-atm",
-      "meta": {
-        "title": "Club Brugge vs. Atleti EN VIVO - Tarjeta Roja TV",
-        "description": "Ver Club Brugge vs. Atleti en vivo gratis el miércoles 18 de febrero de 2026",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Club Brugge vs. Atleti, Fútbol"
-      },
-      "event": {
-        "start_time": "2026-02-18T20:00:00.000Z",
-        "end_time": "2026-02-18T23:00:00.000Z",
-        "status": "próximamente"
-      },
-      "technical": {
-        "last_modified": "2026-02-18T19:05:01.566Z",
+        "last_modified": "2026-02-19T02:47:33.668Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -435,7 +601,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-02-18T19:05:01.567Z",
+        "last_modified": "2026-02-19T02:47:33.668Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -455,7 +621,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-02-18T19:05:01.567Z",
+        "last_modified": "2026-02-19T02:47:33.668Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -475,7 +641,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-02-18T19:05:01.567Z",
+        "last_modified": "2026-02-19T02:47:33.668Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -495,7 +661,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-02-18T19:05:01.567Z",
+        "last_modified": "2026-02-19T02:47:33.668Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -515,7 +681,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-02-18T19:05:01.567Z",
+        "last_modified": "2026-02-19T02:47:33.668Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -535,7 +701,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-02-18T19:05:01.567Z",
+        "last_modified": "2026-02-19T02:47:33.668Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -555,7 +721,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-02-18T19:05:01.567Z",
+        "last_modified": "2026-02-19T02:47:33.668Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -575,7 +741,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-02-18T19:05:01.567Z",
+        "last_modified": "2026-02-19T02:47:33.668Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -595,7 +761,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-02-18T19:05:01.567Z",
+        "last_modified": "2026-02-19T02:47:33.668Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -615,7 +781,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-02-18T19:05:01.567Z",
+        "last_modified": "2026-02-19T02:47:33.668Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -635,7 +801,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-02-18T19:05:01.567Z",
+        "last_modified": "2026-02-19T02:47:33.668Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -655,7 +821,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-02-18T19:05:01.567Z",
+        "last_modified": "2026-02-19T02:47:33.668Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -675,7 +841,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-02-18T19:05:01.567Z",
+        "last_modified": "2026-02-19T02:47:33.668Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -695,7 +861,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-02-18T19:05:01.567Z",
+        "last_modified": "2026-02-19T02:47:33.668Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -715,7 +881,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-02-18T19:05:01.567Z",
+        "last_modified": "2026-02-19T02:47:33.668Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -735,7 +901,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-02-18T19:05:01.567Z",
+        "last_modified": "2026-02-19T02:47:33.668Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -755,7 +921,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-02-18T19:05:01.567Z",
+        "last_modified": "2026-02-19T02:47:33.668Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -775,7 +941,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-02-18T19:05:01.567Z",
+        "last_modified": "2026-02-19T02:47:33.668Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -795,7 +961,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-02-18T19:05:01.567Z",
+        "last_modified": "2026-02-19T02:47:33.668Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -815,7 +981,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-02-18T19:05:01.567Z",
+        "last_modified": "2026-02-19T02:47:33.668Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -835,7 +1001,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-02-18T19:05:01.567Z",
+        "last_modified": "2026-02-19T02:47:33.668Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -855,7 +1021,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-02-18T19:05:01.567Z",
+        "last_modified": "2026-02-19T02:47:33.668Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -875,7 +1041,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-02-18T19:05:01.567Z",
+        "last_modified": "2026-02-19T02:47:33.668Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -895,7 +1061,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-02-18T19:05:01.567Z",
+        "last_modified": "2026-02-19T02:47:33.668Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -915,7 +1081,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-02-18T19:05:01.567Z",
+        "last_modified": "2026-02-19T02:47:33.668Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -935,7 +1101,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-02-18T19:05:01.567Z",
+        "last_modified": "2026-02-19T02:47:33.668Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -955,7 +1121,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-02-18T19:05:01.567Z",
+        "last_modified": "2026-02-19T02:47:33.668Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -975,7 +1141,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-02-18T19:05:01.567Z",
+        "last_modified": "2026-02-19T02:47:33.668Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -995,7 +1161,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-02-18T19:05:01.567Z",
+        "last_modified": "2026-02-19T02:47:33.668Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1015,7 +1181,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-02-18T19:05:01.567Z",
+        "last_modified": "2026-02-19T02:47:33.668Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1035,7 +1201,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-02-18T19:05:01.567Z",
+        "last_modified": "2026-02-19T02:47:33.668Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1055,7 +1221,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-02-18T19:05:01.567Z",
+        "last_modified": "2026-02-19T02:47:33.668Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1075,7 +1241,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-02-18T19:05:01.567Z",
+        "last_modified": "2026-02-19T02:47:33.668Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1095,7 +1261,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-02-18T19:05:01.567Z",
+        "last_modified": "2026-02-19T02:47:33.668Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1115,7 +1281,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-02-18T19:05:01.567Z",
+        "last_modified": "2026-02-19T02:47:33.668Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1135,7 +1301,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-02-18T19:05:01.567Z",
+        "last_modified": "2026-02-19T02:47:33.668Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1155,7 +1321,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-02-18T19:05:01.567Z",
+        "last_modified": "2026-02-19T02:47:33.668Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1175,7 +1341,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-02-18T19:05:01.567Z",
+        "last_modified": "2026-02-19T02:47:33.668Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1195,7 +1361,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-02-18T19:05:01.567Z",
+        "last_modified": "2026-02-19T02:47:33.668Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1215,7 +1381,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-02-18T19:05:01.567Z",
+        "last_modified": "2026-02-19T02:47:33.668Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1235,7 +1401,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-02-18T19:05:01.567Z",
+        "last_modified": "2026-02-19T02:47:33.668Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1255,7 +1421,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-02-18T19:05:01.567Z",
+        "last_modified": "2026-02-19T02:47:33.668Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1275,7 +1441,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-02-18T19:05:01.567Z",
+        "last_modified": "2026-02-19T02:47:33.668Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1295,7 +1461,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-02-18T19:05:01.567Z",
+        "last_modified": "2026-02-19T02:47:33.668Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1315,7 +1481,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-02-18T19:05:01.567Z",
+        "last_modified": "2026-02-19T02:47:33.668Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1335,7 +1501,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-02-18T19:05:01.567Z",
+        "last_modified": "2026-02-19T02:47:33.668Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1355,7 +1521,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-02-18T19:05:01.567Z",
+        "last_modified": "2026-02-19T02:47:33.668Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1375,7 +1541,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-02-18T19:05:01.567Z",
+        "last_modified": "2026-02-19T02:47:33.668Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1395,7 +1561,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-02-18T19:05:01.567Z",
+        "last_modified": "2026-02-19T02:47:33.668Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1415,7 +1581,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-02-18T19:05:01.567Z",
+        "last_modified": "2026-02-19T02:47:33.668Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1435,7 +1601,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-02-18T19:05:01.567Z",
+        "last_modified": "2026-02-19T02:47:33.668Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1455,7 +1621,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-02-18T19:05:01.567Z",
+        "last_modified": "2026-02-19T02:47:33.668Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1475,7 +1641,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-02-18T19:05:01.567Z",
+        "last_modified": "2026-02-19T02:47:33.668Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1495,7 +1661,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-02-18T19:05:01.567Z",
+        "last_modified": "2026-02-19T02:47:33.668Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1515,7 +1681,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-02-18T19:05:01.567Z",
+        "last_modified": "2026-02-19T02:47:33.668Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1535,7 +1701,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-02-18T19:05:01.567Z",
+        "last_modified": "2026-02-19T02:47:33.668Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1555,7 +1721,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-02-18T19:05:01.567Z",
+        "last_modified": "2026-02-19T02:47:33.668Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1575,7 +1741,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-02-18T19:05:01.567Z",
+        "last_modified": "2026-02-19T02:47:33.668Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1595,7 +1761,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-02-18T19:05:01.567Z",
+        "last_modified": "2026-02-19T02:47:33.668Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1615,7 +1781,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-02-18T19:05:01.567Z",
+        "last_modified": "2026-02-19T02:47:33.668Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1635,7 +1801,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-02-18T19:05:01.567Z",
+        "last_modified": "2026-02-19T02:47:33.668Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1655,7 +1821,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-02-18T19:05:01.567Z",
+        "last_modified": "2026-02-19T02:47:33.668Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1675,7 +1841,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-02-18T19:05:01.567Z",
+        "last_modified": "2026-02-19T02:47:33.668Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1695,7 +1861,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-02-18T19:05:01.567Z",
+        "last_modified": "2026-02-19T02:47:33.668Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1715,7 +1881,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-02-18T19:05:01.567Z",
+        "last_modified": "2026-02-19T02:47:33.668Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1735,7 +1901,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-02-18T19:05:01.567Z",
+        "last_modified": "2026-02-19T02:47:33.668Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1752,10 +1918,10 @@
       "event": {
         "start_time": "2026-02-19T01:00:00.000Z",
         "end_time": "2026-02-19T04:00:00.000Z",
-        "status": "próximamente"
+        "status": "en vivo"
       },
       "technical": {
-        "last_modified": "2026-02-18T19:05:01.567Z",
+        "last_modified": "2026-02-19T02:47:33.668Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1775,7 +1941,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-02-18T19:05:01.567Z",
+        "last_modified": "2026-02-19T02:47:33.668Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1795,7 +1961,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-02-18T19:05:01.567Z",
+        "last_modified": "2026-02-19T02:47:33.668Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1815,7 +1981,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-02-18T19:05:01.567Z",
+        "last_modified": "2026-02-19T02:47:33.668Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1835,7 +2001,7 @@
         "status": "en vivo"
       },
       "technical": {
-        "last_modified": "2026-02-18T19:05:01.567Z",
+        "last_modified": "2026-02-19T02:47:33.668Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1855,7 +2021,7 @@
         "status": "en vivo"
       },
       "technical": {
-        "last_modified": "2026-02-18T19:05:01.567Z",
+        "last_modified": "2026-02-19T02:47:33.668Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1875,7 +2041,7 @@
         "status": "en vivo"
       },
       "technical": {
-        "last_modified": "2026-02-18T19:05:01.567Z",
+        "last_modified": "2026-02-19T02:47:33.668Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1895,7 +2061,7 @@
         "status": "en vivo"
       },
       "technical": {
-        "last_modified": "2026-02-18T19:05:01.567Z",
+        "last_modified": "2026-02-19T02:47:33.668Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1915,7 +2081,7 @@
         "status": "en vivo"
       },
       "technical": {
-        "last_modified": "2026-02-18T19:05:01.567Z",
+        "last_modified": "2026-02-19T02:47:33.668Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1935,7 +2101,7 @@
         "status": "en vivo"
       },
       "technical": {
-        "last_modified": "2026-02-18T19:05:01.567Z",
+        "last_modified": "2026-02-19T02:47:33.668Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
