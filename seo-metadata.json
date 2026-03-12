@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-12T13:17:24.065Z",
-  "total_events": 133,
+  "generated_at": "2026-03-12T19:03:11.508Z",
+  "total_events": 134,
   "categories": [
     {
       "name": "Arm Wrestling",
@@ -13,6 +13,12 @@
       "name_es": "Baloncesto",
       "slug": "baloncesto",
       "canonical_url": "https://tarjetarojaenvivo.live/categoria/baloncesto"
+    },
+    {
+      "name": "Combat Sports",
+      "name_es": "Deportes de Combate",
+      "slug": "deportes-de-combate",
+      "canonical_url": "https://tarjetarojaenvivo.live/categoria/deportes-de-combate"
     },
     {
       "name": "Football",
@@ -61,7 +67,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-12T13:17:24.065Z",
+        "last_modified": "2026-03-12T19:03:11.509Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -78,10 +84,10 @@
       "event": {
         "start_time": "2026-03-12T16:00:00.000Z",
         "end_time": "2026-03-12T19:30:00.000Z",
-        "status": "próximamente"
+        "status": "en vivo"
       },
       "technical": {
-        "last_modified": "2026-03-12T13:17:24.065Z",
+        "last_modified": "2026-03-12T19:03:11.509Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -98,10 +104,10 @@
       "event": {
         "start_time": "2026-03-12T16:00:00.000Z",
         "end_time": "2026-03-12T19:30:00.000Z",
-        "status": "próximamente"
+        "status": "en vivo"
       },
       "technical": {
-        "last_modified": "2026-03-12T13:17:24.065Z",
+        "last_modified": "2026-03-12T19:03:11.509Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -118,10 +124,10 @@
       "event": {
         "start_time": "2026-03-12T16:30:00.000Z",
         "end_time": "2026-03-12T20:00:00.000Z",
-        "status": "próximamente"
+        "status": "en vivo"
       },
       "technical": {
-        "last_modified": "2026-03-12T13:17:24.065Z",
+        "last_modified": "2026-03-12T19:03:11.509Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -138,10 +144,10 @@
       "event": {
         "start_time": "2026-03-12T16:30:00.000Z",
         "end_time": "2026-03-12T20:00:00.000Z",
-        "status": "próximamente"
+        "status": "en vivo"
       },
       "technical": {
-        "last_modified": "2026-03-12T13:17:24.065Z",
+        "last_modified": "2026-03-12T19:03:11.509Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -158,10 +164,10 @@
       "event": {
         "start_time": "2026-03-12T18:30:00.000Z",
         "end_time": "2026-03-12T22:00:00.000Z",
-        "status": "próximamente"
+        "status": "en vivo"
       },
       "technical": {
-        "last_modified": "2026-03-12T13:17:24.065Z",
+        "last_modified": "2026-03-12T19:03:11.509Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -178,10 +184,10 @@
       "event": {
         "start_time": "2026-03-12T18:30:00.000Z",
         "end_time": "2026-03-12T22:00:00.000Z",
-        "status": "próximamente"
+        "status": "en vivo"
       },
       "technical": {
-        "last_modified": "2026-03-12T13:17:24.065Z",
+        "last_modified": "2026-03-12T19:03:11.509Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -198,10 +204,10 @@
       "event": {
         "start_time": "2026-03-12T19:00:00.000Z",
         "end_time": "2026-03-12T22:30:00.000Z",
-        "status": "próximamente"
+        "status": "en vivo"
       },
       "technical": {
-        "last_modified": "2026-03-12T13:17:24.066Z",
+        "last_modified": "2026-03-12T19:03:11.509Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -218,10 +224,10 @@
       "event": {
         "start_time": "2026-03-12T19:00:00.000Z",
         "end_time": "2026-03-12T22:30:00.000Z",
-        "status": "próximamente"
+        "status": "en vivo"
       },
       "technical": {
-        "last_modified": "2026-03-12T13:17:24.066Z",
+        "last_modified": "2026-03-12T19:03:11.509Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -241,7 +247,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-12T13:17:24.066Z",
+        "last_modified": "2026-03-12T19:03:11.509Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -261,7 +267,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-12T13:17:24.066Z",
+        "last_modified": "2026-03-12T19:03:11.509Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -281,7 +287,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-12T13:17:24.066Z",
+        "last_modified": "2026-03-12T19:03:11.509Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -301,7 +307,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-12T13:17:24.066Z",
+        "last_modified": "2026-03-12T19:03:11.509Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -321,7 +327,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-12T13:17:24.066Z",
+        "last_modified": "2026-03-12T19:03:11.509Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -341,7 +347,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-12T13:17:24.066Z",
+        "last_modified": "2026-03-12T19:03:11.509Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -361,7 +367,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-12T13:17:24.066Z",
+        "last_modified": "2026-03-12T19:03:11.509Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -381,7 +387,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-12T13:17:24.066Z",
+        "last_modified": "2026-03-12T19:03:11.509Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -401,7 +407,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-12T13:17:24.066Z",
+        "last_modified": "2026-03-12T19:03:11.509Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -421,7 +427,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-12T13:17:24.066Z",
+        "last_modified": "2026-03-12T19:03:11.509Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -441,7 +447,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-12T13:17:24.066Z",
+        "last_modified": "2026-03-12T19:03:11.509Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -461,7 +467,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-12T13:17:24.066Z",
+        "last_modified": "2026-03-12T19:03:11.509Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -481,7 +487,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-12T13:17:24.066Z",
+        "last_modified": "2026-03-12T19:03:11.509Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -501,7 +507,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-12T13:17:24.066Z",
+        "last_modified": "2026-03-12T19:03:11.509Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -521,7 +527,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-12T13:17:24.066Z",
+        "last_modified": "2026-03-12T19:03:11.509Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -541,7 +547,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-12T13:17:24.066Z",
+        "last_modified": "2026-03-12T19:03:11.509Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -561,7 +567,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-12T13:17:24.066Z",
+        "last_modified": "2026-03-12T19:03:11.509Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -581,7 +587,27 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-12T13:17:24.066Z",
+        "last_modified": "2026-03-12T19:03:11.509Z",
+        "changefreq": "hourly",
+        "priority": 0.85
+      }
+    },
+    {
+      "id": 18967,
+      "slug": "bkfc-fight-night-terrill-vs-mcfarlane",
+      "canonical_url": "https://tarjetarojaenvivo.live/eventos/bkfc-fight-night-terrill-vs.-mcfarlane",
+      "meta": {
+        "title": "BKFC Fight Night: Terrill vs. McFarlane EN VIVO - Tarjeta Roja TV",
+        "description": "Ver BKFC Fight Night: Terrill vs. McFarlane en vivo gratis el sábado 14 de marzo de 2026",
+        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, BKFC Fight Night: Terrill vs. McFarlane, Deportes de Combate"
+      },
+      "event": {
+        "start_time": "2026-03-14T19:00:00.000Z",
+        "end_time": "2026-03-15T00:00:00.000Z",
+        "status": "próximamente"
+      },
+      "technical": {
+        "last_modified": "2026-03-12T19:03:11.509Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -598,10 +624,10 @@
       "event": {
         "start_time": "2026-03-12T17:45:00.000Z",
         "end_time": "2026-03-12T20:45:00.000Z",
-        "status": "próximamente"
+        "status": "en vivo"
       },
       "technical": {
-        "last_modified": "2026-03-12T13:17:24.066Z",
+        "last_modified": "2026-03-12T19:03:11.510Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -618,10 +644,10 @@
       "event": {
         "start_time": "2026-03-12T17:45:00.000Z",
         "end_time": "2026-03-12T20:45:00.000Z",
-        "status": "próximamente"
+        "status": "en vivo"
       },
       "technical": {
-        "last_modified": "2026-03-12T13:17:24.066Z",
+        "last_modified": "2026-03-12T19:03:11.510Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -638,10 +664,10 @@
       "event": {
         "start_time": "2026-03-12T17:45:00.000Z",
         "end_time": "2026-03-12T20:45:00.000Z",
-        "status": "próximamente"
+        "status": "en vivo"
       },
       "technical": {
-        "last_modified": "2026-03-12T13:17:24.066Z",
+        "last_modified": "2026-03-12T19:03:11.510Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -658,10 +684,10 @@
       "event": {
         "start_time": "2026-03-12T17:45:00.000Z",
         "end_time": "2026-03-12T20:45:00.000Z",
-        "status": "próximamente"
+        "status": "en vivo"
       },
       "technical": {
-        "last_modified": "2026-03-12T13:17:24.066Z",
+        "last_modified": "2026-03-12T19:03:11.510Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -678,10 +704,10 @@
       "event": {
         "start_time": "2026-03-12T17:45:00.000Z",
         "end_time": "2026-03-12T20:45:00.000Z",
-        "status": "próximamente"
+        "status": "en vivo"
       },
       "technical": {
-        "last_modified": "2026-03-12T13:17:24.066Z",
+        "last_modified": "2026-03-12T19:03:11.510Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -698,10 +724,10 @@
       "event": {
         "start_time": "2026-03-12T17:45:00.000Z",
         "end_time": "2026-03-12T20:45:00.000Z",
-        "status": "próximamente"
+        "status": "en vivo"
       },
       "technical": {
-        "last_modified": "2026-03-12T13:17:24.066Z",
+        "last_modified": "2026-03-12T19:03:11.510Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -718,10 +744,10 @@
       "event": {
         "start_time": "2026-03-12T17:45:00.000Z",
         "end_time": "2026-03-12T20:45:00.000Z",
-        "status": "próximamente"
+        "status": "en vivo"
       },
       "technical": {
-        "last_modified": "2026-03-12T13:17:24.066Z",
+        "last_modified": "2026-03-12T19:03:11.510Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -738,10 +764,10 @@
       "event": {
         "start_time": "2026-03-12T17:45:00.000Z",
         "end_time": "2026-03-12T20:45:00.000Z",
-        "status": "próximamente"
+        "status": "en vivo"
       },
       "technical": {
-        "last_modified": "2026-03-12T13:17:24.066Z",
+        "last_modified": "2026-03-12T19:03:11.510Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -761,7 +787,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-12T13:17:24.066Z",
+        "last_modified": "2026-03-12T19:03:11.510Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -781,7 +807,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-12T13:17:24.066Z",
+        "last_modified": "2026-03-12T19:03:11.510Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -801,7 +827,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-12T13:17:24.066Z",
+        "last_modified": "2026-03-12T19:03:11.510Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -821,7 +847,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-12T13:17:24.066Z",
+        "last_modified": "2026-03-12T19:03:11.510Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -841,7 +867,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-12T13:17:24.066Z",
+        "last_modified": "2026-03-12T19:03:11.510Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -861,7 +887,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-12T13:17:24.066Z",
+        "last_modified": "2026-03-12T19:03:11.510Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -881,7 +907,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-12T13:17:24.066Z",
+        "last_modified": "2026-03-12T19:03:11.510Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -901,7 +927,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-12T13:17:24.066Z",
+        "last_modified": "2026-03-12T19:03:11.510Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -921,7 +947,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-12T13:17:24.066Z",
+        "last_modified": "2026-03-12T19:03:11.510Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -941,7 +967,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-12T13:17:24.066Z",
+        "last_modified": "2026-03-12T19:03:11.510Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -961,7 +987,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-12T13:17:24.066Z",
+        "last_modified": "2026-03-12T19:03:11.510Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -981,7 +1007,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-12T13:17:24.066Z",
+        "last_modified": "2026-03-12T19:03:11.510Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1001,7 +1027,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-12T13:17:24.066Z",
+        "last_modified": "2026-03-12T19:03:11.510Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1021,7 +1047,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-12T13:17:24.066Z",
+        "last_modified": "2026-03-12T19:03:11.510Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1041,7 +1067,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-12T13:17:24.066Z",
+        "last_modified": "2026-03-12T19:03:11.510Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1061,7 +1087,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-12T13:17:24.066Z",
+        "last_modified": "2026-03-12T19:03:11.510Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1081,7 +1107,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-12T13:17:24.066Z",
+        "last_modified": "2026-03-12T19:03:11.510Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1101,7 +1127,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-12T13:17:24.066Z",
+        "last_modified": "2026-03-12T19:03:11.510Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1121,7 +1147,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-12T13:17:24.066Z",
+        "last_modified": "2026-03-12T19:03:11.510Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1141,7 +1167,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-12T13:17:24.066Z",
+        "last_modified": "2026-03-12T19:03:11.510Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1161,7 +1187,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-12T13:17:24.066Z",
+        "last_modified": "2026-03-12T19:03:11.510Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1181,7 +1207,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-12T13:17:24.066Z",
+        "last_modified": "2026-03-12T19:03:11.510Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1201,7 +1227,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-12T13:17:24.066Z",
+        "last_modified": "2026-03-12T19:03:11.510Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1221,7 +1247,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-12T13:17:24.066Z",
+        "last_modified": "2026-03-12T19:03:11.510Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1241,7 +1267,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-12T13:17:24.066Z",
+        "last_modified": "2026-03-12T19:03:11.510Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1261,7 +1287,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-12T13:17:24.066Z",
+        "last_modified": "2026-03-12T19:03:11.510Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1281,7 +1307,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-12T13:17:24.066Z",
+        "last_modified": "2026-03-12T19:03:11.510Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1301,7 +1327,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-12T13:17:24.066Z",
+        "last_modified": "2026-03-12T19:03:11.510Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1321,7 +1347,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-12T13:17:24.066Z",
+        "last_modified": "2026-03-12T19:03:11.510Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1341,7 +1367,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-12T13:17:24.066Z",
+        "last_modified": "2026-03-12T19:03:11.510Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1361,7 +1387,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-12T13:17:24.066Z",
+        "last_modified": "2026-03-12T19:03:11.510Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1381,7 +1407,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-12T13:17:24.066Z",
+        "last_modified": "2026-03-12T19:03:11.510Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1401,7 +1427,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-12T13:17:24.066Z",
+        "last_modified": "2026-03-12T19:03:11.510Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1421,7 +1447,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-12T13:17:24.066Z",
+        "last_modified": "2026-03-12T19:03:11.510Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1441,7 +1467,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-12T13:17:24.066Z",
+        "last_modified": "2026-03-12T19:03:11.510Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1461,7 +1487,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-12T13:17:24.066Z",
+        "last_modified": "2026-03-12T19:03:11.510Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1481,7 +1507,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-12T13:17:24.066Z",
+        "last_modified": "2026-03-12T19:03:11.510Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1501,7 +1527,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-12T13:17:24.066Z",
+        "last_modified": "2026-03-12T19:03:11.510Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1521,7 +1547,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-12T13:17:24.066Z",
+        "last_modified": "2026-03-12T19:03:11.510Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1541,7 +1567,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-12T13:17:24.066Z",
+        "last_modified": "2026-03-12T19:03:11.510Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1561,7 +1587,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-12T13:17:24.066Z",
+        "last_modified": "2026-03-12T19:03:11.510Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1581,7 +1607,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-12T13:17:24.066Z",
+        "last_modified": "2026-03-12T19:03:11.510Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1601,7 +1627,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-12T13:17:24.066Z",
+        "last_modified": "2026-03-12T19:03:11.510Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1621,7 +1647,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-12T13:17:24.066Z",
+        "last_modified": "2026-03-12T19:03:11.510Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1641,7 +1667,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-12T13:17:24.066Z",
+        "last_modified": "2026-03-12T19:03:11.510Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1661,7 +1687,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-12T13:17:24.066Z",
+        "last_modified": "2026-03-12T19:03:11.510Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1681,7 +1707,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-12T13:17:24.066Z",
+        "last_modified": "2026-03-12T19:03:11.510Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1701,7 +1727,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-12T13:17:24.066Z",
+        "last_modified": "2026-03-12T19:03:11.510Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1721,7 +1747,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-12T13:17:24.066Z",
+        "last_modified": "2026-03-12T19:03:11.510Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1741,7 +1767,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-12T13:17:24.066Z",
+        "last_modified": "2026-03-12T19:03:11.510Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1761,7 +1787,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-12T13:17:24.066Z",
+        "last_modified": "2026-03-12T19:03:11.510Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1781,7 +1807,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-12T13:17:24.066Z",
+        "last_modified": "2026-03-12T19:03:11.510Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1801,7 +1827,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-12T13:17:24.066Z",
+        "last_modified": "2026-03-12T19:03:11.510Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1821,7 +1847,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-12T13:17:24.066Z",
+        "last_modified": "2026-03-12T19:03:11.510Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1841,7 +1867,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-12T13:17:24.066Z",
+        "last_modified": "2026-03-12T19:03:11.510Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1861,7 +1887,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-12T13:17:24.066Z",
+        "last_modified": "2026-03-12T19:03:11.510Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1881,7 +1907,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-12T13:17:24.066Z",
+        "last_modified": "2026-03-12T19:03:11.510Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1901,7 +1927,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-12T13:17:24.066Z",
+        "last_modified": "2026-03-12T19:03:11.510Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1921,7 +1947,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-12T13:17:24.066Z",
+        "last_modified": "2026-03-12T19:03:11.510Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1941,7 +1967,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-12T13:17:24.066Z",
+        "last_modified": "2026-03-12T19:03:11.510Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1961,7 +1987,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-12T13:17:24.066Z",
+        "last_modified": "2026-03-12T19:03:11.510Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1981,7 +2007,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-12T13:17:24.066Z",
+        "last_modified": "2026-03-12T19:03:11.510Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -2001,7 +2027,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-12T13:17:24.066Z",
+        "last_modified": "2026-03-12T19:03:11.510Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -2021,7 +2047,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-12T13:17:24.066Z",
+        "last_modified": "2026-03-12T19:03:11.510Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -2041,7 +2067,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-12T13:17:24.066Z",
+        "last_modified": "2026-03-12T19:03:11.510Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -2061,7 +2087,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-12T13:17:24.066Z",
+        "last_modified": "2026-03-12T19:03:11.510Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -2081,7 +2107,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-12T13:17:24.066Z",
+        "last_modified": "2026-03-12T19:03:11.510Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -2101,7 +2127,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-12T13:17:24.066Z",
+        "last_modified": "2026-03-12T19:03:11.510Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -2121,7 +2147,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-12T13:17:24.067Z",
+        "last_modified": "2026-03-12T19:03:11.510Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -2141,7 +2167,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-12T13:17:24.067Z",
+        "last_modified": "2026-03-12T19:03:11.510Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -2161,7 +2187,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-12T13:17:24.067Z",
+        "last_modified": "2026-03-12T19:03:11.510Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -2181,7 +2207,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-12T13:17:24.067Z",
+        "last_modified": "2026-03-12T19:03:11.510Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -2201,7 +2227,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-12T13:17:24.067Z",
+        "last_modified": "2026-03-12T19:03:11.510Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -2221,7 +2247,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-12T13:17:24.067Z",
+        "last_modified": "2026-03-12T19:03:11.510Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -2241,7 +2267,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-12T13:17:24.067Z",
+        "last_modified": "2026-03-12T19:03:11.510Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -2261,7 +2287,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-12T13:17:24.067Z",
+        "last_modified": "2026-03-12T19:03:11.510Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -2281,7 +2307,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-12T13:17:24.067Z",
+        "last_modified": "2026-03-12T19:03:11.510Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -2301,7 +2327,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-12T13:17:24.067Z",
+        "last_modified": "2026-03-12T19:03:11.510Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -2321,7 +2347,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-12T13:17:24.067Z",
+        "last_modified": "2026-03-12T19:03:11.510Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -2341,7 +2367,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-12T13:17:24.067Z",
+        "last_modified": "2026-03-12T19:03:11.510Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -2361,7 +2387,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-12T13:17:24.067Z",
+        "last_modified": "2026-03-12T19:03:11.510Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -2381,7 +2407,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-12T13:17:24.067Z",
+        "last_modified": "2026-03-12T19:03:11.510Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -2401,7 +2427,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-12T13:17:24.067Z",
+        "last_modified": "2026-03-12T19:03:11.510Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -2421,7 +2447,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-12T13:17:24.067Z",
+        "last_modified": "2026-03-12T19:03:11.510Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -2441,7 +2467,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-12T13:17:24.067Z",
+        "last_modified": "2026-03-12T19:03:11.510Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -2461,7 +2487,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-12T13:17:24.067Z",
+        "last_modified": "2026-03-12T19:03:11.510Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -2481,7 +2507,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-12T13:17:24.067Z",
+        "last_modified": "2026-03-12T19:03:11.510Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -2501,7 +2527,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-12T13:17:24.067Z",
+        "last_modified": "2026-03-12T19:03:11.510Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -2521,7 +2547,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-12T13:17:24.067Z",
+        "last_modified": "2026-03-12T19:03:11.510Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -2541,7 +2567,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-12T13:17:24.067Z",
+        "last_modified": "2026-03-12T19:03:11.510Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -2561,7 +2587,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-12T13:17:24.067Z",
+        "last_modified": "2026-03-12T19:03:11.510Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -2581,7 +2607,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-12T13:17:24.067Z",
+        "last_modified": "2026-03-12T19:03:11.510Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -2601,7 +2627,7 @@
         "status": "en vivo"
       },
       "technical": {
-        "last_modified": "2026-03-12T13:17:24.067Z",
+        "last_modified": "2026-03-12T19:03:11.510Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -2621,7 +2647,7 @@
         "status": "en vivo"
       },
       "technical": {
-        "last_modified": "2026-03-12T13:17:24.067Z",
+        "last_modified": "2026-03-12T19:03:11.510Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -2641,7 +2667,7 @@
         "status": "en vivo"
       },
       "technical": {
-        "last_modified": "2026-03-12T13:17:24.067Z",
+        "last_modified": "2026-03-12T19:03:11.510Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -2661,7 +2687,7 @@
         "status": "en vivo"
       },
       "technical": {
-        "last_modified": "2026-03-12T13:17:24.067Z",
+        "last_modified": "2026-03-12T19:03:11.510Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -2681,7 +2707,7 @@
         "status": "en vivo"
       },
       "technical": {
-        "last_modified": "2026-03-12T13:17:24.067Z",
+        "last_modified": "2026-03-12T19:03:11.510Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -2701,7 +2727,7 @@
         "status": "en vivo"
       },
       "technical": {
-        "last_modified": "2026-03-12T13:17:24.067Z",
+        "last_modified": "2026-03-12T19:03:11.510Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
