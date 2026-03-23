@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-23T02:51:49.092Z",
-  "total_events": 25,
+  "generated_at": "2026-03-23T07:21:27.081Z",
+  "total_events": 29,
   "categories": [
     {
       "name": "Arm Wrestling",
@@ -15,12 +15,6 @@
       "canonical_url": "https://tarjetarojaenvivo.live/categoria/baloncesto"
     },
     {
-      "name": "Football",
-      "name_es": "Fútbol",
-      "slug": "futbol",
-      "canonical_url": "https://tarjetarojaenvivo.live/categoria/futbol"
-    },
-    {
       "name": "Ice Hockey",
       "name_es": "Hockey sobre Hielo",
       "slug": "hockey-sobre-hielo",
@@ -31,6 +25,12 @@
       "name_es": "Motorsports",
       "slug": "motorsports",
       "canonical_url": "https://tarjetarojaenvivo.live/categoria/motorsports"
+    },
+    {
+      "name": "Wrestling",
+      "name_es": "Lucha Libre",
+      "slug": "lucha-libre",
+      "canonical_url": "https://tarjetarojaenvivo.live/categoria/lucha-libre"
     },
     {
       "name": "24/7 Streams",
@@ -55,267 +55,227 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-23T02:51:49.093Z",
+        "last_modified": "2026-03-23T07:21:27.081Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
     },
     {
-      "id": 19404,
-      "slug": "iowa-hawkeyes-vs-florida-gators",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/march-madness/2026-03-22/iowa-fla",
+      "id": 19419,
+      "slug": "los-angeles-lakers-vs-detroit-pistons",
+      "canonical_url": "https://tarjetarojaenvivo.live/eventos/nba/2026-03-23/lal-det",
       "meta": {
-        "title": "Iowa Hawkeyes vs. Florida Gators EN VIVO - Tarjeta Roja TV",
-        "description": "Ver Iowa Hawkeyes vs. Florida Gators en vivo gratis el domingo 22 de marzo de 2026",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Iowa Hawkeyes vs. Florida Gators, Baloncesto"
+        "title": "Los Angeles Lakers vs. Detroit Pistons EN VIVO - Tarjeta Roja TV",
+        "description": "Ver Los Angeles Lakers vs. Detroit Pistons en vivo gratis el lunes 23 de marzo de 2026",
+        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Los Angeles Lakers vs. Detroit Pistons, Baloncesto"
       },
       "event": {
-        "start_time": "2026-03-22T23:10:00.000Z",
-        "end_time": "2026-03-23T02:10:00.000Z",
-        "status": "en vivo"
+        "start_time": "2026-03-23T23:00:00.000Z",
+        "end_time": "2026-03-24T01:48:00.000Z",
+        "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-23T02:51:49.093Z",
+        "last_modified": "2026-03-23T07:21:27.081Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
     },
     {
-      "id": 19398,
-      "slug": "washington-wizards-vs-new-york-knicks",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/nba/2026-03-22/wsh-ny",
+      "id": 19421,
+      "slug": "indiana-pacers-vs-orlando-magic",
+      "canonical_url": "https://tarjetarojaenvivo.live/eventos/nba/2026-03-23/ind-orl",
       "meta": {
-        "title": "Washington Wizards vs. New York Knicks EN VIVO - Tarjeta Roja TV",
-        "description": "Ver Washington Wizards vs. New York Knicks en vivo gratis el domingo 22 de marzo de 2026",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Washington Wizards vs. New York Knicks, Baloncesto"
+        "title": "Indiana Pacers vs. Orlando Magic EN VIVO - Tarjeta Roja TV",
+        "description": "Ver Indiana Pacers vs. Orlando Magic en vivo gratis el lunes 23 de marzo de 2026",
+        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Indiana Pacers vs. Orlando Magic, Baloncesto"
       },
       "event": {
-        "start_time": "2026-03-22T23:30:00.000Z",
-        "end_time": "2026-03-23T02:18:00.000Z",
-        "status": "en vivo"
+        "start_time": "2026-03-23T23:00:00.000Z",
+        "end_time": "2026-03-24T01:48:00.000Z",
+        "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-23T02:51:49.093Z",
+        "last_modified": "2026-03-23T07:21:27.081Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
     },
     {
-      "id": 19407,
-      "slug": "utah-state-aggies-vs-arizona-wildcats",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/march-madness/2026-03-22/usu-ariz",
+      "id": 19422,
+      "slug": "oklahoma-city-thunder-vs-philadelphia-76ers",
+      "canonical_url": "https://tarjetarojaenvivo.live/eventos/nba/2026-03-23/okc-phi",
       "meta": {
-        "title": "Utah State Aggies vs. Arizona Wildcats EN VIVO - Tarjeta Roja TV",
-        "description": "Ver Utah State Aggies vs. Arizona Wildcats en vivo gratis el domingo 22 de marzo de 2026",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Utah State Aggies vs. Arizona Wildcats, Baloncesto"
+        "title": "Oklahoma City Thunder vs. Philadelphia 76ers EN VIVO - Tarjeta Roja TV",
+        "description": "Ver Oklahoma City Thunder vs. Philadelphia 76ers en vivo gratis el lunes 23 de marzo de 2026",
+        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Oklahoma City Thunder vs. Philadelphia 76ers, Baloncesto"
       },
       "event": {
-        "start_time": "2026-03-22T23:50:00.000Z",
-        "end_time": "2026-03-23T02:50:00.000Z",
-        "status": "en vivo"
+        "start_time": "2026-03-23T23:00:00.000Z",
+        "end_time": "2026-03-24T01:48:00.000Z",
+        "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-23T02:51:49.093Z",
+        "last_modified": "2026-03-23T07:21:27.081Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
     },
     {
-      "id": 19402,
-      "slug": "minnesota-timberwolves-vs-boston-celtics",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/nba/2026-03-22/min-bos",
+      "id": 19423,
+      "slug": "san-antonio-spurs-vs-miami-heat",
+      "canonical_url": "https://tarjetarojaenvivo.live/eventos/nba/2026-03-23/sa-mia",
       "meta": {
-        "title": "Minnesota Timberwolves vs. Boston Celtics EN VIVO - Tarjeta Roja TV",
-        "description": "Ver Minnesota Timberwolves vs. Boston Celtics en vivo gratis el lunes 23 de marzo de 2026",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Minnesota Timberwolves vs. Boston Celtics, Baloncesto"
+        "title": "San Antonio Spurs vs. Miami Heat EN VIVO - Tarjeta Roja TV",
+        "description": "Ver San Antonio Spurs vs. Miami Heat en vivo gratis el lunes 23 de marzo de 2026",
+        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, San Antonio Spurs vs. Miami Heat, Baloncesto"
       },
       "event": {
-        "start_time": "2026-03-23T00:00:00.000Z",
-        "end_time": "2026-03-23T02:48:00.000Z",
-        "status": "en vivo"
+        "start_time": "2026-03-23T23:00:00.000Z",
+        "end_time": "2026-03-24T01:48:00.000Z",
+        "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-23T02:51:49.093Z",
+        "last_modified": "2026-03-23T07:21:27.082Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
     },
     {
-      "id": 19410,
-      "slug": "ucla-bruins-vs-uconn-huskies",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/march-madness/2026-03-22/ucla-conn",
+      "id": 19424,
+      "slug": "memphis-grizzlies-vs-atlanta-hawks",
+      "canonical_url": "https://tarjetarojaenvivo.live/eventos/nba/2026-03-23/mem-atl",
       "meta": {
-        "title": "UCLA Bruins vs. UConn Huskies EN VIVO - Tarjeta Roja TV",
-        "description": "Ver UCLA Bruins vs. UConn Huskies en vivo gratis el lunes 23 de marzo de 2026",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, UCLA Bruins vs. UConn Huskies, Baloncesto"
+        "title": "Memphis Grizzlies vs. Atlanta Hawks EN VIVO - Tarjeta Roja TV",
+        "description": "Ver Memphis Grizzlies vs. Atlanta Hawks en vivo gratis el lunes 23 de marzo de 2026",
+        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Memphis Grizzlies vs. Atlanta Hawks, Baloncesto"
       },
       "event": {
-        "start_time": "2026-03-23T00:45:00.000Z",
-        "end_time": "2026-03-23T03:45:00.000Z",
-        "status": "en vivo"
+        "start_time": "2026-03-23T23:30:00.000Z",
+        "end_time": "2026-03-24T02:18:00.000Z",
+        "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-23T02:51:49.093Z",
+        "last_modified": "2026-03-23T07:21:27.082Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
     },
     {
-      "id": 19405,
-      "slug": "toronto-raptors-vs-phoenix-suns",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/nba/2026-03-22/tor-phx",
+      "id": 19425,
+      "slug": "houston-rockets-vs-chicago-bulls",
+      "canonical_url": "https://tarjetarojaenvivo.live/eventos/nba/2026-03-23/hou-chi",
       "meta": {
-        "title": "Toronto Raptors vs. Phoenix Suns EN VIVO - Tarjeta Roja TV",
-        "description": "Ver Toronto Raptors vs. Phoenix Suns en vivo gratis el lunes 23 de marzo de 2026",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Toronto Raptors vs. Phoenix Suns, Baloncesto"
+        "title": "Houston Rockets vs. Chicago Bulls EN VIVO - Tarjeta Roja TV",
+        "description": "Ver Houston Rockets vs. Chicago Bulls en vivo gratis el martes 24 de marzo de 2026",
+        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Houston Rockets vs. Chicago Bulls, Baloncesto"
       },
       "event": {
-        "start_time": "2026-03-23T01:00:00.000Z",
-        "end_time": "2026-03-23T03:48:00.000Z",
-        "status": "en vivo"
+        "start_time": "2026-03-24T00:00:00.000Z",
+        "end_time": "2026-03-24T02:48:00.000Z",
+        "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-23T02:51:49.093Z",
+        "last_modified": "2026-03-23T07:21:27.082Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
     },
     {
-      "id": 19412,
-      "slug": "texas-tech-red-raiders-vs-alabama-crimson-tide",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/march-madness/2026-03-22/ttu-ala",
+      "id": 19426,
+      "slug": "toronto-raptors-vs-utah-jazz",
+      "canonical_url": "https://tarjetarojaenvivo.live/eventos/nba/2026-03-23/tor-utah",
       "meta": {
-        "title": "Texas Tech Red Raiders vs. Alabama Crimson Tide EN VIVO - Tarjeta Roja TV",
-        "description": "Ver Texas Tech Red Raiders vs. Alabama Crimson Tide en vivo gratis el lunes 23 de marzo de 2026",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Texas Tech Red Raiders vs. Alabama Crimson Tide, Baloncesto"
+        "title": "Toronto Raptors vs. Utah Jazz EN VIVO - Tarjeta Roja TV",
+        "description": "Ver Toronto Raptors vs. Utah Jazz en vivo gratis el martes 24 de marzo de 2026",
+        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Toronto Raptors vs. Utah Jazz, Baloncesto"
       },
       "event": {
-        "start_time": "2026-03-23T01:45:00.000Z",
-        "end_time": "2026-03-23T04:45:00.000Z",
-        "status": "en vivo"
+        "start_time": "2026-03-24T01:00:00.000Z",
+        "end_time": "2026-03-24T03:48:00.000Z",
+        "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-23T02:51:49.093Z",
+        "last_modified": "2026-03-23T07:21:27.082Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
     },
     {
-      "id": 19194,
-      "slug": "san-diego-fc-vs-real-salt-lake",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/mls/2026-03-22/sd-rsl",
+      "id": 19428,
+      "slug": "golden-state-warriors-vs-dallas-mavericks",
+      "canonical_url": "https://tarjetarojaenvivo.live/eventos/nba/2026-03-23/gs-dal",
       "meta": {
-        "title": "San Diego FC vs. Real Salt Lake EN VIVO - Tarjeta Roja TV",
-        "description": "Ver San Diego FC vs. Real Salt Lake en vivo gratis el domingo 22 de marzo de 2026",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, San Diego FC vs. Real Salt Lake, Fútbol"
+        "title": "Golden State Warriors vs. Dallas Mavericks EN VIVO - Tarjeta Roja TV",
+        "description": "Ver Golden State Warriors vs. Dallas Mavericks en vivo gratis el martes 24 de marzo de 2026",
+        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Golden State Warriors vs. Dallas Mavericks, Baloncesto"
       },
       "event": {
-        "start_time": "2026-03-22T23:00:00.000Z",
-        "end_time": "2026-03-23T02:00:00.000Z",
-        "status": "en vivo"
+        "start_time": "2026-03-24T01:30:00.000Z",
+        "end_time": "2026-03-24T04:18:00.000Z",
+        "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-23T02:51:49.093Z",
+        "last_modified": "2026-03-23T07:21:27.082Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
     },
     {
-      "id": 19406,
-      "slug": "columbus-blue-jackets-vs-new-york-islanders",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/nhl/2026-03-22/cbj-nyi",
+      "id": 19429,
+      "slug": "brooklyn-nets-vs-portland-trail-blazers",
+      "canonical_url": "https://tarjetarojaenvivo.live/eventos/nba/2026-03-23/bkn-por",
       "meta": {
-        "title": "Columbus Blue Jackets vs. New York Islanders EN VIVO - Tarjeta Roja TV",
-        "description": "Ver Columbus Blue Jackets vs. New York Islanders en vivo gratis el domingo 22 de marzo de 2026",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Columbus Blue Jackets vs. New York Islanders, Hockey sobre Hielo"
+        "title": "Brooklyn Nets vs. Portland Trail Blazers EN VIVO - Tarjeta Roja TV",
+        "description": "Ver Brooklyn Nets vs. Portland Trail Blazers en vivo gratis el martes 24 de marzo de 2026",
+        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Brooklyn Nets vs. Portland Trail Blazers, Baloncesto"
       },
       "event": {
-        "start_time": "2026-03-22T23:00:00.000Z",
-        "end_time": "2026-03-23T02:00:00.000Z",
-        "status": "en vivo"
+        "start_time": "2026-03-24T02:00:00.000Z",
+        "end_time": "2026-03-24T04:48:00.000Z",
+        "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-23T02:51:49.093Z",
+        "last_modified": "2026-03-23T07:21:27.082Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
     },
     {
-      "id": 19409,
-      "slug": "vegas-golden-knights-vs-dallas-stars",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/nhl/2026-03-22/vgk-dal",
+      "id": 19430,
+      "slug": "milwaukee-bucks-vs-la-clippers",
+      "canonical_url": "https://tarjetarojaenvivo.live/eventos/nba/2026-03-23/mil-lac",
       "meta": {
-        "title": "Vegas Golden Knights vs. Dallas Stars EN VIVO - Tarjeta Roja TV",
-        "description": "Ver Vegas Golden Knights vs. Dallas Stars en vivo gratis el domingo 22 de marzo de 2026",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Vegas Golden Knights vs. Dallas Stars, Hockey sobre Hielo"
+        "title": "Milwaukee Bucks vs. LA Clippers EN VIVO - Tarjeta Roja TV",
+        "description": "Ver Milwaukee Bucks vs. LA Clippers en vivo gratis el martes 24 de marzo de 2026",
+        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Milwaukee Bucks vs. LA Clippers, Baloncesto"
       },
       "event": {
-        "start_time": "2026-03-22T23:00:00.000Z",
-        "end_time": "2026-03-23T02:00:00.000Z",
-        "status": "en vivo"
+        "start_time": "2026-03-24T02:30:00.000Z",
+        "end_time": "2026-03-24T05:18:00.000Z",
+        "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-23T02:51:49.093Z",
+        "last_modified": "2026-03-23T07:21:27.082Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
     },
     {
-      "id": 19411,
-      "slug": "tampa-bay-lightning-vs-calgary-flames",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/nhl/2026-03-22/tb-cgy",
+      "id": 19418,
+      "slug": "ottawa-senators-vs-new-york-rangers",
+      "canonical_url": "https://tarjetarojaenvivo.live/eventos/nhl/2026-03-23/ott-nyr",
       "meta": {
-        "title": "Tampa Bay Lightning vs. Calgary Flames EN VIVO - Tarjeta Roja TV",
-        "description": "Ver Tampa Bay Lightning vs. Calgary Flames en vivo gratis el lunes 23 de marzo de 2026",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Tampa Bay Lightning vs. Calgary Flames, Hockey sobre Hielo"
+        "title": "Ottawa Senators vs. New York Rangers EN VIVO - Tarjeta Roja TV",
+        "description": "Ver Ottawa Senators vs. New York Rangers en vivo gratis el lunes 23 de marzo de 2026",
+        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Ottawa Senators vs. New York Rangers, Hockey sobre Hielo"
       },
       "event": {
-        "start_time": "2026-03-23T00:00:00.000Z",
-        "end_time": "2026-03-23T03:00:00.000Z",
-        "status": "en vivo"
+        "start_time": "2026-03-23T23:30:00.000Z",
+        "end_time": "2026-03-24T02:30:00.000Z",
+        "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-23T02:51:49.093Z",
-        "changefreq": "hourly",
-        "priority": 0.85
-      }
-    },
-    {
-      "id": 19413,
-      "slug": "buffalo-sabres-vs-anaheim-ducks",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/nhl/2026-03-22/buf-ana",
-      "meta": {
-        "title": "Buffalo Sabres vs. Anaheim Ducks EN VIVO - Tarjeta Roja TV",
-        "description": "Ver Buffalo Sabres vs. Anaheim Ducks en vivo gratis el lunes 23 de marzo de 2026",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Buffalo Sabres vs. Anaheim Ducks, Hockey sobre Hielo"
-      },
-      "event": {
-        "start_time": "2026-03-23T00:00:00.000Z",
-        "end_time": "2026-03-23T03:00:00.000Z",
-        "status": "en vivo"
-      },
-      "technical": {
-        "last_modified": "2026-03-23T02:51:49.093Z",
-        "changefreq": "hourly",
-        "priority": 0.85
-      }
-    },
-    {
-      "id": 19414,
-      "slug": "los-angeles-kings-vs-utah-mammoth",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/nhl/2026-03-22/la-uta",
-      "meta": {
-        "title": "Los Angeles Kings vs. Utah Mammoth EN VIVO - Tarjeta Roja TV",
-        "description": "Ver Los Angeles Kings vs. Utah Mammoth en vivo gratis el lunes 23 de marzo de 2026",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Los Angeles Kings vs. Utah Mammoth, Hockey sobre Hielo"
-      },
-      "event": {
-        "start_time": "2026-03-23T01:00:00.000Z",
-        "end_time": "2026-03-23T04:00:00.000Z",
-        "status": "en vivo"
-      },
-      "technical": {
-        "last_modified": "2026-03-23T02:51:49.093Z",
+        "last_modified": "2026-03-23T07:21:27.082Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -335,7 +295,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-23T02:51:49.093Z",
+        "last_modified": "2026-03-23T07:21:27.082Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -355,7 +315,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-23T02:51:49.093Z",
+        "last_modified": "2026-03-23T07:21:27.082Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -375,7 +335,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-23T02:51:49.093Z",
+        "last_modified": "2026-03-23T07:21:27.082Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -395,7 +355,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-23T02:51:49.093Z",
+        "last_modified": "2026-03-23T07:21:27.082Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -415,7 +375,127 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-23T02:51:49.093Z",
+        "last_modified": "2026-03-23T07:21:27.082Z",
+        "changefreq": "hourly",
+        "priority": 0.85
+      }
+    },
+    {
+      "id": 19431,
+      "slug": "wwe-monday-night-raw",
+      "canonical_url": "https://tarjetarojaenvivo.live/eventos/wwe/raw/2026-03-23",
+      "meta": {
+        "title": "WWE: Monday Night RAW EN VIVO - Tarjeta Roja TV",
+        "description": "Ver WWE: Monday Night RAW en vivo gratis el martes 24 de marzo de 2026",
+        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, WWE: Monday Night RAW, Lucha Libre"
+      },
+      "event": {
+        "start_time": "2026-03-24T00:00:00.000Z",
+        "end_time": "2026-03-24T03:00:00.000Z",
+        "status": "próximamente"
+      },
+      "technical": {
+        "last_modified": "2026-03-23T07:21:27.082Z",
+        "changefreq": "hourly",
+        "priority": 0.85
+      }
+    },
+    {
+      "id": 19432,
+      "slug": "wwe-nxt",
+      "canonical_url": "https://tarjetarojaenvivo.live/eventos/wwe/nxt/2026-03-24",
+      "meta": {
+        "title": "WWE: NXT EN VIVO - Tarjeta Roja TV",
+        "description": "Ver WWE: NXT en vivo gratis el miércoles 25 de marzo de 2026",
+        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, WWE: NXT, Lucha Libre"
+      },
+      "event": {
+        "start_time": "2026-03-25T00:00:00.000Z",
+        "end_time": "2026-03-25T03:00:00.000Z",
+        "status": "próximamente"
+      },
+      "technical": {
+        "last_modified": "2026-03-23T07:21:27.082Z",
+        "changefreq": "hourly",
+        "priority": 0.85
+      }
+    },
+    {
+      "id": 19433,
+      "slug": "aew-wednesday-night-dynamite",
+      "canonical_url": "https://tarjetarojaenvivo.live/eventos/aew/dynamite/2026-03-25",
+      "meta": {
+        "title": "AEW: Wednesday Night Dynamite EN VIVO - Tarjeta Roja TV",
+        "description": "Ver AEW: Wednesday Night Dynamite en vivo gratis el jueves 26 de marzo de 2026",
+        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, AEW: Wednesday Night Dynamite, Lucha Libre"
+      },
+      "event": {
+        "start_time": "2026-03-26T00:00:00.000Z",
+        "end_time": "2026-03-26T03:00:00.000Z",
+        "status": "próximamente"
+      },
+      "technical": {
+        "last_modified": "2026-03-23T07:21:27.082Z",
+        "changefreq": "hourly",
+        "priority": 0.85
+      }
+    },
+    {
+      "id": 19434,
+      "slug": "tna-impact",
+      "canonical_url": "https://tarjetarojaenvivo.live/eventos/tna/impact/2026-03-26",
+      "meta": {
+        "title": "TNA: Impact EN VIVO - Tarjeta Roja TV",
+        "description": "Ver TNA: Impact en vivo gratis el viernes 27 de marzo de 2026",
+        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, TNA: Impact, Lucha Libre"
+      },
+      "event": {
+        "start_time": "2026-03-27T01:00:00.000Z",
+        "end_time": "2026-03-27T03:00:00.000Z",
+        "status": "próximamente"
+      },
+      "technical": {
+        "last_modified": "2026-03-23T07:21:27.082Z",
+        "changefreq": "hourly",
+        "priority": 0.85
+      }
+    },
+    {
+      "id": 19435,
+      "slug": "wwe-friday-night-smackdown",
+      "canonical_url": "https://tarjetarojaenvivo.live/eventos/wwe/smackdown/2026-03-27",
+      "meta": {
+        "title": "WWE: Friday Night Smackdown EN VIVO - Tarjeta Roja TV",
+        "description": "Ver WWE: Friday Night Smackdown en vivo gratis el sábado 28 de marzo de 2026",
+        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, WWE: Friday Night Smackdown, Lucha Libre"
+      },
+      "event": {
+        "start_time": "2026-03-28T00:00:00.000Z",
+        "end_time": "2026-03-28T03:00:00.000Z",
+        "status": "próximamente"
+      },
+      "technical": {
+        "last_modified": "2026-03-23T07:21:27.082Z",
+        "changefreq": "hourly",
+        "priority": 0.85
+      }
+    },
+    {
+      "id": 19436,
+      "slug": "aew-saturday-night-collision",
+      "canonical_url": "https://tarjetarojaenvivo.live/eventos/aew/collision/2026-03-28",
+      "meta": {
+        "title": "AEW: Saturday Night Collision EN VIVO - Tarjeta Roja TV",
+        "description": "Ver AEW: Saturday Night Collision en vivo gratis el domingo 29 de marzo de 2026",
+        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, AEW: Saturday Night Collision, Lucha Libre"
+      },
+      "event": {
+        "start_time": "2026-03-29T00:00:00.000Z",
+        "end_time": "2026-03-29T03:00:00.000Z",
+        "status": "próximamente"
+      },
+      "technical": {
+        "last_modified": "2026-03-23T07:21:27.082Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -435,7 +515,7 @@
         "status": "en vivo"
       },
       "technical": {
-        "last_modified": "2026-03-23T02:51:49.093Z",
+        "last_modified": "2026-03-23T07:21:27.082Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -455,7 +535,7 @@
         "status": "en vivo"
       },
       "technical": {
-        "last_modified": "2026-03-23T02:51:49.093Z",
+        "last_modified": "2026-03-23T07:21:27.082Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -475,7 +555,7 @@
         "status": "en vivo"
       },
       "technical": {
-        "last_modified": "2026-03-23T02:51:49.093Z",
+        "last_modified": "2026-03-23T07:21:27.082Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -495,7 +575,7 @@
         "status": "en vivo"
       },
       "technical": {
-        "last_modified": "2026-03-23T02:51:49.093Z",
+        "last_modified": "2026-03-23T07:21:27.082Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -515,7 +595,7 @@
         "status": "en vivo"
       },
       "technical": {
-        "last_modified": "2026-03-23T02:51:49.093Z",
+        "last_modified": "2026-03-23T07:21:27.082Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -535,7 +615,7 @@
         "status": "en vivo"
       },
       "technical": {
-        "last_modified": "2026-03-23T02:51:49.094Z",
+        "last_modified": "2026-03-23T07:21:27.082Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
