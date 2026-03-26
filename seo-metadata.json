@@ -1,12 +1,18 @@
 {
-  "generated_at": "2026-03-26T13:44:45.816Z",
-  "total_events": 47,
+  "generated_at": "2026-03-26T19:17:44.147Z",
+  "total_events": 59,
   "categories": [
     {
       "name": "Arm Wrestling",
       "name_es": "Arm Wrestling",
       "slug": "arm-wrestling",
       "canonical_url": "https://tarjetarojaenvivo.live/categoria/arm-wrestling"
+    },
+    {
+      "name": "Baseball",
+      "name_es": "Baseball",
+      "slug": "baseball",
+      "canonical_url": "https://tarjetarojaenvivo.live/categoria/baseball"
     },
     {
       "name": "Basketball",
@@ -61,7 +67,227 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-26T13:44:45.816Z",
+        "last_modified": "2026-03-26T19:17:44.147Z",
+        "changefreq": "hourly",
+        "priority": 0.85
+      }
+    },
+    {
+      "id": 19511,
+      "slug": "pittsburgh-pirates-vs-new-york-mets",
+      "canonical_url": "https://tarjetarojaenvivo.live/eventos/mlb/2026-03-26/pit-nym",
+      "meta": {
+        "title": "Pittsburgh Pirates vs. New York Mets EN VIVO - Tarjeta Roja TV",
+        "description": "Ver Pittsburgh Pirates vs. New York Mets en vivo gratis el jueves 26 de marzo de 2026",
+        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Pittsburgh Pirates vs. New York Mets, Baseball"
+      },
+      "event": {
+        "start_time": "2026-03-26T17:15:00.000Z",
+        "end_time": "2026-03-26T20:45:00.000Z",
+        "status": "en vivo"
+      },
+      "technical": {
+        "last_modified": "2026-03-26T19:17:44.148Z",
+        "changefreq": "hourly",
+        "priority": 0.85
+      }
+    },
+    {
+      "id": 19512,
+      "slug": "chicago-white-sox-vs-milwaukee-brewers",
+      "canonical_url": "https://tarjetarojaenvivo.live/eventos/mlb/2026-03-26/chw-mil",
+      "meta": {
+        "title": "Chicago White Sox vs. Milwaukee Brewers EN VIVO - Tarjeta Roja TV",
+        "description": "Ver Chicago White Sox vs. Milwaukee Brewers en vivo gratis el jueves 26 de marzo de 2026",
+        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Chicago White Sox vs. Milwaukee Brewers, Baseball"
+      },
+      "event": {
+        "start_time": "2026-03-26T18:10:00.000Z",
+        "end_time": "2026-03-26T21:40:00.000Z",
+        "status": "en vivo"
+      },
+      "technical": {
+        "last_modified": "2026-03-26T19:17:44.148Z",
+        "changefreq": "hourly",
+        "priority": 0.85
+      }
+    },
+    {
+      "id": 19513,
+      "slug": "washington-nationals-vs-chicago-cubs",
+      "canonical_url": "https://tarjetarojaenvivo.live/eventos/mlb/2026-03-26/wsh-chc",
+      "meta": {
+        "title": "Washington Nationals vs. Chicago Cubs EN VIVO - Tarjeta Roja TV",
+        "description": "Ver Washington Nationals vs. Chicago Cubs en vivo gratis el jueves 26 de marzo de 2026",
+        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Washington Nationals vs. Chicago Cubs, Baseball"
+      },
+      "event": {
+        "start_time": "2026-03-26T18:20:00.000Z",
+        "end_time": "2026-03-26T21:50:00.000Z",
+        "status": "en vivo"
+      },
+      "technical": {
+        "last_modified": "2026-03-26T19:17:44.148Z",
+        "changefreq": "hourly",
+        "priority": 0.85
+      }
+    },
+    {
+      "id": 19514,
+      "slug": "minnesota-twins-vs-baltimore-orioles",
+      "canonical_url": "https://tarjetarojaenvivo.live/eventos/mlb/2026-03-26/min-bal",
+      "meta": {
+        "title": "Minnesota Twins vs. Baltimore Orioles EN VIVO - Tarjeta Roja TV",
+        "description": "Ver Minnesota Twins vs. Baltimore Orioles en vivo gratis el jueves 26 de marzo de 2026",
+        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Minnesota Twins vs. Baltimore Orioles, Baseball"
+      },
+      "event": {
+        "start_time": "2026-03-26T19:05:00.000Z",
+        "end_time": "2026-03-26T22:35:00.000Z",
+        "status": "en vivo"
+      },
+      "technical": {
+        "last_modified": "2026-03-26T19:17:44.148Z",
+        "changefreq": "hourly",
+        "priority": 0.85
+      }
+    },
+    {
+      "id": 19515,
+      "slug": "boston-red-sox-vs-cincinnati-reds",
+      "canonical_url": "https://tarjetarojaenvivo.live/eventos/mlb/2026-03-26/bos-cin",
+      "meta": {
+        "title": "Boston Red Sox vs. Cincinnati Reds EN VIVO - Tarjeta Roja TV",
+        "description": "Ver Boston Red Sox vs. Cincinnati Reds en vivo gratis el jueves 26 de marzo de 2026",
+        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Boston Red Sox vs. Cincinnati Reds, Baseball"
+      },
+      "event": {
+        "start_time": "2026-03-26T20:10:00.000Z",
+        "end_time": "2026-03-26T23:40:00.000Z",
+        "status": "próximamente"
+      },
+      "technical": {
+        "last_modified": "2026-03-26T19:17:44.148Z",
+        "changefreq": "hourly",
+        "priority": 0.85
+      }
+    },
+    {
+      "id": 19516,
+      "slug": "los-angeles-angels-vs-houston-astros",
+      "canonical_url": "https://tarjetarojaenvivo.live/eventos/mlb/2026-03-26/laa-hou",
+      "meta": {
+        "title": "Los Angeles Angels vs. Houston Astros EN VIVO - Tarjeta Roja TV",
+        "description": "Ver Los Angeles Angels vs. Houston Astros en vivo gratis el jueves 26 de marzo de 2026",
+        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Los Angeles Angels vs. Houston Astros, Baseball"
+      },
+      "event": {
+        "start_time": "2026-03-26T20:10:00.000Z",
+        "end_time": "2026-03-26T23:40:00.000Z",
+        "status": "próximamente"
+      },
+      "technical": {
+        "last_modified": "2026-03-26T19:17:44.148Z",
+        "changefreq": "hourly",
+        "priority": 0.85
+      }
+    },
+    {
+      "id": 19517,
+      "slug": "detroit-tigers-vs-san-diego-padres",
+      "canonical_url": "https://tarjetarojaenvivo.live/eventos/mlb/2026-03-26/det-sd",
+      "meta": {
+        "title": "Detroit Tigers vs. San Diego Padres EN VIVO - Tarjeta Roja TV",
+        "description": "Ver Detroit Tigers vs. San Diego Padres en vivo gratis el jueves 26 de marzo de 2026",
+        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Detroit Tigers vs. San Diego Padres, Baseball"
+      },
+      "event": {
+        "start_time": "2026-03-26T20:10:00.000Z",
+        "end_time": "2026-03-26T23:40:00.000Z",
+        "status": "próximamente"
+      },
+      "technical": {
+        "last_modified": "2026-03-26T19:17:44.148Z",
+        "changefreq": "hourly",
+        "priority": 0.85
+      }
+    },
+    {
+      "id": 19518,
+      "slug": "texas-rangers-vs-philadelphia-phillies",
+      "canonical_url": "https://tarjetarojaenvivo.live/eventos/mlb/2026-03-26/tex-phi",
+      "meta": {
+        "title": "Texas Rangers vs. Philadelphia Phillies EN VIVO - Tarjeta Roja TV",
+        "description": "Ver Texas Rangers vs. Philadelphia Phillies en vivo gratis el jueves 26 de marzo de 2026",
+        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Texas Rangers vs. Philadelphia Phillies, Baseball"
+      },
+      "event": {
+        "start_time": "2026-03-26T20:15:00.000Z",
+        "end_time": "2026-03-26T23:45:00.000Z",
+        "status": "próximamente"
+      },
+      "technical": {
+        "last_modified": "2026-03-26T19:17:44.148Z",
+        "changefreq": "hourly",
+        "priority": 0.85
+      }
+    },
+    {
+      "id": 19519,
+      "slug": "tampa-bay-rays-vs-st-louis-cardinals",
+      "canonical_url": "https://tarjetarojaenvivo.live/eventos/mlb/2026-03-26/tb-stl",
+      "meta": {
+        "title": "Tampa Bay Rays vs. St. Louis Cardinals EN VIVO - Tarjeta Roja TV",
+        "description": "Ver Tampa Bay Rays vs. St. Louis Cardinals en vivo gratis el jueves 26 de marzo de 2026",
+        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Tampa Bay Rays vs. St. Louis Cardinals, Baseball"
+      },
+      "event": {
+        "start_time": "2026-03-26T20:15:00.000Z",
+        "end_time": "2026-03-26T23:45:00.000Z",
+        "status": "próximamente"
+      },
+      "technical": {
+        "last_modified": "2026-03-26T19:17:44.148Z",
+        "changefreq": "hourly",
+        "priority": 0.85
+      }
+    },
+    {
+      "id": 19520,
+      "slug": "arizona-diamondbacks-vs-los-angeles-dodgers",
+      "canonical_url": "https://tarjetarojaenvivo.live/eventos/mlb/2026-03-26/ari-lad",
+      "meta": {
+        "title": "Arizona Diamondbacks vs. Los Angeles Dodgers EN VIVO - Tarjeta Roja TV",
+        "description": "Ver Arizona Diamondbacks vs. Los Angeles Dodgers en vivo gratis el viernes 27 de marzo de 2026",
+        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Arizona Diamondbacks vs. Los Angeles Dodgers, Baseball"
+      },
+      "event": {
+        "start_time": "2026-03-27T00:30:00.000Z",
+        "end_time": "2026-03-27T04:00:00.000Z",
+        "status": "próximamente"
+      },
+      "technical": {
+        "last_modified": "2026-03-26T19:17:44.148Z",
+        "changefreq": "hourly",
+        "priority": 0.85
+      }
+    },
+    {
+      "id": 19521,
+      "slug": "cleveland-guardians-vs-seattle-mariners",
+      "canonical_url": "https://tarjetarojaenvivo.live/eventos/mlb/2026-03-26/cle-sea",
+      "meta": {
+        "title": "Cleveland Guardians vs. Seattle Mariners EN VIVO - Tarjeta Roja TV",
+        "description": "Ver Cleveland Guardians vs. Seattle Mariners en vivo gratis el viernes 27 de marzo de 2026",
+        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Cleveland Guardians vs. Seattle Mariners, Baseball"
+      },
+      "event": {
+        "start_time": "2026-03-27T02:10:00.000Z",
+        "end_time": "2026-03-27T05:40:00.000Z",
+        "status": "próximamente"
+      },
+      "technical": {
+        "last_modified": "2026-03-26T19:17:44.148Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -81,7 +307,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-26T13:44:45.816Z",
+        "last_modified": "2026-03-26T19:17:44.148Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -101,7 +327,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-26T13:44:45.816Z",
+        "last_modified": "2026-03-26T19:17:44.148Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -121,7 +347,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-26T13:44:45.816Z",
+        "last_modified": "2026-03-26T19:17:44.148Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -141,7 +367,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-26T13:44:45.816Z",
+        "last_modified": "2026-03-26T19:17:44.148Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -161,7 +387,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-26T13:44:45.816Z",
+        "last_modified": "2026-03-26T19:17:44.148Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -181,7 +407,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-26T13:44:45.817Z",
+        "last_modified": "2026-03-26T19:17:44.148Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -201,7 +427,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-26T13:44:45.817Z",
+        "last_modified": "2026-03-26T19:17:44.148Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -218,10 +444,10 @@
       "event": {
         "start_time": "2026-03-26T17:00:00.000Z",
         "end_time": "2026-03-26T19:30:00.000Z",
-        "status": "próximamente"
+        "status": "en vivo"
       },
       "technical": {
-        "last_modified": "2026-03-26T13:44:45.817Z",
+        "last_modified": "2026-03-26T19:17:44.148Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -238,10 +464,10 @@
       "event": {
         "start_time": "2026-03-26T17:00:00.000Z",
         "end_time": "2026-03-26T19:30:00.000Z",
-        "status": "próximamente"
+        "status": "en vivo"
       },
       "technical": {
-        "last_modified": "2026-03-26T13:44:45.817Z",
+        "last_modified": "2026-03-26T19:17:44.148Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -258,10 +484,10 @@
       "event": {
         "start_time": "2026-03-26T17:00:00.000Z",
         "end_time": "2026-03-26T19:30:00.000Z",
-        "status": "próximamente"
+        "status": "en vivo"
       },
       "technical": {
-        "last_modified": "2026-03-26T13:44:45.817Z",
+        "last_modified": "2026-03-26T19:17:44.148Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -281,7 +507,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-26T13:44:45.817Z",
+        "last_modified": "2026-03-26T19:17:44.148Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -301,7 +527,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-26T13:44:45.817Z",
+        "last_modified": "2026-03-26T19:17:44.148Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -321,7 +547,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-26T13:44:45.817Z",
+        "last_modified": "2026-03-26T19:17:44.148Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -341,7 +567,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-26T13:44:45.817Z",
+        "last_modified": "2026-03-26T19:17:44.148Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -361,7 +587,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-26T13:44:45.817Z",
+        "last_modified": "2026-03-26T19:17:44.148Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -381,7 +607,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-26T13:44:45.817Z",
+        "last_modified": "2026-03-26T19:17:44.148Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -401,7 +627,27 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-26T13:44:45.817Z",
+        "last_modified": "2026-03-26T19:17:44.148Z",
+        "changefreq": "hourly",
+        "priority": 0.85
+      }
+    },
+    {
+      "id": 19522,
+      "slug": "brazil-vs-france",
+      "canonical_url": "https://tarjetarojaenvivo.live/eventos/mens-international-friendly/2026-03-26/bra-fra",
+      "meta": {
+        "title": "Brazil vs. France EN VIVO - Tarjeta Roja TV",
+        "description": "Ver Brazil vs. France en vivo gratis el jueves 26 de marzo de 2026",
+        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Brazil vs. France, Fútbol"
+      },
+      "event": {
+        "start_time": "2026-03-26T20:00:00.000Z",
+        "end_time": "2026-03-26T22:30:00.000Z",
+        "status": "próximamente"
+      },
+      "technical": {
+        "last_modified": "2026-03-26T19:17:44.148Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -421,7 +667,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-26T13:44:45.817Z",
+        "last_modified": "2026-03-26T19:17:44.148Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -441,7 +687,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-26T13:44:45.817Z",
+        "last_modified": "2026-03-26T19:17:44.148Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -461,7 +707,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-26T13:44:45.817Z",
+        "last_modified": "2026-03-26T19:17:44.148Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -481,7 +727,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-26T13:44:45.817Z",
+        "last_modified": "2026-03-26T19:17:44.148Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -501,7 +747,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-26T13:44:45.817Z",
+        "last_modified": "2026-03-26T19:17:44.148Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -521,7 +767,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-26T13:44:45.817Z",
+        "last_modified": "2026-03-26T19:17:44.148Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -541,7 +787,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-26T13:44:45.817Z",
+        "last_modified": "2026-03-26T19:17:44.148Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -561,7 +807,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-26T13:44:45.817Z",
+        "last_modified": "2026-03-26T19:17:44.148Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -581,7 +827,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-26T13:44:45.817Z",
+        "last_modified": "2026-03-26T19:17:44.148Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -601,7 +847,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-26T13:44:45.817Z",
+        "last_modified": "2026-03-26T19:17:44.148Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -621,7 +867,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-26T13:44:45.817Z",
+        "last_modified": "2026-03-26T19:17:44.148Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -641,7 +887,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-26T13:44:45.817Z",
+        "last_modified": "2026-03-26T19:17:44.148Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -661,7 +907,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-26T13:44:45.817Z",
+        "last_modified": "2026-03-26T19:17:44.148Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -681,7 +927,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-26T13:44:45.817Z",
+        "last_modified": "2026-03-26T19:17:44.148Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -701,7 +947,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-26T13:44:45.817Z",
+        "last_modified": "2026-03-26T19:17:44.148Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -721,7 +967,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-26T13:44:45.817Z",
+        "last_modified": "2026-03-26T19:17:44.148Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -741,7 +987,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-26T13:44:45.817Z",
+        "last_modified": "2026-03-26T19:17:44.148Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -761,7 +1007,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-26T13:44:45.817Z",
+        "last_modified": "2026-03-26T19:17:44.148Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -781,7 +1027,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-26T13:44:45.817Z",
+        "last_modified": "2026-03-26T19:17:44.148Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -801,7 +1047,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-26T13:44:45.817Z",
+        "last_modified": "2026-03-26T19:17:44.148Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -821,7 +1067,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-26T13:44:45.817Z",
+        "last_modified": "2026-03-26T19:17:44.148Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -841,7 +1087,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-26T13:44:45.817Z",
+        "last_modified": "2026-03-26T19:17:44.148Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -861,7 +1107,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-03-26T13:44:45.817Z",
+        "last_modified": "2026-03-26T19:17:44.148Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -881,7 +1127,7 @@
         "status": "en vivo"
       },
       "technical": {
-        "last_modified": "2026-03-26T13:44:45.817Z",
+        "last_modified": "2026-03-26T19:17:44.148Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -901,7 +1147,7 @@
         "status": "en vivo"
       },
       "technical": {
-        "last_modified": "2026-03-26T13:44:45.817Z",
+        "last_modified": "2026-03-26T19:17:44.148Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -921,7 +1167,7 @@
         "status": "en vivo"
       },
       "technical": {
-        "last_modified": "2026-03-26T13:44:45.817Z",
+        "last_modified": "2026-03-26T19:17:44.148Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -941,7 +1187,7 @@
         "status": "en vivo"
       },
       "technical": {
-        "last_modified": "2026-03-26T13:44:45.817Z",
+        "last_modified": "2026-03-26T19:17:44.148Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -961,7 +1207,7 @@
         "status": "en vivo"
       },
       "technical": {
-        "last_modified": "2026-03-26T13:44:45.817Z",
+        "last_modified": "2026-03-26T19:17:44.148Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -981,7 +1227,7 @@
         "status": "en vivo"
       },
       "technical": {
-        "last_modified": "2026-03-26T13:44:45.817Z",
+        "last_modified": "2026-03-26T19:17:44.148Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
