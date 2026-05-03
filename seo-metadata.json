@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-03T03:55:00.558Z",
-  "total_events": 67,
+  "generated_at": "2026-05-03T08:08:34.785Z",
+  "total_events": 68,
   "categories": [
     {
       "name": "American Football",
@@ -63,12 +63,6 @@
       "canonical_url": "https://tarjetarojaenvivo.live/categoria/rugby"
     },
     {
-      "name": "Wrestling",
-      "name_es": "Lucha Libre",
-      "slug": "lucha-libre",
-      "canonical_url": "https://tarjetarojaenvivo.live/categoria/lucha-libre"
-    },
-    {
       "name": "24/7 Streams",
       "name_es": "24/7 Streams",
       "slug": "24-7-streams",
@@ -91,7 +85,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-05-03T03:55:00.559Z",
+        "last_modified": "2026-05-03T08:08:34.785Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -108,10 +102,10 @@
       "event": {
         "start_time": "2026-05-03T05:15:00.000Z",
         "end_time": "2026-05-03T08:15:00.000Z",
-        "status": "próximamente"
+        "status": "en vivo"
       },
       "technical": {
-        "last_modified": "2026-05-03T03:55:00.559Z",
+        "last_modified": "2026-05-03T08:08:34.785Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -131,147 +125,427 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-05-03T03:55:00.559Z",
+        "last_modified": "2026-05-03T08:08:34.785Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
     },
     {
-      "id": 21220,
-      "slug": "texas-rangers-vs-detroit-tigers",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/mlb/2026-05-02/tex-det",
+      "id": 21243,
+      "slug": "toronto-blue-jays-vs-minnesota-twins",
+      "canonical_url": "https://tarjetarojaenvivo.live/eventos/mlb/2026-05-03/tor-min",
       "meta": {
-        "title": "Texas Rangers vs. Detroit Tigers EN VIVO - Tarjeta Roja TV",
-        "description": "Ver Texas Rangers vs. Detroit Tigers en vivo gratis el sábado 2 de mayo de 2026",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Texas Rangers vs. Detroit Tigers, Baseball"
+        "title": "Toronto Blue Jays vs. Minnesota Twins EN VIVO - Tarjeta Roja TV",
+        "description": "Ver Toronto Blue Jays vs. Minnesota Twins en vivo gratis el domingo 3 de mayo de 2026",
+        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Toronto Blue Jays vs. Minnesota Twins, Baseball"
       },
       "event": {
-        "start_time": "2026-05-02T23:15:00.000Z",
-        "end_time": "2026-05-03T02:45:00.000Z",
-        "status": "en vivo"
+        "start_time": "2026-05-03T16:45:00.000Z",
+        "end_time": "2026-05-03T20:15:00.000Z",
+        "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-05-03T03:55:00.559Z",
+        "last_modified": "2026-05-03T08:08:34.785Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
     },
     {
-      "id": 21221,
+      "id": 21247,
+      "slug": "baltimore-orioles-vs-new-york-yankees",
+      "canonical_url": "https://tarjetarojaenvivo.live/eventos/mlb/2026-05-03/bal-nyy",
+      "meta": {
+        "title": "Baltimore Orioles vs. New York Yankees EN VIVO - Tarjeta Roja TV",
+        "description": "Ver Baltimore Orioles vs. New York Yankees en vivo gratis el domingo 3 de mayo de 2026",
+        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Baltimore Orioles vs. New York Yankees, Baseball"
+      },
+      "event": {
+        "start_time": "2026-05-03T17:35:00.000Z",
+        "end_time": "2026-05-03T21:05:00.000Z",
+        "status": "próximamente"
+      },
+      "technical": {
+        "last_modified": "2026-05-03T08:08:34.785Z",
+        "changefreq": "hourly",
+        "priority": 0.85
+      }
+    },
+    {
+      "id": 21251,
+      "slug": "cincinnati-reds-vs-pittsburgh-pirates",
+      "canonical_url": "https://tarjetarojaenvivo.live/eventos/mlb/2026-05-03/cin-pit",
+      "meta": {
+        "title": "Cincinnati Reds vs. Pittsburgh Pirates EN VIVO - Tarjeta Roja TV",
+        "description": "Ver Cincinnati Reds vs. Pittsburgh Pirates en vivo gratis el domingo 3 de mayo de 2026",
+        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Cincinnati Reds vs. Pittsburgh Pirates, Baseball"
+      },
+      "event": {
+        "start_time": "2026-05-03T17:35:00.000Z",
+        "end_time": "2026-05-03T21:05:00.000Z",
+        "status": "próximamente"
+      },
+      "technical": {
+        "last_modified": "2026-05-03T08:08:34.785Z",
+        "changefreq": "hourly",
+        "priority": 0.85
+      }
+    },
+    {
+      "id": 21252,
+      "slug": "houston-astros-vs-boston-red-sox",
+      "canonical_url": "https://tarjetarojaenvivo.live/eventos/mlb/2026-05-03/hou-bos",
+      "meta": {
+        "title": "Houston Astros vs. Boston Red Sox EN VIVO - Tarjeta Roja TV",
+        "description": "Ver Houston Astros vs. Boston Red Sox en vivo gratis el domingo 3 de mayo de 2026",
+        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Houston Astros vs. Boston Red Sox, Baseball"
+      },
+      "event": {
+        "start_time": "2026-05-03T17:35:00.000Z",
+        "end_time": "2026-05-03T21:05:00.000Z",
+        "status": "próximamente"
+      },
+      "technical": {
+        "last_modified": "2026-05-03T08:08:34.785Z",
+        "changefreq": "hourly",
+        "priority": 0.85
+      }
+    },
+    {
+      "id": 21254,
+      "slug": "milwaukee-brewers-vs-washington-nationals",
+      "canonical_url": "https://tarjetarojaenvivo.live/eventos/mlb/2026-05-03/mil-wsh",
+      "meta": {
+        "title": "Milwaukee Brewers vs. Washington Nationals EN VIVO - Tarjeta Roja TV",
+        "description": "Ver Milwaukee Brewers vs. Washington Nationals en vivo gratis el domingo 3 de mayo de 2026",
+        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Milwaukee Brewers vs. Washington Nationals, Baseball"
+      },
+      "event": {
+        "start_time": "2026-05-03T17:35:00.000Z",
+        "end_time": "2026-05-03T21:05:00.000Z",
+        "status": "próximamente"
+      },
+      "technical": {
+        "last_modified": "2026-05-03T08:08:34.785Z",
+        "changefreq": "hourly",
+        "priority": 0.85
+      }
+    },
+    {
+      "id": 21256,
+      "slug": "philadelphia-phillies-vs-miami-marlins",
+      "canonical_url": "https://tarjetarojaenvivo.live/eventos/mlb/2026-05-03/phi-mia",
+      "meta": {
+        "title": "Philadelphia Phillies vs. Miami Marlins EN VIVO - Tarjeta Roja TV",
+        "description": "Ver Philadelphia Phillies vs. Miami Marlins en vivo gratis el domingo 3 de mayo de 2026",
+        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Philadelphia Phillies vs. Miami Marlins, Baseball"
+      },
+      "event": {
+        "start_time": "2026-05-03T17:40:00.000Z",
+        "end_time": "2026-05-03T21:10:00.000Z",
+        "status": "próximamente"
+      },
+      "technical": {
+        "last_modified": "2026-05-03T08:08:34.785Z",
+        "changefreq": "hourly",
+        "priority": 0.85
+      }
+    },
+    {
+      "id": 21257,
+      "slug": "san-francisco-giants-vs-tampa-bay-rays",
+      "canonical_url": "https://tarjetarojaenvivo.live/eventos/mlb/2026-05-03/sf-tb",
+      "meta": {
+        "title": "San Francisco Giants vs. Tampa Bay Rays EN VIVO - Tarjeta Roja TV",
+        "description": "Ver San Francisco Giants vs. Tampa Bay Rays en vivo gratis el domingo 3 de mayo de 2026",
+        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, San Francisco Giants vs. Tampa Bay Rays, Baseball"
+      },
+      "event": {
+        "start_time": "2026-05-03T17:40:00.000Z",
+        "end_time": "2026-05-03T21:10:00.000Z",
+        "status": "próximamente"
+      },
+      "technical": {
+        "last_modified": "2026-05-03T08:08:34.785Z",
+        "changefreq": "hourly",
+        "priority": 0.85
+      }
+    },
+    {
+      "id": 21258,
       "slug": "los-angeles-dodgers-vs-st-louis-cardinals",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/mlb/2026-05-02/lad-stl",
+      "canonical_url": "https://tarjetarojaenvivo.live/eventos/mlb/2026-05-03/lad-stl",
       "meta": {
         "title": "Los Angeles Dodgers vs. St. Louis Cardinals EN VIVO - Tarjeta Roja TV",
-        "description": "Ver Los Angeles Dodgers vs. St. Louis Cardinals en vivo gratis el sábado 2 de mayo de 2026",
+        "description": "Ver Los Angeles Dodgers vs. St. Louis Cardinals en vivo gratis el domingo 3 de mayo de 2026",
         "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Los Angeles Dodgers vs. St. Louis Cardinals, Baseball"
       },
       "event": {
-        "start_time": "2026-05-02T23:15:00.000Z",
-        "end_time": "2026-05-03T02:45:00.000Z",
-        "status": "en vivo"
+        "start_time": "2026-05-03T18:15:00.000Z",
+        "end_time": "2026-05-03T21:45:00.000Z",
+        "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-05-03T03:55:00.559Z",
+        "last_modified": "2026-05-03T08:08:34.785Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
     },
     {
-      "id": 21222,
+      "id": 21259,
+      "slug": "arizona-diamondbacks-vs-chicago-cubs",
+      "canonical_url": "https://tarjetarojaenvivo.live/eventos/mlb/2026-05-03/ari-chc",
+      "meta": {
+        "title": "Arizona Diamondbacks vs. Chicago Cubs EN VIVO - Tarjeta Roja TV",
+        "description": "Ver Arizona Diamondbacks vs. Chicago Cubs en vivo gratis el domingo 3 de mayo de 2026",
+        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Arizona Diamondbacks vs. Chicago Cubs, Baseball"
+      },
+      "event": {
+        "start_time": "2026-05-03T18:20:00.000Z",
+        "end_time": "2026-05-03T21:50:00.000Z",
+        "status": "próximamente"
+      },
+      "technical": {
+        "last_modified": "2026-05-03T08:08:34.786Z",
+        "changefreq": "hourly",
+        "priority": 0.85
+      }
+    },
+    {
+      "id": 21260,
       "slug": "atlanta-braves-vs-colorado-rockies",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/mlb/2026-05-02/atl-col",
+      "canonical_url": "https://tarjetarojaenvivo.live/eventos/mlb/2026-05-03/atl-col",
       "meta": {
         "title": "Atlanta Braves vs. Colorado Rockies EN VIVO - Tarjeta Roja TV",
         "description": "Ver Atlanta Braves vs. Colorado Rockies en vivo gratis el domingo 3 de mayo de 2026",
         "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Atlanta Braves vs. Colorado Rockies, Baseball"
       },
       "event": {
-        "start_time": "2026-05-03T00:10:00.000Z",
-        "end_time": "2026-05-03T03:40:00.000Z",
-        "status": "en vivo"
+        "start_time": "2026-05-03T19:10:00.000Z",
+        "end_time": "2026-05-03T22:40:00.000Z",
+        "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-05-03T03:55:00.559Z",
+        "last_modified": "2026-05-03T08:08:34.786Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
     },
     {
-      "id": 21223,
-      "slug": "chicago-white-sox-vs-san-diego-padres",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/mlb/2026-05-02/chw-sd",
+      "id": 21261,
+      "slug": "cleveland-guardians-vs-athletics",
+      "canonical_url": "https://tarjetarojaenvivo.live/eventos/mlb/2026-05-03/cle-ath",
       "meta": {
-        "title": "Chicago White Sox vs. San Diego Padres EN VIVO - Tarjeta Roja TV",
-        "description": "Ver Chicago White Sox vs. San Diego Padres en vivo gratis el domingo 3 de mayo de 2026",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Chicago White Sox vs. San Diego Padres, Baseball"
+        "title": "Cleveland Guardians vs. Athletics EN VIVO - Tarjeta Roja TV",
+        "description": "Ver Cleveland Guardians vs. Athletics en vivo gratis el domingo 3 de mayo de 2026",
+        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Cleveland Guardians vs. Athletics, Baseball"
       },
       "event": {
-        "start_time": "2026-05-03T00:40:00.000Z",
-        "end_time": "2026-05-03T04:10:00.000Z",
-        "status": "en vivo"
+        "start_time": "2026-05-03T20:05:00.000Z",
+        "end_time": "2026-05-03T23:35:00.000Z",
+        "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-05-03T03:55:00.559Z",
+        "last_modified": "2026-05-03T08:08:34.786Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
     },
     {
-      "id": 21224,
+      "id": 21262,
       "slug": "new-york-mets-vs-los-angeles-angels",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/mlb/2026-05-02/nym-laa",
+      "canonical_url": "https://tarjetarojaenvivo.live/eventos/mlb/2026-05-03/nym-laa",
       "meta": {
         "title": "New York Mets vs. Los Angeles Angels EN VIVO - Tarjeta Roja TV",
         "description": "Ver New York Mets vs. Los Angeles Angels en vivo gratis el domingo 3 de mayo de 2026",
         "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, New York Mets vs. Los Angeles Angels, Baseball"
       },
       "event": {
-        "start_time": "2026-05-03T01:38:00.000Z",
-        "end_time": "2026-05-03T05:08:00.000Z",
-        "status": "en vivo"
+        "start_time": "2026-05-03T20:07:00.000Z",
+        "end_time": "2026-05-03T23:37:00.000Z",
+        "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-05-03T03:55:00.559Z",
+        "last_modified": "2026-05-03T08:08:34.786Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
     },
     {
-      "id": 21225,
+      "id": 21263,
+      "slug": "chicago-white-sox-vs-san-diego-padres",
+      "canonical_url": "https://tarjetarojaenvivo.live/eventos/mlb/2026-05-03/chw-sd",
+      "meta": {
+        "title": "Chicago White Sox vs. San Diego Padres EN VIVO - Tarjeta Roja TV",
+        "description": "Ver Chicago White Sox vs. San Diego Padres en vivo gratis el domingo 3 de mayo de 2026",
+        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Chicago White Sox vs. San Diego Padres, Baseball"
+      },
+      "event": {
+        "start_time": "2026-05-03T20:10:00.000Z",
+        "end_time": "2026-05-03T23:40:00.000Z",
+        "status": "próximamente"
+      },
+      "technical": {
+        "last_modified": "2026-05-03T08:08:34.786Z",
+        "changefreq": "hourly",
+        "priority": 0.85
+      }
+    },
+    {
+      "id": 21264,
       "slug": "kansas-city-royals-vs-seattle-mariners",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/mlb/2026-05-02/kc-sea",
+      "canonical_url": "https://tarjetarojaenvivo.live/eventos/mlb/2026-05-03/kc-sea",
       "meta": {
         "title": "Kansas City Royals vs. Seattle Mariners EN VIVO - Tarjeta Roja TV",
         "description": "Ver Kansas City Royals vs. Seattle Mariners en vivo gratis el domingo 3 de mayo de 2026",
         "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Kansas City Royals vs. Seattle Mariners, Baseball"
       },
       "event": {
-        "start_time": "2026-05-03T01:40:00.000Z",
-        "end_time": "2026-05-03T05:10:00.000Z",
-        "status": "en vivo"
+        "start_time": "2026-05-03T20:10:00.000Z",
+        "end_time": "2026-05-03T23:40:00.000Z",
+        "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-05-03T03:55:00.559Z",
+        "last_modified": "2026-05-03T08:08:34.786Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
     },
     {
-      "id": 21208,
-      "slug": "philadelphia-76ers-vs-boston-celtics",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/nba/2026-05-02/phi-bos",
+      "id": 21265,
+      "slug": "texas-rangers-vs-detroit-tigers",
+      "canonical_url": "https://tarjetarojaenvivo.live/eventos/mlb/2026-05-03/tex-det",
       "meta": {
-        "title": "Philadelphia 76ers vs. Boston Celtics EN VIVO - Tarjeta Roja TV",
-        "description": "Ver Philadelphia 76ers vs. Boston Celtics en vivo gratis el sábado 2 de mayo de 2026",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Philadelphia 76ers vs. Boston Celtics, Baloncesto"
+        "title": "Texas Rangers vs. Detroit Tigers EN VIVO - Tarjeta Roja TV",
+        "description": "Ver Texas Rangers vs. Detroit Tigers en vivo gratis el domingo 3 de mayo de 2026",
+        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Texas Rangers vs. Detroit Tigers, Baseball"
       },
       "event": {
-        "start_time": "2026-05-02T23:30:00.000Z",
-        "end_time": "2026-05-03T02:30:00.000Z",
-        "status": "en vivo"
+        "start_time": "2026-05-03T23:20:00.000Z",
+        "end_time": "2026-05-04T02:50:00.000Z",
+        "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-05-03T03:55:00.559Z",
+        "last_modified": "2026-05-03T08:08:34.786Z",
+        "changefreq": "hourly",
+        "priority": 0.85
+      }
+    },
+    {
+      "id": 21244,
+      "slug": "washington-mystics-vs-atlanta-dream",
+      "canonical_url": "https://tarjetarojaenvivo.live/eventos/wnba/2026-05-03/wsh-atl",
+      "meta": {
+        "title": "Washington Mystics vs. Atlanta Dream EN VIVO - Tarjeta Roja TV",
+        "description": "Ver Washington Mystics vs. Atlanta Dream en vivo gratis el domingo 3 de mayo de 2026",
+        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Washington Mystics vs. Atlanta Dream, Baloncesto"
+      },
+      "event": {
+        "start_time": "2026-05-03T19:00:00.000Z",
+        "end_time": "2026-05-03T22:00:00.000Z",
+        "status": "próximamente"
+      },
+      "technical": {
+        "last_modified": "2026-05-03T08:08:34.786Z",
+        "changefreq": "hourly",
+        "priority": 0.85
+      }
+    },
+    {
+      "id": 21241,
+      "slug": "orlando-magic-vs-detroit-pistons",
+      "canonical_url": "https://tarjetarojaenvivo.live/eventos/nba/2026-05-03/orl-det",
+      "meta": {
+        "title": "Orlando Magic vs. Detroit Pistons EN VIVO - Tarjeta Roja TV",
+        "description": "Ver Orlando Magic vs. Detroit Pistons en vivo gratis el domingo 3 de mayo de 2026",
+        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Orlando Magic vs. Detroit Pistons, Baloncesto"
+      },
+      "event": {
+        "start_time": "2026-05-03T19:30:00.000Z",
+        "end_time": "2026-05-03T22:30:00.000Z",
+        "status": "próximamente"
+      },
+      "technical": {
+        "last_modified": "2026-05-03T08:08:34.786Z",
+        "changefreq": "hourly",
+        "priority": 0.85
+      }
+    },
+    {
+      "id": 21250,
+      "slug": "new-york-liberty-vs-connecticut-sun",
+      "canonical_url": "https://tarjetarojaenvivo.live/eventos/wnba/2026-05-03/ny-con",
+      "meta": {
+        "title": "New York Liberty vs. Connecticut Sun EN VIVO - Tarjeta Roja TV",
+        "description": "Ver New York Liberty vs. Connecticut Sun en vivo gratis el domingo 3 de mayo de 2026",
+        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, New York Liberty vs. Connecticut Sun, Baloncesto"
+      },
+      "event": {
+        "start_time": "2026-05-03T21:00:00.000Z",
+        "end_time": "2026-05-04T00:00:00.000Z",
+        "status": "próximamente"
+      },
+      "technical": {
+        "last_modified": "2026-05-03T08:08:34.786Z",
+        "changefreq": "hourly",
+        "priority": 0.85
+      }
+    },
+    {
+      "id": 21253,
+      "slug": "las-vegas-aces-vs-dallas-wings",
+      "canonical_url": "https://tarjetarojaenvivo.live/eventos/wnba/2026-05-03/lv-dal",
+      "meta": {
+        "title": "Las Vegas Aces vs. Dallas Wings EN VIVO - Tarjeta Roja TV",
+        "description": "Ver Las Vegas Aces vs. Dallas Wings en vivo gratis el domingo 3 de mayo de 2026",
+        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Las Vegas Aces vs. Dallas Wings, Baloncesto"
+      },
+      "event": {
+        "start_time": "2026-05-03T23:00:00.000Z",
+        "end_time": "2026-05-04T02:00:00.000Z",
+        "status": "próximamente"
+      },
+      "technical": {
+        "last_modified": "2026-05-03T08:08:34.786Z",
+        "changefreq": "hourly",
+        "priority": 0.85
+      }
+    },
+    {
+      "id": 21255,
+      "slug": "los-angeles-sparks-vs-portland-fire",
+      "canonical_url": "https://tarjetarojaenvivo.live/eventos/wnba/2026-05-03/la-por",
+      "meta": {
+        "title": "Los Angeles Sparks vs. Portland Fire EN VIVO - Tarjeta Roja TV",
+        "description": "Ver Los Angeles Sparks vs. Portland Fire en vivo gratis el domingo 3 de mayo de 2026",
+        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Los Angeles Sparks vs. Portland Fire, Baloncesto"
+      },
+      "event": {
+        "start_time": "2026-05-03T23:00:00.000Z",
+        "end_time": "2026-05-04T02:00:00.000Z",
+        "status": "próximamente"
+      },
+      "technical": {
+        "last_modified": "2026-05-03T08:08:34.786Z",
+        "changefreq": "hourly",
+        "priority": 0.85
+      }
+    },
+    {
+      "id": 21245,
+      "slug": "toronto-raptors-vs-cleveland-cavaliers",
+      "canonical_url": "https://tarjetarojaenvivo.live/eventos/nba/2026-05-03/tor-cle",
+      "meta": {
+        "title": "Toronto Raptors vs. Cleveland Cavaliers EN VIVO - Tarjeta Roja TV",
+        "description": "Ver Toronto Raptors vs. Cleveland Cavaliers en vivo gratis el domingo 3 de mayo de 2026",
+        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Toronto Raptors vs. Cleveland Cavaliers, Baloncesto"
+      },
+      "event": {
+        "start_time": "2026-05-03T23:30:00.000Z",
+        "end_time": "2026-05-04T02:30:00.000Z",
+        "status": "próximamente"
+      },
+      "technical": {
+        "last_modified": "2026-05-03T08:08:34.786Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -291,27 +565,7 @@
         "status": "en vivo"
       },
       "technical": {
-        "last_modified": "2026-05-03T03:55:00.559Z",
-        "changefreq": "hourly",
-        "priority": 0.85
-      }
-    },
-    {
-      "id": 21053,
-      "slug": "benavidez-vs-zurdo",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/benavidez-vs.-zurdo",
-      "meta": {
-        "title": "Benavidez vs. Zurdo EN VIVO - Tarjeta Roja TV",
-        "description": "Ver Benavidez vs. Zurdo en vivo gratis el domingo 3 de mayo de 2026",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Benavidez vs. Zurdo, Deportes de Combate"
-      },
-      "event": {
-        "start_time": "2026-05-03T01:00:00.000Z",
-        "end_time": "2026-05-03T07:00:00.000Z",
-        "status": "en vivo"
-      },
-      "technical": {
-        "last_modified": "2026-05-03T03:55:00.559Z",
+        "last_modified": "2026-05-03T08:08:34.786Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -331,7 +585,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-05-03T03:55:00.559Z",
+        "last_modified": "2026-05-03T08:08:34.786Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -351,227 +605,27 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-05-03T03:55:00.559Z",
+        "last_modified": "2026-05-03T08:08:34.786Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
     },
     {
-      "id": 21017,
-      "slug": "atlanta-united-fc-vs-cf-montreal",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/mls/2026-05-02/atl-mtl",
+      "id": 21248,
+      "slug": "mumbai-indians-vs-lucknow-super-giants",
+      "canonical_url": "https://tarjetarojaenvivo.live/eventos/ipl/2026-05-04/mi-lsg",
       "meta": {
-        "title": "Atlanta United FC vs. CF Montréal EN VIVO - Tarjeta Roja TV",
-        "description": "Ver Atlanta United FC vs. CF Montréal en vivo gratis el sábado 2 de mayo de 2026",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Atlanta United FC vs. CF Montréal, Fútbol"
+        "title": "Mumbai Indians vs. Lucknow Super Giants EN VIVO - Tarjeta Roja TV",
+        "description": "Ver Mumbai Indians vs. Lucknow Super Giants en vivo gratis el lunes 4 de mayo de 2026",
+        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Mumbai Indians vs. Lucknow Super Giants, Cricket"
       },
       "event": {
-        "start_time": "2026-05-02T23:30:00.000Z",
-        "end_time": "2026-05-03T02:30:00.000Z",
-        "status": "en vivo"
+        "start_time": "2026-05-04T14:00:00.000Z",
+        "end_time": "2026-05-04T18:00:00.000Z",
+        "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-05-03T03:55:00.559Z",
-        "changefreq": "hourly",
-        "priority": 0.85
-      }
-    },
-    {
-      "id": 21018,
-      "slug": "columbus-crew-vs-minnesota-united-fc",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/mls/2026-05-02/clb-min",
-      "meta": {
-        "title": "Columbus Crew vs. Minnesota United FC EN VIVO - Tarjeta Roja TV",
-        "description": "Ver Columbus Crew vs. Minnesota United FC en vivo gratis el sábado 2 de mayo de 2026",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Columbus Crew vs. Minnesota United FC, Fútbol"
-      },
-      "event": {
-        "start_time": "2026-05-02T23:30:00.000Z",
-        "end_time": "2026-05-03T02:30:00.000Z",
-        "status": "en vivo"
-      },
-      "technical": {
-        "last_modified": "2026-05-03T03:55:00.559Z",
-        "changefreq": "hourly",
-        "priority": 0.85
-      }
-    },
-    {
-      "id": 21019,
-      "slug": "new-england-revolution-vs-charlotte-fc",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/mls/2026-05-02/ne-clt",
-      "meta": {
-        "title": "New England Revolution vs. Charlotte FC EN VIVO - Tarjeta Roja TV",
-        "description": "Ver New England Revolution vs. Charlotte FC en vivo gratis el sábado 2 de mayo de 2026",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, New England Revolution vs. Charlotte FC, Fútbol"
-      },
-      "event": {
-        "start_time": "2026-05-02T23:30:00.000Z",
-        "end_time": "2026-05-03T02:30:00.000Z",
-        "status": "en vivo"
-      },
-      "technical": {
-        "last_modified": "2026-05-03T03:55:00.559Z",
-        "changefreq": "hourly",
-        "priority": 0.85
-      }
-    },
-    {
-      "id": 21020,
-      "slug": "philadelphia-union-vs-nashville-sc",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/mls/2026-05-02/phi-nsh",
-      "meta": {
-        "title": "Philadelphia Union vs. Nashville SC EN VIVO - Tarjeta Roja TV",
-        "description": "Ver Philadelphia Union vs. Nashville SC en vivo gratis el sábado 2 de mayo de 2026",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Philadelphia Union vs. Nashville SC, Fútbol"
-      },
-      "event": {
-        "start_time": "2026-05-02T23:30:00.000Z",
-        "end_time": "2026-05-03T02:30:00.000Z",
-        "status": "en vivo"
-      },
-      "technical": {
-        "last_modified": "2026-05-03T03:55:00.559Z",
-        "changefreq": "hourly",
-        "priority": 0.85
-      }
-    },
-    {
-      "id": 21021,
-      "slug": "red-bull-new-york-vs-fc-dallas",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/mls/2026-05-02/rbny-dal",
-      "meta": {
-        "title": "Red Bull New York vs. FC Dallas EN VIVO - Tarjeta Roja TV",
-        "description": "Ver Red Bull New York vs. FC Dallas en vivo gratis el sábado 2 de mayo de 2026",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Red Bull New York vs. FC Dallas, Fútbol"
-      },
-      "event": {
-        "start_time": "2026-05-02T23:30:00.000Z",
-        "end_time": "2026-05-03T02:30:00.000Z",
-        "status": "en vivo"
-      },
-      "technical": {
-        "last_modified": "2026-05-03T03:55:00.559Z",
-        "changefreq": "hourly",
-        "priority": 0.85
-      }
-    },
-    {
-      "id": 21022,
-      "slug": "chicago-fire-fc-vs-fc-cincinnati",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/mls/2026-05-02/chi-cin",
-      "meta": {
-        "title": "Chicago Fire FC vs. FC Cincinnati EN VIVO - Tarjeta Roja TV",
-        "description": "Ver Chicago Fire FC vs. FC Cincinnati en vivo gratis el domingo 3 de mayo de 2026",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Chicago Fire FC vs. FC Cincinnati, Fútbol"
-      },
-      "event": {
-        "start_time": "2026-05-03T00:30:00.000Z",
-        "end_time": "2026-05-03T03:30:00.000Z",
-        "status": "en vivo"
-      },
-      "technical": {
-        "last_modified": "2026-05-03T03:55:00.559Z",
-        "changefreq": "hourly",
-        "priority": 0.85
-      }
-    },
-    {
-      "id": 21023,
-      "slug": "houston-dynamo-fc-vs-colorado-rapids",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/mls/2026-05-02/hou-col",
-      "meta": {
-        "title": "Houston Dynamo FC vs. Colorado Rapids EN VIVO - Tarjeta Roja TV",
-        "description": "Ver Houston Dynamo FC vs. Colorado Rapids en vivo gratis el domingo 3 de mayo de 2026",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Houston Dynamo FC vs. Colorado Rapids, Fútbol"
-      },
-      "event": {
-        "start_time": "2026-05-03T00:30:00.000Z",
-        "end_time": "2026-05-03T03:30:00.000Z",
-        "status": "en vivo"
-      },
-      "technical": {
-        "last_modified": "2026-05-03T03:55:00.559Z",
-        "changefreq": "hourly",
-        "priority": 0.85
-      }
-    },
-    {
-      "id": 21240,
-      "slug": "tigres-uanl-vs-guadalajara",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/liga-mx/2026-05-03/uanl-gdl",
-      "meta": {
-        "title": "Tigres UANL vs. Guadalajara EN VIVO - Tarjeta Roja TV",
-        "description": "Ver Tigres UANL vs. Guadalajara en vivo gratis el domingo 3 de mayo de 2026",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Tigres UANL vs. Guadalajara, Fútbol"
-      },
-      "event": {
-        "start_time": "2026-05-03T01:00:00.000Z",
-        "end_time": "2026-05-03T03:30:00.000Z",
-        "status": "en vivo"
-      },
-      "technical": {
-        "last_modified": "2026-05-03T03:55:00.559Z",
-        "changefreq": "hourly",
-        "priority": 0.85
-      }
-    },
-    {
-      "id": 21024,
-      "slug": "san-diego-fc-vs-lafc",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/mls/2026-05-02/sd-lafc",
-      "meta": {
-        "title": "San Diego FC vs. LAFC EN VIVO - Tarjeta Roja TV",
-        "description": "Ver San Diego FC vs. LAFC en vivo gratis el domingo 3 de mayo de 2026",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, San Diego FC vs. LAFC, Fútbol"
-      },
-      "event": {
-        "start_time": "2026-05-03T01:30:00.000Z",
-        "end_time": "2026-05-03T04:30:00.000Z",
-        "status": "en vivo"
-      },
-      "technical": {
-        "last_modified": "2026-05-03T03:55:00.559Z",
-        "changefreq": "hourly",
-        "priority": 0.85
-      }
-    },
-    {
-      "id": 21025,
-      "slug": "la-galaxy-vs-vancouver-whitecaps",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/mls/2026-05-02/la-van",
-      "meta": {
-        "title": "LA Galaxy vs. Vancouver Whitecaps EN VIVO - Tarjeta Roja TV",
-        "description": "Ver LA Galaxy vs. Vancouver Whitecaps en vivo gratis el domingo 3 de mayo de 2026",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, LA Galaxy vs. Vancouver Whitecaps, Fútbol"
-      },
-      "event": {
-        "start_time": "2026-05-03T02:30:00.000Z",
-        "end_time": "2026-05-03T05:30:00.000Z",
-        "status": "en vivo"
-      },
-      "technical": {
-        "last_modified": "2026-05-03T03:55:00.559Z",
-        "changefreq": "hourly",
-        "priority": 0.85
-      }
-    },
-    {
-      "id": 21239,
-      "slug": "atlas-vs-cruz-azul",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/liga-mx/2026-05-03/ats-caz",
-      "meta": {
-        "title": "Atlas vs. Cruz Azul EN VIVO - Tarjeta Roja TV",
-        "description": "Ver Atlas vs. Cruz Azul en vivo gratis el domingo 3 de mayo de 2026",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Atlas vs. Cruz Azul, Fútbol"
-      },
-      "event": {
-        "start_time": "2026-05-03T03:15:00.000Z",
-        "end_time": "2026-05-03T05:45:00.000Z",
-        "status": "en vivo"
-      },
-      "technical": {
-        "last_modified": "2026-05-03T03:55:00.559Z",
+        "last_modified": "2026-05-03T08:08:34.786Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -591,7 +645,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-05-03T03:55:00.559Z",
+        "last_modified": "2026-05-03T08:08:34.786Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -611,7 +665,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-05-03T03:55:00.559Z",
+        "last_modified": "2026-05-03T08:08:34.786Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -631,7 +685,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-05-03T03:55:00.559Z",
+        "last_modified": "2026-05-03T08:08:34.786Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -651,7 +705,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-05-03T03:55:00.559Z",
+        "last_modified": "2026-05-03T08:08:34.786Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -671,7 +725,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-05-03T03:55:00.560Z",
+        "last_modified": "2026-05-03T08:08:34.786Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -691,7 +745,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-05-03T03:55:00.560Z",
+        "last_modified": "2026-05-03T08:08:34.786Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -711,7 +765,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-05-03T03:55:00.560Z",
+        "last_modified": "2026-05-03T08:08:34.786Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -731,7 +785,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-05-03T03:55:00.560Z",
+        "last_modified": "2026-05-03T08:08:34.786Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -751,7 +805,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-05-03T03:55:00.560Z",
+        "last_modified": "2026-05-03T08:08:34.786Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -771,7 +825,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-05-03T03:55:00.560Z",
+        "last_modified": "2026-05-03T08:08:34.786Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -791,7 +845,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-05-03T03:55:00.560Z",
+        "last_modified": "2026-05-03T08:08:34.786Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -811,7 +865,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-05-03T03:55:00.560Z",
+        "last_modified": "2026-05-03T08:08:34.786Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -831,7 +885,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-05-03T03:55:00.560Z",
+        "last_modified": "2026-05-03T08:08:34.786Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -851,7 +905,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-05-03T03:55:00.560Z",
+        "last_modified": "2026-05-03T08:08:34.786Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -871,7 +925,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-05-03T03:55:00.560Z",
+        "last_modified": "2026-05-03T08:08:34.786Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -891,7 +945,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-05-03T03:55:00.560Z",
+        "last_modified": "2026-05-03T08:08:34.786Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -911,7 +965,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-05-03T03:55:00.560Z",
+        "last_modified": "2026-05-03T08:08:34.786Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -931,7 +985,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-05-03T03:55:00.560Z",
+        "last_modified": "2026-05-03T08:08:34.786Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -951,7 +1005,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-05-03T03:55:00.560Z",
+        "last_modified": "2026-05-03T08:08:34.786Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -971,7 +1025,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-05-03T03:55:00.560Z",
+        "last_modified": "2026-05-03T08:08:34.786Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -991,7 +1045,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-05-03T03:55:00.560Z",
+        "last_modified": "2026-05-03T08:08:34.786Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1011,7 +1065,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-05-03T03:55:00.560Z",
+        "last_modified": "2026-05-03T08:08:34.786Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1031,7 +1085,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-05-03T03:55:00.560Z",
+        "last_modified": "2026-05-03T08:08:34.786Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1051,7 +1105,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-05-03T03:55:00.560Z",
+        "last_modified": "2026-05-03T08:08:34.786Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1071,7 +1125,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-05-03T03:55:00.560Z",
+        "last_modified": "2026-05-03T08:08:34.786Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1091,7 +1145,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-05-03T03:55:00.560Z",
+        "last_modified": "2026-05-03T08:08:34.786Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1111,7 +1165,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-05-03T03:55:00.560Z",
+        "last_modified": "2026-05-03T08:08:34.786Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1131,47 +1185,47 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-05-03T03:55:00.560Z",
+        "last_modified": "2026-05-03T08:08:34.786Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
     },
     {
-      "id": 21206,
-      "slug": "philadelphia-flyers-vs-carolina-hurricanes",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/nhl/2026-05-02/phi-car",
+      "id": 21242,
+      "slug": "montreal-canadiens-vs-tampa-bay-lightning",
+      "canonical_url": "https://tarjetarojaenvivo.live/eventos/nhl/2026-05-03/mtl-tb",
       "meta": {
-        "title": "Philadelphia Flyers vs. Carolina Hurricanes EN VIVO - Tarjeta Roja TV",
-        "description": "Ver Philadelphia Flyers vs. Carolina Hurricanes en vivo gratis el domingo 3 de mayo de 2026",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Philadelphia Flyers vs. Carolina Hurricanes, Hockey sobre Hielo"
+        "title": "Montreal Canadiens vs. Tampa Bay Lightning EN VIVO - Tarjeta Roja TV",
+        "description": "Ver Montreal Canadiens vs. Tampa Bay Lightning en vivo gratis el domingo 3 de mayo de 2026",
+        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Montreal Canadiens vs. Tampa Bay Lightning, Hockey sobre Hielo"
       },
       "event": {
-        "start_time": "2026-05-03T00:00:00.000Z",
-        "end_time": "2026-05-03T03:00:00.000Z",
-        "status": "en vivo"
+        "start_time": "2026-05-03T22:00:00.000Z",
+        "end_time": "2026-05-04T01:00:00.000Z",
+        "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-05-03T03:55:00.560Z",
+        "last_modified": "2026-05-03T08:08:34.786Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
     },
     {
-      "id": 15856,
-      "slug": "supercross-denver",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/smx-wk16",
+      "id": 21246,
+      "slug": "minnesota-wild-vs-colorado-avalanche",
+      "canonical_url": "https://tarjetarojaenvivo.live/eventos/nhl/2026-05-03/min-col",
       "meta": {
-        "title": "Supercross: Denver EN VIVO - Tarjeta Roja TV",
-        "description": "Ver Supercross: Denver en vivo gratis el sábado 2 de mayo de 2026",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Supercross: Denver, Motorsports"
+        "title": "Minnesota Wild vs. Colorado Avalanche EN VIVO - Tarjeta Roja TV",
+        "description": "Ver Minnesota Wild vs. Colorado Avalanche en vivo gratis el lunes 4 de mayo de 2026",
+        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Minnesota Wild vs. Colorado Avalanche, Hockey sobre Hielo"
       },
       "event": {
-        "start_time": "2026-05-02T17:00:00.000Z",
-        "end_time": "2026-05-03T05:00:00.000Z",
-        "status": "en vivo"
+        "start_time": "2026-05-04T01:00:00.000Z",
+        "end_time": "2026-05-04T04:00:00.000Z",
+        "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-05-03T03:55:00.560Z",
+        "last_modified": "2026-05-03T08:08:34.786Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1191,27 +1245,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-05-03T03:55:00.560Z",
-        "changefreq": "hourly",
-        "priority": 0.85
-      }
-    },
-    {
-      "id": 21203,
-      "slug": "knights-vs-rabbitohs",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/nrl/2026-05-03/new-sou",
-      "meta": {
-        "title": "Knights vs. Rabbitohs EN VIVO - Tarjeta Roja TV",
-        "description": "Ver Knights vs. Rabbitohs en vivo gratis el domingo 3 de mayo de 2026",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Knights vs. Rabbitohs, Rugby"
-      },
-      "event": {
-        "start_time": "2026-05-03T04:00:00.000Z",
-        "end_time": "2026-05-03T06:30:00.000Z",
-        "status": "próximamente"
-      },
-      "technical": {
-        "last_modified": "2026-05-03T03:55:00.560Z",
+        "last_modified": "2026-05-03T08:08:34.786Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1228,10 +1262,10 @@
       "event": {
         "start_time": "2026-05-03T06:05:00.000Z",
         "end_time": "2026-05-03T08:35:00.000Z",
-        "status": "próximamente"
+        "status": "en vivo"
       },
       "technical": {
-        "last_modified": "2026-05-03T03:55:00.560Z",
+        "last_modified": "2026-05-03T08:08:34.786Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1251,7 +1285,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-05-03T03:55:00.560Z",
+        "last_modified": "2026-05-03T08:08:34.786Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1271,27 +1305,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-05-03T03:55:00.560Z",
-        "changefreq": "hourly",
-        "priority": 0.85
-      }
-    },
-    {
-      "id": 21039,
-      "slug": "aew-saturday-night-collision",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/aew/collision/2026-05-02",
-      "meta": {
-        "title": "AEW: Saturday Night Collision EN VIVO - Tarjeta Roja TV",
-        "description": "Ver AEW: Saturday Night Collision en vivo gratis el domingo 3 de mayo de 2026",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, AEW: Saturday Night Collision, Lucha Libre"
-      },
-      "event": {
-        "start_time": "2026-05-03T00:00:00.000Z",
-        "end_time": "2026-05-03T03:00:00.000Z",
-        "status": "en vivo"
-      },
-      "technical": {
-        "last_modified": "2026-05-03T03:55:00.560Z",
+        "last_modified": "2026-05-03T08:08:34.786Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1311,7 +1325,7 @@
         "status": "en vivo"
       },
       "technical": {
-        "last_modified": "2026-05-03T03:55:00.560Z",
+        "last_modified": "2026-05-03T08:08:34.786Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1331,7 +1345,7 @@
         "status": "en vivo"
       },
       "technical": {
-        "last_modified": "2026-05-03T03:55:00.560Z",
+        "last_modified": "2026-05-03T08:08:34.786Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1351,7 +1365,7 @@
         "status": "en vivo"
       },
       "technical": {
-        "last_modified": "2026-05-03T03:55:00.560Z",
+        "last_modified": "2026-05-03T08:08:34.786Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1371,7 +1385,7 @@
         "status": "en vivo"
       },
       "technical": {
-        "last_modified": "2026-05-03T03:55:00.560Z",
+        "last_modified": "2026-05-03T08:08:34.786Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1391,7 +1405,7 @@
         "status": "en vivo"
       },
       "technical": {
-        "last_modified": "2026-05-03T03:55:00.560Z",
+        "last_modified": "2026-05-03T08:08:34.786Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1411,7 +1425,7 @@
         "status": "en vivo"
       },
       "technical": {
-        "last_modified": "2026-05-03T03:55:00.560Z",
+        "last_modified": "2026-05-03T08:08:34.786Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
