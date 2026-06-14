@@ -1,13 +1,7 @@
 {
-  "generated_at": "2026-06-14T12:51:26.860Z",
-  "total_events": 50,
+  "generated_at": "2026-06-14T18:39:22.878Z",
+  "total_events": 46,
   "categories": [
-    {
-      "name": "American Football",
-      "name_es": "Fútbol Americano",
-      "slug": "futbol-americano",
-      "canonical_url": "https://tarjetarojaenvivo.live/categoria/futbol-americano"
-    },
     {
       "name": "Australian Football",
       "name_es": "Australian Football",
@@ -51,12 +45,6 @@
       "canonical_url": "https://tarjetarojaenvivo.live/categoria/hockey-sobre-hielo"
     },
     {
-      "name": "Motorsports",
-      "name_es": "Motorsports",
-      "slug": "motorsports",
-      "canonical_url": "https://tarjetarojaenvivo.live/categoria/motorsports"
-    },
-    {
       "name": "Volleyball",
       "name_es": "Volleyball",
       "slug": "volleyball",
@@ -70,46 +58,6 @@
     }
   ],
   "events": [
-    {
-      "id": 22660,
-      "slug": "firenze-red-lions-vs-london-warriors",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/afle/2026-06-14/fir-lon",
-      "meta": {
-        "title": "Firenze Red Lions vs. London Warriors EN VIVO - Tarjeta Roja TV",
-        "description": "Ver Firenze Red Lions vs. London Warriors en vivo gratis el domingo 14 de junio de 2026",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Firenze Red Lions vs. London Warriors, Fútbol Americano"
-      },
-      "event": {
-        "start_time": "2026-06-14T13:00:00.000Z",
-        "end_time": "2026-06-14T16:30:00.000Z",
-        "status": "próximamente"
-      },
-      "technical": {
-        "last_modified": "2026-06-14T12:51:26.861Z",
-        "changefreq": "hourly",
-        "priority": 0.85
-      }
-    },
-    {
-      "id": 22664,
-      "slug": "berlin-thunder-vs-panthers-wroclaw",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/afle/2026-06-14/ber-pan",
-      "meta": {
-        "title": "Berlin Thunder vs. Panthers Wroclaw EN VIVO - Tarjeta Roja TV",
-        "description": "Ver Berlin Thunder vs. Panthers Wroclaw en vivo gratis el domingo 14 de junio de 2026",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Berlin Thunder vs. Panthers Wroclaw, Fútbol Americano"
-      },
-      "event": {
-        "start_time": "2026-06-14T14:10:00.000Z",
-        "end_time": "2026-06-14T17:40:00.000Z",
-        "status": "próximamente"
-      },
-      "technical": {
-        "last_modified": "2026-06-14T12:51:26.861Z",
-        "changefreq": "hourly",
-        "priority": 0.85
-      }
-    },
     {
       "id": 22874,
       "slug": "fremantle-vs-geelong-cats",
@@ -125,7 +73,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-06-14T12:51:26.861Z",
+        "last_modified": "2026-06-14T18:39:22.879Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -145,7 +93,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-06-14T12:51:26.861Z",
+        "last_modified": "2026-06-14T18:39:22.879Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -165,7 +113,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-06-14T12:51:26.861Z",
+        "last_modified": "2026-06-14T18:39:22.879Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -185,7 +133,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-06-14T12:51:26.861Z",
+        "last_modified": "2026-06-14T18:39:22.879Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -205,7 +153,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-06-14T12:51:26.861Z",
+        "last_modified": "2026-06-14T18:39:22.879Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -222,10 +170,10 @@
       "event": {
         "start_time": "2026-06-14T16:15:00.000Z",
         "end_time": "2026-06-14T19:45:00.000Z",
-        "status": "próximamente"
+        "status": "en vivo"
       },
       "technical": {
-        "last_modified": "2026-06-14T12:51:26.861Z",
+        "last_modified": "2026-06-14T18:39:22.879Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -242,10 +190,10 @@
       "event": {
         "start_time": "2026-06-14T17:35:00.000Z",
         "end_time": "2026-06-14T21:05:00.000Z",
-        "status": "próximamente"
+        "status": "en vivo"
       },
       "technical": {
-        "last_modified": "2026-06-14T12:51:26.861Z",
+        "last_modified": "2026-06-14T18:39:22.879Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -262,10 +210,10 @@
       "event": {
         "start_time": "2026-06-14T17:35:00.000Z",
         "end_time": "2026-06-14T21:05:00.000Z",
-        "status": "próximamente"
+        "status": "en vivo"
       },
       "technical": {
-        "last_modified": "2026-06-14T12:51:26.861Z",
+        "last_modified": "2026-06-14T18:39:22.879Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -282,10 +230,10 @@
       "event": {
         "start_time": "2026-06-14T17:37:00.000Z",
         "end_time": "2026-06-14T21:07:00.000Z",
-        "status": "próximamente"
+        "status": "en vivo"
       },
       "technical": {
-        "last_modified": "2026-06-14T12:51:26.861Z",
+        "last_modified": "2026-06-14T18:39:22.879Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -302,10 +250,10 @@
       "event": {
         "start_time": "2026-06-14T17:40:00.000Z",
         "end_time": "2026-06-14T21:10:00.000Z",
-        "status": "próximamente"
+        "status": "en vivo"
       },
       "technical": {
-        "last_modified": "2026-06-14T12:51:26.861Z",
+        "last_modified": "2026-06-14T18:39:22.879Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -322,10 +270,10 @@
       "event": {
         "start_time": "2026-06-14T17:40:00.000Z",
         "end_time": "2026-06-14T21:10:00.000Z",
-        "status": "próximamente"
+        "status": "en vivo"
       },
       "technical": {
-        "last_modified": "2026-06-14T12:51:26.861Z",
+        "last_modified": "2026-06-14T18:39:22.879Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -342,10 +290,10 @@
       "event": {
         "start_time": "2026-06-14T17:40:00.000Z",
         "end_time": "2026-06-14T21:10:00.000Z",
-        "status": "próximamente"
+        "status": "en vivo"
       },
       "technical": {
-        "last_modified": "2026-06-14T12:51:26.861Z",
+        "last_modified": "2026-06-14T18:39:22.879Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -362,10 +310,10 @@
       "event": {
         "start_time": "2026-06-14T18:10:00.000Z",
         "end_time": "2026-06-14T21:40:00.000Z",
-        "status": "próximamente"
+        "status": "en vivo"
       },
       "technical": {
-        "last_modified": "2026-06-14T12:51:26.861Z",
+        "last_modified": "2026-06-14T18:39:22.879Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -382,10 +330,10 @@
       "event": {
         "start_time": "2026-06-14T18:10:00.000Z",
         "end_time": "2026-06-14T21:40:00.000Z",
-        "status": "próximamente"
+        "status": "en vivo"
       },
       "technical": {
-        "last_modified": "2026-06-14T12:51:26.861Z",
+        "last_modified": "2026-06-14T18:39:22.879Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -402,10 +350,10 @@
       "event": {
         "start_time": "2026-06-14T18:10:00.000Z",
         "end_time": "2026-06-14T21:40:00.000Z",
-        "status": "próximamente"
+        "status": "en vivo"
       },
       "technical": {
-        "last_modified": "2026-06-14T12:51:26.861Z",
+        "last_modified": "2026-06-14T18:39:22.879Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -422,10 +370,10 @@
       "event": {
         "start_time": "2026-06-14T18:10:00.000Z",
         "end_time": "2026-06-14T21:40:00.000Z",
-        "status": "próximamente"
+        "status": "en vivo"
       },
       "technical": {
-        "last_modified": "2026-06-14T12:51:26.861Z",
+        "last_modified": "2026-06-14T18:39:22.879Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -445,7 +393,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-06-14T12:51:26.861Z",
+        "last_modified": "2026-06-14T18:39:22.879Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -465,7 +413,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-06-14T12:51:26.861Z",
+        "last_modified": "2026-06-14T18:39:22.879Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -485,7 +433,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-06-14T12:51:26.861Z",
+        "last_modified": "2026-06-14T18:39:22.879Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -505,7 +453,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-06-14T12:51:26.861Z",
+        "last_modified": "2026-06-14T18:39:22.879Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -525,7 +473,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-06-14T12:51:26.861Z",
+        "last_modified": "2026-06-14T18:39:22.879Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -545,7 +493,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-06-14T12:51:26.861Z",
+        "last_modified": "2026-06-14T18:39:22.879Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -565,7 +513,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-06-14T12:51:26.861Z",
+        "last_modified": "2026-06-14T18:39:22.879Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -585,7 +533,7 @@
         "status": "en vivo"
       },
       "technical": {
-        "last_modified": "2026-06-14T12:51:26.861Z",
+        "last_modified": "2026-06-14T18:39:22.879Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -602,10 +550,30 @@
       "event": {
         "start_time": "2026-06-14T17:00:00.000Z",
         "end_time": "2026-06-14T19:30:00.000Z",
+        "status": "en vivo"
+      },
+      "technical": {
+        "last_modified": "2026-06-14T18:39:22.880Z",
+        "changefreq": "hourly",
+        "priority": 0.85
+      }
+    },
+    {
+      "id": 22984,
+      "slug": "malaga-vs-almeria",
+      "canonical_url": "https://tarjetarojaenvivo.live/eventos/laliga-2/2026-06-14/mcf-alm",
+      "meta": {
+        "title": "Málaga vs. Almería EN VIVO - Tarjeta Roja TV",
+        "description": "Ver Málaga vs. Almería en vivo gratis el domingo 14 de junio de 2026",
+        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Málaga vs. Almería, Fútbol"
+      },
+      "event": {
+        "start_time": "2026-06-14T19:00:00.000Z",
+        "end_time": "2026-06-14T21:30:00.000Z",
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-06-14T12:51:26.861Z",
+        "last_modified": "2026-06-14T18:39:22.880Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -625,7 +593,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-06-14T12:51:26.861Z",
+        "last_modified": "2026-06-14T18:39:22.880Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -645,7 +613,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-06-14T12:51:26.861Z",
+        "last_modified": "2026-06-14T18:39:22.880Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -665,7 +633,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-06-14T12:51:26.861Z",
+        "last_modified": "2026-06-14T18:39:22.880Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -685,7 +653,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-06-14T12:51:26.861Z",
+        "last_modified": "2026-06-14T18:39:22.880Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -705,7 +673,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-06-14T12:51:26.861Z",
+        "last_modified": "2026-06-14T18:39:22.880Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -725,7 +693,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-06-14T12:51:26.861Z",
+        "last_modified": "2026-06-14T18:39:22.880Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -745,7 +713,27 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-06-14T12:51:26.861Z",
+        "last_modified": "2026-06-14T18:39:22.880Z",
+        "changefreq": "hourly",
+        "priority": 0.85
+      }
+    },
+    {
+      "id": 22985,
+      "slug": "almeria-vs-malaga",
+      "canonical_url": "https://tarjetarojaenvivo.live/eventos/laliga-2/2026-06-20/alm-mcf",
+      "meta": {
+        "title": "Almería vs. Málaga EN VIVO - Tarjeta Roja TV",
+        "description": "Ver Almería vs. Málaga en vivo gratis el sábado 20 de junio de 2026",
+        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Almería vs. Málaga, Fútbol"
+      },
+      "event": {
+        "start_time": "2026-06-20T19:00:00.000Z",
+        "end_time": "2026-06-20T21:30:00.000Z",
+        "status": "próximamente"
+      },
+      "technical": {
+        "last_modified": "2026-06-14T18:39:22.880Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -765,87 +753,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-06-14T12:51:26.861Z",
-        "changefreq": "hourly",
-        "priority": 0.85
-      }
-    },
-    {
-      "id": 22747,
-      "slug": "24-hours-of-le-mans-race",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/fia-wec/2026/lemans/race",
-      "meta": {
-        "title": "24 Hours of Le Mans - Race EN VIVO - Tarjeta Roja TV",
-        "description": "Ver 24 Hours of Le Mans - Race en vivo gratis el sábado 13 de junio de 2026",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, 24 Hours of Le Mans - Race, Motorsports"
-      },
-      "event": {
-        "start_time": "2026-06-13T13:00:00.000Z",
-        "end_time": "2026-06-14T15:00:00.000Z",
-        "status": "en vivo"
-      },
-      "technical": {
-        "last_modified": "2026-06-14T12:51:26.861Z",
-        "changefreq": "hourly",
-        "priority": 0.85
-      }
-    },
-    {
-      "id": 22696,
-      "slug": "barcelona-grand-prix-race",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/f1/2026/barcelona-catalunya/race",
-      "meta": {
-        "title": "Barcelona Grand Prix - Race EN VIVO - Tarjeta Roja TV",
-        "description": "Ver Barcelona Grand Prix - Race en vivo gratis el domingo 14 de junio de 2026",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Barcelona Grand Prix - Race, Motorsports"
-      },
-      "event": {
-        "start_time": "2026-06-14T13:00:00.000Z",
-        "end_time": "2026-06-14T16:00:00.000Z",
-        "status": "próximamente"
-      },
-      "technical": {
-        "last_modified": "2026-06-14T12:51:26.861Z",
-        "changefreq": "hourly",
-        "priority": 0.85
-      }
-    },
-    {
-      "id": 22926,
-      "slug": "slovenia-vs-japan",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/mensvnl/2026-06-14/slo-jap",
-      "meta": {
-        "title": "Slovenia vs. Japan EN VIVO - Tarjeta Roja TV",
-        "description": "Ver Slovenia vs. Japan en vivo gratis el domingo 14 de junio de 2026",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Slovenia vs. Japan, Volleyball"
-      },
-      "event": {
-        "start_time": "2026-06-14T12:00:00.000Z",
-        "end_time": "2026-06-14T15:30:00.000Z",
-        "status": "en vivo"
-      },
-      "technical": {
-        "last_modified": "2026-06-14T12:51:26.861Z",
-        "changefreq": "hourly",
-        "priority": 0.85
-      }
-    },
-    {
-      "id": 22927,
-      "slug": "belgium-vs-iran",
-      "canonical_url": "https://tarjetarojaenvivo.live/eventos/mensvnl/2026-06-14/bel-ira",
-      "meta": {
-        "title": "Belgium vs. Iran EN VIVO - Tarjeta Roja TV",
-        "description": "Ver Belgium vs. Iran en vivo gratis el domingo 14 de junio de 2026",
-        "keywords": "rojadirecta, tarjeta roja, rojadirecta tv, pirlotv, tarjeta roja tv, rojadirecta en vivo, tarjeta roja directa, tarjeta roja en vivo, pirlo tv rojadirecta, roja directa pirlo, tarjeta roja futbol en vivo, roja directa en vivo fútbol gratis, tarjeta roja fútbol en vivo, pirlo tv tarjeta roja, tarjeta roja tv en vivo, roja tv, la roja directa, rojadirecta tv en vivo, roja dirécta, Belgium vs. Iran, Volleyball"
-      },
-      "event": {
-        "start_time": "2026-06-14T14:00:00.000Z",
-        "end_time": "2026-06-14T17:30:00.000Z",
-        "status": "próximamente"
-      },
-      "technical": {
-        "last_modified": "2026-06-14T12:51:26.861Z",
+        "last_modified": "2026-06-14T18:39:22.880Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -862,10 +770,10 @@
       "event": {
         "start_time": "2026-06-14T15:00:00.000Z",
         "end_time": "2026-06-14T18:30:00.000Z",
-        "status": "próximamente"
+        "status": "en vivo"
       },
       "technical": {
-        "last_modified": "2026-06-14T12:51:26.861Z",
+        "last_modified": "2026-06-14T18:39:22.880Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -882,10 +790,10 @@
       "event": {
         "start_time": "2026-06-14T17:30:00.000Z",
         "end_time": "2026-06-14T21:00:00.000Z",
-        "status": "próximamente"
+        "status": "en vivo"
       },
       "technical": {
-        "last_modified": "2026-06-14T12:51:26.861Z",
+        "last_modified": "2026-06-14T18:39:22.880Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -902,10 +810,10 @@
       "event": {
         "start_time": "2026-06-14T18:30:00.000Z",
         "end_time": "2026-06-14T22:00:00.000Z",
-        "status": "próximamente"
+        "status": "en vivo"
       },
       "technical": {
-        "last_modified": "2026-06-14T12:51:26.861Z",
+        "last_modified": "2026-06-14T18:39:22.880Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -925,7 +833,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-06-14T12:51:26.861Z",
+        "last_modified": "2026-06-14T18:39:22.880Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -945,7 +853,7 @@
         "status": "próximamente"
       },
       "technical": {
-        "last_modified": "2026-06-14T12:51:26.861Z",
+        "last_modified": "2026-06-14T18:39:22.880Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -965,7 +873,7 @@
         "status": "en vivo"
       },
       "technical": {
-        "last_modified": "2026-06-14T12:51:26.861Z",
+        "last_modified": "2026-06-14T18:39:22.880Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -985,7 +893,7 @@
         "status": "en vivo"
       },
       "technical": {
-        "last_modified": "2026-06-14T12:51:26.861Z",
+        "last_modified": "2026-06-14T18:39:22.880Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1005,7 +913,7 @@
         "status": "en vivo"
       },
       "technical": {
-        "last_modified": "2026-06-14T12:51:26.861Z",
+        "last_modified": "2026-06-14T18:39:22.880Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1025,7 +933,7 @@
         "status": "en vivo"
       },
       "technical": {
-        "last_modified": "2026-06-14T12:51:26.861Z",
+        "last_modified": "2026-06-14T18:39:22.880Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1045,7 +953,7 @@
         "status": "en vivo"
       },
       "technical": {
-        "last_modified": "2026-06-14T12:51:26.862Z",
+        "last_modified": "2026-06-14T18:39:22.880Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
@@ -1065,7 +973,7 @@
         "status": "en vivo"
       },
       "technical": {
-        "last_modified": "2026-06-14T12:51:26.862Z",
+        "last_modified": "2026-06-14T18:39:22.880Z",
         "changefreq": "hourly",
         "priority": 0.85
       }
