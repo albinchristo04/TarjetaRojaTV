@@ -1,14 +1,14 @@
 {
   "metadata": {
-    "fetched_at": "2026-06-23T18:41:12.418479",
+    "fetched_at": "2026-06-24T00:35:43.687176",
     "source": "https://old.ppv.to/api/streams",
     "total_events": null
   },
   "events": {
     "success": true,
-    "timestamp": 1782240080,
+    "timestamp": 1782261350,
     "READ_ME": "Interested in using our API? Contact us for more information.",
-    "performance": 0.032134056091308594,
+    "performance": 0.032668113708496094,
     "streams": [
       {
         "category": "American Football",
@@ -32,8 +32,8 @@
             "always_live": 0,
             "locale": "en",
             "category_name": "American Football",
-            "iframe": "https://embedindia.st/embed/cfl/2026-06-25/edm-wpg?gid=928058746",
-            "viewers": "1",
+            "iframe": "https://embedindia.st/embed/cfl/2026-06-25/edm-wpg",
+            "viewers": "0",
             "substreams": []
           },
           {
@@ -53,7 +53,7 @@
             "always_live": 0,
             "locale": "en",
             "category_name": "American Football",
-            "iframe": "https://embedindia.st/embed/cfl/2026-06-26/tor-ssk?gid=928058746",
+            "iframe": "https://embedindia.st/embed/cfl/2026-06-26/tor-ssk",
             "viewers": "0",
             "substreams": []
           },
@@ -74,7 +74,7 @@
             "always_live": 0,
             "locale": "en",
             "category_name": "American Football",
-            "iframe": "https://embedindia.st/embed/afle/2026-06-27/rhe-alp?gid=928058746",
+            "iframe": "https://embedindia.st/embed/afle/2026-06-27/rhe-alp",
             "viewers": "0",
             "substreams": []
           },
@@ -95,7 +95,7 @@
             "always_live": 0,
             "locale": "en",
             "category_name": "American Football",
-            "iframe": "https://embedindia.st/embed/cfl/2026-06-27/cgy-bc?gid=928058746",
+            "iframe": "https://embedindia.st/embed/cfl/2026-06-27/cgy-bc",
             "viewers": "0",
             "substreams": []
           },
@@ -116,8 +116,8 @@
             "always_live": 0,
             "locale": "en",
             "category_name": "American Football",
-            "iframe": "https://embedindia.st/embed/afle/2026-06-28/pan-fir?gid=928058746",
-            "viewers": "0",
+            "iframe": "https://embedindia.st/embed/afle/2026-06-28/pan-fir",
+            "viewers": "1",
             "substreams": []
           },
           {
@@ -137,7 +137,7 @@
             "always_live": 0,
             "locale": "en",
             "category_name": "American Football",
-            "iframe": "https://embedindia.st/embed/cfl/2026-06-28/ott-mtl?gid=928058746",
+            "iframe": "https://embedindia.st/embed/cfl/2026-06-28/ott-mtl",
             "viewers": "0",
             "substreams": []
           }
@@ -165,8 +165,8 @@
             "always_live": 0,
             "locale": "en",
             "category_name": "Australian Football",
-            "iframe": "https://embedindia.st/embed/afl/2026-06-25/bl-syd?gid=928058746",
-            "viewers": "0",
+            "iframe": "https://embedindia.st/embed/afl/2026-06-25/bl-syd",
+            "viewers": "1",
             "substreams": []
           },
           {
@@ -186,7 +186,7 @@
             "always_live": 0,
             "locale": "en",
             "category_name": "Australian Football",
-            "iframe": "https://embedindia.st/embed/afl/2026-06-26/haw-gws?gid=928058746",
+            "iframe": "https://embedindia.st/embed/afl/2026-06-26/haw-gws",
             "viewers": "0",
             "substreams": []
           },
@@ -207,7 +207,7 @@
             "always_live": 0,
             "locale": "en",
             "category_name": "Australian Football",
-            "iframe": "https://embedindia.st/embed/afl/2026-06-27/carl-wce?gid=928058746",
+            "iframe": "https://embedindia.st/embed/afl/2026-06-27/carl-wce",
             "viewers": "0",
             "substreams": []
           },
@@ -228,7 +228,7 @@
             "always_live": 0,
             "locale": "en",
             "category_name": "Australian Football",
-            "iframe": "https://embedindia.st/embed/afl/2026-06-27/coll-rich?gid=928058746",
+            "iframe": "https://embedindia.st/embed/afl/2026-06-27/coll-rich",
             "viewers": "0",
             "substreams": []
           },
@@ -249,7 +249,7 @@
             "always_live": 0,
             "locale": "en",
             "category_name": "Australian Football",
-            "iframe": "https://embedindia.st/embed/afl/2026-06-27/port-adel?gid=928058746",
+            "iframe": "https://embedindia.st/embed/afl/2026-06-27/port-adel",
             "viewers": "0",
             "substreams": []
           },
@@ -270,7 +270,7 @@
             "always_live": 0,
             "locale": "en",
             "category_name": "Australian Football",
-            "iframe": "https://embedindia.st/embed/afl/2026-06-28/nmfc-ess?gid=928058746",
+            "iframe": "https://embedindia.st/embed/afl/2026-06-28/nmfc-ess",
             "viewers": "0",
             "substreams": []
           },
@@ -291,8 +291,8 @@
             "always_live": 0,
             "locale": "en",
             "category_name": "Australian Football",
-            "iframe": "https://embedindia.st/embed/afl/2026-06-28/fre-gcfc?gid=928058746",
-            "viewers": "0",
+            "iframe": "https://embedindia.st/embed/afl/2026-06-28/fre-gcfc",
+            "viewers": "1",
             "substreams": []
           }
         ]
@@ -302,27 +302,6 @@
         "id": 36,
         "always_live": false,
         "streams": [
-          {
-            "id": 23686,
-            "name": "Houston Astros vs. Toronto Blue Jays",
-            "tag": "Sportsnet",
-            "source_tag": "Sportsnet",
-            "poster": "https://old.ppv.to/assets/thumb/21cdd8d878e2cc2761d56b4a07a46da3-thumbnail.jpg",
-            "blurhash": "L67d@ovvIbJEoMayj[a|00N+%K$k",
-            "colors": [
-              "#002d62",
-              "#1d4ed8"
-            ],
-            "uri_name": "mlb/2026-06-23/hou-tor",
-            "starts_at": 1782245220,
-            "ends_at": 1782257820,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Baseball",
-            "iframe": "https://embedindia.st/embed/mlb/2026-06-23/hou-tor?gid=928058746",
-            "viewers": "0",
-            "substreams": []
-          },
           {
             "id": 23687,
             "name": "Kansas City Royals vs. Tampa Bay Rays",
@@ -340,8 +319,8 @@
             "always_live": 0,
             "locale": "en",
             "category_name": "Baseball",
-            "iframe": "https://embedindia.st/embed/mlb/2026-06-23/kc-tb?gid=928058746",
-            "viewers": "0",
+            "iframe": "https://embedindia.st/embed/mlb/2026-06-23/kc-tb",
+            "viewers": "51",
             "substreams": []
           },
           {
@@ -361,8 +340,8 @@
             "always_live": 0,
             "locale": "en",
             "category_name": "Baseball",
-            "iframe": "https://embedindia.st/embed/mlb/2026-06-23/nyy-det?gid=928058746",
-            "viewers": "0",
+            "iframe": "https://embedindia.st/embed/mlb/2026-06-23/nyy-det",
+            "viewers": "300",
             "substreams": []
           },
           {
@@ -382,8 +361,8 @@
             "always_live": 0,
             "locale": "en",
             "category_name": "Baseball",
-            "iframe": "https://embedindia.st/embed/mlb/2026-06-23/sea-pit?gid=928058746",
-            "viewers": "0",
+            "iframe": "https://embedindia.st/embed/mlb/2026-06-23/sea-pit",
+            "viewers": "167",
             "substreams": []
           },
           {
@@ -403,8 +382,8 @@
             "always_live": 0,
             "locale": "en",
             "category_name": "Baseball",
-            "iframe": "https://embedindia.st/embed/mlb/2026-06-23/tex-mia?gid=928058746",
-            "viewers": "0",
+            "iframe": "https://embedindia.st/embed/mlb/2026-06-23/tex-mia",
+            "viewers": "69",
             "substreams": []
           },
           {
@@ -424,8 +403,8 @@
             "always_live": 0,
             "locale": "en",
             "category_name": "Baseball",
-            "iframe": "https://embedindia.st/embed/mlb/2026-06-23/phi-wsh?gid=928058746",
-            "viewers": "0",
+            "iframe": "https://embedindia.st/embed/mlb/2026-06-23/phi-wsh",
+            "viewers": "186",
             "substreams": []
           },
           {
@@ -445,8 +424,8 @@
             "always_live": 0,
             "locale": "en",
             "category_name": "Baseball",
-            "iframe": "https://embedindia.st/embed/mlb/2026-06-23/chc-nym?gid=928058746",
-            "viewers": "0",
+            "iframe": "https://embedindia.st/embed/mlb/2026-06-23/chc-nym",
+            "viewers": "145",
             "substreams": []
           },
           {
@@ -466,8 +445,8 @@
             "always_live": 0,
             "locale": "en",
             "category_name": "Baseball",
-            "iframe": "https://embedindia.st/embed/mlb/2026-06-23/mil-cin?gid=928058746",
-            "viewers": "0",
+            "iframe": "https://embedindia.st/embed/mlb/2026-06-23/mil-cin",
+            "viewers": "99",
             "substreams": []
           },
           {
@@ -487,8 +466,8 @@
             "always_live": 0,
             "locale": "en",
             "category_name": "Baseball",
-            "iframe": "https://embedindia.st/embed/mlb/2026-06-23/cle-chw?gid=928058746",
-            "viewers": "0",
+            "iframe": "https://embedindia.st/embed/mlb/2026-06-23/cle-chw",
+            "viewers": "89",
             "substreams": []
           },
           {
@@ -508,8 +487,8 @@
             "always_live": 0,
             "locale": "en",
             "category_name": "Baseball",
-            "iframe": "https://embedindia.st/embed/mlb/2026-06-23/lad-min?gid=928058746",
-            "viewers": "0",
+            "iframe": "https://embedindia.st/embed/mlb/2026-06-23/lad-min",
+            "viewers": "232",
             "substreams": []
           },
           {
@@ -529,8 +508,8 @@
             "always_live": 0,
             "locale": "en",
             "category_name": "Baseball",
-            "iframe": "https://embedindia.st/embed/mlb/2026-06-23/ari-stl?gid=928058746",
-            "viewers": "0",
+            "iframe": "https://embedindia.st/embed/mlb/2026-06-23/ari-stl",
+            "viewers": "67",
             "substreams": []
           },
           {
@@ -550,8 +529,8 @@
             "always_live": 0,
             "locale": "en",
             "category_name": "Baseball",
-            "iframe": "https://embedindia.st/embed/mlb/2026-06-23/bos-col?gid=928058746",
-            "viewers": "0",
+            "iframe": "https://embedindia.st/embed/mlb/2026-06-23/bos-col",
+            "viewers": "7",
             "substreams": []
           },
           {
@@ -571,7 +550,7 @@
             "always_live": 0,
             "locale": "en",
             "category_name": "Baseball",
-            "iframe": "https://embedindia.st/embed/mlb/2026-06-23/bal-laa?gid=928058746",
+            "iframe": "https://embedindia.st/embed/mlb/2026-06-23/bal-laa",
             "viewers": "0",
             "substreams": []
           },
@@ -592,8 +571,8 @@
             "always_live": 0,
             "locale": "en",
             "category_name": "Baseball",
-            "iframe": "https://embedindia.st/embed/mlb/2026-06-23/atl-sd?gid=928058746",
-            "viewers": "0",
+            "iframe": "https://embedindia.st/embed/mlb/2026-06-23/atl-sd",
+            "viewers": "1",
             "substreams": []
           },
           {
@@ -613,8 +592,8 @@
             "always_live": 0,
             "locale": "en",
             "category_name": "Baseball",
-            "iframe": "https://embedindia.st/embed/mlb/2026-06-23/ath-sf?gid=928058746",
-            "viewers": "0",
+            "iframe": "https://embedindia.st/embed/mlb/2026-06-23/ath-sf",
+            "viewers": "1",
             "substreams": []
           }
         ]
@@ -624,6 +603,27 @@
         "id": 37,
         "always_live": false,
         "streams": [
+          {
+            "id": 23720,
+            "name": "2026 NBA Draft | Round 1",
+            "tag": "ESPN",
+            "source_tag": "ESPN",
+            "poster": "https://old.ppv.to/assets/thumb/d8c6788285e93807efdeb5b38cb4a355-thumbnail.jpg",
+            "blurhash": "LHD+cU3Fl:Bq=cbY$3n$8_ay~U$f",
+            "colors": [
+              "#00438c",
+              "#a20d25"
+            ],
+            "uri_name": "2026-nba-draft--round-1",
+            "starts_at": 1782259200,
+            "ends_at": 1782273600,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Basketball",
+            "iframe": "https://embedindia.st/embed/2026-nba-draft--round-1",
+            "viewers": "6860",
+            "substreams": []
+          },
           {
             "id": 23685,
             "name": "New York Liberty vs. Las Vegas Aces",
@@ -641,7 +641,28 @@
             "always_live": 0,
             "locale": "en",
             "category_name": "Basketball",
-            "iframe": "https://embedindia.st/embed/wnba/2026-06-23/ny-lv?gid=928058746",
+            "iframe": "https://embedindia.st/embed/wnba/2026-06-23/ny-lv",
+            "viewers": "3",
+            "substreams": []
+          },
+          {
+            "id": 23721,
+            "name": "2026 NBA Draft | Round 2",
+            "tag": "ESPN",
+            "source_tag": "ESPN",
+            "poster": "https://old.ppv.to/assets/thumb/d8c6788285e93807efdeb5b38cb4a355-thumbnail.jpg",
+            "blurhash": "LHD+cU3Fl:Bq=cbY$3n$8_ay~U$f",
+            "colors": [
+              "#00438c",
+              "#a20d25"
+            ],
+            "uri_name": "2026-nba-draft--round-2",
+            "starts_at": 1782345600,
+            "ends_at": 1782360000,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Basketball",
+            "iframe": "https://embedindia.st/embed/2026-nba-draft--round-2",
             "viewers": "0",
             "substreams": []
           }
@@ -669,8 +690,8 @@
             "always_live": 0,
             "locale": "en",
             "category_name": "Combat Sports",
-            "iframe": "https://embedindia.st/embed/one-friday-fights-160--the-inner-circle-20?gid=928058746",
-            "viewers": "1",
+            "iframe": "https://embedindia.st/embed/one-friday-fights-160--the-inner-circle-20",
+            "viewers": "0",
             "substreams": []
           }
         ]
@@ -680,275 +701,6 @@
         "id": 34,
         "always_live": false,
         "streams": [
-          {
-            "id": 23542,
-            "name": "Portugal vs. Uzbekistan",
-            "tag": "FIFA World Cup",
-            "source_tag": "TSN",
-            "poster": "https://old.ppv.to/assets/thumb/fd2bdcc0ef335982c658f336171246a4-thumbnail.jpg",
-            "blurhash": "LCI|d-4TO@PAogf5a|fS00yss:$i",
-            "colors": [
-              "#da291c",
-              "#ffffff"
-            ],
-            "uri_name": "wc/2026-06-23/por-uzb",
-            "starts_at": 1782234000,
-            "ends_at": 1782243000,
-            "always_live": 0,
-            "locale": "en-CA",
-            "category_name": "Football",
-            "iframe": "https://embedindia.st/embed/wc/2026-06-23/por-uzb?gid=928058746",
-            "viewers": "38083",
-            "substreams": [
-              {
-                "id": 23543,
-                "name": "Portugal vs. Uzbekistan",
-                "tag": "FIFA World Cup",
-                "uri_name": "wc/2026-06-23/por-uzb/fox",
-                "source_tag": "FOX",
-                "locale": "en",
-                "iframe": "https://embedindia.st/embed/wc/2026-06-23/por-uzb/fox?gid=928058746"
-              },
-              {
-                "id": 23544,
-                "name": "Portugal vs. Uzbekistan",
-                "tag": "FIFA World Cup",
-                "uri_name": "wc/2026-06-23/por-uzb/fox-4k",
-                "source_tag": "FOX 4K (HEVC)",
-                "locale": "en",
-                "iframe": "https://embedindia.st/embed/wc/2026-06-23/por-uzb/fox-4k?gid=928058746"
-              },
-              {
-                "id": 23545,
-                "name": "Portugal vs. Uzbekistan",
-                "tag": "FIFA World Cup",
-                "uri_name": "wc/2026-06-23/por-uzb/uk",
-                "source_tag": "ITV1",
-                "locale": "en-GB",
-                "iframe": "https://embedindia.st/embed/wc/2026-06-23/por-uzb/uk?gid=928058746"
-              },
-              {
-                "id": 23546,
-                "name": "Portugal vs. Uzbekistan",
-                "tag": "FIFA World Cup",
-                "uri_name": "wc/2026-06-23/por-uzb/bein",
-                "source_tag": "beIN Sports",
-                "locale": "ar",
-                "iframe": "https://embedindia.st/embed/wc/2026-06-23/por-uzb/bein?gid=928058746"
-              },
-              {
-                "id": 23547,
-                "name": "Portugal vs. Uzbekistan",
-                "tag": "FIFA World Cup",
-                "uri_name": "wc/2026-06-23/por-uzb/dazn-spain",
-                "source_tag": "DAZN Spain",
-                "locale": "es",
-                "iframe": "https://embedindia.st/embed/wc/2026-06-23/por-uzb/dazn-spain?gid=928058746"
-              },
-              {
-                "id": 23548,
-                "name": "Portugal vs. Uzbekistan",
-                "tag": "FIFA World Cup",
-                "uri_name": "wc/2026-06-23/por-uzb/telemundo",
-                "source_tag": "Telemundo",
-                "locale": "es",
-                "iframe": "https://embedindia.st/embed/wc/2026-06-23/por-uzb/telemundo?gid=928058746"
-              },
-              {
-                "id": 23549,
-                "name": "Portugal vs. Uzbekistan",
-                "tag": "FIFA World Cup",
-                "uri_name": "wc/2026-06-23/por-uzb/peacock-4k",
-                "source_tag": "Peacock 4K (HEVC)",
-                "locale": "es",
-                "iframe": "https://embedindia.st/embed/wc/2026-06-23/por-uzb/peacock-4k?gid=928058746"
-              },
-              {
-                "id": 23704,
-                "name": "Portugal vs. Uzbekistan",
-                "tag": "FIFA World Cup",
-                "uri_name": "wc/2026-06-23/por-uzb/fussballtv-1-uhd-hevc",
-                "source_tag": "Fussball.TV 1 UHD (HEVC)",
-                "locale": "de",
-                "iframe": "https://embedindia.st/embed/wc/2026-06-23/por-uzb/fussballtv-1-uhd-hevc?gid=928058746"
-              },
-              {
-                "id": 23707,
-                "name": "Portugal vs. Uzbekistan",
-                "tag": "FIFA World Cup",
-                "uri_name": "wc/2026-06-23/por-uzb/fussballtv-1-uhd-no-commentary-hevc",
-                "source_tag": "Fussball.TV 1 UHD (No Commentary) (HEVC)",
-                "locale": "en",
-                "iframe": "https://embedindia.st/embed/wc/2026-06-23/por-uzb/fussballtv-1-uhd-no-commentary-hevc?gid=928058746"
-              },
-              {
-                "id": 23711,
-                "name": "Portugal vs. Uzbekistan",
-                "tag": "FIFA World Cup",
-                "uri_name": "wc/2026-06-23/por-uzb/das-erste",
-                "source_tag": "Das Erste",
-                "locale": "de",
-                "iframe": "https://embedindia.st/embed/wc/2026-06-23/por-uzb/das-erste?gid=928058746"
-              },
-              {
-                "id": 23712,
-                "name": "Portugal vs. Uzbekistan",
-                "tag": "FIFA World Cup",
-                "uri_name": "wc/2026-06-23/por-uzb/servus-tv",
-                "source_tag": "Servus TV",
-                "locale": "de-AT",
-                "iframe": "https://embedindia.st/embed/wc/2026-06-23/por-uzb/servus-tv?gid=928058746"
-              },
-              {
-                "id": 23718,
-                "name": "Portugal vs. Uzbekistan",
-                "tag": "FIFA World Cup",
-                "uri_name": "wc/2026-06-23/por-uzb/nocomm",
-                "source_tag": "FIFA Direct (No Commentary)",
-                "locale": "en",
-                "iframe": "https://embedindia.st/embed/wc/2026-06-23/por-uzb/nocomm?gid=928058746"
-              }
-            ]
-          },
-          {
-            "id": 23550,
-            "name": "England vs. Ghana",
-            "tag": "FIFA World Cup",
-            "source_tag": "TSN",
-            "poster": "https://old.ppv.to/assets/thumb/cdcd53f827629723ce2b16a3d55dcbcd-thumbnail.jpg",
-            "blurhash": "LgKn0Et:j^WAoLbHfQja0LRha#oe",
-            "colors": [
-              "#ffffff",
-              "#fbd632"
-            ],
-            "uri_name": "wc/2026-06-23/eng-gha",
-            "starts_at": 1782244800,
-            "ends_at": 1782253800,
-            "always_live": 0,
-            "locale": "en-CA",
-            "category_name": "Football",
-            "iframe": "https://embedindia.st/embed/wc/2026-06-23/eng-gha?gid=928058746",
-            "viewers": "26",
-            "substreams": [
-              {
-                "id": 23552,
-                "name": "England vs. Ghana",
-                "tag": "FIFA World Cup",
-                "uri_name": "wc/2026-06-23/eng-gha/fox",
-                "source_tag": "FOX",
-                "locale": "en",
-                "iframe": "https://embedindia.st/embed/wc/2026-06-23/eng-gha/fox?gid=928058746"
-              },
-              {
-                "id": 23553,
-                "name": "England vs. Ghana",
-                "tag": "FIFA World Cup",
-                "uri_name": "wc/2026-06-23/eng-gha/fox-4k",
-                "source_tag": "FOX 4K (HEVC)",
-                "locale": "en",
-                "iframe": "https://embedindia.st/embed/wc/2026-06-23/eng-gha/fox-4k?gid=928058746"
-              },
-              {
-                "id": 23555,
-                "name": "England vs. Ghana",
-                "tag": "FIFA World Cup",
-                "uri_name": "wc/2026-06-23/eng-gha/uk",
-                "source_tag": "BBC One",
-                "locale": "en-GB",
-                "iframe": "https://embedindia.st/embed/wc/2026-06-23/eng-gha/uk?gid=928058746"
-              },
-              {
-                "id": 23556,
-                "name": "England vs. Ghana",
-                "tag": "FIFA World Cup",
-                "uri_name": "wc/2026-06-23/eng-gha/bein",
-                "source_tag": "beIN Sports",
-                "locale": "ar",
-                "iframe": "https://embedindia.st/embed/wc/2026-06-23/eng-gha/bein?gid=928058746"
-              },
-              {
-                "id": 23557,
-                "name": "England vs. Ghana",
-                "tag": "FIFA World Cup",
-                "uri_name": "wc/2026-06-23/eng-gha/dazn-spain",
-                "source_tag": "DAZN Spain",
-                "locale": "es",
-                "iframe": "https://embedindia.st/embed/wc/2026-06-23/eng-gha/dazn-spain?gid=928058746"
-              },
-              {
-                "id": 23559,
-                "name": "England vs. Ghana",
-                "tag": "FIFA World Cup",
-                "uri_name": "wc/2026-06-23/eng-gha/telemundo",
-                "source_tag": "Telemundo",
-                "locale": "es",
-                "iframe": "https://embedindia.st/embed/wc/2026-06-23/eng-gha/telemundo?gid=928058746"
-              },
-              {
-                "id": 23561,
-                "name": "England vs. Ghana",
-                "tag": "FIFA World Cup",
-                "uri_name": "wc/2026-06-23/eng-gha/peacock-4k",
-                "source_tag": "Peacock 4K (HEVC)",
-                "locale": "es",
-                "iframe": "https://embedindia.st/embed/wc/2026-06-23/eng-gha/peacock-4k?gid=928058746"
-              },
-              {
-                "id": 23701,
-                "name": "England vs. Ghana",
-                "tag": "FIFA World Cup",
-                "uri_name": "wc/2026-06-23/eng-gha/bbc-uhd-hevc",
-                "source_tag": "BBC UHD (HEVC)",
-                "locale": "en",
-                "iframe": "https://embedindia.st/embed/wc/2026-06-23/eng-gha/bbc-uhd-hevc?gid=928058746"
-              },
-              {
-                "id": 23703,
-                "name": "England vs. Ghana",
-                "tag": "FIFA World Cup",
-                "uri_name": "wc/2026-06-23/eng-gha/fussballtv-1-uhd-hevc",
-                "source_tag": "Fussball.TV 1 UHD (HEVC)",
-                "locale": "de",
-                "iframe": "https://embedindia.st/embed/wc/2026-06-23/eng-gha/fussballtv-1-uhd-hevc?gid=928058746"
-              },
-              {
-                "id": 23708,
-                "name": "England vs. Ghana",
-                "tag": "FIFA World Cup",
-                "uri_name": "wc/2026-06-23/eng-gha/fussballtv-1-uhd-no-commentary-hevc",
-                "source_tag": "Fussball.TV 1 UHD (No Commentary) (HEVC)",
-                "locale": "en",
-                "iframe": "https://embedindia.st/embed/wc/2026-06-23/eng-gha/fussballtv-1-uhd-no-commentary-hevc?gid=928058746"
-              },
-              {
-                "id": 23713,
-                "name": "England vs. Ghana",
-                "tag": "FIFA World Cup",
-                "uri_name": "wc/2026-06-23/eng-gha/das-erste",
-                "source_tag": "Das Erste",
-                "locale": "de",
-                "iframe": "https://embedindia.st/embed/wc/2026-06-23/eng-gha/das-erste?gid=928058746"
-              },
-              {
-                "id": 23714,
-                "name": "England vs. Ghana",
-                "tag": "FIFA World Cup",
-                "uri_name": "wc/2026-06-23/eng-gha/servus-tv",
-                "source_tag": "Servus TV",
-                "locale": "de-AT",
-                "iframe": "https://embedindia.st/embed/wc/2026-06-23/eng-gha/servus-tv?gid=928058746"
-              },
-              {
-                "id": 23719,
-                "name": "England vs. Ghana",
-                "tag": "FIFA World Cup",
-                "uri_name": "wc/2026-06-23/eng-gha/fifa-direct-no-commentary",
-                "source_tag": "FIFA Direct (No Commentary)",
-                "locale": "en",
-                "iframe": "https://embedindia.st/embed/wc/2026-06-23/eng-gha/fifa-direct-no-commentary?gid=928058746"
-              }
-            ]
-          },
           {
             "id": 23562,
             "name": "Panama vs. Croatia",
@@ -966,8 +718,8 @@
             "always_live": 0,
             "locale": "en-CA",
             "category_name": "Football",
-            "iframe": "https://embedindia.st/embed/wc/2026-06-23/pan-cro?gid=928058746",
-            "viewers": "1",
+            "iframe": "https://embedindia.st/embed/wc/2026-06-23/pan-cro",
+            "viewers": "8774",
             "substreams": [
               {
                 "id": 23563,
@@ -976,7 +728,7 @@
                 "uri_name": "wc/2026-06-23/pan-cro/fox",
                 "source_tag": "FOX",
                 "locale": "en",
-                "iframe": "https://embedindia.st/embed/wc/2026-06-23/pan-cro/fox?gid=928058746"
+                "iframe": "https://embedindia.st/embed/wc/2026-06-23/pan-cro/fox"
               },
               {
                 "id": 23564,
@@ -985,7 +737,7 @@
                 "uri_name": "wc/2026-06-23/pan-cro/fox-4k",
                 "source_tag": "FOX 4K (HEVC)",
                 "locale": "en",
-                "iframe": "https://embedindia.st/embed/wc/2026-06-23/pan-cro/fox-4k?gid=928058746"
+                "iframe": "https://embedindia.st/embed/wc/2026-06-23/pan-cro/fox-4k"
               },
               {
                 "id": 23565,
@@ -994,7 +746,7 @@
                 "uri_name": "wc/2026-06-23/pan-cro/uk",
                 "source_tag": "BBC One",
                 "locale": "en-GB",
-                "iframe": "https://embedindia.st/embed/wc/2026-06-23/pan-cro/uk?gid=928058746"
+                "iframe": "https://embedindia.st/embed/wc/2026-06-23/pan-cro/uk"
               },
               {
                 "id": 23566,
@@ -1003,7 +755,7 @@
                 "uri_name": "wc/2026-06-23/pan-cro/bein",
                 "source_tag": "beIN Sports",
                 "locale": "ar",
-                "iframe": "https://embedindia.st/embed/wc/2026-06-23/pan-cro/bein?gid=928058746"
+                "iframe": "https://embedindia.st/embed/wc/2026-06-23/pan-cro/bein"
               },
               {
                 "id": 23567,
@@ -1012,7 +764,7 @@
                 "uri_name": "wc/2026-06-23/pan-cro/dazn-spain",
                 "source_tag": "DAZN Spain",
                 "locale": "es",
-                "iframe": "https://embedindia.st/embed/wc/2026-06-23/pan-cro/dazn-spain?gid=928058746"
+                "iframe": "https://embedindia.st/embed/wc/2026-06-23/pan-cro/dazn-spain"
               },
               {
                 "id": 23568,
@@ -1021,7 +773,7 @@
                 "uri_name": "wc/2026-06-23/pan-cro/telemundo",
                 "source_tag": "Telemundo",
                 "locale": "es",
-                "iframe": "https://embedindia.st/embed/wc/2026-06-23/pan-cro/telemundo?gid=928058746"
+                "iframe": "https://embedindia.st/embed/wc/2026-06-23/pan-cro/telemundo"
               },
               {
                 "id": 23569,
@@ -1030,7 +782,7 @@
                 "uri_name": "wc/2026-06-23/pan-cro/peacock-4k",
                 "source_tag": "Peacock 4K (HEVC)",
                 "locale": "es",
-                "iframe": "https://embedindia.st/embed/wc/2026-06-23/pan-cro/peacock-4k?gid=928058746"
+                "iframe": "https://embedindia.st/embed/wc/2026-06-23/pan-cro/peacock-4k"
               },
               {
                 "id": 23702,
@@ -1039,7 +791,7 @@
                 "uri_name": "wc/2026-06-23/pan-cro/bbc-uhd-hevc",
                 "source_tag": "BBC UHD (HEVC)",
                 "locale": "en",
-                "iframe": "https://embedindia.st/embed/wc/2026-06-23/pan-cro/bbc-uhd-hevc?gid=928058746"
+                "iframe": "https://embedindia.st/embed/wc/2026-06-23/pan-cro/bbc-uhd-hevc"
               },
               {
                 "id": 23705,
@@ -1048,7 +800,7 @@
                 "uri_name": "wc/2026-06-23/pan-cro/fussballtv-1-uhd-hevc",
                 "source_tag": "Fussball.TV 1 UHD (HEVC)",
                 "locale": "de",
-                "iframe": "https://embedindia.st/embed/wc/2026-06-23/pan-cro/fussballtv-1-uhd-hevc?gid=928058746"
+                "iframe": "https://embedindia.st/embed/wc/2026-06-23/pan-cro/fussballtv-1-uhd-hevc"
               },
               {
                 "id": 23709,
@@ -1057,7 +809,7 @@
                 "uri_name": "wc/2026-06-23/pan-cro/fussballtv-1-uhd-no-commentary-hevc",
                 "source_tag": "Fussball.TV 1 UHD (No Commentary) (HEVC)",
                 "locale": "en",
-                "iframe": "https://embedindia.st/embed/wc/2026-06-23/pan-cro/fussballtv-1-uhd-no-commentary-hevc?gid=928058746"
+                "iframe": "https://embedindia.st/embed/wc/2026-06-23/pan-cro/fussballtv-1-uhd-no-commentary-hevc"
               },
               {
                 "id": 23715,
@@ -1066,7 +818,7 @@
                 "uri_name": "wc/2026-06-23/pan-cro/servus-tv",
                 "source_tag": "Servus TV",
                 "locale": "de-AT",
-                "iframe": "https://embedindia.st/embed/wc/2026-06-23/pan-cro/servus-tv?gid=928058746"
+                "iframe": "https://embedindia.st/embed/wc/2026-06-23/pan-cro/servus-tv"
               }
             ]
           },
@@ -1087,8 +839,8 @@
             "always_live": 0,
             "locale": "en-CA",
             "category_name": "Football",
-            "iframe": "https://embedindia.st/embed/wc/2026-06-23/col-cod?gid=928058746",
-            "viewers": "2",
+            "iframe": "https://embedindia.st/embed/wc/2026-06-23/col-cod",
+            "viewers": "30",
             "substreams": [
               {
                 "id": 23571,
@@ -1097,7 +849,7 @@
                 "uri_name": "wc/2026-06-23/col-cod/fox",
                 "source_tag": "FS1",
                 "locale": "en",
-                "iframe": "https://embedindia.st/embed/wc/2026-06-23/col-cod/fox?gid=928058746"
+                "iframe": "https://embedindia.st/embed/wc/2026-06-23/col-cod/fox"
               },
               {
                 "id": 23573,
@@ -1106,7 +858,7 @@
                 "uri_name": "wc/2026-06-23/col-cod/fox-4k",
                 "source_tag": "FS1 4K (HEVC)",
                 "locale": "en",
-                "iframe": "https://embedindia.st/embed/wc/2026-06-23/col-cod/fox-4k?gid=928058746"
+                "iframe": "https://embedindia.st/embed/wc/2026-06-23/col-cod/fox-4k"
               },
               {
                 "id": 23574,
@@ -1115,7 +867,7 @@
                 "uri_name": "wc/2026-06-23/col-cod/uk",
                 "source_tag": "ITV1",
                 "locale": "en-GB",
-                "iframe": "https://embedindia.st/embed/wc/2026-06-23/col-cod/uk?gid=928058746"
+                "iframe": "https://embedindia.st/embed/wc/2026-06-23/col-cod/uk"
               },
               {
                 "id": 23575,
@@ -1124,7 +876,7 @@
                 "uri_name": "wc/2026-06-23/col-cod/bein",
                 "source_tag": "beIN Sports",
                 "locale": "ar",
-                "iframe": "https://embedindia.st/embed/wc/2026-06-23/col-cod/bein?gid=928058746"
+                "iframe": "https://embedindia.st/embed/wc/2026-06-23/col-cod/bein"
               },
               {
                 "id": 23576,
@@ -1133,7 +885,7 @@
                 "uri_name": "wc/2026-06-23/col-cod/dazn-spain",
                 "source_tag": "DAZN Spain",
                 "locale": "es",
-                "iframe": "https://embedindia.st/embed/wc/2026-06-23/col-cod/dazn-spain?gid=928058746"
+                "iframe": "https://embedindia.st/embed/wc/2026-06-23/col-cod/dazn-spain"
               },
               {
                 "id": 23578,
@@ -1142,7 +894,7 @@
                 "uri_name": "wc/2026-06-23/col-cod/telemundo",
                 "source_tag": "Telemundo",
                 "locale": "es",
-                "iframe": "https://embedindia.st/embed/wc/2026-06-23/col-cod/telemundo?gid=928058746"
+                "iframe": "https://embedindia.st/embed/wc/2026-06-23/col-cod/telemundo"
               },
               {
                 "id": 23579,
@@ -1151,7 +903,7 @@
                 "uri_name": "wc/2026-06-23/col-cod/peacock-4k",
                 "source_tag": "Peacock 4K (HEVC)",
                 "locale": "es",
-                "iframe": "https://embedindia.st/embed/wc/2026-06-23/col-cod/peacock-4k?gid=928058746"
+                "iframe": "https://embedindia.st/embed/wc/2026-06-23/col-cod/peacock-4k"
               },
               {
                 "id": 23706,
@@ -1160,7 +912,7 @@
                 "uri_name": "wc/2026-06-23/col-cod/fussballtv-1-uhd-hevc",
                 "source_tag": "Fussball.TV 1 UHD (HEVC)",
                 "locale": "de",
-                "iframe": "https://embedindia.st/embed/wc/2026-06-23/col-cod/fussballtv-1-uhd-hevc?gid=928058746"
+                "iframe": "https://embedindia.st/embed/wc/2026-06-23/col-cod/fussballtv-1-uhd-hevc"
               },
               {
                 "id": 23710,
@@ -1169,7 +921,7 @@
                 "uri_name": "wc/2026-06-23/col-cod/fussballtv-1-uhd-no-commentary-hevc",
                 "source_tag": "Fussball.TV 1 UHD (No Commentary) (HEVC)",
                 "locale": "en",
-                "iframe": "https://embedindia.st/embed/wc/2026-06-23/col-cod/fussballtv-1-uhd-no-commentary-hevc?gid=928058746"
+                "iframe": "https://embedindia.st/embed/wc/2026-06-23/col-cod/fussballtv-1-uhd-no-commentary-hevc"
               },
               {
                 "id": 23716,
@@ -1178,7 +930,7 @@
                 "uri_name": "wc/2026-06-23/col-cod/das-erste",
                 "source_tag": "Das Erste",
                 "locale": "de",
-                "iframe": "https://embedindia.st/embed/wc/2026-06-23/col-cod/das-erste?gid=928058746"
+                "iframe": "https://embedindia.st/embed/wc/2026-06-23/col-cod/das-erste"
               },
               {
                 "id": 23717,
@@ -1187,7 +939,7 @@
                 "uri_name": "wc/2026-06-23/col-cod/servus-tv",
                 "source_tag": "Servus TV",
                 "locale": "de-AT",
-                "iframe": "https://embedindia.st/embed/wc/2026-06-23/col-cod/servus-tv?gid=928058746"
+                "iframe": "https://embedindia.st/embed/wc/2026-06-23/col-cod/servus-tv"
               }
             ]
           },
@@ -1208,8 +960,8 @@
             "always_live": 0,
             "locale": "en-CA",
             "category_name": "Football",
-            "iframe": "https://embedindia.st/embed/wc/2026-06-24/bih-qat?gid=928058746",
-            "viewers": "1",
+            "iframe": "https://embedindia.st/embed/wc/2026-06-24/bih-qat",
+            "viewers": "0",
             "substreams": [
               {
                 "id": 23638,
@@ -1218,7 +970,7 @@
                 "uri_name": "wc/2026-06-24/bih-qat/fox",
                 "source_tag": "FS1",
                 "locale": "en",
-                "iframe": "https://embedindia.st/embed/wc/2026-06-24/bih-qat/fox?gid=928058746"
+                "iframe": "https://embedindia.st/embed/wc/2026-06-24/bih-qat/fox"
               },
               {
                 "id": 23639,
@@ -1227,7 +979,7 @@
                 "uri_name": "wc/2026-06-24/bih-qat/fox-4k",
                 "source_tag": "FS1 4K (HEVC)",
                 "locale": "en",
-                "iframe": "https://embedindia.st/embed/wc/2026-06-24/bih-qat/fox-4k?gid=928058746"
+                "iframe": "https://embedindia.st/embed/wc/2026-06-24/bih-qat/fox-4k"
               },
               {
                 "id": 23640,
@@ -1236,7 +988,7 @@
                 "uri_name": "wc/2026-06-24/bih-qat/uk",
                 "source_tag": "BBC/ITV",
                 "locale": "en-GB",
-                "iframe": "https://embedindia.st/embed/wc/2026-06-24/bih-qat/uk?gid=928058746"
+                "iframe": "https://embedindia.st/embed/wc/2026-06-24/bih-qat/uk"
               },
               {
                 "id": 23641,
@@ -1245,7 +997,7 @@
                 "uri_name": "wc/2026-06-24/bih-qat/bein",
                 "source_tag": "beIN Sports",
                 "locale": "ar",
-                "iframe": "https://embedindia.st/embed/wc/2026-06-24/bih-qat/bein?gid=928058746"
+                "iframe": "https://embedindia.st/embed/wc/2026-06-24/bih-qat/bein"
               },
               {
                 "id": 23642,
@@ -1254,7 +1006,7 @@
                 "uri_name": "wc/2026-06-24/bih-qat/dazn-spain",
                 "source_tag": "DAZN Spain",
                 "locale": "es",
-                "iframe": "https://embedindia.st/embed/wc/2026-06-24/bih-qat/dazn-spain?gid=928058746"
+                "iframe": "https://embedindia.st/embed/wc/2026-06-24/bih-qat/dazn-spain"
               },
               {
                 "id": 23643,
@@ -1263,7 +1015,7 @@
                 "uri_name": "wc/2026-06-24/bih-qat/telemundo",
                 "source_tag": "Telemundo",
                 "locale": "es",
-                "iframe": "https://embedindia.st/embed/wc/2026-06-24/bih-qat/telemundo?gid=928058746"
+                "iframe": "https://embedindia.st/embed/wc/2026-06-24/bih-qat/telemundo"
               },
               {
                 "id": 23644,
@@ -1272,7 +1024,7 @@
                 "uri_name": "wc/2026-06-24/bih-qat/peacock-4k",
                 "source_tag": "Peacock 4K (HEVC)",
                 "locale": "es",
-                "iframe": "https://embedindia.st/embed/wc/2026-06-24/bih-qat/peacock-4k?gid=928058746"
+                "iframe": "https://embedindia.st/embed/wc/2026-06-24/bih-qat/peacock-4k"
               }
             ]
           },
@@ -1293,8 +1045,8 @@
             "always_live": 0,
             "locale": "en-CA",
             "category_name": "Football",
-            "iframe": "https://embedindia.st/embed/wc/2026-06-24/sui-can?gid=928058746",
-            "viewers": "0",
+            "iframe": "https://embedindia.st/embed/wc/2026-06-24/sui-can",
+            "viewers": "1",
             "substreams": [
               {
                 "id": 23646,
@@ -1303,7 +1055,7 @@
                 "uri_name": "wc/2026-06-24/sui-can/fox",
                 "source_tag": "FOX",
                 "locale": "en",
-                "iframe": "https://embedindia.st/embed/wc/2026-06-24/sui-can/fox?gid=928058746"
+                "iframe": "https://embedindia.st/embed/wc/2026-06-24/sui-can/fox"
               },
               {
                 "id": 23647,
@@ -1312,7 +1064,7 @@
                 "uri_name": "wc/2026-06-24/sui-can/fox-4k",
                 "source_tag": "FOX 4K (HEVC)",
                 "locale": "en",
-                "iframe": "https://embedindia.st/embed/wc/2026-06-24/sui-can/fox-4k?gid=928058746"
+                "iframe": "https://embedindia.st/embed/wc/2026-06-24/sui-can/fox-4k"
               },
               {
                 "id": 23648,
@@ -1321,7 +1073,7 @@
                 "uri_name": "wc/2026-06-24/sui-can/uk",
                 "source_tag": "BBC/ITV",
                 "locale": "en-GB",
-                "iframe": "https://embedindia.st/embed/wc/2026-06-24/sui-can/uk?gid=928058746"
+                "iframe": "https://embedindia.st/embed/wc/2026-06-24/sui-can/uk"
               },
               {
                 "id": 23649,
@@ -1330,7 +1082,7 @@
                 "uri_name": "wc/2026-06-24/sui-can/bein",
                 "source_tag": "beIN Sports",
                 "locale": "ar",
-                "iframe": "https://embedindia.st/embed/wc/2026-06-24/sui-can/bein?gid=928058746"
+                "iframe": "https://embedindia.st/embed/wc/2026-06-24/sui-can/bein"
               },
               {
                 "id": 23650,
@@ -1339,7 +1091,7 @@
                 "uri_name": "wc/2026-06-24/sui-can/dazn-spain",
                 "source_tag": "DAZN Spain",
                 "locale": "es",
-                "iframe": "https://embedindia.st/embed/wc/2026-06-24/sui-can/dazn-spain?gid=928058746"
+                "iframe": "https://embedindia.st/embed/wc/2026-06-24/sui-can/dazn-spain"
               },
               {
                 "id": 23651,
@@ -1348,7 +1100,7 @@
                 "uri_name": "wc/2026-06-24/sui-can/telemundo",
                 "source_tag": "Telemundo",
                 "locale": "es",
-                "iframe": "https://embedindia.st/embed/wc/2026-06-24/sui-can/telemundo?gid=928058746"
+                "iframe": "https://embedindia.st/embed/wc/2026-06-24/sui-can/telemundo"
               },
               {
                 "id": 23652,
@@ -1357,7 +1109,7 @@
                 "uri_name": "wc/2026-06-24/sui-can/peacock-4k",
                 "source_tag": "Peacock 4K (HEVC)",
                 "locale": "es",
-                "iframe": "https://embedindia.st/embed/wc/2026-06-24/sui-can/peacock-4k?gid=928058746"
+                "iframe": "https://embedindia.st/embed/wc/2026-06-24/sui-can/peacock-4k"
               }
             ]
           },
@@ -1378,7 +1130,7 @@
             "always_live": 0,
             "locale": "en-CA",
             "category_name": "Football",
-            "iframe": "https://embedindia.st/embed/wc/2026-06-24/mar-hai?gid=928058746",
+            "iframe": "https://embedindia.st/embed/wc/2026-06-24/mar-hai",
             "viewers": "0",
             "substreams": [
               {
@@ -1388,7 +1140,7 @@
                 "uri_name": "wc/2026-06-24/mar-hai/fox",
                 "source_tag": "FS1",
                 "locale": "en",
-                "iframe": "https://embedindia.st/embed/wc/2026-06-24/mar-hai/fox?gid=928058746"
+                "iframe": "https://embedindia.st/embed/wc/2026-06-24/mar-hai/fox"
               },
               {
                 "id": 23655,
@@ -1397,7 +1149,7 @@
                 "uri_name": "wc/2026-06-24/mar-hai/fox-4k",
                 "source_tag": "FS1 4K (HEVC)",
                 "locale": "en",
-                "iframe": "https://embedindia.st/embed/wc/2026-06-24/mar-hai/fox-4k?gid=928058746"
+                "iframe": "https://embedindia.st/embed/wc/2026-06-24/mar-hai/fox-4k"
               },
               {
                 "id": 23656,
@@ -1406,7 +1158,7 @@
                 "uri_name": "wc/2026-06-24/mar-hai/uk",
                 "source_tag": "BBC/ITV",
                 "locale": "en-GB",
-                "iframe": "https://embedindia.st/embed/wc/2026-06-24/mar-hai/uk?gid=928058746"
+                "iframe": "https://embedindia.st/embed/wc/2026-06-24/mar-hai/uk"
               },
               {
                 "id": 23657,
@@ -1415,7 +1167,7 @@
                 "uri_name": "wc/2026-06-24/mar-hai/bein",
                 "source_tag": "beIN Sports",
                 "locale": "ar",
-                "iframe": "https://embedindia.st/embed/wc/2026-06-24/mar-hai/bein?gid=928058746"
+                "iframe": "https://embedindia.st/embed/wc/2026-06-24/mar-hai/bein"
               },
               {
                 "id": 23658,
@@ -1424,7 +1176,7 @@
                 "uri_name": "wc/2026-06-24/mar-hai/dazn-spain",
                 "source_tag": "DAZN Spain",
                 "locale": "es",
-                "iframe": "https://embedindia.st/embed/wc/2026-06-24/mar-hai/dazn-spain?gid=928058746"
+                "iframe": "https://embedindia.st/embed/wc/2026-06-24/mar-hai/dazn-spain"
               },
               {
                 "id": 23659,
@@ -1433,7 +1185,7 @@
                 "uri_name": "wc/2026-06-24/mar-hai/telemundo",
                 "source_tag": "Telemundo",
                 "locale": "es",
-                "iframe": "https://embedindia.st/embed/wc/2026-06-24/mar-hai/telemundo?gid=928058746"
+                "iframe": "https://embedindia.st/embed/wc/2026-06-24/mar-hai/telemundo"
               },
               {
                 "id": 23660,
@@ -1442,7 +1194,7 @@
                 "uri_name": "wc/2026-06-24/mar-hai/peacock-4k",
                 "source_tag": "Peacock 4K (HEVC)",
                 "locale": "es",
-                "iframe": "https://embedindia.st/embed/wc/2026-06-24/mar-hai/peacock-4k?gid=928058746"
+                "iframe": "https://embedindia.st/embed/wc/2026-06-24/mar-hai/peacock-4k"
               }
             ]
           },
@@ -1463,8 +1215,8 @@
             "always_live": 0,
             "locale": "en-CA",
             "category_name": "Football",
-            "iframe": "https://embedindia.st/embed/wc/2026-06-24/sco-bra?gid=928058746",
-            "viewers": "0",
+            "iframe": "https://embedindia.st/embed/wc/2026-06-24/sco-bra",
+            "viewers": "2",
             "substreams": [
               {
                 "id": 23662,
@@ -1473,7 +1225,7 @@
                 "uri_name": "wc/2026-06-24/sco-bra/fox",
                 "source_tag": "FOX",
                 "locale": "en",
-                "iframe": "https://embedindia.st/embed/wc/2026-06-24/sco-bra/fox?gid=928058746"
+                "iframe": "https://embedindia.st/embed/wc/2026-06-24/sco-bra/fox"
               },
               {
                 "id": 23663,
@@ -1482,7 +1234,7 @@
                 "uri_name": "wc/2026-06-24/sco-bra/fox-4k",
                 "source_tag": "FOX 4K (HEVC)",
                 "locale": "en",
-                "iframe": "https://embedindia.st/embed/wc/2026-06-24/sco-bra/fox-4k?gid=928058746"
+                "iframe": "https://embedindia.st/embed/wc/2026-06-24/sco-bra/fox-4k"
               },
               {
                 "id": 23664,
@@ -1491,7 +1243,7 @@
                 "uri_name": "wc/2026-06-24/sco-bra/uk",
                 "source_tag": "BBC/ITV",
                 "locale": "en-GB",
-                "iframe": "https://embedindia.st/embed/wc/2026-06-24/sco-bra/uk?gid=928058746"
+                "iframe": "https://embedindia.st/embed/wc/2026-06-24/sco-bra/uk"
               },
               {
                 "id": 23665,
@@ -1500,7 +1252,7 @@
                 "uri_name": "wc/2026-06-24/sco-bra/bein",
                 "source_tag": "beIN Sports",
                 "locale": "ar",
-                "iframe": "https://embedindia.st/embed/wc/2026-06-24/sco-bra/bein?gid=928058746"
+                "iframe": "https://embedindia.st/embed/wc/2026-06-24/sco-bra/bein"
               },
               {
                 "id": 23666,
@@ -1509,7 +1261,7 @@
                 "uri_name": "wc/2026-06-24/sco-bra/dazn-spain",
                 "source_tag": "DAZN Spain",
                 "locale": "es",
-                "iframe": "https://embedindia.st/embed/wc/2026-06-24/sco-bra/dazn-spain?gid=928058746"
+                "iframe": "https://embedindia.st/embed/wc/2026-06-24/sco-bra/dazn-spain"
               },
               {
                 "id": 23667,
@@ -1518,7 +1270,7 @@
                 "uri_name": "wc/2026-06-24/sco-bra/telemundo",
                 "source_tag": "Telemundo",
                 "locale": "es",
-                "iframe": "https://embedindia.st/embed/wc/2026-06-24/sco-bra/telemundo?gid=928058746"
+                "iframe": "https://embedindia.st/embed/wc/2026-06-24/sco-bra/telemundo"
               },
               {
                 "id": 23668,
@@ -1527,7 +1279,7 @@
                 "uri_name": "wc/2026-06-24/sco-bra/peacock-4k",
                 "source_tag": "Peacock 4K (HEVC)",
                 "locale": "es",
-                "iframe": "https://embedindia.st/embed/wc/2026-06-24/sco-bra/peacock-4k?gid=928058746"
+                "iframe": "https://embedindia.st/embed/wc/2026-06-24/sco-bra/peacock-4k"
               }
             ]
           },
@@ -1548,7 +1300,7 @@
             "always_live": 0,
             "locale": "en-CA",
             "category_name": "Football",
-            "iframe": "https://embedindia.st/embed/wc/2026-06-24/cze-mex?gid=928058746",
+            "iframe": "https://embedindia.st/embed/wc/2026-06-24/cze-mex",
             "viewers": "0",
             "substreams": [
               {
@@ -1558,7 +1310,7 @@
                 "uri_name": "wc/2026-06-24/cze-mex/fox",
                 "source_tag": "FOX",
                 "locale": "en",
-                "iframe": "https://embedindia.st/embed/wc/2026-06-24/cze-mex/fox?gid=928058746"
+                "iframe": "https://embedindia.st/embed/wc/2026-06-24/cze-mex/fox"
               },
               {
                 "id": 23671,
@@ -1567,7 +1319,7 @@
                 "uri_name": "wc/2026-06-24/cze-mex/fox-4k",
                 "source_tag": "FOX 4K (HEVC)",
                 "locale": "en",
-                "iframe": "https://embedindia.st/embed/wc/2026-06-24/cze-mex/fox-4k?gid=928058746"
+                "iframe": "https://embedindia.st/embed/wc/2026-06-24/cze-mex/fox-4k"
               },
               {
                 "id": 23672,
@@ -1576,7 +1328,7 @@
                 "uri_name": "wc/2026-06-24/cze-mex/uk",
                 "source_tag": "BBC/ITV",
                 "locale": "en-GB",
-                "iframe": "https://embedindia.st/embed/wc/2026-06-24/cze-mex/uk?gid=928058746"
+                "iframe": "https://embedindia.st/embed/wc/2026-06-24/cze-mex/uk"
               },
               {
                 "id": 23673,
@@ -1585,7 +1337,7 @@
                 "uri_name": "wc/2026-06-24/cze-mex/bein",
                 "source_tag": "beIN Sports",
                 "locale": "ar",
-                "iframe": "https://embedindia.st/embed/wc/2026-06-24/cze-mex/bein?gid=928058746"
+                "iframe": "https://embedindia.st/embed/wc/2026-06-24/cze-mex/bein"
               },
               {
                 "id": 23674,
@@ -1594,7 +1346,7 @@
                 "uri_name": "wc/2026-06-24/cze-mex/dazn-spain",
                 "source_tag": "DAZN Spain",
                 "locale": "es",
-                "iframe": "https://embedindia.st/embed/wc/2026-06-24/cze-mex/dazn-spain?gid=928058746"
+                "iframe": "https://embedindia.st/embed/wc/2026-06-24/cze-mex/dazn-spain"
               },
               {
                 "id": 23675,
@@ -1603,7 +1355,7 @@
                 "uri_name": "wc/2026-06-24/cze-mex/telemundo",
                 "source_tag": "Telemundo",
                 "locale": "es",
-                "iframe": "https://embedindia.st/embed/wc/2026-06-24/cze-mex/telemundo?gid=928058746"
+                "iframe": "https://embedindia.st/embed/wc/2026-06-24/cze-mex/telemundo"
               },
               {
                 "id": 23676,
@@ -1612,7 +1364,7 @@
                 "uri_name": "wc/2026-06-24/cze-mex/peacock-4k",
                 "source_tag": "Peacock 4K (HEVC)",
                 "locale": "es",
-                "iframe": "https://embedindia.st/embed/wc/2026-06-24/cze-mex/peacock-4k?gid=928058746"
+                "iframe": "https://embedindia.st/embed/wc/2026-06-24/cze-mex/peacock-4k"
               }
             ]
           },
@@ -1633,7 +1385,7 @@
             "always_live": 0,
             "locale": "en-CA",
             "category_name": "Football",
-            "iframe": "https://embedindia.st/embed/wc/2026-06-24/rsa-kor?gid=928058746",
+            "iframe": "https://embedindia.st/embed/wc/2026-06-24/rsa-kor",
             "viewers": "0",
             "substreams": [
               {
@@ -1643,7 +1395,7 @@
                 "uri_name": "wc/2026-06-24/rsa-kor/fox",
                 "source_tag": "FS1",
                 "locale": "en",
-                "iframe": "https://embedindia.st/embed/wc/2026-06-24/rsa-kor/fox?gid=928058746"
+                "iframe": "https://embedindia.st/embed/wc/2026-06-24/rsa-kor/fox"
               },
               {
                 "id": 23679,
@@ -1652,7 +1404,7 @@
                 "uri_name": "wc/2026-06-24/rsa-kor/fox-4k",
                 "source_tag": "FS1 4K (HEVC)",
                 "locale": "en",
-                "iframe": "https://embedindia.st/embed/wc/2026-06-24/rsa-kor/fox-4k?gid=928058746"
+                "iframe": "https://embedindia.st/embed/wc/2026-06-24/rsa-kor/fox-4k"
               },
               {
                 "id": 23680,
@@ -1661,7 +1413,7 @@
                 "uri_name": "wc/2026-06-24/rsa-kor/uk",
                 "source_tag": "BBC/ITV",
                 "locale": "en-GB",
-                "iframe": "https://embedindia.st/embed/wc/2026-06-24/rsa-kor/uk?gid=928058746"
+                "iframe": "https://embedindia.st/embed/wc/2026-06-24/rsa-kor/uk"
               },
               {
                 "id": 23681,
@@ -1670,7 +1422,7 @@
                 "uri_name": "wc/2026-06-24/rsa-kor/bein",
                 "source_tag": "beIN Sports",
                 "locale": "ar",
-                "iframe": "https://embedindia.st/embed/wc/2026-06-24/rsa-kor/bein?gid=928058746"
+                "iframe": "https://embedindia.st/embed/wc/2026-06-24/rsa-kor/bein"
               },
               {
                 "id": 23682,
@@ -1679,7 +1431,7 @@
                 "uri_name": "wc/2026-06-24/rsa-kor/dazn-spain",
                 "source_tag": "DAZN Spain",
                 "locale": "es",
-                "iframe": "https://embedindia.st/embed/wc/2026-06-24/rsa-kor/dazn-spain?gid=928058746"
+                "iframe": "https://embedindia.st/embed/wc/2026-06-24/rsa-kor/dazn-spain"
               },
               {
                 "id": 23683,
@@ -1688,7 +1440,7 @@
                 "uri_name": "wc/2026-06-24/rsa-kor/telemundo",
                 "source_tag": "Telemundo",
                 "locale": "es",
-                "iframe": "https://embedindia.st/embed/wc/2026-06-24/rsa-kor/telemundo?gid=928058746"
+                "iframe": "https://embedindia.st/embed/wc/2026-06-24/rsa-kor/telemundo"
               },
               {
                 "id": 23684,
@@ -1697,7 +1449,7 @@
                 "uri_name": "wc/2026-06-24/rsa-kor/peacock-4k",
                 "source_tag": "Peacock 4K (HEVC)",
                 "locale": "es",
-                "iframe": "https://embedindia.st/embed/wc/2026-06-24/rsa-kor/peacock-4k?gid=928058746"
+                "iframe": "https://embedindia.st/embed/wc/2026-06-24/rsa-kor/peacock-4k"
               }
             ]
           }
@@ -1725,7 +1477,7 @@
             "always_live": 0,
             "locale": "en",
             "category_name": "Rugby",
-            "iframe": "https://embedindia.st/embed/nrl/2026-06-25/par-sou?gid=928058746",
+            "iframe": "https://embedindia.st/embed/nrl/2026-06-25/par-sou",
             "viewers": "0",
             "substreams": []
           },
@@ -1746,7 +1498,7 @@
             "always_live": 0,
             "locale": "en",
             "category_name": "Rugby",
-            "iframe": "https://embedindia.st/embed/nrl/2026-06-26/gol-can?gid=928058746",
+            "iframe": "https://embedindia.st/embed/nrl/2026-06-26/gol-can",
             "viewers": "0",
             "substreams": []
           },
@@ -1767,7 +1519,7 @@
             "always_live": 0,
             "locale": "en",
             "category_name": "Rugby",
-            "iframe": "https://embedindia.st/embed/nrl/2026-06-26/bri-syd?gid=928058746",
+            "iframe": "https://embedindia.st/embed/nrl/2026-06-26/bri-syd",
             "viewers": "0",
             "substreams": []
           },
@@ -1788,7 +1540,7 @@
             "always_live": 0,
             "locale": "en",
             "category_name": "Rugby",
-            "iframe": "https://embedindia.st/embed/nrl/2026-06-27/dol-new?gid=928058746",
+            "iframe": "https://embedindia.st/embed/nrl/2026-06-27/dol-new",
             "viewers": "0",
             "substreams": []
           },
@@ -1809,7 +1561,7 @@
             "always_live": 0,
             "locale": "en",
             "category_name": "Rugby",
-            "iframe": "https://embedindia.st/embed/nrl/2026-06-27/nor-pen?gid=928058746",
+            "iframe": "https://embedindia.st/embed/nrl/2026-06-27/nor-pen",
             "viewers": "0",
             "substreams": []
           },
@@ -1830,7 +1582,7 @@
             "always_live": 0,
             "locale": "en",
             "category_name": "Rugby",
-            "iframe": "https://embedindia.st/embed/nrl/2026-06-27/man-mel?gid=928058746",
+            "iframe": "https://embedindia.st/embed/nrl/2026-06-27/man-mel",
             "viewers": "0",
             "substreams": []
           },
@@ -1851,7 +1603,7 @@
             "always_live": 0,
             "locale": "en",
             "category_name": "Rugby",
-            "iframe": "https://embedindia.st/embed/nrl/2026-06-28/can-st.?gid=928058746",
+            "iframe": "https://embedindia.st/embed/nrl/2026-06-28/can-st.",
             "viewers": "0",
             "substreams": []
           },
@@ -1872,7 +1624,7 @@
             "always_live": 0,
             "locale": "en",
             "category_name": "Rugby",
-            "iframe": "https://embedindia.st/embed/nrl/2026-06-28/new-wes?gid=928058746",
+            "iframe": "https://embedindia.st/embed/nrl/2026-06-28/new-wes",
             "viewers": "0",
             "substreams": []
           }
@@ -1900,8 +1652,8 @@
             "always_live": 0,
             "locale": "en",
             "category_name": "Wrestling",
-            "iframe": "https://embedindia.st/embed/wwe/nxt/2026-06-23?gid=928058746",
-            "viewers": "0",
+            "iframe": "https://embedindia.st/embed/wwe/nxt/2026-06-23",
+            "viewers": "14",
             "substreams": []
           },
           {
@@ -1921,7 +1673,7 @@
             "always_live": 0,
             "locale": "en",
             "category_name": "Wrestling",
-            "iframe": "https://embedindia.st/embed/aew/dynamite/2026-06-24?gid=928058746",
+            "iframe": "https://embedindia.st/embed/aew/dynamite/2026-06-24",
             "viewers": "0",
             "substreams": []
           },
@@ -1942,7 +1694,7 @@
             "always_live": 0,
             "locale": "en",
             "category_name": "Wrestling",
-            "iframe": "https://embedindia.st/embed/tna/impact/2026-06-25?gid=928058746",
+            "iframe": "https://embedindia.st/embed/tna/impact/2026-06-25",
             "viewers": "0",
             "substreams": []
           },
@@ -1963,8 +1715,8 @@
             "always_live": 0,
             "locale": "en",
             "category_name": "Wrestling",
-            "iframe": "https://embedindia.st/embed/wwe/smackdown/2026-06-26?gid=928058746",
-            "viewers": "4",
+            "iframe": "https://embedindia.st/embed/wwe/smackdown/2026-06-26",
+            "viewers": "2",
             "substreams": []
           },
           {
@@ -1984,7 +1736,7 @@
             "always_live": 0,
             "locale": "en",
             "category_name": "Wrestling",
-            "iframe": "https://embedindia.st/embed/aew/collision/2026-06-27?gid=928058746",
+            "iframe": "https://embedindia.st/embed/aew/collision/2026-06-27",
             "viewers": "0",
             "substreams": []
           }
@@ -2012,8 +1764,8 @@
             "always_live": 1,
             "locale": "en",
             "category_name": "24/7 Streams",
-            "iframe": "https://embedindia.st/embed/247-south-park?gid=928058746",
-            "viewers": "17",
+            "iframe": "https://embedindia.st/embed/247-south-park",
+            "viewers": "8",
             "substreams": []
           },
           {
@@ -2033,7 +1785,7 @@
             "always_live": 1,
             "locale": "en",
             "category_name": "24/7 Streams",
-            "iframe": "https://embedindia.st/embed/247-cows?gid=928058746",
+            "iframe": "https://embedindia.st/embed/247-cows",
             "viewers": "1",
             "substreams": []
           },
@@ -2054,8 +1806,8 @@
             "always_live": 1,
             "locale": "en",
             "category_name": "24/7 Streams",
-            "iframe": "https://embedindia.st/embed/247-family-guy?gid=928058746",
-            "viewers": "23",
+            "iframe": "https://embedindia.st/embed/247-family-guy",
+            "viewers": "22",
             "substreams": []
           },
           {
@@ -2075,8 +1827,8 @@
             "always_live": 1,
             "locale": "en",
             "category_name": "24/7 Streams",
-            "iframe": "https://embedindia.st/embed/247-the-simpsons?gid=928058746",
-            "viewers": "3",
+            "iframe": "https://embedindia.st/embed/247-the-simpsons",
+            "viewers": "2",
             "substreams": []
           },
           {
@@ -2096,8 +1848,8 @@
             "always_live": 1,
             "locale": "en",
             "category_name": "24/7 Streams",
-            "iframe": "https://embedindia.st/embed/247-spongebob-squarepants?gid=928058746",
-            "viewers": "6",
+            "iframe": "https://embedindia.st/embed/247-spongebob-squarepants",
+            "viewers": "5",
             "substreams": []
           },
           {
@@ -2117,8 +1869,8 @@
             "always_live": 1,
             "locale": "en",
             "category_name": "24/7 Streams",
-            "iframe": "https://embedindia.st/embed/rally-tv?gid=928058746",
-            "viewers": "1",
+            "iframe": "https://embedindia.st/embed/rally-tv",
+            "viewers": "8",
             "substreams": []
           }
         ]
